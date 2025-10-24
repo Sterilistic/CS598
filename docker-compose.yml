@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  ev-analytics:
+    build: .
+    container_name: ev-analytics-app
+    environment:
+      - SUPABASE_URL=${SUPABASE_URL}
+      - SUPABASE_KEY=${SUPABASE_KEY}
+      - OPENWEATHER_API_KEY=${OPENWEATHER_API_KEY}
+      - HERE_API_KEY=${HERE_API_KEY}
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+    env_file:
+      - .env
+    restart: unless-stopped
+    command: python main.py

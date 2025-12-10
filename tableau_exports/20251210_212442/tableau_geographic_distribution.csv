@@ -1,0 +1,132 @@
+station_id,station_name,latitude,longitude,city,state,country,operator,status,total_sessions,total_energy_kwh,avg_cost,charging_points_count
+460201,Krazyfish Grille,29.81527976,-85.30442491,Port St Joe,Florida,United States,(Business Owner at Location),Operational,131,5402.22,12.944656488549619,0
+460207,"Thorntons #701 - Largo, FL",27.89478088,-82.76169098,Largo,FL,United States,BP Pulse (US),Operational,111,4757.44,14.071531531531532,0
+460208,"Thorntons #710 - Petersburg, FL",27.7851071,-82.67859983,St. Petersburg,FL,United States,BP Pulse (US),Operational,121,5071.99,12.983140495867769,0
+460209,"Flying J Travel Center #626 St. Augustine, FL",29.74952422,-81.34471615,St. Augustine,FL,United States,eVgo Network,Operational,126,5186.94,14.335952380952381,0
+460210,"Pilot Travel Center #222 Sturbridge, MA",42.06670574,-72.1072727,Sturbridge,FL,United States,eVgo Network,Operational,122,5112.09,14.041475409836066,0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",43.60268229,-96.76705786,Sioux Falls,SD,United States,eVgo Network,Operational,119,5674.41,15.45126050420168,0
+460212,"Ikea - Emeryville, CA",37.82887211,-122.29199036,Emeryville,CA,United States,Electrify America,Operational,119,4851.57,12.810504201680672,0
+460213,"IKEA - Norfolk, VA",36.87480965,-76.20024172,Norfolk,VA,United States,Electrify America,Operational,111,5541.73,15.875675675675677,0
+460215,Tri-City Shopping Center,34.06477416,-117.20365898,Redlands,CA,United States,eVgo Network,Operational,141,6277.96,14.790780141843971,0
+460263,Rivian Adventure Network,47.29784887,-115.09785862,St. Regis,Montana,United States,Rivian Adventure Network,Operational,133,5474.31,13.577293233082706,0
+460318,EVgo,47.49120525,-121.7930512,North Bend,Washington,United States,eVgo Network,Operational,140,5628.52,12.256285714285715,0
+460320,"Ionna - Daly City, CA",37.69757104,-122.46384206,Daly City,CA,United States,IONNA,Planned For Future Date,126,5562.49,13.91388888888889,0
+460321,IONNA - Gilman Rechargery Relay,40.751371,-87.999554,Gilman,IL,United States,IONNA,Operational,140,5989.96,13.172357142857143,0
+460322,Ionna Daytona Beach Rechargery Relay @Wawa,29.19155152,-81.07322389,Daytona Beach,FL,United States,IONNA,Operational,120,5585.87,14.316583333333334,0
+460323,Ionna - OKC,35.46442995,-97.50196143,Oklahoma City,OK,United States,IONNA,Planned For Future Date,122,5086.2,12.264836065573771,0
+460328,Ionna Concord Rechargery,35.44325145,-80.59532961,Concord,NC,United States,IONNA,Planned For Future Date,123,5481.42,14.52130081300813,0
+460329,IONNA Seffner Rechargery,28.00780677,-82.30035151,Seffner,FL,United States,IONNA,Planned For Future Date,129,4884.51,12.918837209302326,0
+460331,"Pilot Travel Center #474 Sutton, WV",38.705166,-80.6642,Sutton,WV,United States,eVgo Network,Operational,121,5899.31,15.578760330578513,0
+460345,Central Co-op,47.29007101,-122.51639041,Tacoma,WA,United States,(Unknown Operator),Operational,127,6242.31,15.659606299212598,0
+460367,Santa Monica Station,34.027246,-118.481496,Santa Monica,CA,United States,Electrify America,Operational,103,4038.4,12.540194174757282,0
+460368,"bp pulse - Duarte, CA",34.139788,-117.960017,Duarte,CA,United States,BP Pulse (US),Operational,141,6160.36,13.880709219858156,0
+460371,"Circle K - Yuma, AZ",32.67071735,-114.52084983,Yuma,AZ,United States,Circle K,Operational,143,6566.21,15.861958041958042,0
+460372,"Pilot Travel Center #1208 Yuma, AZ",32.68634649,-114.57994208,Yuma,AZ,United States,eVgo Network,Planned For Future Date,120,5101.79,13.879583333333333,0
+460384,Mendocino Marketplace,38.46243609,-122.71766634,Santa Rosa,CA,United States,eVgo Network,Operational,119,4953.1,12.446470588235295,0
+460429,Ruby's Inn General Store - Tesla Supercharger,37.67264681,-112.15698159,Bryce Canyon City,Utah,United States,Tesla (including non-tesla),Operational,125,4890.6,12.10968,0
+460430,Revel - South San Francisco,37.650626,-122.430513,South San Francisco,CA,United States,(Unknown Operator),Planned For Future Date,131,5434.99,14.384580152671756,0
+460484,L2 near Ball&Chain,25.76586362,-80.19108354,Miami,Florida,United States,(Unknown Operator),Operational,148,6389.67,14.112837837837837,0
+460485,Safeway,37.99980212,-122.1324847,Martinez,CA,United States,Electrify America,Operational,143,6101.89,13.224545454545455,0
+460503,Futurama near Ball & Chain,25.76582562,-80.22176735,Miami,Florida,United States,ChargeBay (US),Operational,125,5265.45,13.3732,0
+460504,Marketplace Foods,48.21768268,-101.2976794,Minot,ND,United States,Tesla (including non-tesla),Operational,120,5126.5,14.067333333333334,0
+460505,Mass General Brigham Healthcare Center,43.21401746,-70.90285659,Dover,NH,United States,(Unknown Operator),Operational,118,4857.41,13.332203389830509,0
+460506,Wentworth-Douglass Hospital,43.21433139,-70.87372468,Dover,NH,United States,(Unknown Operator),Operational,121,5429.73,14.726859504132232,0
+460570,Eastern Market Public Lot,42.34910874,-83.04295829,Detroit,MI,United States,Red E Charge,Operational,126,5390.31,14.306507936507936,0
+460571,Exxon Utica,42.62658474,-83.01745639,Utica,MI,United States,Red E Charge,Operational,123,4572.38,11.942682926829269,0
+460606,Destination Charger,48.36543391,-114.14529999,Columbia Falls,Montana,United States,EDP,Operational,134,6014.42,13.780671641791045,0
+460632,Parsons Chevy - Eagle River,45.90313038,-89.29469754,Eagle River,WI,United States,InCharge (US),Operational,127,6422.07,16.50007874015748,0
+460671,FPL,30.51073053,-87.18375093,Pensacola,Florida,United States,(Unknown Operator),Operational,127,4731.49,11.85763779527559,0
+460673,Telsa Supercharger,42.4312555,-123.16273323,Rogue River,Oregon,United States,Tesla (including non-tesla),Operational,124,5072.78,13.766854838709678,0
+460708,Chargepoint,36.7520475,-86.1794829,Scottsville,Kentucky,United States,(Unknown Operator),Operational,133,5966.91,12.792781954887218,0
+460949,"Flying J Travel Center #737 San Antonio, TX",29.44599025,-98.36098899,San Antonio,TX,United States,eVgo Network,Operational,134,5797.28,13.871940298507463,0
+460953,"Flying J Travel Center #690 Lordsburg, NM",32.34177939,-108.67760606,Lordsburg,NM,United States,eVgo Network,Operational,130,4990.1,12.826,0
+460954,"Flying J Travel Center #671 Matthews, MO",36.7602601,-89.54037352,Matthews,MO,United States,eVgo Network,Operational,145,6011.01,13.078206896551723,0
+460955,"Flying J Travel Center #572 Williams, IA",42.47054168,-93.57198536,Williams,IA,United States,eVgo Network,Operational,130,5311.16,12.392384615384616,0
+460956,"Pilot Travel Center #368 Decatur, IL",39.90728707,-88.8961106,Decatur,IL,United States,eVgo Network,Operational,133,5046.43,11.299248120300751,0
+460957,"Flying J Travel Center #489 Grand Forks, ND",47.88805211,-97.09235312,Grand Forks,ND,United States,eVgo Network,Operational,141,5993.34,13.607021276595745,0
+460958,"Pilot Travel Center #1225 Mascoutah, IL",38.55573984,-89.80639259,Mascoutah,IL,United States,eVgo Network,Operational,134,6285.0,14.883582089552238,0
+460959,"Thorntons #327 - Bellwood, IL",41.8722861,-87.86239501,Bellwood,IL,United States,BP Pulse (US),Operational,116,4321.76,12.392327586206896,0
+460969,EVgo - SF SOMA,37.7769255,-122.40419731,San Francisco,CA,United States,eVgo Network,Operational,134,5613.49,13.224477611940298,0
+461048,Mitra EV DCFC - Ford Commercial,37.415328,-122.076575,Sacramento,CA,United States,(Unknown Operator),Operational,123,5463.3,15.02430894308943,0
+461049,Mitra EV DCFC - Aztec Solar,38.60760033,-121.26022187,Rancho Cordova,CA,United States,(Unknown Operator),Operational,120,5366.32,14.2085,0
+461050,Mitra EV DCFC - Sierra Pacific,38.609349,-121.259377,Rancho Cordova,CA,United States,(Unknown Operator),Operational,120,5071.15,13.835083333333333,0
+461073,Fairfield by Marriott Inn & Suites Houston Brookhollow,29.83692,-95.484585,Houston,TX,United States,Tesla (including non-tesla),Operational,129,5318.38,12.565813953488371,0
+461130,TownePlace Suites by Marriott Houston Northwest/Beltway 8,29.90245,-95.544401,Houston,TX,United States,Tesla (including non-tesla),Operational,128,5404.62,12.591015625,0
+461135,Marathon,43.00643564,-85.68835797,Grand Rapids,MI,United States,Red E Charge,Operational,124,5698.3,15.118145161290323,0
+461155,Key Chrysler Dodge Jeep Ram,43.3155252,-70.99527714,Rochester,New Hampshire,United States,(Unknown Operator),Partly Operational (Mixed),146,5923.41,13.238013698630137,0
+461156,Key GMC of Rochester,43.31462844,-70.99564133,Rochester,New Hampshire,United States,InCharge (US),Operational,133,5506.84,13.162406015037593,0
+461157,University Place Library,47.22577302,-122.53568884,University Place,Washington,United States,(Unknown Operator),Operational,113,4360.58,12.569469026548672,0
+461164,Clawson Shopping Center,42.53229695,-83.16402908,Clawson,MI,United States,EVGateway,Operational,130,5781.55,15.226461538461539,0
+461165,Heilmann Community Center,42.44076244,-82.96274857,Detroit,MI,United States,EV Connect,Operational,113,4830.4,12.248761061946903,0
+461166,Gladwin City Hall,43.98144185,-84.4976514,Gladwin,MI,United States,Red E Charge,Operational,111,4655.64,13.561441441441442,0
+461167,Pats Food Freeland,43.52019243,-84.11980871,Freeland,MI,United States,Red E Charge,Operational,126,5872.7,15.078095238095239,0
+461170,Hamilton Market St,39.40063825,-84.5627713,Hamilton,OH,United States,ChargePoint,Operational,137,5615.39,12.976496350364963,0
+461171,Hamilton CNG Filling Station,39.37427666,-84.54853875,Hamilton,OH,United States,ChargePoint,Operational,126,5569.91,14.468253968253968,0
+461251,Sunshine Gardens,37.66164472,-122.43944326,South San Francisco,CA,United States,(Unknown Operator),Planned For Future Date,125,5502.26,13.69944,0
+461252,D & 3rd Street Curbside,38.58713467,-121.51062258,West Sacramento,CA,United States,ChargePoint,Planned For Future Date,123,5094.16,12.107479674796748,0
+461275,Goodwill,44.93859995,-93.34792957,St. Louis Park,MN,United States,(Unknown Operator),Operational,132,5592.78,13.936969696969697,0
+461307,Fas Mart,42.98939748,-86.19357964,Grand Haven,MI,United States,Red E Charge,Operational,128,5280.63,13.08859375,0
+461370,Miller Hill Super One,46.80974807,-92.17022785,Duluth,MN,United States,ZEF Energy,Operational,117,4751.6,13.244615384615384,0
+461511,Sleep Inn & Suites Monroe - Woodbury,41.35714173,-74.195866,Monroe,NY,United States,Tesla (including non-tesla),Operational,138,5714.26,12.884420289855072,0
+461541,Fox Kia South,42.91289485,-85.56573258,Grand Rapids,michigan,United States,ChargePoint,Operational,130,6119.17,15.420538461538461,0
+461543,Garcia Bend Park,38.479037,-121.54283431,Sacramento,CA,United States,ChargePoint,Operational,124,4753.67,12.771693548387097,0
+461546,"Pilot Travel Center #1051 Iowa, LA",30.25353893,-93.01454131,Iowa,LA,United States,eVgo Network,Operational,110,5058.0,15.504181818181818,0
+461547,"Pilot Travel Center #1047 Jacksonville, FL",30.37167954,-81.7646687,Jacksonville,FL,United States,eVgo Network,Operational,121,4941.63,13.138512396694216,0
+461548,"Pilot Travel Center #374 Marianna, FL",30.72521949,-85.18655441,Marianna,FL,United States,eVgo Network,Operational,118,4993.05,14.434406779661018,0
+461549,"ONE9 Travel Center #7937 Mcleansville, NC",36.06035414,-79.66262588,Mcleansville,NC,United States,eVgo Network,Operational,128,5695.3,14.25125,0
+461550,"Flying J Travel Center #706 Tulsa, OK",36.16147782,-95.83201225,Tulsa,OK,United States,eVgo Network,Operational,108,4130.66,13.090092592592592,0
+461551,Berkeley Bowl (West),37.85387117,-122.29068218,Berkeley,CA,United States,Electrify America,Operational,118,5114.72,13.659322033898306,0
+461553,Ventura County Credit Union,34.26455723,-119.21060702,Ventura,CA,United States,Electrify America,Operational,108,4447.68,13.829351851851852,0
+461554,The Bite Tumalo,44.14711145,-121.33133899,Tumalo,OR,United States,Rivian Adventure Network,Operational,132,5699.82,13.40871212121212,0
+461627,"T/A Travel Center #0057 - Redding, CA",40.5053427,-122.33454995,Redding,CA,United States,BP Pulse (US),Planned For Future Date,135,5101.9,11.873333333333333,0
+461628,Petro Corning #309,39.90589207,-122.1972271,Corning,CA,United States,BP Pulse (US),Planned For Future Date,130,5887.93,15.095307692307692,0
+461629,In-N-Out Burger - Redding,40.58538871,-122.34905976,Redding,CA,United States,Mercedes-Benz High-Power Charging (US),Planned For Future Date,128,5221.13,13.538359375,0
+461631,"Pilot Travel Center #1019 - Orland, CA",39.75124799,-122.20874577,Orland,CA,United States,eVgo Network,Operational,119,5360.03,14.506050420168068,0
+461632,"Ionna - Willows, CA",39.52355562,-122.21196535,Williows,CA,United States,IONNA,Planned For Future Date,113,5006.61,14.411681415929204,0
+461715,BP Express Stop,42.26772442,-84.45320382,Jackson,MI,United States,Red E Charge,Operational,125,5667.17,14.32344,0
+461733,Walmart,35.47023611,-95.53572033,Checotah,OK,United States,(Unknown Operator),Operational,109,4632.18,13.38954128440367,0
+461744,Sunset Pointe,38.8112445,-121.28523913,Rocklin,CA,United States,eVgo Network,Operational,129,5088.53,13.636279069767442,0
+461750,Speedy Q,42.72034242,-82.73231597,New Baltimore,MI,United States,Red E Charge,Operational,110,4941.6,14.357727272727272,0
+461756,"Laguna Blvd, Elk Grove, CA",38.42294935,-121.41889587,Elk Grove,CA,United States,eVgo Network,Operational,139,6283.69,14.387122302158273,0
+461757,Dutch Bros Coffee,38.5631774,-121.38113376,Sacramento,CA,United States,eVgo Network,Operational,123,5298.36,13.948373983739838,0
+461758,Bradville Square Shopping Center,38.55659688,-121.33426303,Sacramento,CA,United States,eVgo Network,Operational,121,5876.39,16.51611570247934,0
+461813,Culver's,45.63291495,-89.43208425,Rhinelander,WI,United States,ChargePoint,Operational,132,6141.47,14.584772727272727,0
+462098,Wawa Supercharger,38.13392236,-79.04433708,Staunton,VA,United States,Tesla (including non-tesla),Operational,115,5494.7,14.90095652173913,0
+462111,Shell - Novi,42.49111094,-83.51430654,Novi,MI,United States,Red E Charge,Operational,106,4125.85,12.290849056603774,0
+462127,Kimco-charlotte,35.16030907,-80.87590677,Charlotte,NC,United States,(Unknown Operator),Operational,129,5484.53,14.24015503875969,0
+462225,IONNA Beaver Rechargery Relay,38.29227291,-112.64654849,Beaver,UT,United States,IONNA,Operational,131,5763.95,13.447480916030534,0
+462226,IONNA Raleigh Rechargery Relay,35.84159568,-78.57751219,Raleigh,NC,United States,IONNA,Operational,132,5993.64,15.268257575757575,0
+462227,IONNA Middletown Rechargery Relay,39.43728879,-77.52915717,Middletown,MD,United States,IONNA,Operational,116,5414.66,14.576293103448275,0
+462228,IONNA Kutztown Rechargery @ Sheetz,40.58243639,-75.708866,Kutztown,PA,United States,IONNA,Operational,113,4911.18,15.194159292035398,0
+462269,Ionna Rechargery,38.74407396,-121.2778181,Roseville,CA,United States,IONNA,Planned For Future Date,130,5504.98,14.155307692307693,0
+469252,Lenexa Old Town Activity Center,38.95898846,-94.74154538,Lenexa,KS,United States,Tesla (including non-tesla),Operational,153,7047.18,13.793333333333333,0
+469253,Lenexa Justice Center,38.95489401,-94.78549242,Lenexa,KS,United States,Tesla (including non-tesla),Operational,120,5011.08,13.3485,0
+469374,Freewire Charging Station,39.98548248,-83.00390753,Columbus,OH,United States,(Unknown Operator),Operational,119,4871.26,13.09436974789916,0
+469399,Elkhorn Shopping Center,38.69461723,-121.3611978,Sacramento,CA,United States,eVgo Network,Planned For Future Date,129,5625.72,14.699069767441861,0
+469401,Dutch Bros,38.47561181,-121.4185743,Sacramento,CA,United States,IONNA,Planned For Future Date,125,5363.86,13.67888,0
+469403,1122 Frankford grand,37.415328,-122.076575,fishtown,PA,United States,(Unknown Operator),Operational,123,5079.41,13.475365853658536,0
+469430,Bernal Plaza,37.23344502,-121.77467103,San Jose,CA,United States,eVgo Network,Operational,133,5607.44,13.58421052631579,0
+469455,Polaris Bergland Township,46.59222416,-89.57231251,Bergland,MI,United States,(Unknown Operator),Operational,139,5552.79,12.955611510791368,0
+469499,Renewable Grid - Glen Cove Fast Charging,40.86583398,-73.63155013,Glen Cove,NY,United States,(Unknown Operator),Operational,120,5449.57,14.4915,0
+469611,Dennys,47.43566569,-122.29675732,Seatac,WA,United States,Electric Era (US),Planned For Future Date,130,5108.94,12.144461538461538,0
+469612,"Dennys - Auburn, WA",47.30259018,-122.22622845,Auburn,WA,United States,Electric Era (US),Planned For Future Date,148,6832.18,14.590067567567568,0
+469741,"Pilot Travel Center #63 Piedmont, SC",34.71029947,-82.49809244,Piedmont,SC,United States,eVgo Network,Operational,127,5338.02,13.352677165354331,0
+469743,"Pilot Travel Center #4642 Toms Brook, VA",38.96681936,-78.43859993,Toms Brook,VA,United States,eVgo Network,Operational,135,5469.76,12.644148148148147,0
+469745,"Flying J Travel Center #875 Elkton, MD",39.63775037,-75.80665298,Elkton,MD,United States,eVgo Network,Operational,119,4883.79,13.872100840336135,0
+469746,"Pilot Travel Center #281 Girard, OH",41.14061926,-80.71873263,Girard,OH,United States,eVgo Network,Operational,119,5582.21,14.833109243697479,0
+469747,"Flying J Travel Center #692 Wells, NV",41.09733192,-114.95841899,Wells,NV,United States,eVgo Network,Operational,114,5130.87,14.318421052631578,0
+469748,Ionna Largo Rechargery @ Wawa,27.92834267,-82.7883568,Largo,FL,United States,IONNA,Operational,122,5138.02,13.324426229508196,0
+469749,"Ionna Reading, MA Rechargery Relay",42.51828198,-71.09510054,Reading,MA,United States,IONNA,Operational,111,4434.09,12.067027027027027,0
+469752,"Ionna Carlin, NV Rechargery Relay @ Ridley’s Market",40.71873861,-116.10837613,Carlin,NV,United States,IONNA,Operational,135,5441.98,13.434888888888889,0
+469807,OUC ReCharge EV Hub at OCCC,28.43103321,-81.45316713,Orlando,FL,United States,ChargeUp (NovaCharge),Operational,127,5417.0,13.229606299212598,0
+470113,Kwik-Charge #1205,43.57533066,-89.77678452,Lake Delton,WI,United States,Kwik Charge (Kwik Trip),Operational,128,5990.08,15.333984375,0
+470276,"New Albany Light, Gas, and Water",34.49340373,-89.01077641,New Albany,MS,United States,Electric Era (US),Operational,123,4915.78,12.85170731707317,0
+470312,Safeway,38.01504354,-122.27200675,Hercules,CA,United States,Electrify America,Planned For Future Date,137,5605.18,14.372554744525548,0
+470314,EVolve NY Afton,42.22745527,-75.5257999,Afton,NY,United States,Electrify America,Operational,134,6186.56,14.699328358208955,0
+470357,FastTrack Market Marathon,42.25597141,-83.27277905,Taylor,MI,United States,Red E Charge,Operational,122,4618.92,11.772868852459016,0
+470498,US Highway 57,28.71659659,-100.46112918,Eagle Pass,Texas,United States,InCharge (US),Operational,127,5874.77,15.062992125984252,0
+470651,"Starbucks - Ridgefield, WA",45.81638546,-122.69037961,Ridgefield,WA,United States,Mercedes-Benz High-Power Charging (US),Planned For Future Date,118,5250.81,14.236694915254237,0
+470652,"Starbucks - Phoenix, OR",42.28021952,-122.82161296,Phoenix,OR,United States,Mercedes-Benz High-Power Charging (US),Planned For Future Date,128,5177.47,12.993984375,0
+470662,"Kittery Premium Outlets - Kittery, ME",43.11481461,-70.73033327,Kittery,ME,United States,Mercedes-Benz High-Power Charging (US),Operational,138,6317.46,14.101666666666667,0
+470696,Trailborn Grand Canyon,35.2520407,-112.18158956,Williams,AZ,United States,(Unknown Operator),Operational,131,5440.44,12.84267175572519,0
+470792,Fellows Creek Golf Club,42.28526676,-83.4377779,Canton,MI,United States,Volta Charging,Operational,127,5388.76,12.673385826771653,0

@@ -1,0 +1,440 @@
+station_id,station_name,city,state,anomaly_type,severity_score,detected_at,anomaly_date,description,is_resolved,resolved_at,days_open
+462098,Wawa Supercharger,Staunton,VA,usage_pattern,0.145,2025-10-21T02:17:37.315852,2025-10-21,Unusual usage pattern detected with score: -0.145,False,,50.79429605347222
+461733,Walmart,Checotah,OK,usage_pattern,0.072,2025-10-21T02:17:37.316071,2025-10-21,Unusual usage pattern detected with score: -0.072,False,,50.7942960509375
+461628,Petro Corning #309,Corning,CA,usage_pattern,0.026,2025-10-21T02:17:37.31626,2025-10-21,Unusual usage pattern detected with score: -0.026,False,,50.79429604875
+461553,Ventura County Credit Union,Ventura,CA,usage_pattern,0.029,2025-10-21T02:17:37.316356,2025-10-21,Unusual usage pattern detected with score: -0.029,False,,50.79429604763889
+461548,"Pilot Travel Center #374 Marianna, FL",Marianna,FL,usage_pattern,0.06,2025-10-21T02:17:37.316472,2025-10-21,Unusual usage pattern detected with score: -0.060,False,,50.794296046296296
+461547,"Pilot Travel Center #1047 Jacksonville, FL",Jacksonville,FL,usage_pattern,0.076,2025-10-21T02:17:37.316509,2025-10-21,Unusual usage pattern detected with score: -0.076,False,,50.79429604586806
+461546,"Pilot Travel Center #1051 Iowa, LA",Iowa,LA,usage_pattern,0.002,2025-10-21T02:17:37.316549,2025-10-21,Unusual usage pattern detected with score: -0.002,False,,50.79429604540509
+461370,Miller Hill Super One,Duluth,MN,usage_pattern,0.067,2025-10-21T02:17:37.316668,2025-10-21,Unusual usage pattern detected with score: -0.067,False,,50.794296044027774
+461130,TownePlace Suites by Marriott Houston Northwest/Beltway 8,Houston,TX,usage_pattern,0.147,2025-10-21T02:17:37.31708,2025-10-21,Unusual usage pattern detected with score: -0.147,False,,50.79429603925926
+461073,Fairfield by Marriott Inn & Suites Houston Brookhollow,Houston,TX,usage_pattern,0.149,2025-10-21T02:17:37.317151,2025-10-21,Unusual usage pattern detected with score: -0.149,False,,50.7942960384375
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.04,2025-12-10T07:18:45.033946,2025-12-10,Unusual usage pattern detected with score: -0.040,False,,0.5851789459027777
+469611,Dennys,Seatac,WA,usage_pattern,0.014,2025-12-10T07:18:45.034001,2025-12-10,Unusual usage pattern detected with score: -0.014,False,,0.5851789452662037
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.055,2025-12-10T07:18:45.034079,2025-12-10,Unusual usage pattern detected with score: -0.055,False,,0.5851789443634259
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.04,2025-12-10T07:20:53.364679,2025-12-10,Unusual usage pattern detected with score: -0.040,False,,0.5836936364930555
+469611,Dennys,Seatac,WA,usage_pattern,0.014,2025-12-10T07:20:53.364746,2025-12-10,Unusual usage pattern detected with score: -0.014,False,,0.5836936357175926
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.055,2025-12-10T07:20:53.364835,2025-12-10,Unusual usage pattern detected with score: -0.055,False,,0.5836936346875
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.04,2025-12-10T07:22:00.580985,2025-12-10,Unusual usage pattern detected with score: -0.040,False,,0.5829156699884259
+469611,Dennys,Seatac,WA,usage_pattern,0.014,2025-12-10T07:22:00.581031,2025-12-10,Unusual usage pattern detected with score: -0.014,False,,0.5829156694560185
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.055,2025-12-10T07:22:00.581096,2025-12-10,Unusual usage pattern detected with score: -0.055,False,,0.5829156687037037
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.04,2025-12-10T07:23:06.251697,2025-12-10,Unusual usage pattern detected with score: -0.040,False,,0.5821555923032408
+469611,Dennys,Seatac,WA,usage_pattern,0.014,2025-12-10T07:23:06.251778,2025-12-10,Unusual usage pattern detected with score: -0.014,False,,0.5821555913657407
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.055,2025-12-10T07:23:06.251883,2025-12-10,Unusual usage pattern detected with score: -0.055,False,,0.5821555901504629
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.04,2025-12-10T07:24:12.552999,2025-12-10,Unusual usage pattern detected with score: -0.040,False,,0.5813882161226852
+469611,Dennys,Seatac,WA,usage_pattern,0.014,2025-12-10T07:24:12.553058,2025-12-10,Unusual usage pattern detected with score: -0.014,False,,0.5813882154398148
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.055,2025-12-10T07:24:12.553144,2025-12-10,Unusual usage pattern detected with score: -0.055,False,,0.5813882144444444
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.04,2025-12-10T07:25:18.716078,2025-12-10,Unusual usage pattern detected with score: -0.040,False,,0.5806224397453704
+469611,Dennys,Seatac,WA,usage_pattern,0.014,2025-12-10T07:25:18.716165,2025-12-10,Unusual usage pattern detected with score: -0.014,False,,0.5806224387384259
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.055,2025-12-10T07:25:18.71636,2025-12-10,Unusual usage pattern detected with score: -0.055,False,,0.5806224364814815
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.04,2025-12-10T07:26:31.226909,2025-12-10,Unusual usage pattern detected with score: -0.040,False,,0.5797831940162037
+469611,Dennys,Seatac,WA,usage_pattern,0.014,2025-12-10T07:26:31.226979,2025-12-10,Unusual usage pattern detected with score: -0.014,False,,0.5797831932060186
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.055,2025-12-10T07:26:31.227074,2025-12-10,Unusual usage pattern detected with score: -0.055,False,,0.5797831921064814
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.04,2025-12-10T07:27:37.714376,2025-12-10,Unusual usage pattern detected with score: -0.040,False,,0.5790136631481482
+469611,Dennys,Seatac,WA,usage_pattern,0.014,2025-12-10T07:27:37.714423,2025-12-10,Unusual usage pattern detected with score: -0.014,False,,0.5790136626041666
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.055,2025-12-10T07:27:37.714491,2025-12-10,Unusual usage pattern detected with score: -0.055,False,,0.5790136618171297
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.037,2025-12-10T07:28:52.747448,2025-12-10,Unusual usage pattern detected with score: -0.037,False,,0.5781452248148148
+469611,Dennys,Seatac,WA,usage_pattern,0.023,2025-12-10T07:28:52.747656,2025-12-10,Unusual usage pattern detected with score: -0.023,False,,0.5781452224074074
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.057,2025-12-10T07:28:52.747799,2025-12-10,Unusual usage pattern detected with score: -0.057,False,,0.5781452207523148
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.037,2025-12-10T07:29:59.204682,2025-12-10,Unusual usage pattern detected with score: -0.037,False,,0.5773760438657407
+469611,Dennys,Seatac,WA,usage_pattern,0.023,2025-12-10T07:29:59.204734,2025-12-10,Unusual usage pattern detected with score: -0.023,False,,0.5773760432638889
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.057,2025-12-10T07:29:59.204805,2025-12-10,Unusual usage pattern detected with score: -0.057,False,,0.5773760424421296
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.037,2025-12-10T07:31:12.717552,2025-12-10,Unusual usage pattern detected with score: -0.037,False,,0.576525200462963
+469611,Dennys,Seatac,WA,usage_pattern,0.023,2025-12-10T07:31:12.717617,2025-12-10,Unusual usage pattern detected with score: -0.023,False,,0.5765251997106482
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.057,2025-12-10T07:31:12.717712,2025-12-10,Unusual usage pattern detected with score: -0.057,False,,0.5765251986111111
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.037,2025-12-10T07:32:17.630881,2025-12-10,Unusual usage pattern detected with score: -0.037,False,,0.5757738887847222
+469611,Dennys,Seatac,WA,usage_pattern,0.023,2025-12-10T07:32:17.630995,2025-12-10,Unusual usage pattern detected with score: -0.023,False,,0.5757738874652778
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.057,2025-12-10T07:32:17.631132,2025-12-10,Unusual usage pattern detected with score: -0.057,False,,0.5757738858796296
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.037,2025-12-10T07:33:34.177775,2025-12-10,Unusual usage pattern detected with score: -0.037,False,,0.5748879293634259
+469611,Dennys,Seatac,WA,usage_pattern,0.023,2025-12-10T07:33:34.177863,2025-12-10,Unusual usage pattern detected with score: -0.023,False,,0.5748879283449074
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.057,2025-12-10T07:33:34.177967,2025-12-10,Unusual usage pattern detected with score: -0.057,False,,0.5748879271412037
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.037,2025-12-10T07:34:43.895845,2025-12-10,Unusual usage pattern detected with score: -0.037,False,,0.5740810072569444
+469611,Dennys,Seatac,WA,usage_pattern,0.023,2025-12-10T07:34:43.896145,2025-12-10,Unusual usage pattern detected with score: -0.023,False,,0.5740810037847223
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.057,2025-12-10T07:34:43.896863,2025-12-10,Unusual usage pattern detected with score: -0.057,False,,0.5740809954745371
+470314,EVolve NY Afton,Afton,NY,usage_pattern,0.027,2025-12-10T07:38:24.502614,2025-12-10,Unusual usage pattern detected with score: -0.027,False,,0.5715276881712963
+469748,Ionna Largo Rechargery @ Wawa,Largo,FL,usage_pattern,0.019,2025-12-10T07:38:24.502823,2025-12-10,Unusual usage pattern detected with score: -0.019,False,,0.5715276857523148
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.097,2025-12-10T07:38:24.503071,2025-12-10,Unusual usage pattern detected with score: -0.097,False,,0.5715276828819444
+470314,EVolve NY Afton,Afton,NY,usage_pattern,0.027,2025-12-10T07:39:53.855608,2025-12-10,Unusual usage pattern detected with score: -0.027,False,,0.57049351
+469748,Ionna Largo Rechargery @ Wawa,Largo,FL,usage_pattern,0.019,2025-12-10T07:39:53.855858,2025-12-10,Unusual usage pattern detected with score: -0.019,False,,0.5704935071064815
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.097,2025-12-10T07:39:53.856106,2025-12-10,Unusual usage pattern detected with score: -0.097,False,,0.5704935042361111
+470314,EVolve NY Afton,Afton,NY,usage_pattern,0.027,2025-12-10T07:41:22.544978,2025-12-10,Unusual usage pattern detected with score: -0.027,False,,0.569467012662037
+469748,Ionna Largo Rechargery @ Wawa,Largo,FL,usage_pattern,0.019,2025-12-10T07:41:22.545364,2025-12-10,Unusual usage pattern detected with score: -0.019,False,,0.5694670081944444
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.097,2025-12-10T07:41:22.545732,2025-12-10,Unusual usage pattern detected with score: -0.097,False,,0.5694670039351852
+470314,EVolve NY Afton,Afton,NY,usage_pattern,0.027,2025-12-10T07:42:52.413492,2025-12-10,Unusual usage pattern detected with score: -0.027,False,,0.568426867824074
+469748,Ionna Largo Rechargery @ Wawa,Largo,FL,usage_pattern,0.019,2025-12-10T07:42:52.413702,2025-12-10,Unusual usage pattern detected with score: -0.019,False,,0.5684268653935185
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.097,2025-12-10T07:42:52.413954,2025-12-10,Unusual usage pattern detected with score: -0.097,False,,0.5684268624768518
+470314,EVolve NY Afton,Afton,NY,usage_pattern,0.027,2025-12-10T07:44:25.46004,2025-12-10,Unusual usage pattern detected with score: -0.027,False,,0.5673499401851851
+469748,Ionna Largo Rechargery @ Wawa,Largo,FL,usage_pattern,0.019,2025-12-10T07:44:25.460366,2025-12-10,Unusual usage pattern detected with score: -0.019,False,,0.567349936412037
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.097,2025-12-10T07:44:25.46068,2025-12-10,Unusual usage pattern detected with score: -0.097,False,,0.5673499327777778
+470314,EVolve NY Afton,Afton,NY,usage_pattern,0.027,2025-12-10T07:45:52.634109,2025-12-10,Unusual usage pattern detected with score: -0.027,False,,0.5663409810532407
+469748,Ionna Largo Rechargery @ Wawa,Largo,FL,usage_pattern,0.019,2025-12-10T07:45:52.634393,2025-12-10,Unusual usage pattern detected with score: -0.019,False,,0.5663409777662037
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.097,2025-12-10T07:45:52.634653,2025-12-10,Unusual usage pattern detected with score: -0.097,False,,0.5663409747569444
+470314,EVolve NY Afton,Afton,NY,usage_pattern,0.027,2025-12-10T07:47:19.228662,2025-12-10,Unusual usage pattern detected with score: -0.027,False,,0.5653387292824074
+469748,Ionna Largo Rechargery @ Wawa,Largo,FL,usage_pattern,0.019,2025-12-10T07:47:19.228884,2025-12-10,Unusual usage pattern detected with score: -0.019,False,,0.5653387267129629
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.097,2025-12-10T07:47:19.229147,2025-12-10,Unusual usage pattern detected with score: -0.097,False,,0.5653387236689815
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.02,2025-12-10T07:48:45.364488,2025-12-10,Unusual usage pattern detected with score: -0.020,False,,0.5643417868518519
+469611,Dennys,Seatac,WA,usage_pattern,0.017,2025-12-10T07:48:45.364611,2025-12-10,Unusual usage pattern detected with score: -0.017,False,,0.5643417854282408
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.076,2025-12-10T07:48:45.364798,2025-12-10,Unusual usage pattern detected with score: -0.076,False,,0.5643417832638888
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.02,2025-12-10T07:50:12.278917,2025-12-10,Unusual usage pattern detected with score: -0.020,False,,0.5633358328125
+469611,Dennys,Seatac,WA,usage_pattern,0.017,2025-12-10T07:50:12.278963,2025-12-10,Unusual usage pattern detected with score: -0.017,False,,0.5633358322800925
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.076,2025-12-10T07:50:12.27903,2025-12-10,Unusual usage pattern detected with score: -0.076,False,,0.5633358315046296
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.02,2025-12-10T07:51:38.396606,2025-12-10,Unusual usage pattern detected with score: -0.020,False,,0.5623391003009259
+469611,Dennys,Seatac,WA,usage_pattern,0.017,2025-12-10T07:51:38.396653,2025-12-10,Unusual usage pattern detected with score: -0.017,False,,0.5623390997569444
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.076,2025-12-10T07:51:38.396721,2025-12-10,Unusual usage pattern detected with score: -0.076,False,,0.5623390989699074
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.02,2025-12-10T07:53:06.981834,2025-12-10,Unusual usage pattern detected with score: -0.020,False,,0.5613138083101852
+469611,Dennys,Seatac,WA,usage_pattern,0.017,2025-12-10T07:53:06.981882,2025-12-10,Unusual usage pattern detected with score: -0.017,False,,0.5613138077546296
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.076,2025-12-10T07:53:06.981951,2025-12-10,Unusual usage pattern detected with score: -0.076,False,,0.5613138069560185
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.02,2025-12-10T07:54:35.610705,2025-12-10,Unusual usage pattern detected with score: -0.020,False,,0.5602880111921297
+469611,Dennys,Seatac,WA,usage_pattern,0.017,2025-12-10T07:54:35.610752,2025-12-10,Unusual usage pattern detected with score: -0.017,False,,0.5602880106481481
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.076,2025-12-10T07:54:35.610819,2025-12-10,Unusual usage pattern detected with score: -0.076,False,,0.5602880098726852
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.02,2025-12-10T07:56:02.2019,2025-12-10,Unusual usage pattern detected with score: -0.020,False,,0.5592857982870371
+469611,Dennys,Seatac,WA,usage_pattern,0.017,2025-12-10T07:56:02.201998,2025-12-10,Unusual usage pattern detected with score: -0.017,False,,0.5592857971527778
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.076,2025-12-10T07:56:02.20211,2025-12-10,Unusual usage pattern detected with score: -0.076,False,,0.5592857958564815
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.02,2025-12-10T07:57:28.933485,2025-12-10,Unusual usage pattern detected with score: -0.020,False,,0.5582819604976852
+469611,Dennys,Seatac,WA,usage_pattern,0.017,2025-12-10T07:57:28.933532,2025-12-10,Unusual usage pattern detected with score: -0.017,False,,0.5582819599537037
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.076,2025-12-10T07:57:28.933602,2025-12-10,Unusual usage pattern detected with score: -0.076,False,,0.5582819591435185
+470314,EVolve NY Afton,Afton,NY,usage_pattern,0.03,2025-12-10T07:58:56.817741,2025-12-10,Unusual usage pattern detected with score: -0.030,False,,0.5572647816087963
+469611,Dennys,Seatac,WA,usage_pattern,0.138,2025-12-10T07:58:56.818121,2025-12-10,Unusual usage pattern detected with score: -0.138,False,,0.5572647772106482
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.135,2025-12-10T07:58:56.818186,2025-12-10,Unusual usage pattern detected with score: -0.135,False,,0.5572647764583334
+470314,EVolve NY Afton,Afton,NY,usage_pattern,0.03,2025-12-10T08:00:24.597036,2025-12-10,Unusual usage pattern detected with score: -0.030,False,,0.5562488175462963
+469611,Dennys,Seatac,WA,usage_pattern,0.138,2025-12-10T08:00:24.597489,2025-12-10,Unusual usage pattern detected with score: -0.138,False,,0.5562488123032407
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.135,2025-12-10T08:00:24.597557,2025-12-10,Unusual usage pattern detected with score: -0.135,False,,0.5562488115162038
+470314,EVolve NY Afton,Afton,NY,usage_pattern,0.03,2025-12-10T08:01:56.35587,2025-12-10,Unusual usage pattern detected with score: -0.030,False,,0.5551867940046297
+469611,Dennys,Seatac,WA,usage_pattern,0.138,2025-12-10T08:01:56.356272,2025-12-10,Unusual usage pattern detected with score: -0.138,False,,0.5551867893518518
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.135,2025-12-10T08:01:56.356384,2025-12-10,Unusual usage pattern detected with score: -0.135,False,,0.5551867880555555
+470314,EVolve NY Afton,Afton,NY,usage_pattern,0.03,2025-12-10T08:03:25.090806,2025-12-10,Unusual usage pattern detected with score: -0.030,False,,0.5541597692824074
+469611,Dennys,Seatac,WA,usage_pattern,0.138,2025-12-10T08:03:25.091201,2025-12-10,Unusual usage pattern detected with score: -0.138,False,,0.5541597647106481
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.135,2025-12-10T08:03:25.091281,2025-12-10,Unusual usage pattern detected with score: -0.135,False,,0.5541597637847222
+470314,EVolve NY Afton,Afton,NY,usage_pattern,0.03,2025-12-10T08:04:54.877744,2025-12-10,Unusual usage pattern detected with score: -0.030,False,,0.5531205686111111
+469611,Dennys,Seatac,WA,usage_pattern,0.138,2025-12-10T08:04:54.878139,2025-12-10,Unusual usage pattern detected with score: -0.138,False,,0.5531205640393518
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.135,2025-12-10T08:04:54.878206,2025-12-10,Unusual usage pattern detected with score: -0.135,False,,0.5531205632638889
+470314,EVolve NY Afton,Afton,NY,usage_pattern,0.03,2025-12-10T08:06:34.474214,2025-12-10,Unusual usage pattern detected with score: -0.030,False,,0.5519678316898148
+469611,Dennys,Seatac,WA,usage_pattern,0.138,2025-12-10T08:06:34.474732,2025-12-10,Unusual usage pattern detected with score: -0.138,False,,0.5519678256944445
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.135,2025-12-10T08:06:34.47481,2025-12-10,Unusual usage pattern detected with score: -0.135,False,,0.5519678247916666
+470314,EVolve NY Afton,Afton,NY,usage_pattern,0.03,2025-12-10T08:08:04.630417,2025-12-10,Unusual usage pattern detected with score: -0.030,False,,0.5509243571180555
+469611,Dennys,Seatac,WA,usage_pattern,0.138,2025-12-10T08:08:04.630822,2025-12-10,Unusual usage pattern detected with score: -0.138,False,,0.5509243524305556
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.135,2025-12-10T08:08:04.630892,2025-12-10,Unusual usage pattern detected with score: -0.135,False,,0.5509243516203703
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.097,2025-12-10T08:09:32.214192,2025-12-10,Unusual usage pattern detected with score: -0.097,False,,0.5499106560185185
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.091,2025-12-10T08:09:32.214387,2025-12-10,Unusual usage pattern detected with score: -0.091,False,,0.5499106537615741
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.008,2025-12-10T08:09:32.214624,2025-12-10,Unusual usage pattern detected with score: -0.008,False,,0.5499106510185185
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.097,2025-12-10T08:11:01.82232,2025-12-10,Unusual usage pattern detected with score: -0.097,False,,0.5488735249074074
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.091,2025-12-10T08:11:01.822538,2025-12-10,Unusual usage pattern detected with score: -0.091,False,,0.5488735223842592
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.008,2025-12-10T08:11:01.822726,2025-12-10,Unusual usage pattern detected with score: -0.008,False,,0.5488735202083334
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.097,2025-12-10T08:12:29.981157,2025-12-10,Unusual usage pattern detected with score: -0.097,False,,0.5478531679976851
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.091,2025-12-10T08:12:29.981258,2025-12-10,Unusual usage pattern detected with score: -0.091,False,,0.5478531668287037
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.008,2025-12-10T08:12:29.981461,2025-12-10,Unusual usage pattern detected with score: -0.008,False,,0.5478531644791667
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.097,2025-12-10T08:13:58.069181,2025-12-10,Unusual usage pattern detected with score: -0.097,False,,0.5468336306828704
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.091,2025-12-10T08:13:58.069393,2025-12-10,Unusual usage pattern detected with score: -0.091,False,,0.5468336282291667
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.008,2025-12-10T08:13:58.069604,2025-12-10,Unusual usage pattern detected with score: -0.008,False,,0.5468336257870371
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.097,2025-12-10T08:15:25.935771,2025-12-10,Unusual usage pattern detected with score: -0.097,False,,0.545816656261574
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.091,2025-12-10T08:15:25.935921,2025-12-10,Unusual usage pattern detected with score: -0.091,False,,0.5458166545254629
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.008,2025-12-10T08:15:25.936138,2025-12-10,Unusual usage pattern detected with score: -0.008,False,,0.5458166520138888
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,usage_pattern,0.141,2025-12-10T09:43:26.690029,2025-12-10,Unusual usage pattern detected with score: -0.141,False,,0.4846968153125
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.024,2025-12-10T09:43:26.690549,2025-12-10,Unusual usage pattern detected with score: -0.024,False,,0.48469680929398146
+469611,Dennys,Seatac,WA,usage_pattern,0.022,2025-12-10T09:43:26.690589,2025-12-10,Unusual usage pattern detected with score: -0.022,False,,0.4846968088310185
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.007,2025-12-10T09:44:56.692448,2025-12-10,Unusual usage pattern detected with score: -0.007,False,,0.48365512064814814
+469611,Dennys,Seatac,WA,usage_pattern,0.007,2025-12-10T09:44:56.692493,2025-12-10,Unusual usage pattern detected with score: -0.007,False,,0.4836551201273148
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.011,2025-12-10T09:44:56.692684,2025-12-10,Unusual usage pattern detected with score: -0.011,False,,0.48365511791666665
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.007,2025-12-10T09:46:24.654092,2025-12-10,Unusual usage pattern detected with score: -0.007,False,,0.48263704606481483
+469611,Dennys,Seatac,WA,usage_pattern,0.007,2025-12-10T09:46:24.654139,2025-12-10,Unusual usage pattern detected with score: -0.007,False,,0.4826370455208333
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.011,2025-12-10T09:46:24.65434,2025-12-10,Unusual usage pattern detected with score: -0.011,False,,0.48263704319444445
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.007,2025-12-10T09:47:53.318738,2025-12-10,Unusual usage pattern detected with score: -0.007,False,,0.48161083488425926
+469611,Dennys,Seatac,WA,usage_pattern,0.007,2025-12-10T09:47:53.318794,2025-12-10,Unusual usage pattern detected with score: -0.007,False,,0.4816108342361111
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.011,2025-12-10T09:47:53.319101,2025-12-10,Unusual usage pattern detected with score: -0.011,False,,0.48161083068287036
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.007,2025-12-10T09:49:21.272972,2025-12-10,Unusual usage pattern detected with score: -0.007,False,,0.48059284606481484
+469611,Dennys,Seatac,WA,usage_pattern,0.007,2025-12-10T09:49:21.273087,2025-12-10,Unusual usage pattern detected with score: -0.007,False,,0.4805928447337963
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.011,2025-12-10T09:49:21.273335,2025-12-10,Unusual usage pattern detected with score: -0.011,False,,0.48059284186342593
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.007,2025-12-10T09:50:48.554771,2025-12-10,Unusual usage pattern detected with score: -0.007,False,,0.4795826400578704
+469611,Dennys,Seatac,WA,usage_pattern,0.007,2025-12-10T09:50:48.554819,2025-12-10,Unusual usage pattern detected with score: -0.007,False,,0.47958263950231483
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.011,2025-12-10T09:50:48.555074,2025-12-10,Unusual usage pattern detected with score: -0.011,False,,0.4795826365509259
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.004,2025-12-10T09:52:16.022864,2025-12-10,Unusual usage pattern detected with score: -0.004,False,,0.4785702778703704
+469611,Dennys,Seatac,WA,usage_pattern,0.006,2025-12-10T09:52:16.022912,2025-12-10,Unusual usage pattern detected with score: -0.006,False,,0.47857027731481483
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.009,2025-12-10T09:52:16.023177,2025-12-10,Unusual usage pattern detected with score: -0.009,False,,0.47857027424768517
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.006,2025-12-10T09:53:44.49895,2025-12-10,Unusual usage pattern detected with score: -0.006,False,,0.4775462490972222
+469611,Dennys,Seatac,WA,usage_pattern,0.012,2025-12-10T09:53:44.499017,2025-12-10,Unusual usage pattern detected with score: -0.012,False,,0.47754624832175924
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.015,2025-12-10T09:53:44.499264,2025-12-10,Unusual usage pattern detected with score: -0.015,False,,0.477546245462963
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.003,2025-12-10T09:55:12.069447,2025-12-10,Unusual usage pattern detected with score: -0.003,False,,0.47653270167824074
+469611,Dennys,Seatac,WA,usage_pattern,0.009,2025-12-10T09:55:12.069495,2025-12-10,Unusual usage pattern detected with score: -0.009,False,,0.4765327011226852
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.014,2025-12-10T09:55:12.069706,2025-12-10,Unusual usage pattern detected with score: -0.014,False,,0.47653269868055553
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.003,2025-12-10T09:56:39.103332,2025-12-10,Unusual usage pattern detected with score: -0.003,False,,0.4755253650462963
+469611,Dennys,Seatac,WA,usage_pattern,0.009,2025-12-10T09:56:39.103403,2025-12-10,Unusual usage pattern detected with score: -0.009,False,,0.47552536422453706
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.014,2025-12-10T09:56:39.103696,2025-12-10,Unusual usage pattern detected with score: -0.014,False,,0.47552536083333335
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.003,2025-12-10T09:58:20.063473,2025-12-10,Unusual usage pattern detected with score: -0.003,False,,0.47435684489583335
+469611,Dennys,Seatac,WA,usage_pattern,0.009,2025-12-10T09:58:20.063519,2025-12-10,Unusual usage pattern detected with score: -0.009,False,,0.4743568443634259
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.014,2025-12-10T09:58:20.063716,2025-12-10,Unusual usage pattern detected with score: -0.014,False,,0.47435684208333334
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.003,2025-12-10T09:59:46.701457,2025-12-10,Unusual usage pattern detected with score: -0.003,False,,0.4733540904513889
+469611,Dennys,Seatac,WA,usage_pattern,0.009,2025-12-10T09:59:46.701524,2025-12-10,Unusual usage pattern detected with score: -0.009,False,,0.4733540896759259
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.014,2025-12-10T09:59:46.701811,2025-12-10,Unusual usage pattern detected with score: -0.014,False,,0.47335408635416665
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.003,2025-12-10T10:01:20.845799,2025-12-10,Unusual usage pattern detected with score: -0.003,False,,0.47226445686342594
+469611,Dennys,Seatac,WA,usage_pattern,0.009,2025-12-10T10:01:20.846123,2025-12-10,Unusual usage pattern detected with score: -0.009,False,,0.4722644531134259
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.014,2025-12-10T10:01:20.846664,2025-12-10,Unusual usage pattern detected with score: -0.014,False,,0.47226444685185187
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.003,2025-12-10T10:02:54.224332,2025-12-10,Unusual usage pattern detected with score: -0.003,False,,0.47118368680555556
+469611,Dennys,Seatac,WA,usage_pattern,0.009,2025-12-10T10:02:54.224424,2025-12-10,Unusual usage pattern detected with score: -0.009,False,,0.47118368574074077
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.014,2025-12-10T10:02:54.22485,2025-12-10,Unusual usage pattern detected with score: -0.014,False,,0.4711836808101852
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.019,2025-12-10T10:04:24.397781,2025-12-10,Unusual usage pattern detected with score: -0.019,False,,0.4701400126273148
+469611,Dennys,Seatac,WA,usage_pattern,0.022,2025-12-10T10:04:24.397858,2025-12-10,Unusual usage pattern detected with score: -0.022,False,,0.4701400117361111
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.006,2025-12-10T10:04:24.398217,2025-12-10,Unusual usage pattern detected with score: -0.006,False,,0.47014000758101854
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.017,2025-12-10T10:06:00.001309,2025-12-10,Unusual usage pattern detected with score: -0.017,False,,0.4690334903125
+469611,Dennys,Seatac,WA,usage_pattern,0.02,2025-12-10T10:06:00.001467,2025-12-10,Unusual usage pattern detected with score: -0.020,False,,0.4690334884837963
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.005,2025-12-10T10:06:00.001624,2025-12-10,Unusual usage pattern detected with score: -0.005,False,,0.46903348666666667
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.017,2025-12-10T10:07:29.658182,2025-12-10,Unusual usage pattern detected with score: -0.017,False,,0.46799579502314814
+469611,Dennys,Seatac,WA,usage_pattern,0.02,2025-12-10T10:07:29.65823,2025-12-10,Unusual usage pattern detected with score: -0.020,False,,0.4679957944675926
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.005,2025-12-10T10:07:29.658299,2025-12-10,Unusual usage pattern detected with score: -0.005,False,,0.4679957936689815
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.017,2025-12-10T10:09:51.408774,2025-12-10,Unusual usage pattern detected with score: -0.017,False,,0.46635516317129627
+469611,Dennys,Seatac,WA,usage_pattern,0.02,2025-12-10T10:09:51.40883,2025-12-10,Unusual usage pattern detected with score: -0.020,False,,0.4663551625231481
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.005,2025-12-10T10:09:51.408928,2025-12-10,Unusual usage pattern detected with score: -0.005,False,,0.4663551613888889
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.017,2025-12-10T10:11:21.628682,2025-12-10,Unusual usage pattern detected with score: -0.017,False,,0.46531095127314814
+469611,Dennys,Seatac,WA,usage_pattern,0.02,2025-12-10T10:11:21.62881,2025-12-10,Unusual usage pattern detected with score: -0.020,False,,0.46531094979166665
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.005,2025-12-10T10:11:21.629063,2025-12-10,Unusual usage pattern detected with score: -0.005,False,,0.46531094686342594
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.017,2025-12-10T10:12:52.988669,2025-12-10,Unusual usage pattern detected with score: -0.017,False,,0.4642535440162037
+469611,Dennys,Seatac,WA,usage_pattern,0.02,2025-12-10T10:12:52.988758,2025-12-10,Unusual usage pattern detected with score: -0.020,False,,0.4642535429861111
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.005,2025-12-10T10:12:52.988877,2025-12-10,Unusual usage pattern detected with score: -0.005,False,,0.4642535416087963
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.017,2025-12-10T10:14:23.64558,2025-12-10,Unusual usage pattern detected with score: -0.017,False,,0.46320427421296295
+469611,Dennys,Seatac,WA,usage_pattern,0.02,2025-12-10T10:14:23.645629,2025-12-10,Unusual usage pattern detected with score: -0.020,False,,0.46320427364583333
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.005,2025-12-10T10:14:23.645696,2025-12-10,Unusual usage pattern detected with score: -0.005,False,,0.46320427287037036
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.041,2025-12-10T10:16:05.636242,2025-12-10,Unusual usage pattern detected with score: -0.041,False,,0.4620238267361111
+469611,Dennys,Seatac,WA,usage_pattern,0.042,2025-12-10T10:16:05.636303,2025-12-10,Unusual usage pattern detected with score: -0.042,False,,0.46202382603009257
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.019,2025-12-10T10:16:05.636385,2025-12-10,Unusual usage pattern detected with score: -0.019,False,,0.4620238250810185
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.041,2025-12-10T10:17:34.748711,2025-12-10,Unusual usage pattern detected with score: -0.041,False,,0.46099243241898147
+469611,Dennys,Seatac,WA,usage_pattern,0.042,2025-12-10T10:17:34.748832,2025-12-10,Unusual usage pattern detected with score: -0.042,False,,0.4609924310185185
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.019,2025-12-10T10:17:34.748961,2025-12-10,Unusual usage pattern detected with score: -0.019,False,,0.460992429525463
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.041,2025-12-10T10:19:03.328318,2025-12-10,Unusual usage pattern detected with score: -0.041,False,,0.4599672054861111
+469611,Dennys,Seatac,WA,usage_pattern,0.042,2025-12-10T10:19:03.328433,2025-12-10,Unusual usage pattern detected with score: -0.042,False,,0.45996720415509257
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.019,2025-12-10T10:19:03.328592,2025-12-10,Unusual usage pattern detected with score: -0.019,False,,0.4599672023148148
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.041,2025-12-10T10:20:35.443372,2025-12-10,Unusual usage pattern detected with score: -0.041,False,,0.4589010590277778
+469611,Dennys,Seatac,WA,usage_pattern,0.042,2025-12-10T10:20:35.443428,2025-12-10,Unusual usage pattern detected with score: -0.042,False,,0.45890105837962963
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.019,2025-12-10T10:20:35.443509,2025-12-10,Unusual usage pattern detected with score: -0.019,False,,0.4589010574421296
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.041,2025-12-10T10:22:05.368841,2025-12-10,Unusual usage pattern detected with score: -0.041,False,,0.4578602549884259
+469611,Dennys,Seatac,WA,usage_pattern,0.042,2025-12-10T10:22:05.368937,2025-12-10,Unusual usage pattern detected with score: -0.042,False,,0.4578602538773148
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.019,2025-12-10T10:22:05.369147,2025-12-10,Unusual usage pattern detected with score: -0.019,False,,0.45786025144675924
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.037,2025-12-10T10:23:36.842285,2025-12-10,Unusual usage pattern detected with score: -0.037,False,,0.45680153457175926
+469611,Dennys,Seatac,WA,usage_pattern,0.038,2025-12-10T10:23:36.842418,2025-12-10,Unusual usage pattern detected with score: -0.038,False,,0.4568015330324074
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.019,2025-12-10T10:23:36.842567,2025-12-10,Unusual usage pattern detected with score: -0.019,False,,0.4568015313078704
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.037,2025-12-10T10:25:27.845393,2025-12-10,Unusual usage pattern detected with score: -0.037,False,,0.4555167763773148
+469611,Dennys,Seatac,WA,usage_pattern,0.038,2025-12-10T10:25:27.845497,2025-12-10,Unusual usage pattern detected with score: -0.038,False,,0.4555167751736111
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.019,2025-12-10T10:25:27.845626,2025-12-10,Unusual usage pattern detected with score: -0.019,False,,0.45551677368055554
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.03,2025-12-10T10:26:57.517926,2025-12-10,Unusual usage pattern detected with score: -0.030,False,,0.45447889983796297
+469611,Dennys,Seatac,WA,usage_pattern,0.032,2025-12-10T10:26:57.518086,2025-12-10,Unusual usage pattern detected with score: -0.032,False,,0.45447889798611113
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.018,2025-12-10T10:26:57.518465,2025-12-10,Unusual usage pattern detected with score: -0.018,False,,0.454478893599537
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.03,2025-12-10T10:28:29.830017,2025-12-10,Unusual usage pattern detected with score: -0.030,False,,0.4534104728587963
+469611,Dennys,Seatac,WA,usage_pattern,0.032,2025-12-10T10:28:29.830129,2025-12-10,Unusual usage pattern detected with score: -0.032,False,,0.4534104715625
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.018,2025-12-10T10:28:29.830415,2025-12-10,Unusual usage pattern detected with score: -0.018,False,,0.4534104682523148
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.03,2025-12-10T10:30:07.098464,2025-12-10,Unusual usage pattern detected with score: -0.030,False,,0.45228468064814814
+469611,Dennys,Seatac,WA,usage_pattern,0.032,2025-12-10T10:30:07.098526,2025-12-10,Unusual usage pattern detected with score: -0.032,False,,0.45228467993055554
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.018,2025-12-10T10:30:07.098786,2025-12-10,Unusual usage pattern detected with score: -0.018,False,,0.4522846769212963
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.03,2025-12-10T10:31:36.026211,2025-12-10,Unusual usage pattern detected with score: -0.030,False,,0.4512554243171296
+469611,Dennys,Seatac,WA,usage_pattern,0.032,2025-12-10T10:31:36.026279,2025-12-10,Unusual usage pattern detected with score: -0.032,False,,0.45125542353009257
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.018,2025-12-10T10:31:36.026598,2025-12-10,Unusual usage pattern detected with score: -0.018,False,,0.45125541983796297
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.03,2025-12-10T10:33:04.463377,2025-12-10,Unusual usage pattern detected with score: -0.030,False,,0.45023184600694444
+469611,Dennys,Seatac,WA,usage_pattern,0.032,2025-12-10T10:33:04.463604,2025-12-10,Unusual usage pattern detected with score: -0.032,False,,0.4502318433796296
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.018,2025-12-10T10:33:04.464532,2025-12-10,Unusual usage pattern detected with score: -0.018,False,,0.4502318326388889
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.03,2025-12-10T10:34:33.554894,2025-12-10,Unusual usage pattern detected with score: -0.030,False,,0.44920069418981484
+469611,Dennys,Seatac,WA,usage_pattern,0.032,2025-12-10T10:34:33.555135,2025-12-10,Unusual usage pattern detected with score: -0.032,False,,0.449200691400463
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.018,2025-12-10T10:34:33.555634,2025-12-10,Unusual usage pattern detected with score: -0.018,False,,0.449200685625
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.03,2025-12-10T10:36:02.443224,2025-12-10,Unusual usage pattern detected with score: -0.030,False,,0.4481718940740741
+469611,Dennys,Seatac,WA,usage_pattern,0.032,2025-12-10T10:36:02.443289,2025-12-10,Unusual usage pattern detected with score: -0.032,False,,0.4481718933217593
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.018,2025-12-10T10:36:02.443565,2025-12-10,Unusual usage pattern detected with score: -0.018,False,,0.44817189012731484
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.047,2025-12-10T10:37:32.87469,2025-12-10,Unusual usage pattern detected with score: -0.047,False,,0.44712523358796297
+469611,Dennys,Seatac,WA,usage_pattern,0.042,2025-12-10T10:37:32.874761,2025-12-10,Unusual usage pattern detected with score: -0.042,False,,0.4471252327662037
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.012,2025-12-10T10:37:32.87513,2025-12-10,Unusual usage pattern detected with score: -0.012,False,,0.4471252284953704
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.047,2025-12-10T10:39:01.412093,2025-12-10,Unusual usage pattern detected with score: -0.047,False,,0.4461004951273148
+469611,Dennys,Seatac,WA,usage_pattern,0.042,2025-12-10T10:39:01.412333,2025-12-10,Unusual usage pattern detected with score: -0.042,False,,0.446100492349537
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.012,2025-12-10T10:39:01.412828,2025-12-10,Unusual usage pattern detected with score: -0.012,False,,0.4461004866203704
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.047,2025-12-10T10:40:43.270806,2025-12-10,Unusual usage pattern detected with score: -0.047,False,,0.44492157483796296
+469611,Dennys,Seatac,WA,usage_pattern,0.042,2025-12-10T10:40:43.270873,2025-12-10,Unusual usage pattern detected with score: -0.042,False,,0.4449215740625
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.012,2025-12-10T10:40:43.271234,2025-12-10,Unusual usage pattern detected with score: -0.012,False,,0.44492156988425924
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.047,2025-12-10T10:42:11.640595,2025-12-10,Unusual usage pattern detected with score: -0.047,False,,0.4438987763541667
+469611,Dennys,Seatac,WA,usage_pattern,0.042,2025-12-10T10:42:11.640671,2025-12-10,Unusual usage pattern detected with score: -0.042,False,,0.44389877547453704
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.012,2025-12-10T10:42:11.641018,2025-12-10,Unusual usage pattern detected with score: -0.012,False,,0.44389877145833334
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.047,2025-12-10T10:43:39.872304,2025-12-10,Unusual usage pattern detected with score: -0.047,False,,0.4428775760185185
+469611,Dennys,Seatac,WA,usage_pattern,0.042,2025-12-10T10:43:39.872382,2025-12-10,Unusual usage pattern detected with score: -0.042,False,,0.4428775751157407
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.012,2025-12-10T10:43:39.872677,2025-12-10,Unusual usage pattern detected with score: -0.012,False,,0.44287757170138886
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.047,2025-12-10T10:45:16.237268,2025-12-10,Unusual usage pattern detected with score: -0.047,False,,0.441762240787037
+469611,Dennys,Seatac,WA,usage_pattern,0.042,2025-12-10T10:45:16.237331,2025-12-10,Unusual usage pattern detected with score: -0.042,False,,0.44176224005787035
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.012,2025-12-10T10:45:16.237589,2025-12-10,Unusual usage pattern detected with score: -0.012,False,,0.44176223707175927
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.047,2025-12-10T10:46:44.852341,2025-12-10,Unusual usage pattern detected with score: -0.047,False,,0.44073660336805554
+469611,Dennys,Seatac,WA,usage_pattern,0.042,2025-12-10T10:46:44.852406,2025-12-10,Unusual usage pattern detected with score: -0.042,False,,0.4407366026157407
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.012,2025-12-10T10:46:44.852666,2025-12-10,Unusual usage pattern detected with score: -0.012,False,,0.4407365996064815
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.048,2025-12-10T10:48:14.787829,2025-12-10,Unusual usage pattern detected with score: -0.048,False,,0.43969568336805553
+469611,Dennys,Seatac,WA,usage_pattern,0.041,2025-12-10T10:48:14.787904,2025-12-10,Unusual usage pattern detected with score: -0.041,False,,0.4396956825
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.012,2025-12-10T10:48:14.788266,2025-12-10,Unusual usage pattern detected with score: -0.012,False,,0.4396956783101852
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.048,2025-12-10T10:49:51.870818,2025-12-10,Unusual usage pattern detected with score: -0.048,False,,0.43857203766203706
+469611,Dennys,Seatac,WA,usage_pattern,0.041,2025-12-10T10:49:51.870904,2025-12-10,Unusual usage pattern detected with score: -0.041,False,,0.43857203666666666
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.012,2025-12-10T10:49:51.871314,2025-12-10,Unusual usage pattern detected with score: -0.012,False,,0.4385720319212963
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.048,2025-12-10T10:51:20.078727,2025-12-10,Unusual usage pattern detected with score: -0.048,False,,0.4375511127893518
+469611,Dennys,Seatac,WA,usage_pattern,0.041,2025-12-10T10:51:20.078787,2025-12-10,Unusual usage pattern detected with score: -0.041,False,,0.43755111209490744
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.012,2025-12-10T10:51:20.079139,2025-12-10,Unusual usage pattern detected with score: -0.012,False,,0.43755110802083336
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.048,2025-12-10T10:52:47.949581,2025-12-10,Unusual usage pattern detected with score: -0.048,False,,0.4365340890162037
+469611,Dennys,Seatac,WA,usage_pattern,0.041,2025-12-10T10:52:47.949648,2025-12-10,Unusual usage pattern detected with score: -0.041,False,,0.43653408824074075
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.012,2025-12-10T10:52:47.950001,2025-12-10,Unusual usage pattern detected with score: -0.012,False,,0.4365340841550926
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.048,2025-12-10T10:54:16.056068,2025-12-10,Unusual usage pattern detected with score: -0.048,False,,0.43551433800925926
+469611,Dennys,Seatac,WA,usage_pattern,0.041,2025-12-10T10:54:16.056152,2025-12-10,Unusual usage pattern detected with score: -0.041,False,,0.435514337037037
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.012,2025-12-10T10:54:16.056445,2025-12-10,Unusual usage pattern detected with score: -0.012,False,,0.4355143336458333
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.05,2025-12-10T10:55:47.156656,2025-12-10,Unusual usage pattern detected with score: -0.050,False,,0.4344599330555556
+469611,Dennys,Seatac,WA,usage_pattern,0.045,2025-12-10T10:55:47.156744,2025-12-10,Unusual usage pattern detected with score: -0.045,False,,0.43445993203703703
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.014,2025-12-10T10:55:47.157089,2025-12-10,Unusual usage pattern detected with score: -0.014,False,,0.4344599280439815
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.05,2025-12-10T10:57:13.968267,2025-12-10,Unusual usage pattern detected with score: -0.050,False,,0.43345516903935183
+469611,Dennys,Seatac,WA,usage_pattern,0.045,2025-12-10T10:57:13.968319,2025-12-10,Unusual usage pattern detected with score: -0.045,False,,0.4334551684375
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.014,2025-12-10T10:57:13.968681,2025-12-10,Unusual usage pattern detected with score: -0.014,False,,0.4334551642476852
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.052,2025-12-10T10:58:41.200933,2025-12-10,Unusual usage pattern detected with score: -0.052,False,,0.4324455317013889
+469611,Dennys,Seatac,WA,usage_pattern,0.032,2025-12-10T10:58:41.201079,2025-12-10,Unusual usage pattern detected with score: -0.032,False,,0.4324455300115741
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.007,2025-12-10T10:58:41.201394,2025-12-10,Unusual usage pattern detected with score: -0.007,False,,0.43244552636574074
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.052,2025-12-10T11:00:09.450459,2025-12-10,Unusual usage pattern detected with score: -0.052,False,,0.43142412515046297
+469611,Dennys,Seatac,WA,usage_pattern,0.032,2025-12-10T11:00:09.450514,2025-12-10,Unusual usage pattern detected with score: -0.032,False,,0.4314241245138889
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.007,2025-12-10T11:00:09.450749,2025-12-10,Unusual usage pattern detected with score: -0.007,False,,0.4314241217939815
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.052,2025-12-10T11:01:38.958091,2025-12-10,Unusual usage pattern detected with score: -0.052,False,,0.4303881571875
+469611,Dennys,Seatac,WA,usage_pattern,0.032,2025-12-10T11:01:38.958175,2025-12-10,Unusual usage pattern detected with score: -0.032,False,,0.43038815621527776
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.007,2025-12-10T11:01:38.958429,2025-12-10,Unusual usage pattern detected with score: -0.007,False,,0.430388153275463
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.052,2025-12-10T11:03:06.981367,2025-12-10,Unusual usage pattern detected with score: -0.052,False,,0.42936936927083336
+469611,Dennys,Seatac,WA,usage_pattern,0.032,2025-12-10T11:03:06.981423,2025-12-10,Unusual usage pattern detected with score: -0.032,False,,0.4293693686226852
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.007,2025-12-10T11:03:06.981664,2025-12-10,Unusual usage pattern detected with score: -0.007,False,,0.42936936583333335
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.052,2025-12-10T11:04:40.091082,2025-12-10,Unusual usage pattern detected with score: -0.052,False,,0.4282917105324074
+469611,Dennys,Seatac,WA,usage_pattern,0.032,2025-12-10T11:04:40.091164,2025-12-10,Unusual usage pattern detected with score: -0.032,False,,0.42829170958333335
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.007,2025-12-10T11:04:40.091442,2025-12-10,Unusual usage pattern detected with score: -0.007,False,,0.42829170636574077
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.05,2025-12-10T11:06:19.508571,2025-12-10,Unusual usage pattern detected with score: -0.050,False,,0.427141045150463
+469611,Dennys,Seatac,WA,usage_pattern,0.029,2025-12-10T11:06:19.508626,2025-12-10,Unusual usage pattern detected with score: -0.029,False,,0.4271410445138889
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.007,2025-12-10T11:06:19.508874,2025-12-10,Unusual usage pattern detected with score: -0.007,False,,0.4271410416435185
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.047,2025-12-10T11:07:48.690329,2025-12-10,Unusual usage pattern detected with score: -0.047,False,,0.4261088488773148
+469611,Dennys,Seatac,WA,usage_pattern,0.035,2025-12-10T11:07:48.690409,2025-12-10,Unusual usage pattern detected with score: -0.035,False,,0.42610884795138887
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.022,2025-12-10T11:07:48.690768,2025-12-10,Unusual usage pattern detected with score: -0.022,False,,0.4261088437962963
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.047,2025-12-10T11:09:17.138252,2025-12-10,Unusual usage pattern detected with score: -0.047,False,,0.4250851460648148
+469611,Dennys,Seatac,WA,usage_pattern,0.035,2025-12-10T11:09:17.138312,2025-12-10,Unusual usage pattern detected with score: -0.035,False,,0.42508514537037034
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.022,2025-12-10T11:09:17.138561,2025-12-10,Unusual usage pattern detected with score: -0.022,False,,0.42508514248842594
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.047,2025-12-10T11:10:58.755009,2025-12-10,Unusual usage pattern detected with score: -0.047,False,,0.4239090261921296
+469611,Dennys,Seatac,WA,usage_pattern,0.035,2025-12-10T11:10:58.755195,2025-12-10,Unusual usage pattern detected with score: -0.035,False,,0.4239090240393519
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.022,2025-12-10T11:10:58.755496,2025-12-10,Unusual usage pattern detected with score: -0.022,False,,0.42390902055555557
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.047,2025-12-10T11:12:27.019738,2025-12-10,Unusual usage pattern detected with score: -0.047,False,,0.42288744368055553
+469611,Dennys,Seatac,WA,usage_pattern,0.035,2025-12-10T11:12:27.019807,2025-12-10,Unusual usage pattern detected with score: -0.035,False,,0.42288744288194446
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.022,2025-12-10T11:12:27.020157,2025-12-10,Unusual usage pattern detected with score: -0.022,False,,0.42288743883101854
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.047,2025-12-10T11:13:54.228,2025-12-10,Unusual usage pattern detected with score: -0.047,False,,0.4218780887962963
+469611,Dennys,Seatac,WA,usage_pattern,0.036,2025-12-10T11:13:54.2281,2025-12-10,Unusual usage pattern detected with score: -0.036,False,,0.4218780876388889
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.023,2025-12-10T11:13:54.228361,2025-12-10,Unusual usage pattern detected with score: -0.023,False,,0.42187808461805554
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.047,2025-12-10T11:15:40.097847,2025-12-10,Unusual usage pattern detected with score: -0.047,False,,0.42065274334490743
+469611,Dennys,Seatac,WA,usage_pattern,0.036,2025-12-10T11:15:40.097912,2025-12-10,Unusual usage pattern detected with score: -0.036,False,,0.4206527425925926
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.023,2025-12-10T11:15:40.098268,2025-12-10,Unusual usage pattern detected with score: -0.023,False,,0.42065273847222223
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.047,2025-12-10T11:17:08.938633,2025-12-10,Unusual usage pattern detected with score: -0.047,False,,0.4196244935069444
+469611,Dennys,Seatac,WA,usage_pattern,0.036,2025-12-10T11:17:08.938693,2025-12-10,Unusual usage pattern detected with score: -0.036,False,,0.4196244928125
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.023,2025-12-10T11:17:08.93895,2025-12-10,Unusual usage pattern detected with score: -0.023,False,,0.41962448983796297
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.044,2025-12-10T11:18:38.348396,2025-12-10,Unusual usage pattern detected with score: -0.044,False,,0.41858965828703704
+469611,Dennys,Seatac,WA,usage_pattern,0.033,2025-12-10T11:18:38.348458,2025-12-10,Unusual usage pattern detected with score: -0.033,False,,0.41858965756944444
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.007,2025-12-10T11:18:38.348747,2025-12-10,Unusual usage pattern detected with score: -0.007,False,,0.41858965422453703
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.044,2025-12-10T11:20:10.078647,2025-12-10,Unusual usage pattern detected with score: -0.044,False,,0.4175279655671296
+469611,Dennys,Seatac,WA,usage_pattern,0.033,2025-12-10T11:20:10.078701,2025-12-10,Unusual usage pattern detected with score: -0.033,False,,0.4175279649421296
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.007,2025-12-10T11:20:10.078909,2025-12-10,Unusual usage pattern detected with score: -0.007,False,,0.41752796253472224
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.044,2025-12-10T11:21:39.183088,2025-12-10,Unusual usage pattern detected with score: -0.044,False,,0.41649666416666664
+469611,Dennys,Seatac,WA,usage_pattern,0.033,2025-12-10T11:21:39.183144,2025-12-10,Unusual usage pattern detected with score: -0.033,False,,0.4164966635185185
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.007,2025-12-10T11:21:39.183407,2025-12-10,Unusual usage pattern detected with score: -0.007,False,,0.41649666047453704
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.044,2025-12-10T11:23:07.662808,2025-12-10,Unusual usage pattern detected with score: -0.044,False,,0.4154725933333333
+469611,Dennys,Seatac,WA,usage_pattern,0.033,2025-12-10T11:23:07.662873,2025-12-10,Unusual usage pattern detected with score: -0.033,False,,0.41547259258101854
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.007,2025-12-10T11:23:07.66322,2025-12-10,Unusual usage pattern detected with score: -0.007,False,,0.41547258856481484
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.044,2025-12-10T11:53:44.875843,2025-12-10,Unusual usage pattern detected with score: -0.044,False,,0.3942085535763889
+469611,Dennys,Seatac,WA,usage_pattern,0.033,2025-12-10T11:53:44.875893,2025-12-10,Unusual usage pattern detected with score: -0.033,False,,0.3942085529976852
+469374,Freewire Charging Station,Columbus,OH,usage_pattern,0.007,2025-12-10T11:53:44.876094,2025-12-10,Unusual usage pattern detected with score: -0.007,False,,0.3942085506712963
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.027,2025-12-10T20:25:33.187644,2025-12-10,Unusual usage pattern detected with score: -0.027,False,,0.03878827810185185
+469611,Dennys,Seatac,WA,usage_pattern,0.023,2025-12-10T20:25:33.187749,2025-12-10,Unusual usage pattern detected with score: -0.023,False,,0.038788276886574075
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.108,2025-12-10T20:25:33.187865,2025-12-10,Unusual usage pattern detected with score: -0.108,False,,0.03878827554398148
+470498,US Highway 57,Eagle Pass,Texas,usage_pattern,0.044,2025-12-10T20:27:41.806474,2025-12-10,Unusual usage pattern detected with score: -0.044,False,,0.03729963423611111
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.072,2025-12-10T20:27:41.807267,2025-12-10,Unusual usage pattern detected with score: -0.072,False,,0.03729962505787037
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.063,2025-12-10T20:27:41.807439,2025-12-10,Unusual usage pattern detected with score: -0.063,False,,0.03729962306712963
+470498,US Highway 57,Eagle Pass,Texas,usage_pattern,0.044,2025-12-10T20:29:12.308935,2025-12-10,Unusual usage pattern detected with score: -0.044,False,,0.03625215204861111
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.072,2025-12-10T20:29:12.309659,2025-12-10,Unusual usage pattern detected with score: -0.072,False,,0.03625214366898148
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.063,2025-12-10T20:29:12.309796,2025-12-10,Unusual usage pattern detected with score: -0.063,False,,0.036252142083333334
+470498,US Highway 57,Eagle Pass,Texas,usage_pattern,0.043,2025-12-10T20:31:11.016668,2025-12-10,Unusual usage pattern detected with score: -0.043,False,,0.0348782199537037
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.071,2025-12-10T20:31:11.017193,2025-12-10,Unusual usage pattern detected with score: -0.071,False,,0.034878213877314816
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.062,2025-12-10T20:31:11.01731,2025-12-10,Unusual usage pattern detected with score: -0.062,False,,0.03487821252314815
+470498,US Highway 57,Eagle Pass,Texas,usage_pattern,0.043,2025-12-10T20:32:40.696102,2025-12-10,Unusual usage pattern detected with score: -0.043,False,,0.033840263541666665
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.071,2025-12-10T20:32:40.696696,2025-12-10,Unusual usage pattern detected with score: -0.071,False,,0.033840256666666665
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.062,2025-12-10T20:32:40.69682,2025-12-10,Unusual usage pattern detected with score: -0.062,False,,0.03384025523148148
+470498,US Highway 57,Eagle Pass,Texas,usage_pattern,0.043,2025-12-10T20:34:10.641699,2025-12-10,Unusual usage pattern detected with score: -0.043,False,,0.03279922653935185
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.071,2025-12-10T20:34:10.642213,2025-12-10,Unusual usage pattern detected with score: -0.071,False,,0.032799220590277775
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.062,2025-12-10T20:34:10.642326,2025-12-10,Unusual usage pattern detected with score: -0.062,False,,0.03279921928240741
+470498,US Highway 57,Eagle Pass,Texas,usage_pattern,0.043,2025-12-10T20:35:48.964334,2025-12-10,Unusual usage pattern detected with score: -0.043,False,,0.0316612330787037
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.071,2025-12-10T20:35:48.965449,2025-12-10,Unusual usage pattern detected with score: -0.071,False,,0.03166122017361111
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.062,2025-12-10T20:35:48.965756,2025-12-10,Unusual usage pattern detected with score: -0.062,False,,0.03166121662037037
+470498,US Highway 57,Eagle Pass,Texas,usage_pattern,0.043,2025-12-10T20:37:19.467902,2025-12-10,Unusual usage pattern detected with score: -0.043,False,,0.030613738078703705
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.071,2025-12-10T20:37:19.468993,2025-12-10,Unusual usage pattern detected with score: -0.071,False,,0.03061372545138889
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.062,2025-12-10T20:37:19.469236,2025-12-10,Unusual usage pattern detected with score: -0.062,False,,0.03061372263888889
+470498,US Highway 57,Eagle Pass,Texas,usage_pattern,0.052,2025-12-10T20:38:49.984783,2025-12-10,Unusual usage pattern detected with score: -0.052,False,,0.029566088993055555
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.008,2025-12-10T20:38:49.985446,2025-12-10,Unusual usage pattern detected with score: -0.008,False,,0.029566081319444444
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.064,2025-12-10T20:38:49.985663,2025-12-10,Unusual usage pattern detected with score: -0.064,False,,0.02956607880787037
+470498,US Highway 57,Eagle Pass,Texas,usage_pattern,0.052,2025-12-10T20:40:18.875333,2025-12-10,Unusual usage pattern detected with score: -0.052,False,,0.028537263182870372
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.008,2025-12-10T20:40:18.876143,2025-12-10,Unusual usage pattern detected with score: -0.008,False,,0.02853725380787037
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.064,2025-12-10T20:40:18.876271,2025-12-10,Unusual usage pattern detected with score: -0.064,False,,0.028537252326388887
+470498,US Highway 57,Eagle Pass,Texas,usage_pattern,0.052,2025-12-10T20:41:48.83019,2025-12-10,Unusual usage pattern detected with score: -0.052,False,,0.02749611900462963
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.005,2025-12-10T20:41:48.830887,2025-12-10,Unusual usage pattern detected with score: -0.005,False,,0.0274961109375
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.064,2025-12-10T20:41:48.831026,2025-12-10,Unusual usage pattern detected with score: -0.064,False,,0.027496109328703704
+470498,US Highway 57,Eagle Pass,Texas,usage_pattern,0.052,2025-12-10T20:43:18.552963,2025-12-10,Unusual usage pattern detected with score: -0.052,False,,0.026457660983796295
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.005,2025-12-10T20:43:18.553969,2025-12-10,Unusual usage pattern detected with score: -0.005,False,,0.026457649340277778
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.064,2025-12-10T20:43:18.55418,2025-12-10,Unusual usage pattern detected with score: -0.064,False,,0.026457646898148147
+470498,US Highway 57,Eagle Pass,Texas,usage_pattern,0.052,2025-12-10T20:44:47.26128,2025-12-10,Unusual usage pattern detected with score: -0.052,False,,0.02543094435185185
+469612,"Dennys - Auburn, WA",Auburn,WA,usage_pattern,0.005,2025-12-10T20:44:47.26193,2025-12-10,Unusual usage pattern detected with score: -0.005,False,,0.025430936828703704
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.064,2025-12-10T20:44:47.262057,2025-12-10,Unusual usage pattern detected with score: -0.064,False,,0.025430935358796296
+470498,US Highway 57,Eagle Pass,Texas,usage_pattern,0.044,2025-12-10T20:46:17.132378,2025-12-10,Unusual usage pattern detected with score: -0.044,False,,0.024390769606481483
+469611,Dennys,Seatac,WA,usage_pattern,0.081,2025-12-10T20:46:17.133127,2025-12-10,Unusual usage pattern detected with score: -0.081,False,,0.0243907609375
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.044,2025-12-10T20:46:17.133228,2025-12-10,Unusual usage pattern detected with score: -0.044,False,,0.024390759768518518
+470498,US Highway 57,Eagle Pass,Texas,usage_pattern,0.044,2025-12-10T20:47:46.208486,2025-12-10,Unusual usage pattern detected with score: -0.044,False,,0.02335979613425926
+469611,Dennys,Seatac,WA,usage_pattern,0.081,2025-12-10T20:47:46.209078,2025-12-10,Unusual usage pattern detected with score: -0.081,False,,0.02335978928240741
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.044,2025-12-10T20:47:46.209159,2025-12-10,Unusual usage pattern detected with score: -0.044,False,,0.023359788344907408
+470498,US Highway 57,Eagle Pass,Texas,usage_pattern,0.044,2025-12-10T20:49:14.31884,2025-12-10,Unusual usage pattern detected with score: -0.044,False,,0.022340000370370372
+469611,Dennys,Seatac,WA,usage_pattern,0.081,2025-12-10T20:49:14.319438,2025-12-10,Unusual usage pattern detected with score: -0.081,False,,0.022339993449074075
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.044,2025-12-10T20:49:14.31954,2025-12-10,Unusual usage pattern detected with score: -0.044,False,,0.02233999226851852
+470498,US Highway 57,Eagle Pass,Texas,usage_pattern,0.044,2025-12-10T20:50:49.575586,2025-12-10,Unusual usage pattern detected with score: -0.044,False,,0.02123749173611111
+469611,Dennys,Seatac,WA,usage_pattern,0.081,2025-12-10T20:50:49.576084,2025-12-10,Unusual usage pattern detected with score: -0.081,False,,0.021237485972222223
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.044,2025-12-10T20:50:49.576156,2025-12-10,Unusual usage pattern detected with score: -0.044,False,,0.02123748513888889
+470498,US Highway 57,Eagle Pass,Texas,usage_pattern,0.044,2025-12-10T20:52:18.745765,2025-12-10,Unusual usage pattern detected with score: -0.044,False,,0.020205429479166665
+469611,Dennys,Seatac,WA,usage_pattern,0.081,2025-12-10T20:52:18.746234,2025-12-10,Unusual usage pattern detected with score: -0.081,False,,0.020205424050925926
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.044,2025-12-10T20:52:18.746305,2025-12-10,Unusual usage pattern detected with score: -0.044,False,,0.020205423229166665
+470498,US Highway 57,Eagle Pass,Texas,usage_pattern,0.044,2025-12-10T20:53:48.072169,2025-12-10,Unusual usage pattern detected with score: -0.044,False,,0.0191715590625
+469611,Dennys,Seatac,WA,usage_pattern,0.081,2025-12-10T20:53:48.073333,2025-12-10,Unusual usage pattern detected with score: -0.081,False,,0.019171545590277776
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.044,2025-12-10T20:53:48.073599,2025-12-10,Unusual usage pattern detected with score: -0.044,False,,0.019171542511574075
+470498,US Highway 57,Eagle Pass,Texas,usage_pattern,0.044,2025-12-10T20:55:16.309687,2025-12-10,Unusual usage pattern detected with score: -0.044,False,,0.018150291493055557
+469611,Dennys,Seatac,WA,usage_pattern,0.081,2025-12-10T20:55:16.310162,2025-12-10,Unusual usage pattern detected with score: -0.081,False,,0.01815028599537037
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.044,2025-12-10T20:55:16.310234,2025-12-10,Unusual usage pattern detected with score: -0.044,False,,0.01815028516203704
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,usage_pattern,0.005,2025-12-10T20:56:46.694912,2025-12-10,Unusual usage pattern detected with score: -0.005,False,,0.017104166203703704
+470314,EVolve NY Afton,Afton,NY,usage_pattern,0.042,2025-12-10T20:56:46.695083,2025-12-10,Unusual usage pattern detected with score: -0.042,False,,0.017104164224537036
+469749,"Ionna Reading, MA Rechargery Relay",Reading,MA,usage_pattern,0.047,2025-12-10T20:56:46.69526,2025-12-10,Unusual usage pattern detected with score: -0.047,False,,0.017104162175925926
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,usage_pattern,0.005,2025-12-10T20:58:14.960465,2025-12-10,Unusual usage pattern detected with score: -0.005,False,,0.016082574155092594
+470314,EVolve NY Afton,Afton,NY,usage_pattern,0.042,2025-12-10T20:58:14.961768,2025-12-10,Unusual usage pattern detected with score: -0.042,False,,0.016082559074074073
+469749,"Ionna Reading, MA Rechargery Relay",Reading,MA,usage_pattern,0.047,2025-12-10T20:58:14.962465,2025-12-10,Unusual usage pattern detected with score: -0.047,False,,0.016082551006944446
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,usage_pattern,0.005,2025-12-10T20:59:43.993432,2025-12-10,Unusual usage pattern detected with score: -0.005,False,,0.0150521
+470314,EVolve NY Afton,Afton,NY,usage_pattern,0.042,2025-12-10T20:59:43.994208,2025-12-10,Unusual usage pattern detected with score: -0.042,False,,0.015052091018518518
+469749,"Ionna Reading, MA Rechargery Relay",Reading,MA,usage_pattern,0.047,2025-12-10T20:59:43.994559,2025-12-10,Unusual usage pattern detected with score: -0.047,False,,0.015052086956018519
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,usage_pattern,0.005,2025-12-10T21:01:20.97022,2025-12-10,Unusual usage pattern detected with score: -0.005,False,,0.013929683472222221
+470314,EVolve NY Afton,Afton,NY,usage_pattern,0.042,2025-12-10T21:01:20.970424,2025-12-10,Unusual usage pattern detected with score: -0.042,False,,0.013929681111111111
+469749,"Ionna Reading, MA Rechargery Relay",Reading,MA,usage_pattern,0.047,2025-12-10T21:01:20.970723,2025-12-10,Unusual usage pattern detected with score: -0.047,False,,0.013929677650462963
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,usage_pattern,0.005,2025-12-10T21:03:41.678222,2025-12-10,Unusual usage pattern detected with score: -0.005,False,,0.01230111863425926
+470314,EVolve NY Afton,Afton,NY,usage_pattern,0.042,2025-12-10T21:03:41.678401,2025-12-10,Unusual usage pattern detected with score: -0.042,False,,0.0123011165625
+469749,"Ionna Reading, MA Rechargery Relay",Reading,MA,usage_pattern,0.047,2025-12-10T21:03:41.678645,2025-12-10,Unusual usage pattern detected with score: -0.047,False,,0.012301113738425925
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,usage_pattern,0.005,2025-12-10T21:05:09.233904,2025-12-10,Unusual usage pattern detected with score: -0.005,False,,0.011287742685185185
+470314,EVolve NY Afton,Afton,NY,usage_pattern,0.042,2025-12-10T21:05:09.234159,2025-12-10,Unusual usage pattern detected with score: -0.042,False,,0.011287739733796296
+469749,"Ionna Reading, MA Rechargery Relay",Reading,MA,usage_pattern,0.047,2025-12-10T21:05:09.234369,2025-12-10,Unusual usage pattern detected with score: -0.047,False,,0.01128773730324074
+470314,EVolve NY Afton,Afton,NY,usage_pattern,0.042,2025-12-10T21:06:37.224171,2025-12-10,Unusual usage pattern detected with score: -0.042,False,,0.01026933681712963
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,usage_pattern,0.005,2025-12-10T21:06:37.224,2025-12-10,Unusual usage pattern detected with score: -0.005,False,,0.010269338796296296
+469749,"Ionna Reading, MA Rechargery Relay",Reading,MA,usage_pattern,0.047,2025-12-10T21:06:37.224349,2025-12-10,Unusual usage pattern detected with score: -0.047,False,,0.010269334756944444
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,usage_pattern,0.003,2025-12-10T21:08:04.973634,2025-12-10,Unusual usage pattern detected with score: -0.003,False,,0.009253718032407408
+470498,US Highway 57,Eagle Pass,Texas,usage_pattern,0.061,2025-12-10T21:08:04.973821,2025-12-10,Unusual usage pattern detected with score: -0.061,False,,0.009253715868055555
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.041,2025-12-10T21:08:04.974672,2025-12-10,Unusual usage pattern detected with score: -0.041,False,,0.009253706018518519
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,usage_pattern,0.003,2025-12-10T21:09:33.698976,2025-12-10,Unusual usage pattern detected with score: -0.003,False,,0.008226804351851852
+470498,US Highway 57,Eagle Pass,Texas,usage_pattern,0.061,2025-12-10T21:09:33.699375,2025-12-10,Unusual usage pattern detected with score: -0.061,False,,0.008226799733796296
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.041,2025-12-10T21:09:33.701749,2025-12-10,Unusual usage pattern detected with score: -0.041,False,,0.008226772256944445
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,usage_pattern,0.003,2025-12-10T21:11:05.060276,2025-12-10,Unusual usage pattern detected with score: -0.003,False,,0.007169381898148149
+470498,US Highway 57,Eagle Pass,Texas,usage_pattern,0.061,2025-12-10T21:11:05.060388,2025-12-10,Unusual usage pattern detected with score: -0.061,False,,0.007169380601851852
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.041,2025-12-10T21:11:05.060962,2025-12-10,Unusual usage pattern detected with score: -0.041,False,,0.007169373958333333
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,usage_pattern,0.003,2025-12-10T21:12:38.848052,2025-12-10,Unusual usage pattern detected with score: -0.003,False,,0.006083875231481481
+470498,US Highway 57,Eagle Pass,Texas,usage_pattern,0.061,2025-12-10T21:12:38.848902,2025-12-10,Unusual usage pattern detected with score: -0.061,False,,0.006083865393518519
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.041,2025-12-10T21:12:38.856274,2025-12-10,Unusual usage pattern detected with score: -0.041,False,,0.0060837800694444446
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,usage_pattern,0.003,2025-12-10T21:14:12.574759,2025-12-10,Unusual usage pattern detected with score: -0.003,False,,0.004999075381944444
+470498,US Highway 57,Eagle Pass,Texas,usage_pattern,0.061,2025-12-10T21:14:12.574869,2025-12-10,Unusual usage pattern detected with score: -0.061,False,,0.004999074108796297
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.041,2025-12-10T21:14:12.575357,2025-12-10,Unusual usage pattern detected with score: -0.041,False,,0.004999068460648148
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,usage_pattern,0.003,2025-12-10T21:15:40.595443,2025-12-10,Unusual usage pattern detected with score: -0.003,False,,0.003980317465277778
+470498,US Highway 57,Eagle Pass,Texas,usage_pattern,0.061,2025-12-10T21:15:40.595706,2025-12-10,Unusual usage pattern detected with score: -0.061,False,,0.003980314421296296
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.041,2025-12-10T21:15:40.59686,2025-12-10,Unusual usage pattern detected with score: -0.041,False,,0.003980301064814814
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,usage_pattern,0.003,2025-12-10T21:17:09.867236,2025-12-10,Unusual usage pattern detected with score: -0.003,False,,0.0029470791203703704
+470498,US Highway 57,Eagle Pass,Texas,usage_pattern,0.061,2025-12-10T21:17:09.867441,2025-12-10,Unusual usage pattern detected with score: -0.061,False,,0.0029470767476851853
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.041,2025-12-10T21:17:09.868299,2025-12-10,Unusual usage pattern detected with score: -0.041,False,,0.0029470668171296295
+470651,"Starbucks - Ridgefield, WA",Ridgefield,WA,usage_pattern,0.033,2025-12-10T21:18:47.499789,2025-12-10,Unusual usage pattern detected with score: -0.033,False,,0.0018170727199074074
+470498,US Highway 57,Eagle Pass,Texas,usage_pattern,0.081,2025-12-10T21:18:47.500008,2025-12-10,Unusual usage pattern detected with score: -0.081,False,,0.0018170701851851852
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.052,2025-12-10T21:18:47.502134,2025-12-10,Unusual usage pattern detected with score: -0.052,False,,0.0018170455787037037
+470651,"Starbucks - Ridgefield, WA",Ridgefield,WA,usage_pattern,0.033,2025-12-10T21:20:17.864229,2025-12-10,Unusual usage pattern detected with score: -0.033,False,,0.0007711879976851852
+470498,US Highway 57,Eagle Pass,Texas,usage_pattern,0.081,2025-12-10T21:20:17.865513,2025-12-10,Unusual usage pattern detected with score: -0.081,False,,0.0007711731365740741
+469455,Polaris Bergland Township,Bergland,MI,usage_pattern,0.052,2025-12-10T21:20:17.870115,2025-12-10,Unusual usage pattern detected with score: -0.052,False,,0.0007711198726851852

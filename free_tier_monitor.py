@@ -116,7 +116,7 @@ class FreeTierMonitor:
         print("=" * 50)
         
         for service, data in summary.items():
-            status = "✅ Available" if data['can_use'] else "❌ Limit Reached"
+            status = "Available" if data['can_use'] else "Limit Reached"
             print(f"{service.upper()}:")
             if 'daily_usage' in data:
                 print(f"  Usage: {data['daily_usage']}/{data['daily_limit']}")

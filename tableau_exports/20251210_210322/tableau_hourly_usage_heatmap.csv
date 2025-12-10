@@ -1,0 +1,1001 @@
+station_id,station_name,city,state,hour_of_day,day_of_week,day_name,session_count,total_energy_kwh,avg_duration_minutes
+460954,"Flying J Travel Center #671 Matthews, MO",Matthews,MO,2,0,Sunday,1,9.53,60.0
+461546,"Pilot Travel Center #1051 Iowa, LA",Iowa,LA,18,0,Sunday,1,45.97,60.0
+460328,Ionna Concord Rechargery,Concord,NC,14,5,Friday,1,39.05,120.0
+461628,Petro Corning #309,Corning,CA,14,3,Wednesday,1,15.78,90.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,7,2,Tuesday,1,54.22,120.0
+460484,L2 near Ball&Chain,Miami,Florida,22,2,Tuesday,1,11.09,90.0
+469807,OUC ReCharge EV Hub at OCCC,Orlando,FL,7,0,Sunday,1,45.04,60.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,15,5,Friday,1,47.38,60.0
+461307,Fas Mart,Grand Haven,MI,23,2,Tuesday,1,27.75,60.0
+460320,"Ionna - Daly City, CA",Daly City,CA,8,2,Tuesday,2,56.16,82.5
+460571,Exxon Utica,Utica,MI,6,5,Friday,1,95.72,180.0
+461275,Goodwill,St. Louis Park,MN,19,5,Friday,1,36.47,120.0
+460318,EVgo,North Bend,Washington,2,1,Monday,1,76.14,120.0
+469253,Lenexa Justice Center,Lenexa,KS,23,6,Saturday,1,11.91,60.0
+460606,Destination Charger,Columbia Falls,Montana,16,4,Thursday,1,21.57,90.0
+460429,Ruby's Inn General Store - Tesla Supercharger,Bryce Canyon City,Utah,11,3,Wednesday,1,26.13,180.0
+460504,Marketplace Foods,Minot,ND,12,0,Sunday,1,27.9,90.0
+461757,Dutch Bros Coffee,Sacramento,CA,13,1,Monday,1,46.34,60.0
+460606,Destination Charger,Columbia Falls,Montana,19,3,Wednesday,1,31.84,60.0
+461170,Hamilton Market St,Hamilton,OH,7,5,Friday,1,20.36,120.0
+460506,Wentworth-Douglass Hospital,Dover,NH,9,4,Thursday,1,40.97,90.0
+460606,Destination Charger,Columbia Falls,Montana,4,0,Sunday,1,75.6,120.0
+461171,Hamilton CNG Filling Station,Hamilton,OH,4,6,Saturday,1,18.57,60.0
+461550,"Flying J Travel Center #706 Tulsa, OK",Tulsa,OK,16,5,Friday,1,37.43,60.0
+470651,"Starbucks - Ridgefield, WA",Ridgefield,WA,17,6,Saturday,1,82.94,120.0
+460384,Mendocino Marketplace,Santa Rosa,CA,20,5,Friday,1,16.32,60.0
+461554,The Bite Tumalo,Tumalo,OR,9,2,Tuesday,1,53.23,90.0
+460384,Mendocino Marketplace,Santa Rosa,CA,2,6,Saturday,1,10.71,60.0
+460632,Parsons Chevy - Eagle River,Eagle River,WI,22,5,Friday,1,12.94,30.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,10,2,Tuesday,1,14.86,45.0
+460484,L2 near Ball&Chain,Miami,Florida,9,2,Tuesday,1,54.77,120.0
+462227,IONNA Middletown Rechargery Relay,Middletown,MD,1,5,Friday,1,5.77,45.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,13,0,Sunday,1,8.12,60.0
+460485,Safeway,Martinez,CA,23,1,Monday,1,19.24,60.0
+469399,Elkhorn Shopping Center,Sacramento,CA,15,4,Thursday,1,64.46,90.0
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,7,5,Friday,1,97.53,240.0
+460318,EVgo,North Bend,Washington,8,1,Monday,1,17.98,60.0
+461307,Fas Mart,Grand Haven,MI,15,6,Saturday,1,19.97,30.0
+469807,OUC ReCharge EV Hub at OCCC,Orlando,FL,18,5,Friday,1,18.67,90.0
+462225,IONNA Beaver Rechargery Relay,Beaver,UT,10,4,Thursday,1,43.38,120.0
+460345,Central Co-op,Tacoma,WA,20,0,Sunday,1,38.1,120.0
+461543,Garcia Bend Park,Sacramento,CA,13,1,Monday,1,26.01,60.0
+462098,Wawa Supercharger,Staunton,VA,11,5,Friday,1,190.79,240.0
+460953,"Flying J Travel Center #690 Lordsburg, NM",Lordsburg,NM,7,0,Sunday,2,43.36,90.0
+460955,"Flying J Travel Center #572 Williams, IA",Williams,IA,14,0,Sunday,1,12.03,90.0
+461050,Mitra EV DCFC - Sierra Pacific,Rancho Cordova,CA,8,6,Saturday,1,24.25,90.0
+460671,FPL,Pensacola,Florida,23,4,Thursday,1,24.69,90.0
+460368,"bp pulse - Duarte, CA",Duarte,CA,2,2,Tuesday,1,10.82,90.0
+460503,Futurama near Ball & Chain,Miami,Florida,7,5,Friday,1,44.6,60.0
+460345,Central Co-op,Tacoma,WA,20,5,Friday,1,53.3,90.0
+470651,"Starbucks - Ridgefield, WA",Ridgefield,WA,23,6,Saturday,1,29.71,90.0
+470652,"Starbucks - Phoenix, OR",Phoenix,OR,19,6,Saturday,1,65.15,90.0
+462111,Shell - Novi,Novi,MI,8,0,Sunday,1,78.34,120.0
+462225,IONNA Beaver Rechargery Relay,Beaver,UT,2,5,Friday,1,22.41,180.0
+470312,Safeway,Hercules,CA,0,4,Thursday,1,77.32,240.0
+460606,Destination Charger,Columbia Falls,Montana,17,5,Friday,1,58.47,90.0
+461050,Mitra EV DCFC - Sierra Pacific,Rancho Cordova,CA,17,6,Saturday,1,31.37,60.0
+462228,IONNA Kutztown Rechargery @ Sheetz,Kutztown,PA,21,4,Thursday,1,29.87,180.0
+461166,Gladwin City Hall,Gladwin,MI,19,2,Tuesday,1,14.16,45.0
+460484,L2 near Ball&Chain,Miami,Florida,9,4,Thursday,1,81.5,120.0
+461307,Fas Mart,Grand Haven,MI,3,5,Friday,1,24.82,60.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,16,4,Thursday,1,23.1,45.0
+460953,"Flying J Travel Center #690 Lordsburg, NM",Lordsburg,NM,0,3,Wednesday,1,31.72,90.0
+469749,"Ionna Reading, MA Rechargery Relay",Reading,MA,11,6,Saturday,1,41.34,60.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,8,5,Friday,1,103.0,180.0
+461549,"ONE9 Travel Center #7937 Mcleansville, NC",Mcleansville,NC,5,0,Sunday,1,28.04,60.0
+461631,"Pilot Travel Center #1019 - Orland, CA",Orland,CA,19,3,Wednesday,1,27.56,120.0
+460503,Futurama near Ball & Chain,Miami,Florida,2,1,Monday,1,45.2,60.0
+461156,Key GMC of Rochester,Rochester,New Hampshire,4,3,Wednesday,1,18.49,60.0
+461554,The Bite Tumalo,Tumalo,OR,2,5,Friday,1,61.36,90.0
+469374,Freewire Charging Station,Columbus,OH,8,0,Sunday,1,10.32,60.0
+461135,Marathon,Grand Rapids,MI,1,5,Friday,1,36.2,45.0
+460503,Futurama near Ball & Chain,Miami,Florida,19,1,Monday,1,22.13,60.0
+460322,Ionna Daytona Beach Rechargery Relay @Wawa,Daytona Beach,FL,19,6,Saturday,2,214.84,150.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,16,1,Monday,1,89.74,120.0
+470498,US Highway 57,Eagle Pass,Texas,2,2,Tuesday,1,18.5,60.0
+460371,"Circle K - Yuma, AZ",Yuma,AZ,14,4,Thursday,1,21.61,60.0
+460318,EVgo,North Bend,Washington,18,5,Friday,1,11.23,60.0
+461166,Gladwin City Hall,Gladwin,MI,22,0,Sunday,1,12.96,45.0
+461744,Sunset Pointe,Rocklin,CA,11,5,Friday,2,92.37,90.0
+460367,Santa Monica Station,Santa Monica,CA,14,5,Friday,1,48.59,60.0
+469499,Renewable Grid - Glen Cove Fast Charging,Glen Cove,NY,9,5,Friday,2,82.24,90.0
+460956,"Pilot Travel Center #368 Decatur, IL",Decatur,IL,18,2,Tuesday,1,23.21,60.0
+461628,Petro Corning #309,Corning,CA,12,6,Saturday,1,9.29,30.0
+469741,"Pilot Travel Center #63 Piedmont, SC",Piedmont,SC,5,2,Tuesday,1,10.33,60.0
+469403,1122 Frankford grand,fishtown,PA,18,3,Wednesday,1,32.66,45.0
+460503,Futurama near Ball & Chain,Miami,Florida,4,4,Thursday,1,86.89,120.0
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,7,0,Sunday,1,61.57,90.0
+461553,Ventura County Credit Union,Ventura,CA,1,3,Wednesday,1,28.34,90.0
+461130,TownePlace Suites by Marriott Houston Northwest/Beltway 8,Houston,TX,20,1,Monday,1,50.88,90.0
+460429,Ruby's Inn General Store - Tesla Supercharger,Bryce Canyon City,Utah,17,3,Wednesday,2,55.74,60.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,18,1,Monday,1,48.07,120.0
+460368,"bp pulse - Duarte, CA",Duarte,CA,14,3,Wednesday,1,23.1,90.0
+461550,"Flying J Travel Center #706 Tulsa, OK",Tulsa,OK,13,1,Monday,1,47.98,180.0
+460955,"Flying J Travel Center #572 Williams, IA",Williams,IA,19,6,Saturday,1,51.33,120.0
+461275,Goodwill,St. Louis Park,MN,5,6,Saturday,1,31.11,60.0
+469253,Lenexa Justice Center,Lenexa,KS,17,5,Friday,2,164.25,105.0
+460318,EVgo,North Bend,Washington,19,4,Thursday,1,46.22,120.0
+461548,"Pilot Travel Center #374 Marianna, FL",Marianna,FL,4,1,Monday,1,16.42,60.0
+469403,1122 Frankford grand,fishtown,PA,13,0,Sunday,2,104.12,75.0
+460484,L2 near Ball&Chain,Miami,Florida,0,5,Friday,1,47.02,120.0
+460954,"Flying J Travel Center #671 Matthews, MO",Matthews,MO,9,3,Wednesday,2,35.68,52.5
+460505,Mass General Brigham Healthcare Center,Dover,NH,18,0,Sunday,1,36.42,60.0
+469743,"Pilot Travel Center #4642 Toms Brook, VA",Toms Brook,VA,8,1,Monday,2,80.99,90.0
+470652,"Starbucks - Phoenix, OR",Phoenix,OR,23,6,Saturday,1,30.66,120.0
+461275,Goodwill,St. Louis Park,MN,1,0,Sunday,1,15.68,90.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,19,4,Thursday,1,74.67,90.0
+462228,IONNA Kutztown Rechargery @ Sheetz,Kutztown,PA,19,4,Thursday,1,17.89,60.0
+470357,FastTrack Market Marathon,Taylor,MI,17,1,Monday,1,27.05,60.0
+460323,Ionna - OKC,Oklahoma City,OK,11,6,Saturday,1,30.56,45.0
+460958,"Pilot Travel Center #1225 Mascoutah, IL",Mascoutah,IL,17,1,Monday,1,22.04,90.0
+461554,The Bite Tumalo,Tumalo,OR,4,0,Sunday,1,58.39,120.0
+469252,Lenexa Old Town Activity Center,Lenexa,KS,15,0,Sunday,1,44.9,120.0
+462269,Ionna Rechargery,Roseville,CA,19,6,Saturday,1,75.47,120.0
+461164,Clawson Shopping Center,Clawson,MI,21,2,Tuesday,2,35.38,90.0
+460671,FPL,Pensacola,Florida,7,0,Sunday,1,30.15,90.0
+461307,Fas Mart,Grand Haven,MI,19,5,Friday,1,42.23,60.0
+461049,Mitra EV DCFC - Aztec Solar,Rancho Cordova,CA,4,6,Saturday,1,43.92,60.0
+460570,Eastern Market Public Lot,Detroit,MI,16,4,Thursday,1,65.46,120.0
+461758,Bradville Square Shopping Center,Sacramento,CA,17,4,Thursday,1,32.08,60.0
+462098,Wawa Supercharger,Staunton,VA,7,2,Tuesday,2,225.68,165.0
+462111,Shell - Novi,Novi,MI,17,3,Wednesday,1,54.89,90.0
+469746,"Pilot Travel Center #281 Girard, OH",Girard,OH,10,1,Monday,1,24.05,60.0
+469499,Renewable Grid - Glen Cove Fast Charging,Glen Cove,NY,21,2,Tuesday,1,33.26,120.0
+469499,Renewable Grid - Glen Cove Fast Charging,Glen Cove,NY,14,4,Thursday,1,25.72,45.0
+460263,Rivian Adventure Network,St. Regis,Montana,0,2,Tuesday,1,33.22,60.0
+460328,Ionna Concord Rechargery,Concord,NC,13,2,Tuesday,1,54.62,90.0
+469430,Bernal Plaza,San Jose,CA,0,6,Saturday,2,101.59,150.0
+460323,Ionna - OKC,Oklahoma City,OK,19,0,Sunday,1,45.14,120.0
+460570,Eastern Market Public Lot,Detroit,MI,19,2,Tuesday,3,130.21,70.0
+460673,Telsa Supercharger,Rogue River,Oregon,8,2,Tuesday,1,44.03,60.0
+460429,Ruby's Inn General Store - Tesla Supercharger,Bryce Canyon City,Utah,9,2,Tuesday,1,9.0,60.0
+470498,US Highway 57,Eagle Pass,Texas,0,4,Thursday,1,63.4,90.0
+460571,Exxon Utica,Utica,MI,12,1,Monday,1,48.24,60.0
+460372,"Pilot Travel Center #1208 Yuma, AZ",Yuma,AZ,18,6,Saturday,1,44.38,60.0
+461629,In-N-Out Burger - Redding,Redding,CA,20,2,Tuesday,1,46.7,90.0
+469807,OUC ReCharge EV Hub at OCCC,Orlando,FL,19,2,Tuesday,2,89.12,75.0
+460429,Ruby's Inn General Store - Tesla Supercharger,Bryce Canyon City,Utah,9,6,Saturday,1,10.14,60.0
+460485,Safeway,Martinez,CA,8,0,Sunday,1,47.26,60.0
+460969,EVgo - SF SOMA,San Francisco,CA,19,1,Monday,1,7.8,60.0
+461553,Ventura County Credit Union,Ventura,CA,17,6,Saturday,1,31.98,90.0
+469749,"Ionna Reading, MA Rechargery Relay",Reading,MA,17,6,Saturday,1,38.17,120.0
+461251,Sunshine Gardens,South San Francisco,CA,23,4,Thursday,1,20.61,60.0
+460606,Destination Charger,Columbia Falls,Montana,18,3,Wednesday,1,28.22,120.0
+462127,Kimco-charlotte,Charlotte,NC,12,5,Friday,1,73.14,120.0
+461628,Petro Corning #309,Corning,CA,9,2,Tuesday,1,11.37,60.0
+460321,IONNA - Gilman Rechargery Relay,Gilman,IL,19,3,Wednesday,1,26.46,180.0
+460429,Ruby's Inn General Store - Tesla Supercharger,Bryce Canyon City,Utah,3,2,Tuesday,1,50.81,90.0
+469741,"Pilot Travel Center #63 Piedmont, SC",Piedmont,SC,14,4,Thursday,1,20.99,60.0
+460956,"Pilot Travel Center #368 Decatur, IL",Decatur,IL,0,5,Friday,1,36.15,60.0
+469399,Elkhorn Shopping Center,Sacramento,CA,16,0,Sunday,1,53.23,120.0
+460429,Ruby's Inn General Store - Tesla Supercharger,Bryce Canyon City,Utah,3,5,Friday,1,22.73,60.0
+461171,Hamilton CNG Filling Station,Hamilton,OH,23,1,Monday,1,40.91,90.0
+469612,"Dennys - Auburn, WA",Auburn,WA,17,4,Thursday,1,47.01,60.0
+461553,Ventura County Credit Union,Ventura,CA,13,0,Sunday,1,13.23,45.0
+469743,"Pilot Travel Center #4642 Toms Brook, VA",Toms Brook,VA,11,5,Friday,1,7.23,60.0
+461733,Walmart,Checotah,OK,9,6,Saturday,1,70.21,120.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,7,0,Sunday,1,51.59,120.0
+460323,Ionna - OKC,Oklahoma City,OK,23,2,Tuesday,1,19.22,120.0
+460504,Marketplace Foods,Minot,ND,19,4,Thursday,1,13.05,45.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,9,1,Monday,1,14.94,60.0
+460329,IONNA Seffner Rechargery,Seffner,FL,12,3,Wednesday,1,39.41,60.0
+461073,Fairfield by Marriott Inn & Suites Houston Brookhollow,Houston,TX,17,2,Tuesday,1,69.76,90.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,10,0,Sunday,1,72.41,90.0
+461251,Sunshine Gardens,South San Francisco,CA,17,3,Wednesday,1,37.92,60.0
+469747,"Flying J Travel Center #692 Wells, NV",Wells,NV,4,6,Saturday,1,11.61,90.0
+460484,L2 near Ball&Chain,Miami,Florida,12,1,Monday,1,16.9,60.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,17,2,Tuesday,1,41.27,90.0
+461548,"Pilot Travel Center #374 Marianna, FL",Marianna,FL,7,1,Monday,1,52.73,120.0
+460606,Destination Charger,Columbia Falls,Montana,20,3,Wednesday,1,98.69,120.0
+469403,1122 Frankford grand,fishtown,PA,7,4,Thursday,1,39.45,90.0
+462127,Kimco-charlotte,Charlotte,NC,11,4,Thursday,1,16.27,120.0
+460384,Mendocino Marketplace,Santa Rosa,CA,2,5,Friday,1,15.4,90.0
+460958,"Pilot Travel Center #1225 Mascoutah, IL",Mascoutah,IL,6,3,Wednesday,1,16.57,60.0
+461511,Sleep Inn & Suites Monroe - Woodbury,Monroe,NY,19,5,Friday,1,11.88,60.0
+460322,Ionna Daytona Beach Rechargery Relay @Wawa,Daytona Beach,FL,15,2,Tuesday,1,54.85,90.0
+460485,Safeway,Martinez,CA,0,5,Friday,1,16.26,60.0
+460318,EVgo,North Bend,Washington,19,6,Saturday,1,68.45,120.0
+469745,"Flying J Travel Center #875 Elkton, MD",Elkton,MD,17,5,Friday,1,60.49,90.0
+469253,Lenexa Justice Center,Lenexa,KS,13,4,Thursday,2,29.9,30.0
+462098,Wawa Supercharger,Staunton,VA,3,0,Sunday,1,33.57,120.0
+461252,D & 3rd Street Curbside,West Sacramento,CA,12,0,Sunday,1,14.95,120.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,17,3,Wednesday,1,28.97,60.0
+461251,Sunshine Gardens,South San Francisco,CA,8,4,Thursday,1,70.32,180.0
+469743,"Pilot Travel Center #4642 Toms Brook, VA",Toms Brook,VA,6,2,Tuesday,1,29.85,60.0
+461164,Clawson Shopping Center,Clawson,MI,12,6,Saturday,1,58.89,90.0
+469455,Polaris Bergland Township,Bergland,MI,13,4,Thursday,1,50.68,120.0
+461073,Fairfield by Marriott Inn & Suites Houston Brookhollow,Houston,TX,7,2,Tuesday,1,103.8,180.0
+461170,Hamilton Market St,Hamilton,OH,11,4,Thursday,1,54.27,90.0
+461165,Heilmann Community Center,Detroit,MI,22,4,Thursday,1,88.35,180.0
+460506,Wentworth-Douglass Hospital,Dover,NH,2,3,Wednesday,1,74.42,120.0
+461554,The Bite Tumalo,Tumalo,OR,15,6,Saturday,1,49.0,60.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,14,6,Saturday,1,86.51,180.0
+460606,Destination Charger,Columbia Falls,Montana,9,6,Saturday,2,66.96,90.0
+461050,Mitra EV DCFC - Sierra Pacific,Rancho Cordova,CA,20,0,Sunday,1,48.48,90.0
+461167,Pats Food Freeland,Freeland,MI,14,2,Tuesday,1,23.64,30.0
+469745,"Flying J Travel Center #875 Elkton, MD",Elkton,MD,7,0,Sunday,1,21.56,60.0
+469374,Freewire Charging Station,Columbus,OH,9,1,Monday,2,68.67,60.0
+461275,Goodwill,St. Louis Park,MN,9,3,Wednesday,1,10.34,60.0
+469741,"Pilot Travel Center #63 Piedmont, SC",Piedmont,SC,3,3,Wednesday,1,71.02,90.0
+461549,"ONE9 Travel Center #7937 Mcleansville, NC",Mcleansville,NC,15,3,Wednesday,1,42.36,90.0
+469430,Bernal Plaza,San Jose,CA,7,0,Sunday,1,19.6,30.0
+460321,IONNA - Gilman Rechargery Relay,Gilman,IL,10,2,Tuesday,1,22.02,90.0
+461155,Key Chrysler Dodge Jeep Ram,Rochester,New Hampshire,23,2,Tuesday,1,58.82,90.0
+461757,Dutch Bros Coffee,Sacramento,CA,7,2,Tuesday,1,12.62,90.0
+461627,"T/A Travel Center #0057 - Redding, CA",Redding,CA,9,5,Friday,1,50.79,90.0
+461251,Sunshine Gardens,South San Francisco,CA,18,2,Tuesday,1,15.63,60.0
+461632,"Ionna - Willows, CA",Williows,CA,13,5,Friday,1,48.69,60.0
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,10,1,Monday,1,59.0,90.0
+461551,Berkeley Bowl (West),Berkeley,CA,14,1,Monday,1,45.59,60.0
+461715,BP Express Stop,Jackson,MI,14,6,Saturday,1,23.32,60.0
+462227,IONNA Middletown Rechargery Relay,Middletown,MD,14,5,Friday,1,9.59,60.0
+469612,"Dennys - Auburn, WA",Auburn,WA,5,6,Saturday,1,41.75,60.0
+460430,Revel - South San Francisco,South San Francisco,CA,6,0,Sunday,1,8.14,60.0
+460505,Mass General Brigham Healthcare Center,Dover,NH,8,4,Thursday,1,45.56,60.0
+469401,Dutch Bros,Sacramento,CA,19,3,Wednesday,1,26.84,60.0
+461157,University Place Library,University Place,Washington,13,1,Monday,1,98.8,120.0
+470498,US Highway 57,Eagle Pass,Texas,20,6,Saturday,1,38.84,120.0
+461307,Fas Mart,Grand Haven,MI,4,2,Tuesday,1,11.72,90.0
+461757,Dutch Bros Coffee,Sacramento,CA,4,1,Monday,1,22.88,60.0
+460484,L2 near Ball&Chain,Miami,Florida,10,6,Saturday,1,70.23,90.0
+461550,"Flying J Travel Center #706 Tulsa, OK",Tulsa,OK,12,3,Wednesday,1,60.93,90.0
+461632,"Ionna - Willows, CA",Williows,CA,17,3,Wednesday,1,81.55,120.0
+460504,Marketplace Foods,Minot,ND,11,1,Monday,1,46.94,120.0
+469430,Bernal Plaza,San Jose,CA,0,3,Wednesday,1,27.18,60.0
+460368,"bp pulse - Duarte, CA",Duarte,CA,10,3,Wednesday,1,49.12,60.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,7,0,Sunday,1,31.29,120.0
+461715,BP Express Stop,Jackson,MI,1,1,Monday,1,57.46,120.0
+461750,Speedy Q,New Baltimore,MI,7,2,Tuesday,1,11.87,60.0
+460384,Mendocino Marketplace,Santa Rosa,CA,17,1,Monday,1,78.74,120.0
+460328,Ionna Concord Rechargery,Concord,NC,13,5,Friday,1,43.27,60.0
+461758,Bradville Square Shopping Center,Sacramento,CA,9,1,Monday,1,47.15,120.0
+460673,Telsa Supercharger,Rogue River,Oregon,7,1,Monday,2,107.78,67.5
+460503,Futurama near Ball & Chain,Miami,Florida,7,2,Tuesday,2,174.02,120.0
+462227,IONNA Middletown Rechargery Relay,Middletown,MD,9,6,Saturday,1,40.55,60.0
+462225,IONNA Beaver Rechargery Relay,Beaver,UT,9,2,Tuesday,2,166.64,120.0
+461050,Mitra EV DCFC - Sierra Pacific,Rancho Cordova,CA,2,0,Sunday,1,39.99,60.0
+461813,Culver's,Rhinelander,WI,19,6,Saturday,1,20.7,120.0
+461164,Clawson Shopping Center,Clawson,MI,18,6,Saturday,1,19.56,90.0
+462098,Wawa Supercharger,Staunton,VA,0,1,Monday,1,24.46,45.0
+469612,"Dennys - Auburn, WA",Auburn,WA,8,2,Tuesday,1,100.0,120.0
+461756,"Laguna Blvd, Elk Grove, CA",Elk Grove,CA,13,1,Monday,1,56.71,90.0
+469253,Lenexa Justice Center,Lenexa,KS,2,4,Thursday,1,45.76,60.0
+461541,Fox Kia South,Grand Rapids,michigan,9,5,Friday,2,221.58,150.0
+470357,FastTrack Market Marathon,Taylor,MI,13,2,Tuesday,1,22.87,60.0
+462111,Shell - Novi,Novi,MI,13,4,Thursday,1,79.29,120.0
+470651,"Starbucks - Ridgefield, WA",Ridgefield,WA,18,0,Sunday,1,45.32,90.0
+469749,"Ionna Reading, MA Rechargery Relay",Reading,MA,7,1,Monday,1,78.99,180.0
+460571,Exxon Utica,Utica,MI,19,2,Tuesday,1,52.11,90.0
+460320,"Ionna - Daly City, CA",Daly City,CA,14,0,Sunday,1,73.31,120.0
+460632,Parsons Chevy - Eagle River,Eagle River,WI,15,6,Saturday,1,25.65,120.0
+460367,Santa Monica Station,Santa Monica,CA,20,5,Friday,1,74.69,180.0
+461758,Bradville Square Shopping Center,Sacramento,CA,1,1,Monday,1,13.68,30.0
+470696,Trailborn Grand Canyon,Williams,AZ,8,4,Thursday,2,61.56,75.0
+460323,Ionna - OKC,Oklahoma City,OK,14,5,Friday,1,52.38,240.0
+461170,Hamilton Market St,Hamilton,OH,2,4,Thursday,2,148.61,120.0
+461744,Sunset Pointe,Rocklin,CA,5,0,Sunday,1,33.14,120.0
+470696,Trailborn Grand Canyon,Williams,AZ,11,6,Saturday,1,31.91,90.0
+462225,IONNA Beaver Rechargery Relay,Beaver,UT,12,4,Thursday,1,50.11,180.0
+460367,Santa Monica Station,Santa Monica,CA,4,2,Tuesday,1,11.39,45.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,15,3,Wednesday,1,7.8,45.0
+461744,Sunset Pointe,Rocklin,CA,4,6,Saturday,1,43.76,120.0
+461049,Mitra EV DCFC - Aztec Solar,Rancho Cordova,CA,8,4,Thursday,1,81.18,120.0
+470276,"New Albany Light, Gas, and Water",New Albany,MS,13,0,Sunday,1,20.86,60.0
+460953,"Flying J Travel Center #690 Lordsburg, NM",Lordsburg,NM,8,1,Monday,1,71.97,120.0
+470792,Fellows Creek Golf Club,Canton,MI,17,0,Sunday,1,61.69,90.0
+461050,Mitra EV DCFC - Sierra Pacific,Rancho Cordova,CA,7,0,Sunday,1,62.4,120.0
+461307,Fas Mart,Grand Haven,MI,0,0,Sunday,1,34.61,60.0
+469611,Dennys,Seatac,WA,5,2,Tuesday,1,12.74,60.0
+460953,"Flying J Travel Center #690 Lordsburg, NM",Lordsburg,NM,12,6,Saturday,1,32.68,120.0
+461543,Garcia Bend Park,Sacramento,CA,10,1,Monday,1,31.27,45.0
+462226,IONNA Raleigh Rechargery Relay,Raleigh,NC,12,1,Monday,1,33.43,90.0
+470357,FastTrack Market Marathon,Taylor,MI,12,6,Saturday,1,65.73,180.0
+469455,Polaris Bergland Township,Bergland,MI,4,2,Tuesday,1,62.67,90.0
+462269,Ionna Rechargery,Roseville,CA,9,0,Sunday,1,29.77,90.0
+469430,Bernal Plaza,San Jose,CA,6,5,Friday,1,47.95,60.0
+470314,EVolve NY Afton,Afton,NY,12,0,Sunday,1,42.24,60.0
+469611,Dennys,Seatac,WA,5,5,Friday,1,18.98,60.0
+461541,Fox Kia South,Grand Rapids,michigan,7,2,Tuesday,1,73.93,120.0
+461156,Key GMC of Rochester,Rochester,New Hampshire,20,6,Saturday,1,31.8,60.0
+460571,Exxon Utica,Utica,MI,18,0,Sunday,1,45.36,60.0
+461275,Goodwill,St. Louis Park,MN,0,0,Sunday,1,74.21,90.0
+462111,Shell - Novi,Novi,MI,10,1,Monday,1,20.88,45.0
+469374,Freewire Charging Station,Columbus,OH,1,5,Friday,1,45.72,90.0
+460959,"Thorntons #327 - Bellwood, IL",Bellwood,IL,12,0,Sunday,1,46.55,90.0
+469401,Dutch Bros,Sacramento,CA,17,4,Thursday,1,57.2,90.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,15,0,Sunday,1,103.16,180.0
+460505,Mass General Brigham Healthcare Center,Dover,NH,11,0,Sunday,1,13.31,60.0
+470498,US Highway 57,Eagle Pass,Texas,9,4,Thursday,1,87.24,120.0
+461554,The Bite Tumalo,Tumalo,OR,21,1,Monday,2,127.78,90.0
+469374,Freewire Charging Station,Columbus,OH,11,5,Friday,1,6.79,45.0
+469743,"Pilot Travel Center #4642 Toms Brook, VA",Toms Brook,VA,7,0,Sunday,1,20.83,45.0
+470652,"Starbucks - Phoenix, OR",Phoenix,OR,3,1,Monday,1,67.11,90.0
+469401,Dutch Bros,Sacramento,CA,0,4,Thursday,1,11.31,45.0
+460959,"Thorntons #327 - Bellwood, IL",Bellwood,IL,12,1,Monday,1,84.61,120.0
+460504,Marketplace Foods,Minot,ND,7,2,Tuesday,1,52.42,120.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,21,1,Monday,1,41.85,60.0
+462098,Wawa Supercharger,Staunton,VA,20,6,Saturday,1,81.42,120.0
+460632,Parsons Chevy - Eagle River,Eagle River,WI,19,0,Sunday,1,33.17,60.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,17,4,Thursday,1,69.54,90.0
+461628,Petro Corning #309,Corning,CA,17,0,Sunday,1,50.6,90.0
+460969,EVgo - SF SOMA,San Francisco,CA,11,5,Friday,1,42.71,60.0
+469745,"Flying J Travel Center #875 Elkton, MD",Elkton,MD,19,3,Wednesday,2,229.5,150.0
+461171,Hamilton CNG Filling Station,Hamilton,OH,13,4,Thursday,1,17.69,120.0
+460328,Ionna Concord Rechargery,Concord,NC,16,2,Tuesday,1,38.57,120.0
+469253,Lenexa Justice Center,Lenexa,KS,9,5,Friday,1,92.38,120.0
+460372,"Pilot Travel Center #1208 Yuma, AZ",Yuma,AZ,11,5,Friday,1,14.31,60.0
+460322,Ionna Daytona Beach Rechargery Relay @Wawa,Daytona Beach,FL,5,4,Thursday,1,39.27,90.0
+460606,Destination Charger,Columbia Falls,Montana,0,6,Saturday,1,48.85,60.0
+461073,Fairfield by Marriott Inn & Suites Houston Brookhollow,Houston,TX,14,4,Thursday,1,81.44,120.0
+470651,"Starbucks - Ridgefield, WA",Ridgefield,WA,14,4,Thursday,1,55.49,120.0
+460506,Wentworth-Douglass Hospital,Dover,NH,19,4,Thursday,1,52.49,90.0
+469403,1122 Frankford grand,fishtown,PA,14,2,Tuesday,1,25.01,60.0
+460606,Destination Charger,Columbia Falls,Montana,16,6,Saturday,1,21.94,120.0
+461554,The Bite Tumalo,Tumalo,OR,6,2,Tuesday,1,5.26,45.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,11,3,Wednesday,1,70.46,90.0
+460571,Exxon Utica,Utica,MI,7,4,Thursday,1,42.18,60.0
+461750,Speedy Q,New Baltimore,MI,6,1,Monday,1,53.72,90.0
+461166,Gladwin City Hall,Gladwin,MI,13,1,Monday,1,42.66,60.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,3,5,Friday,1,70.58,180.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,21,0,Sunday,1,15.34,60.0
+462127,Kimco-charlotte,Charlotte,NC,17,0,Sunday,1,14.6,120.0
+461167,Pats Food Freeland,Freeland,MI,14,1,Monday,1,61.77,180.0
+469374,Freewire Charging Station,Columbus,OH,8,1,Monday,2,62.88,75.0
+469401,Dutch Bros,Sacramento,CA,14,2,Tuesday,1,23.11,30.0
+460430,Revel - South San Francisco,South San Francisco,CA,17,6,Saturday,1,68.13,90.0
+461547,"Pilot Travel Center #1047 Jacksonville, FL",Jacksonville,FL,18,5,Friday,1,49.95,90.0
+460368,"bp pulse - Duarte, CA",Duarte,CA,21,3,Wednesday,1,95.66,120.0
+460503,Futurama near Ball & Chain,Miami,Florida,19,2,Tuesday,1,14.6,60.0
+461554,The Bite Tumalo,Tumalo,OR,7,6,Saturday,1,41.95,90.0
+460201,Krazyfish Grille,Port St Joe,Florida,18,1,Monday,1,28.74,60.0
+470696,Trailborn Grand Canyon,Williams,AZ,11,1,Monday,1,47.14,60.0
+460505,Mass General Brigham Healthcare Center,Dover,NH,10,0,Sunday,1,77.96,120.0
+460956,"Pilot Travel Center #368 Decatur, IL",Decatur,IL,15,2,Tuesday,1,44.3,60.0
+461750,Speedy Q,New Baltimore,MI,8,6,Saturday,1,23.67,90.0
+460959,"Thorntons #327 - Bellwood, IL",Bellwood,IL,2,3,Wednesday,1,38.85,90.0
+461715,BP Express Stop,Jackson,MI,18,0,Sunday,1,14.12,30.0
+460215,Tri-City Shopping Center,Redlands,CA,21,0,Sunday,1,72.1,120.0
+461813,Culver's,Rhinelander,WI,0,3,Wednesday,1,46.81,120.0
+460321,IONNA - Gilman Rechargery Relay,Gilman,IL,12,3,Wednesday,1,7.67,60.0
+460958,"Pilot Travel Center #1225 Mascoutah, IL",Mascoutah,IL,9,0,Sunday,1,56.1,90.0
+461548,"Pilot Travel Center #374 Marianna, FL",Marianna,FL,19,5,Friday,1,46.11,60.0
+461632,"Ionna - Willows, CA",Williows,CA,11,4,Thursday,1,55.8,180.0
+460201,Krazyfish Grille,Port St Joe,Florida,15,3,Wednesday,1,27.95,60.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,7,0,Sunday,1,26.33,90.0
+461546,"Pilot Travel Center #1051 Iowa, LA",Iowa,LA,7,6,Saturday,1,29.36,60.0
+461750,Speedy Q,New Baltimore,MI,0,3,Wednesday,1,121.21,180.0
+460671,FPL,Pensacola,Florida,7,4,Thursday,1,29.61,60.0
+469741,"Pilot Travel Center #63 Piedmont, SC",Piedmont,SC,9,5,Friday,1,42.94,60.0
+461156,Key GMC of Rochester,Rochester,New Hampshire,21,2,Tuesday,1,59.56,120.0
+460959,"Thorntons #327 - Bellwood, IL",Bellwood,IL,11,4,Thursday,2,106.9,120.0
+461251,Sunshine Gardens,South San Francisco,CA,8,0,Sunday,1,98.07,120.0
+469499,Renewable Grid - Glen Cove Fast Charging,Glen Cove,NY,18,4,Thursday,1,16.61,60.0
+470792,Fellows Creek Golf Club,Canton,MI,9,5,Friday,1,42.11,60.0
+460671,FPL,Pensacola,Florida,0,4,Thursday,1,35.49,45.0
+461157,University Place Library,University Place,Washington,0,4,Thursday,1,29.57,90.0
+470113,Kwik-Charge #1205,Lake Delton,WI,11,5,Friday,1,41.56,60.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,22,6,Saturday,1,59.85,180.0
+470276,"New Albany Light, Gas, and Water",New Albany,MS,1,2,Tuesday,1,30.22,90.0
+461164,Clawson Shopping Center,Clawson,MI,8,0,Sunday,1,9.43,60.0
+470357,FastTrack Market Marathon,Taylor,MI,5,3,Wednesday,1,48.2,240.0
+461170,Hamilton Market St,Hamilton,OH,8,5,Friday,1,15.94,45.0
+461370,Miller Hill Super One,Duluth,MN,18,3,Wednesday,2,98.67,75.0
+462127,Kimco-charlotte,Charlotte,NC,6,2,Tuesday,1,5.81,30.0
+460969,EVgo - SF SOMA,San Francisco,CA,18,6,Saturday,1,38.86,180.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,7,5,Friday,2,82.34,75.0
+461048,Mitra EV DCFC - Ford Commercial,Sacramento,CA,9,5,Friday,2,49.93,60.0
+461511,Sleep Inn & Suites Monroe - Woodbury,Monroe,NY,0,2,Tuesday,1,33.87,60.0
+462228,IONNA Kutztown Rechargery @ Sheetz,Kutztown,PA,9,1,Monday,1,19.04,120.0
+469748,Ionna Largo Rechargery @ Wawa,Largo,FL,19,3,Wednesday,1,47.66,60.0
+460956,"Pilot Travel Center #368 Decatur, IL",Decatur,IL,8,5,Friday,1,63.77,180.0
+469401,Dutch Bros,Sacramento,CA,9,1,Monday,1,22.15,60.0
+461167,Pats Food Freeland,Freeland,MI,16,3,Wednesday,1,27.21,60.0
+462269,Ionna Rechargery,Roseville,CA,8,3,Wednesday,1,7.5,30.0
+460503,Futurama near Ball & Chain,Miami,Florida,9,4,Thursday,1,31.42,60.0
+460571,Exxon Utica,Utica,MI,2,6,Saturday,1,21.84,45.0
+460969,EVgo - SF SOMA,San Francisco,CA,17,6,Saturday,1,24.75,60.0
+461715,BP Express Stop,Jackson,MI,17,2,Tuesday,2,64.37,67.5
+460959,"Thorntons #327 - Bellwood, IL",Bellwood,IL,15,4,Thursday,1,5.96,45.0
+469749,"Ionna Reading, MA Rechargery Relay",Reading,MA,3,3,Wednesday,1,37.59,120.0
+469747,"Flying J Travel Center #692 Wells, NV",Wells,NV,4,5,Friday,1,61.1,120.0
+470276,"New Albany Light, Gas, and Water",New Albany,MS,1,1,Monday,1,77.27,120.0
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,7,3,Wednesday,1,149.54,180.0
+469499,Renewable Grid - Glen Cove Fast Charging,Glen Cove,NY,18,1,Monday,1,42.32,90.0
+469611,Dennys,Seatac,WA,8,3,Wednesday,1,50.85,120.0
+469455,Polaris Bergland Township,Bergland,MI,8,5,Friday,1,50.45,90.0
+461370,Miller Hill Super One,Duluth,MN,16,1,Monday,1,19.84,60.0
+461156,Key GMC of Rochester,Rochester,New Hampshire,14,2,Tuesday,1,106.34,180.0
+469252,Lenexa Old Town Activity Center,Lenexa,KS,2,2,Tuesday,1,16.57,60.0
+469612,"Dennys - Auburn, WA",Auburn,WA,7,4,Thursday,2,95.06,60.0
+470652,"Starbucks - Phoenix, OR",Phoenix,OR,17,2,Tuesday,1,35.65,90.0
+469399,Elkhorn Shopping Center,Sacramento,CA,2,5,Friday,1,15.82,30.0
+460632,Parsons Chevy - Eagle River,Eagle River,WI,10,2,Tuesday,1,68.23,90.0
+469741,"Pilot Travel Center #63 Piedmont, SC",Piedmont,SC,17,3,Wednesday,1,92.8,120.0
+461547,"Pilot Travel Center #1047 Jacksonville, FL",Jacksonville,FL,17,0,Sunday,1,35.38,60.0
+460201,Krazyfish Grille,Port St Joe,Florida,21,6,Saturday,1,44.71,90.0
+460503,Futurama near Ball & Chain,Miami,Florida,9,5,Friday,1,10.21,60.0
+461549,"ONE9 Travel Center #7937 Mcleansville, NC",Mcleansville,NC,8,5,Friday,1,12.98,45.0
+461631,"Pilot Travel Center #1019 - Orland, CA",Orland,CA,18,4,Thursday,1,96.06,120.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,15,6,Saturday,1,25.04,120.0
+460953,"Flying J Travel Center #690 Lordsburg, NM",Lordsburg,NM,9,0,Sunday,1,22.74,30.0
+469455,Polaris Bergland Township,Bergland,MI,14,2,Tuesday,1,80.25,180.0
+470696,Trailborn Grand Canyon,Williams,AZ,9,0,Sunday,1,13.01,60.0
+462111,Shell - Novi,Novi,MI,13,6,Saturday,1,18.02,90.0
+469612,"Dennys - Auburn, WA",Auburn,WA,7,3,Wednesday,2,69.23,60.0
+460371,"Circle K - Yuma, AZ",Yuma,AZ,10,1,Monday,1,8.71,45.0
+460505,Mass General Brigham Healthcare Center,Dover,NH,18,4,Thursday,1,14.99,60.0
+462127,Kimco-charlotte,Charlotte,NC,1,5,Friday,1,19.62,90.0
+469612,"Dennys - Auburn, WA",Auburn,WA,4,2,Tuesday,1,32.27,60.0
+469430,Bernal Plaza,San Jose,CA,14,2,Tuesday,1,43.47,60.0
+460956,"Pilot Travel Center #368 Decatur, IL",Decatur,IL,14,6,Saturday,1,54.19,120.0
+461541,Fox Kia South,Grand Rapids,michigan,11,5,Friday,1,57.26,120.0
+461164,Clawson Shopping Center,Clawson,MI,9,2,Tuesday,1,9.17,45.0
+461758,Bradville Square Shopping Center,Sacramento,CA,8,3,Wednesday,1,55.84,90.0
+469743,"Pilot Travel Center #4642 Toms Brook, VA",Toms Brook,VA,18,6,Saturday,1,60.91,120.0
+470314,EVolve NY Afton,Afton,NY,10,6,Saturday,1,20.05,60.0
+460571,Exxon Utica,Utica,MI,21,6,Saturday,1,20.55,60.0
+470498,US Highway 57,Eagle Pass,Texas,19,5,Friday,1,69.04,120.0
+461166,Gladwin City Hall,Gladwin,MI,19,5,Friday,1,28.18,90.0
+460430,Revel - South San Francisco,South San Francisco,CA,21,1,Monday,1,41.4,90.0
+469374,Freewire Charging Station,Columbus,OH,2,2,Tuesday,1,14.81,60.0
+462111,Shell - Novi,Novi,MI,13,0,Sunday,1,79.78,180.0
+460956,"Pilot Travel Center #368 Decatur, IL",Decatur,IL,17,4,Thursday,2,25.19,75.0
+461156,Key GMC of Rochester,Rochester,New Hampshire,19,3,Wednesday,1,95.11,120.0
+470498,US Highway 57,Eagle Pass,Texas,8,6,Saturday,1,18.73,45.0
+460484,L2 near Ball&Chain,Miami,Florida,8,4,Thursday,1,46.58,90.0
+460345,Central Co-op,Tacoma,WA,17,2,Tuesday,1,42.78,180.0
+469399,Elkhorn Shopping Center,Sacramento,CA,0,3,Wednesday,1,38.43,90.0
+460954,"Flying J Travel Center #671 Matthews, MO",Matthews,MO,1,5,Friday,1,38.69,60.0
+461628,Petro Corning #309,Corning,CA,7,6,Saturday,2,112.82,75.0
+460345,Central Co-op,Tacoma,WA,6,1,Monday,1,12.62,60.0
+461165,Heilmann Community Center,Detroit,MI,16,6,Saturday,1,43.9,60.0
+470651,"Starbucks - Ridgefield, WA",Ridgefield,WA,7,6,Saturday,1,27.9,60.0
+470357,FastTrack Market Marathon,Taylor,MI,11,6,Saturday,1,41.21,90.0
+469612,"Dennys - Auburn, WA",Auburn,WA,21,1,Monday,1,31.55,60.0
+461511,Sleep Inn & Suites Monroe - Woodbury,Monroe,NY,15,1,Monday,1,32.26,120.0
+469612,"Dennys - Auburn, WA",Auburn,WA,9,2,Tuesday,2,86.88,75.0
+470314,EVolve NY Afton,Afton,NY,11,5,Friday,1,99.43,120.0
+460201,Krazyfish Grille,Port St Joe,Florida,9,1,Monday,1,47.93,60.0
+460571,Exxon Utica,Utica,MI,8,1,Monday,1,28.47,60.0
+469749,"Ionna Reading, MA Rechargery Relay",Reading,MA,4,4,Thursday,1,74.16,120.0
+470696,Trailborn Grand Canyon,Williams,AZ,9,6,Saturday,1,64.61,90.0
+460671,FPL,Pensacola,Florida,20,2,Tuesday,1,19.89,120.0
+461252,D & 3rd Street Curbside,West Sacramento,CA,23,4,Thursday,1,13.09,30.0
+460505,Mass General Brigham Healthcare Center,Dover,NH,9,4,Thursday,2,149.9,120.0
+460571,Exxon Utica,Utica,MI,11,3,Wednesday,1,32.5,90.0
+460384,Mendocino Marketplace,Santa Rosa,CA,21,3,Wednesday,1,19.53,60.0
+461758,Bradville Square Shopping Center,Sacramento,CA,7,0,Sunday,1,40.28,60.0
+461155,Key Chrysler Dodge Jeep Ram,Rochester,New Hampshire,8,2,Tuesday,1,49.18,60.0
+460331,"Pilot Travel Center #474 Sutton, WV",Sutton,WV,18,2,Tuesday,1,37.97,90.0
+470498,US Highway 57,Eagle Pass,Texas,18,2,Tuesday,1,24.04,120.0
+460504,Marketplace Foods,Minot,ND,19,1,Monday,1,29.09,60.0
+461549,"ONE9 Travel Center #7937 Mcleansville, NC",Mcleansville,NC,15,6,Saturday,1,12.27,45.0
+461758,Bradville Square Shopping Center,Sacramento,CA,16,3,Wednesday,1,44.79,60.0
+461553,Ventura County Credit Union,Ventura,CA,15,6,Saturday,1,21.89,90.0
+461553,Ventura County Credit Union,Ventura,CA,13,2,Tuesday,1,9.45,60.0
+461632,"Ionna - Willows, CA",Williows,CA,20,2,Tuesday,1,24.0,45.0
+462225,IONNA Beaver Rechargery Relay,Beaver,UT,18,2,Tuesday,2,115.3,120.0
+469430,Bernal Plaza,San Jose,CA,12,6,Saturday,1,35.93,90.0
+462227,IONNA Middletown Rechargery Relay,Middletown,MD,14,3,Wednesday,1,23.33,30.0
+461750,Speedy Q,New Baltimore,MI,20,6,Saturday,1,35.18,120.0
+460367,Santa Monica Station,Santa Monica,CA,18,0,Sunday,1,33.88,45.0
+469499,Renewable Grid - Glen Cove Fast Charging,Glen Cove,NY,7,3,Wednesday,1,29.44,60.0
+461171,Hamilton CNG Filling Station,Hamilton,OH,16,5,Friday,1,8.35,60.0
+461631,"Pilot Travel Center #1019 - Orland, CA",Orland,CA,9,1,Monday,1,43.15,90.0
+461130,TownePlace Suites by Marriott Houston Northwest/Beltway 8,Houston,TX,9,5,Friday,1,7.3,60.0
+461166,Gladwin City Hall,Gladwin,MI,15,4,Thursday,1,8.11,45.0
+469455,Polaris Bergland Township,Bergland,MI,15,0,Sunday,1,21.21,120.0
+461171,Hamilton CNG Filling Station,Hamilton,OH,18,3,Wednesday,2,93.09,75.0
+461744,Sunset Pointe,Rocklin,CA,15,2,Tuesday,1,11.78,90.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,20,4,Thursday,1,46.38,60.0
+469401,Dutch Bros,Sacramento,CA,17,2,Tuesday,1,63.01,120.0
+469749,"Ionna Reading, MA Rechargery Relay",Reading,MA,22,5,Friday,1,34.72,45.0
+462227,IONNA Middletown Rechargery Relay,Middletown,MD,2,1,Monday,1,139.83,180.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,9,3,Wednesday,1,69.29,90.0
+460320,"Ionna - Daly City, CA",Daly City,CA,18,5,Friday,1,28.56,90.0
+461553,Ventura County Credit Union,Ventura,CA,11,1,Monday,1,25.82,90.0
+461554,The Bite Tumalo,Tumalo,OR,16,5,Friday,1,15.44,90.0
+470652,"Starbucks - Phoenix, OR",Phoenix,OR,15,4,Thursday,1,32.49,60.0
+469748,Ionna Largo Rechargery @ Wawa,Largo,FL,9,6,Saturday,1,18.9,60.0
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,4,3,Wednesday,1,12.01,60.0
+460485,Safeway,Martinez,CA,2,3,Wednesday,1,31.47,45.0
+461048,Mitra EV DCFC - Ford Commercial,Sacramento,CA,11,2,Tuesday,1,18.12,30.0
+470652,"Starbucks - Phoenix, OR",Phoenix,OR,8,0,Sunday,1,96.01,120.0
+461715,BP Express Stop,Jackson,MI,10,2,Tuesday,1,17.82,90.0
+469252,Lenexa Old Town Activity Center,Lenexa,KS,0,2,Tuesday,1,13.04,45.0
+460331,"Pilot Travel Center #474 Sutton, WV",Sutton,WV,22,0,Sunday,2,61.35,45.0
+461165,Heilmann Community Center,Detroit,MI,16,4,Thursday,1,30.37,60.0
+460367,Santa Monica Station,Santa Monica,CA,23,3,Wednesday,1,7.75,45.0
+461554,The Bite Tumalo,Tumalo,OR,14,5,Friday,1,39.16,120.0
+461813,Culver's,Rhinelander,WI,21,4,Thursday,1,24.43,60.0
+469252,Lenexa Old Town Activity Center,Lenexa,KS,4,3,Wednesday,1,18.57,90.0
+470312,Safeway,Hercules,CA,18,2,Tuesday,1,11.17,60.0
+460371,"Circle K - Yuma, AZ",Yuma,AZ,11,2,Tuesday,1,55.42,90.0
+460371,"Circle K - Yuma, AZ",Yuma,AZ,23,0,Sunday,1,35.64,90.0
+461758,Bradville Square Shopping Center,Sacramento,CA,13,2,Tuesday,1,60.96,120.0
+470696,Trailborn Grand Canyon,Williams,AZ,19,4,Thursday,2,63.15,60.0
+462127,Kimco-charlotte,Charlotte,NC,7,1,Monday,1,9.18,60.0
+460345,Central Co-op,Tacoma,WA,9,3,Wednesday,1,49.62,60.0
+469253,Lenexa Justice Center,Lenexa,KS,15,0,Sunday,1,81.4,120.0
+460949,"Flying J Travel Center #737 San Antonio, TX",San Antonio,TX,7,4,Thursday,1,69.81,90.0
+469749,"Ionna Reading, MA Rechargery Relay",Reading,MA,16,5,Friday,1,11.26,60.0
+461130,TownePlace Suites by Marriott Houston Northwest/Beltway 8,Houston,TX,17,6,Saturday,1,57.18,90.0
+461164,Clawson Shopping Center,Clawson,MI,18,3,Wednesday,1,26.57,90.0
+461554,The Bite Tumalo,Tumalo,OR,9,6,Saturday,1,141.79,180.0
+462098,Wawa Supercharger,Staunton,VA,18,2,Tuesday,1,11.9,30.0
+461547,"Pilot Travel Center #1047 Jacksonville, FL",Jacksonville,FL,17,3,Wednesday,1,18.18,30.0
+461757,Dutch Bros Coffee,Sacramento,CA,0,4,Thursday,1,4.05,30.0
+461073,Fairfield by Marriott Inn & Suites Houston Brookhollow,Houston,TX,19,5,Friday,1,33.28,90.0
+460320,"Ionna - Daly City, CA",Daly City,CA,19,0,Sunday,1,14.68,90.0
+460331,"Pilot Travel Center #474 Sutton, WV",Sutton,WV,17,3,Wednesday,1,20.44,45.0
+461750,Speedy Q,New Baltimore,MI,5,4,Thursday,1,71.05,90.0
+460959,"Thorntons #327 - Bellwood, IL",Bellwood,IL,9,6,Saturday,1,29.72,120.0
+462127,Kimco-charlotte,Charlotte,NC,19,6,Saturday,1,21.57,45.0
+470792,Fellows Creek Golf Club,Canton,MI,3,2,Tuesday,1,38.39,60.0
+460503,Futurama near Ball & Chain,Miami,Florida,11,6,Saturday,1,18.5,60.0
+461166,Gladwin City Hall,Gladwin,MI,16,4,Thursday,1,40.28,120.0
+461547,"Pilot Travel Center #1047 Jacksonville, FL",Jacksonville,FL,12,1,Monday,1,76.05,120.0
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,10,2,Tuesday,1,28.35,45.0
+460331,"Pilot Travel Center #474 Sutton, WV",Sutton,WV,13,1,Monday,1,30.79,45.0
+461370,Miller Hill Super One,Duluth,MN,22,6,Saturday,1,50.87,90.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,21,4,Thursday,1,40.72,60.0
+470276,"New Albany Light, Gas, and Water",New Albany,MS,17,0,Sunday,1,22.85,45.0
+460430,Revel - South San Francisco,South San Francisco,CA,3,3,Wednesday,1,47.14,60.0
+461629,In-N-Out Burger - Redding,Redding,CA,18,1,Monday,1,83.45,120.0
+461550,"Flying J Travel Center #706 Tulsa, OK",Tulsa,OK,18,4,Thursday,1,19.77,120.0
+461130,TownePlace Suites by Marriott Houston Northwest/Beltway 8,Houston,TX,17,4,Thursday,1,11.62,90.0
+460430,Revel - South San Francisco,South San Francisco,CA,13,5,Friday,1,41.84,60.0
+470276,"New Albany Light, Gas, and Water",New Albany,MS,18,5,Friday,1,34.62,90.0
+461252,D & 3rd Street Curbside,West Sacramento,CA,11,2,Tuesday,1,42.75,90.0
+461541,Fox Kia South,Grand Rapids,michigan,7,3,Wednesday,1,32.73,90.0
+461275,Goodwill,St. Louis Park,MN,13,3,Wednesday,1,47.33,180.0
+462225,IONNA Beaver Rechargery Relay,Beaver,UT,3,0,Sunday,1,26.12,90.0
+462227,IONNA Middletown Rechargery Relay,Middletown,MD,20,2,Tuesday,1,58.35,90.0
+469399,Elkhorn Shopping Center,Sacramento,CA,17,0,Sunday,1,10.93,30.0
+461758,Bradville Square Shopping Center,Sacramento,CA,18,5,Friday,1,44.1,90.0
+469748,Ionna Largo Rechargery @ Wawa,Largo,FL,18,6,Saturday,1,12.99,90.0
+469253,Lenexa Justice Center,Lenexa,KS,2,2,Tuesday,1,11.58,60.0
+460957,"Flying J Travel Center #489 Grand Forks, ND",Grand Forks,ND,9,5,Friday,1,80.89,120.0
+469743,"Pilot Travel Center #4642 Toms Brook, VA",Toms Brook,VA,6,4,Thursday,1,14.29,120.0
+460956,"Pilot Travel Center #368 Decatur, IL",Decatur,IL,19,3,Wednesday,2,83.1,135.0
+460956,"Pilot Travel Center #368 Decatur, IL",Decatur,IL,14,2,Tuesday,1,11.12,90.0
+460371,"Circle K - Yuma, AZ",Yuma,AZ,18,0,Sunday,1,74.47,180.0
+460506,Wentworth-Douglass Hospital,Dover,NH,9,5,Friday,1,39.51,60.0
+460956,"Pilot Travel Center #368 Decatur, IL",Decatur,IL,7,4,Thursday,1,56.68,90.0
+460345,Central Co-op,Tacoma,WA,18,6,Saturday,1,27.51,60.0
+469752,"Ionna Carlin, NV Rechargery Relay @ Ridley’s Market",Carlin,NV,20,5,Friday,1,23.43,120.0
+461307,Fas Mart,Grand Haven,MI,1,3,Wednesday,1,23.28,60.0
+460956,"Pilot Travel Center #368 Decatur, IL",Decatur,IL,11,3,Wednesday,1,27.38,60.0
+461252,D & 3rd Street Curbside,West Sacramento,CA,13,3,Wednesday,1,37.81,90.0
+461252,D & 3rd Street Curbside,West Sacramento,CA,17,6,Saturday,1,19.73,60.0
+460201,Krazyfish Grille,Port St Joe,Florida,6,4,Thursday,1,60.74,90.0
+462227,IONNA Middletown Rechargery Relay,Middletown,MD,18,3,Wednesday,1,23.04,60.0
+469430,Bernal Plaza,San Jose,CA,17,3,Wednesday,1,46.66,90.0
+461758,Bradville Square Shopping Center,Sacramento,CA,17,2,Tuesday,1,24.45,60.0
+461546,"Pilot Travel Center #1051 Iowa, LA",Iowa,LA,13,4,Thursday,1,21.87,60.0
+460570,Eastern Market Public Lot,Detroit,MI,5,2,Tuesday,1,47.23,90.0
+461631,"Pilot Travel Center #1019 - Orland, CA",Orland,CA,8,4,Thursday,1,49.34,60.0
+461750,Speedy Q,New Baltimore,MI,4,0,Sunday,1,11.42,60.0
+470651,"Starbucks - Ridgefield, WA",Ridgefield,WA,15,1,Monday,2,114.22,105.0
+461551,Berkeley Bowl (West),Berkeley,CA,16,6,Saturday,1,17.52,90.0
+461551,Berkeley Bowl (West),Berkeley,CA,23,3,Wednesday,1,9.84,60.0
+460673,Telsa Supercharger,Rogue River,Oregon,2,3,Wednesday,1,99.16,120.0
+460504,Marketplace Foods,Minot,ND,4,4,Thursday,1,28.11,60.0
+461546,"Pilot Travel Center #1051 Iowa, LA",Iowa,LA,11,2,Tuesday,1,15.48,90.0
+469455,Polaris Bergland Township,Bergland,MI,7,1,Monday,1,52.3,90.0
+460506,Wentworth-Douglass Hospital,Dover,NH,21,0,Sunday,1,28.72,90.0
+461550,"Flying J Travel Center #706 Tulsa, OK",Tulsa,OK,7,6,Saturday,2,90.08,75.0
+462098,Wawa Supercharger,Staunton,VA,2,5,Friday,1,19.65,45.0
+462098,Wawa Supercharger,Staunton,VA,21,6,Saturday,1,22.56,45.0
+469403,1122 Frankford grand,fishtown,PA,15,2,Tuesday,1,43.91,60.0
+461166,Gladwin City Hall,Gladwin,MI,8,6,Saturday,1,140.49,180.0
+460329,IONNA Seffner Rechargery,Seffner,FL,19,3,Wednesday,1,44.72,120.0
+461744,Sunset Pointe,Rocklin,CA,12,6,Saturday,1,65.93,90.0
+460321,IONNA - Gilman Rechargery Relay,Gilman,IL,9,5,Friday,1,59.34,120.0
+462269,Ionna Rechargery,Roseville,CA,3,4,Thursday,1,29.13,120.0
+460263,Rivian Adventure Network,St. Regis,Montana,5,3,Wednesday,1,124.72,180.0
+461632,"Ionna - Willows, CA",Williows,CA,3,3,Wednesday,1,20.67,45.0
+460323,Ionna - OKC,Oklahoma City,OK,10,5,Friday,1,23.08,180.0
+470652,"Starbucks - Phoenix, OR",Phoenix,OR,8,4,Thursday,1,41.99,120.0
+460570,Eastern Market Public Lot,Detroit,MI,7,5,Friday,1,25.57,120.0
+460215,Tri-City Shopping Center,Redlands,CA,14,5,Friday,1,71.51,120.0
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,8,3,Wednesday,1,26.83,45.0
+460321,IONNA - Gilman Rechargery Relay,Gilman,IL,7,6,Saturday,1,29.88,60.0
+469746,"Pilot Travel Center #281 Girard, OH",Girard,OH,14,0,Sunday,1,57.68,90.0
+469748,Ionna Largo Rechargery @ Wawa,Largo,FL,19,6,Saturday,1,29.66,60.0
+460949,"Flying J Travel Center #737 San Antonio, TX",San Antonio,TX,12,0,Sunday,1,9.31,45.0
+469749,"Ionna Reading, MA Rechargery Relay",Reading,MA,21,0,Sunday,1,19.96,45.0
+460484,L2 near Ball&Chain,Miami,Florida,12,6,Saturday,1,57.31,90.0
+461551,Berkeley Bowl (West),Berkeley,CA,12,6,Saturday,1,16.39,30.0
+461170,Hamilton Market St,Hamilton,OH,18,6,Saturday,1,80.12,120.0
+460321,IONNA - Gilman Rechargery Relay,Gilman,IL,18,4,Thursday,1,73.71,90.0
+461511,Sleep Inn & Suites Monroe - Woodbury,Monroe,NY,18,0,Sunday,1,13.11,60.0
+469403,1122 Frankford grand,fishtown,PA,12,6,Saturday,1,36.4,60.0
+461130,TownePlace Suites by Marriott Houston Northwest/Beltway 8,Houston,TX,4,0,Sunday,1,9.73,45.0
+461252,D & 3rd Street Curbside,West Sacramento,CA,23,1,Monday,1,71.6,90.0
+470498,US Highway 57,Eagle Pass,Texas,8,4,Thursday,1,89.26,240.0
+460320,"Ionna - Daly City, CA",Daly City,CA,0,3,Wednesday,1,12.76,60.0
+461170,Hamilton Market St,Hamilton,OH,1,1,Monday,1,23.97,120.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,9,3,Wednesday,1,39.69,90.0
+460958,"Pilot Travel Center #1225 Mascoutah, IL",Mascoutah,IL,2,6,Saturday,1,36.27,120.0
+460371,"Circle K - Yuma, AZ",Yuma,AZ,4,3,Wednesday,1,37.29,60.0
+461164,Clawson Shopping Center,Clawson,MI,4,1,Monday,1,90.36,180.0
+469612,"Dennys - Auburn, WA",Auburn,WA,9,3,Wednesday,1,37.89,120.0
+461164,Clawson Shopping Center,Clawson,MI,8,3,Wednesday,2,43.08,52.5
+461170,Hamilton Market St,Hamilton,OH,14,2,Tuesday,1,21.87,60.0
+460484,L2 near Ball&Chain,Miami,Florida,8,5,Friday,1,14.03,45.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,0,5,Friday,1,21.35,45.0
+460958,"Pilot Travel Center #1225 Mascoutah, IL",Mascoutah,IL,14,4,Thursday,1,15.2,120.0
+460331,"Pilot Travel Center #474 Sutton, WV",Sutton,WV,2,4,Thursday,1,97.43,120.0
+461757,Dutch Bros Coffee,Sacramento,CA,11,5,Friday,1,41.38,60.0
+461157,University Place Library,University Place,Washington,21,0,Sunday,1,6.63,30.0
+461632,"Ionna - Willows, CA",Williows,CA,12,0,Sunday,1,56.97,90.0
+469399,Elkhorn Shopping Center,Sacramento,CA,14,2,Tuesday,1,29.6,180.0
+469374,Freewire Charging Station,Columbus,OH,22,6,Saturday,1,41.43,90.0
+460368,"bp pulse - Duarte, CA",Duarte,CA,8,0,Sunday,1,19.6,120.0
+460632,Parsons Chevy - Eagle River,Eagle River,WI,6,4,Thursday,1,30.47,60.0
+460367,Santa Monica Station,Santa Monica,CA,16,2,Tuesday,1,45.51,60.0
+461157,University Place Library,University Place,Washington,0,2,Tuesday,1,30.71,60.0
+461549,"ONE9 Travel Center #7937 Mcleansville, NC",Mcleansville,NC,12,3,Wednesday,1,28.69,90.0
+461550,"Flying J Travel Center #706 Tulsa, OK",Tulsa,OK,9,5,Friday,1,17.78,60.0
+460955,"Flying J Travel Center #572 Williams, IA",Williams,IA,16,0,Sunday,1,41.67,240.0
+461166,Gladwin City Hall,Gladwin,MI,17,5,Friday,1,68.98,90.0
+460708,Chargepoint,Scottsville,Kentucky,2,5,Friday,1,45.72,120.0
+470276,"New Albany Light, Gas, and Water",New Albany,MS,18,0,Sunday,1,38.26,120.0
+469807,OUC ReCharge EV Hub at OCCC,Orlando,FL,17,0,Sunday,2,203.77,150.0
+460372,"Pilot Travel Center #1208 Yuma, AZ",Yuma,AZ,15,2,Tuesday,1,34.19,60.0
+462227,IONNA Middletown Rechargery Relay,Middletown,MD,15,0,Sunday,1,25.63,90.0
+461554,The Bite Tumalo,Tumalo,OR,16,2,Tuesday,1,7.83,45.0
+461546,"Pilot Travel Center #1051 Iowa, LA",Iowa,LA,9,2,Tuesday,1,60.93,180.0
+462225,IONNA Beaver Rechargery Relay,Beaver,UT,13,0,Sunday,1,18.28,90.0
+461629,In-N-Out Burger - Redding,Redding,CA,2,3,Wednesday,1,29.88,120.0
+462227,IONNA Middletown Rechargery Relay,Middletown,MD,7,1,Monday,2,36.6,60.0
+461171,Hamilton CNG Filling Station,Hamilton,OH,23,6,Saturday,1,42.48,60.0
+461546,"Pilot Travel Center #1051 Iowa, LA",Iowa,LA,7,2,Tuesday,1,89.89,180.0
+460504,Marketplace Foods,Minot,ND,18,4,Thursday,1,49.17,120.0
+470792,Fellows Creek Golf Club,Canton,MI,5,0,Sunday,1,124.44,180.0
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,8,0,Sunday,1,12.71,60.0
+461541,Fox Kia South,Grand Rapids,michigan,16,5,Friday,1,45.77,90.0
+460632,Parsons Chevy - Eagle River,Eagle River,WI,13,4,Thursday,1,116.67,240.0
+461048,Mitra EV DCFC - Ford Commercial,Sacramento,CA,17,3,Wednesday,1,184.39,240.0
+460671,FPL,Pensacola,Florida,18,2,Tuesday,1,16.09,45.0
+461550,"Flying J Travel Center #706 Tulsa, OK",Tulsa,OK,10,3,Wednesday,1,21.58,45.0
+469749,"Ionna Reading, MA Rechargery Relay",Reading,MA,2,2,Tuesday,1,66.12,90.0
+469743,"Pilot Travel Center #4642 Toms Brook, VA",Toms Brook,VA,15,1,Monday,1,38.32,90.0
+461048,Mitra EV DCFC - Ford Commercial,Sacramento,CA,18,2,Tuesday,1,26.62,45.0
+469749,"Ionna Reading, MA Rechargery Relay",Reading,MA,23,6,Saturday,1,11.21,60.0
+460671,FPL,Pensacola,Florida,11,0,Sunday,1,30.41,45.0
+469430,Bernal Plaza,San Jose,CA,11,2,Tuesday,1,55.13,120.0
+461252,D & 3rd Street Curbside,West Sacramento,CA,6,0,Sunday,1,21.15,30.0
+461758,Bradville Square Shopping Center,Sacramento,CA,12,6,Saturday,1,54.74,90.0
+461048,Mitra EV DCFC - Ford Commercial,Sacramento,CA,11,5,Friday,1,49.47,60.0
+461049,Mitra EV DCFC - Aztec Solar,Rancho Cordova,CA,16,1,Monday,1,5.2,30.0
+462226,IONNA Raleigh Rechargery Relay,Raleigh,NC,10,6,Saturday,1,45.54,60.0
+469499,Renewable Grid - Glen Cove Fast Charging,Glen Cove,NY,11,3,Wednesday,1,36.3,60.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,4,0,Sunday,1,23.2,30.0
+460956,"Pilot Travel Center #368 Decatur, IL",Decatur,IL,16,4,Thursday,1,43.98,120.0
+460329,IONNA Seffner Rechargery,Seffner,FL,14,0,Sunday,1,15.66,60.0
+460384,Mendocino Marketplace,Santa Rosa,CA,22,3,Wednesday,1,29.3,60.0
+462127,Kimco-charlotte,Charlotte,NC,22,3,Wednesday,1,24.72,60.0
+461757,Dutch Bros Coffee,Sacramento,CA,22,1,Monday,1,46.6,60.0
+470792,Fellows Creek Golf Club,Canton,MI,19,0,Sunday,1,15.7,90.0
+460371,"Circle K - Yuma, AZ",Yuma,AZ,9,5,Friday,1,41.71,90.0
+469741,"Pilot Travel Center #63 Piedmont, SC",Piedmont,SC,19,0,Sunday,1,19.71,120.0
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,3,4,Thursday,1,23.54,180.0
+461627,"T/A Travel Center #0057 - Redding, CA",Redding,CA,14,0,Sunday,1,74.08,120.0
+469807,OUC ReCharge EV Hub at OCCC,Orlando,FL,9,5,Friday,2,89.03,75.0
+460969,EVgo - SF SOMA,San Francisco,CA,13,1,Monday,1,10.14,30.0
+461155,Key Chrysler Dodge Jeep Ram,Rochester,New Hampshire,13,4,Thursday,1,22.46,180.0
+460484,L2 near Ball&Chain,Miami,Florida,10,0,Sunday,1,190.86,240.0
+460958,"Pilot Travel Center #1225 Mascoutah, IL",Mascoutah,IL,7,1,Monday,1,75.32,180.0
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,18,0,Sunday,1,130.68,180.0
+469748,Ionna Largo Rechargery @ Wawa,Largo,FL,23,2,Tuesday,1,10.34,60.0
+460372,"Pilot Travel Center #1208 Yuma, AZ",Yuma,AZ,7,6,Saturday,1,14.08,120.0
+461813,Culver's,Rhinelander,WI,13,4,Thursday,1,56.4,90.0
+469743,"Pilot Travel Center #4642 Toms Brook, VA",Toms Brook,VA,15,5,Friday,1,28.94,60.0
+461813,Culver's,Rhinelander,WI,9,4,Thursday,1,20.09,120.0
+462226,IONNA Raleigh Rechargery Relay,Raleigh,NC,1,3,Wednesday,1,66.85,120.0
+469747,"Flying J Travel Center #692 Wells, NV",Wells,NV,7,4,Thursday,1,26.29,45.0
+461550,"Flying J Travel Center #706 Tulsa, OK",Tulsa,OK,4,2,Tuesday,1,87.86,120.0
+469745,"Flying J Travel Center #875 Elkton, MD",Elkton,MD,9,3,Wednesday,1,14.72,60.0
+461275,Goodwill,St. Louis Park,MN,13,4,Thursday,1,42.43,60.0
+461156,Key GMC of Rochester,Rochester,New Hampshire,12,0,Sunday,2,46.15,75.0
+470652,"Starbucks - Phoenix, OR",Phoenix,OR,5,4,Thursday,1,7.06,45.0
+460954,"Flying J Travel Center #671 Matthews, MO",Matthews,MO,19,2,Tuesday,1,48.32,60.0
+460321,IONNA - Gilman Rechargery Relay,Gilman,IL,0,2,Tuesday,1,14.26,45.0
+461628,Petro Corning #309,Corning,CA,17,2,Tuesday,1,60.98,90.0
+462225,IONNA Beaver Rechargery Relay,Beaver,UT,6,1,Monday,1,63.01,90.0
+461733,Walmart,Checotah,OK,18,6,Saturday,1,86.32,120.0
+460708,Chargepoint,Scottsville,Kentucky,23,6,Saturday,1,79.83,180.0
+461171,Hamilton CNG Filling Station,Hamilton,OH,18,5,Friday,1,67.13,120.0
+469430,Bernal Plaza,San Jose,CA,10,6,Saturday,1,44.23,60.0
+461275,Goodwill,St. Louis Park,MN,18,2,Tuesday,1,23.09,120.0
+469749,"Ionna Reading, MA Rechargery Relay",Reading,MA,11,4,Thursday,1,24.01,60.0
+460955,"Flying J Travel Center #572 Williams, IA",Williams,IA,17,6,Saturday,1,62.14,90.0
+469741,"Pilot Travel Center #63 Piedmont, SC",Piedmont,SC,12,6,Saturday,1,29.97,45.0
+461156,Key GMC of Rochester,Rochester,New Hampshire,12,4,Thursday,1,33.72,45.0
+469743,"Pilot Travel Center #4642 Toms Brook, VA",Toms Brook,VA,18,2,Tuesday,1,33.64,45.0
+461156,Key GMC of Rochester,Rochester,New Hampshire,17,6,Saturday,1,36.02,60.0
+469612,"Dennys - Auburn, WA",Auburn,WA,13,6,Saturday,1,40.24,90.0
+461275,Goodwill,St. Louis Park,MN,5,2,Tuesday,1,48.45,60.0
+470498,US Highway 57,Eagle Pass,Texas,17,6,Saturday,1,62.28,120.0
+469747,"Flying J Travel Center #692 Wells, NV",Wells,NV,13,4,Thursday,1,44.47,60.0
+469807,OUC ReCharge EV Hub at OCCC,Orlando,FL,14,5,Friday,1,8.43,60.0
+460372,"Pilot Travel Center #1208 Yuma, AZ",Yuma,AZ,4,0,Sunday,1,11.21,90.0
+462227,IONNA Middletown Rechargery Relay,Middletown,MD,18,6,Saturday,1,67.29,120.0
+460322,Ionna Daytona Beach Rechargery Relay @Wawa,Daytona Beach,FL,8,1,Monday,1,60.63,90.0
+461744,Sunset Pointe,Rocklin,CA,8,2,Tuesday,1,31.15,120.0
+460384,Mendocino Marketplace,Santa Rosa,CA,3,0,Sunday,1,13.72,90.0
+460318,EVgo,North Bend,Washington,6,1,Monday,1,45.13,60.0
+461549,"ONE9 Travel Center #7937 Mcleansville, NC",Mcleansville,NC,13,1,Monday,1,39.69,90.0
+469752,"Ionna Carlin, NV Rechargery Relay @ Ridley’s Market",Carlin,NV,7,3,Wednesday,1,48.26,60.0
+460372,"Pilot Travel Center #1208 Yuma, AZ",Yuma,AZ,19,0,Sunday,1,24.26,60.0
+461049,Mitra EV DCFC - Aztec Solar,Rancho Cordova,CA,7,4,Thursday,1,9.02,60.0
+460673,Telsa Supercharger,Rogue River,Oregon,17,0,Sunday,1,65.18,90.0
+461549,"ONE9 Travel Center #7937 Mcleansville, NC",Mcleansville,NC,11,3,Wednesday,1,49.65,60.0
+469611,Dennys,Seatac,WA,19,6,Saturday,1,27.32,120.0
+461164,Clawson Shopping Center,Clawson,MI,16,2,Tuesday,2,50.42,75.0
+461251,Sunshine Gardens,South San Francisco,CA,7,1,Monday,1,27.21,90.0
+461370,Miller Hill Super One,Duluth,MN,15,5,Friday,1,98.69,120.0
+460318,EVgo,North Bend,Washington,9,2,Tuesday,1,16.12,120.0
+460371,"Circle K - Yuma, AZ",Yuma,AZ,18,3,Wednesday,2,91.81,82.5
+461167,Pats Food Freeland,Freeland,MI,19,5,Friday,1,21.64,30.0
+469752,"Ionna Carlin, NV Rechargery Relay @ Ridley’s Market",Carlin,NV,5,6,Saturday,2,77.91,90.0
+461170,Hamilton Market St,Hamilton,OH,12,0,Sunday,1,50.38,120.0
+461275,Goodwill,St. Louis Park,MN,10,5,Friday,1,44.7,60.0
+460331,"Pilot Travel Center #474 Sutton, WV",Sutton,WV,9,2,Tuesday,1,58.31,90.0
+462228,IONNA Kutztown Rechargery @ Sheetz,Kutztown,PA,13,3,Wednesday,1,70.39,90.0
+461756,"Laguna Blvd, Elk Grove, CA",Elk Grove,CA,8,5,Friday,1,23.48,90.0
+460318,EVgo,North Bend,Washington,6,0,Sunday,1,7.92,45.0
+460503,Futurama near Ball & Chain,Miami,Florida,23,2,Tuesday,1,23.82,45.0
+469807,OUC ReCharge EV Hub at OCCC,Orlando,FL,8,4,Thursday,2,48.93,82.5
+461757,Dutch Bros Coffee,Sacramento,CA,3,0,Sunday,1,47.13,60.0
+461157,University Place Library,University Place,Washington,8,3,Wednesday,1,46.41,120.0
+469746,"Pilot Travel Center #281 Girard, OH",Girard,OH,9,1,Monday,1,46.52,120.0
+469252,Lenexa Old Town Activity Center,Lenexa,KS,9,5,Friday,1,45.68,120.0
+461370,Miller Hill Super One,Duluth,MN,14,5,Friday,1,46.35,180.0
+461547,"Pilot Travel Center #1047 Jacksonville, FL",Jacksonville,FL,19,4,Thursday,1,10.36,60.0
+461554,The Bite Tumalo,Tumalo,OR,7,3,Wednesday,1,13.89,90.0
+462226,IONNA Raleigh Rechargery Relay,Raleigh,NC,7,0,Sunday,2,51.28,90.0
+460506,Wentworth-Douglass Hospital,Dover,NH,14,1,Monday,1,47.12,90.0
+461275,Goodwill,St. Louis Park,MN,18,5,Friday,1,25.08,60.0
+460708,Chargepoint,Scottsville,Kentucky,14,1,Monday,1,11.15,90.0
+460969,EVgo - SF SOMA,San Francisco,CA,6,6,Saturday,1,39.0,90.0
+461715,BP Express Stop,Jackson,MI,10,3,Wednesday,1,14.56,60.0
+460958,"Pilot Travel Center #1225 Mascoutah, IL",Mascoutah,IL,19,1,Monday,2,51.42,75.0
+460321,IONNA - Gilman Rechargery Relay,Gilman,IL,1,4,Thursday,1,54.7,180.0
+462111,Shell - Novi,Novi,MI,18,5,Friday,1,42.7,90.0
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,14,1,Monday,1,62.95,180.0
+460957,"Flying J Travel Center #489 Grand Forks, ND",Grand Forks,ND,19,2,Tuesday,1,19.87,30.0
+470498,US Highway 57,Eagle Pass,Texas,11,6,Saturday,2,195.47,135.0
+469403,1122 Frankford grand,fishtown,PA,17,4,Thursday,1,9.78,30.0
+460201,Krazyfish Grille,Port St Joe,Florida,18,3,Wednesday,1,91.4,180.0
+460368,"bp pulse - Duarte, CA",Duarte,CA,13,1,Monday,1,72.06,90.0
+461546,"Pilot Travel Center #1051 Iowa, LA",Iowa,LA,9,5,Friday,1,90.2,120.0
+460368,"bp pulse - Duarte, CA",Duarte,CA,18,6,Saturday,1,56.28,90.0
+460953,"Flying J Travel Center #690 Lordsburg, NM",Lordsburg,NM,20,1,Monday,1,68.04,90.0
+462269,Ionna Rechargery,Roseville,CA,14,6,Saturday,1,44.88,90.0
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,7,1,Monday,1,30.6,180.0
+460671,FPL,Pensacola,Florida,10,5,Friday,1,66.84,90.0
+469611,Dennys,Seatac,WA,17,0,Sunday,3,140.97,70.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,7,1,Monday,1,48.98,90.0
+460708,Chargepoint,Scottsville,Kentucky,22,6,Saturday,1,96.98,120.0
+461166,Gladwin City Hall,Gladwin,MI,10,0,Sunday,1,164.58,240.0
+461171,Hamilton CNG Filling Station,Hamilton,OH,20,6,Saturday,1,28.35,45.0
+461511,Sleep Inn & Suites Monroe - Woodbury,Monroe,NY,8,3,Wednesday,1,10.98,60.0
+460263,Rivian Adventure Network,St. Regis,Montana,16,6,Saturday,1,10.63,90.0
+461543,Garcia Bend Park,Sacramento,CA,22,4,Thursday,1,45.55,60.0
+461511,Sleep Inn & Suites Monroe - Woodbury,Monroe,NY,6,2,Tuesday,1,30.27,60.0
+469399,Elkhorn Shopping Center,Sacramento,CA,19,2,Tuesday,1,74.36,90.0
+461627,"T/A Travel Center #0057 - Redding, CA",Redding,CA,9,1,Monday,1,19.21,60.0
+462111,Shell - Novi,Novi,MI,10,5,Friday,1,28.85,45.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,13,3,Wednesday,1,28.45,45.0
+460320,"Ionna - Daly City, CA",Daly City,CA,23,0,Sunday,1,93.13,120.0
+462111,Shell - Novi,Novi,MI,22,3,Wednesday,1,72.01,90.0
+460329,IONNA Seffner Rechargery,Seffner,FL,10,1,Monday,1,30.74,180.0
+462127,Kimco-charlotte,Charlotte,NC,14,2,Tuesday,1,26.34,60.0
+469499,Renewable Grid - Glen Cove Fast Charging,Glen Cove,NY,17,0,Sunday,1,12.14,30.0
+461156,Key GMC of Rochester,Rochester,New Hampshire,14,6,Saturday,1,33.93,45.0
+470276,"New Albany Light, Gas, and Water",New Albany,MS,4,1,Monday,1,13.79,90.0
+470113,Kwik-Charge #1205,Lake Delton,WI,13,4,Thursday,1,65.24,90.0
+461551,Berkeley Bowl (West),Berkeley,CA,20,2,Tuesday,1,39.64,90.0
+460328,Ionna Concord Rechargery,Concord,NC,21,1,Monday,1,36.76,120.0
+469743,"Pilot Travel Center #4642 Toms Brook, VA",Toms Brook,VA,17,1,Monday,1,37.2,90.0
+460673,Telsa Supercharger,Rogue River,Oregon,14,5,Friday,1,66.72,120.0
+461629,In-N-Out Burger - Redding,Redding,CA,14,1,Monday,1,28.46,45.0
+461733,Walmart,Checotah,OK,19,0,Sunday,1,31.87,60.0
+461813,Culver's,Rhinelander,WI,4,1,Monday,1,46.53,90.0
+462111,Shell - Novi,Novi,MI,14,3,Wednesday,1,12.63,60.0
+460708,Chargepoint,Scottsville,Kentucky,11,0,Sunday,1,123.67,180.0
+470312,Safeway,Hercules,CA,15,5,Friday,1,30.46,60.0
+460959,"Thorntons #327 - Bellwood, IL",Bellwood,IL,22,0,Sunday,1,19.34,30.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,23,0,Sunday,1,49.66,90.0
+461541,Fox Kia South,Grand Rapids,michigan,8,0,Sunday,1,20.78,45.0
+462228,IONNA Kutztown Rechargery @ Sheetz,Kutztown,PA,6,4,Thursday,1,82.0,120.0
+461048,Mitra EV DCFC - Ford Commercial,Sacramento,CA,14,2,Tuesday,1,19.77,90.0
+461547,"Pilot Travel Center #1047 Jacksonville, FL",Jacksonville,FL,3,3,Wednesday,1,14.66,90.0
+461551,Berkeley Bowl (West),Berkeley,CA,19,3,Wednesday,1,37.01,90.0
+461632,"Ionna - Willows, CA",Williows,CA,8,4,Thursday,1,59.08,90.0
+469430,Bernal Plaza,San Jose,CA,20,5,Friday,1,36.74,45.0
+461551,Berkeley Bowl (West),Berkeley,CA,18,3,Wednesday,1,149.17,180.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,14,1,Monday,1,40.55,60.0
+461048,Mitra EV DCFC - Ford Commercial,Sacramento,CA,8,0,Sunday,1,36.48,90.0
+461307,Fas Mart,Grand Haven,MI,15,5,Friday,1,18.48,90.0
+460384,Mendocino Marketplace,Santa Rosa,CA,9,3,Wednesday,1,111.7,180.0
+462228,IONNA Kutztown Rechargery @ Sheetz,Kutztown,PA,11,6,Saturday,1,43.36,60.0
+461757,Dutch Bros Coffee,Sacramento,CA,9,2,Tuesday,1,99.67,240.0
+462269,Ionna Rechargery,Roseville,CA,19,2,Tuesday,1,31.69,45.0
+461275,Goodwill,St. Louis Park,MN,9,2,Tuesday,1,44.98,60.0
+461073,Fairfield by Marriott Inn & Suites Houston Brookhollow,Houston,TX,9,0,Sunday,1,98.99,120.0
+461165,Heilmann Community Center,Detroit,MI,23,3,Wednesday,1,41.18,60.0
+461167,Pats Food Freeland,Freeland,MI,21,1,Monday,1,47.41,60.0
+461370,Miller Hill Super One,Duluth,MN,16,3,Wednesday,1,136.05,180.0
+470696,Trailborn Grand Canyon,Williams,AZ,15,6,Saturday,1,29.67,45.0
+460673,Telsa Supercharger,Rogue River,Oregon,13,3,Wednesday,1,10.79,30.0
+460571,Exxon Utica,Utica,MI,16,4,Thursday,1,16.45,60.0
+461541,Fox Kia South,Grand Rapids,michigan,5,6,Saturday,1,37.75,60.0
+461549,"ONE9 Travel Center #7937 Mcleansville, NC",Mcleansville,NC,9,1,Monday,1,5.78,30.0
+469807,OUC ReCharge EV Hub at OCCC,Orlando,FL,2,4,Thursday,1,107.28,180.0
+460322,Ionna Daytona Beach Rechargery Relay @Wawa,Daytona Beach,FL,10,0,Sunday,1,64.58,120.0
+460708,Chargepoint,Scottsville,Kentucky,8,2,Tuesday,1,20.89,45.0
+469399,Elkhorn Shopping Center,Sacramento,CA,15,3,Wednesday,1,142.45,180.0
+461543,Garcia Bend Park,Sacramento,CA,7,1,Monday,1,23.83,90.0
+461252,D & 3rd Street Curbside,West Sacramento,CA,5,5,Friday,1,57.48,90.0
+469252,Lenexa Old Town Activity Center,Lenexa,KS,15,5,Friday,1,36.35,90.0
+462228,IONNA Kutztown Rechargery @ Sheetz,Kutztown,PA,20,5,Friday,2,46.65,105.0
+460345,Central Co-op,Tacoma,WA,18,5,Friday,1,77.05,240.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,6,6,Saturday,1,45.15,90.0
+460329,IONNA Seffner Rechargery,Seffner,FL,19,2,Tuesday,1,23.39,45.0
+460484,L2 near Ball&Chain,Miami,Florida,17,3,Wednesday,1,68.62,90.0
+461252,D & 3rd Street Curbside,West Sacramento,CA,19,4,Thursday,1,10.62,90.0
+462226,IONNA Raleigh Rechargery Relay,Raleigh,NC,9,2,Tuesday,1,48.64,180.0
+461632,"Ionna - Willows, CA",Williows,CA,7,2,Tuesday,1,54.2,120.0
+460708,Chargepoint,Scottsville,Kentucky,12,4,Thursday,2,109.1,90.0
+469455,Polaris Bergland Township,Bergland,MI,15,3,Wednesday,1,4.21,30.0
+461155,Key Chrysler Dodge Jeep Ram,Rochester,New Hampshire,10,2,Tuesday,1,61.18,120.0
+461130,TownePlace Suites by Marriott Houston Northwest/Beltway 8,Houston,TX,16,0,Sunday,1,28.27,90.0
+461170,Hamilton Market St,Hamilton,OH,17,2,Tuesday,1,41.86,60.0
+461756,"Laguna Blvd, Elk Grove, CA",Elk Grove,CA,5,5,Friday,1,95.69,120.0
+460954,"Flying J Travel Center #671 Matthews, MO",Matthews,MO,17,3,Wednesday,1,32.3,60.0
+461167,Pats Food Freeland,Freeland,MI,17,6,Saturday,1,16.52,90.0
+461135,Marathon,Grand Rapids,MI,7,2,Tuesday,1,42.1,120.0
+461275,Goodwill,St. Louis Park,MN,4,5,Friday,1,28.92,120.0
+461135,Marathon,Grand Rapids,MI,3,6,Saturday,1,23.92,60.0
+460953,"Flying J Travel Center #690 Lordsburg, NM",Lordsburg,NM,17,5,Friday,1,31.28,60.0
+461553,Ventura County Credit Union,Ventura,CA,17,3,Wednesday,1,27.4,90.0
+469253,Lenexa Justice Center,Lenexa,KS,11,2,Tuesday,1,36.73,60.0
+460632,Parsons Chevy - Eagle River,Eagle River,WI,9,2,Tuesday,1,32.8,180.0
+460953,"Flying J Travel Center #690 Lordsburg, NM",Lordsburg,NM,13,5,Friday,1,25.22,60.0
+461049,Mitra EV DCFC - Aztec Solar,Rancho Cordova,CA,9,3,Wednesday,1,14.4,30.0
+461554,The Bite Tumalo,Tumalo,OR,23,2,Tuesday,1,30.25,90.0
+469747,"Flying J Travel Center #692 Wells, NV",Wells,NV,18,5,Friday,2,164.4,150.0
+469252,Lenexa Old Town Activity Center,Lenexa,KS,4,1,Monday,1,39.4,60.0
+469749,"Ionna Reading, MA Rechargery Relay",Reading,MA,18,3,Wednesday,2,64.25,45.0
+461165,Heilmann Community Center,Detroit,MI,9,6,Saturday,1,35.61,60.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,19,3,Wednesday,1,29.47,60.0
+470276,"New Albany Light, Gas, and Water",New Albany,MS,17,6,Saturday,1,28.46,120.0
+461546,"Pilot Travel Center #1051 Iowa, LA",Iowa,LA,8,2,Tuesday,1,48.48,60.0
+460384,Mendocino Marketplace,Santa Rosa,CA,19,6,Saturday,1,16.43,45.0
+461156,Key GMC of Rochester,Rochester,New Hampshire,20,0,Sunday,1,50.42,120.0
+460949,"Flying J Travel Center #737 San Antonio, TX",San Antonio,TX,18,6,Saturday,1,18.03,60.0
+460956,"Pilot Travel Center #368 Decatur, IL",Decatur,IL,12,2,Tuesday,1,31.46,90.0
+460372,"Pilot Travel Center #1208 Yuma, AZ",Yuma,AZ,19,3,Wednesday,3,40.2,65.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2,0,Sunday,2,70.03,90.0
+460430,Revel - South San Francisco,South San Francisco,CA,21,5,Friday,1,61.49,120.0
+460430,Revel - South San Francisco,South San Francisco,CA,14,0,Sunday,1,24.81,180.0
+460263,Rivian Adventure Network,St. Regis,Montana,18,3,Wednesday,1,18.72,90.0
+460570,Eastern Market Public Lot,Detroit,MI,13,6,Saturday,1,34.02,90.0
+461252,D & 3rd Street Curbside,West Sacramento,CA,8,1,Monday,2,46.98,75.0
+460505,Mass General Brigham Healthcare Center,Dover,NH,10,3,Wednesday,1,47.11,120.0
+460957,"Flying J Travel Center #489 Grand Forks, ND",Grand Forks,ND,12,0,Sunday,1,9.59,30.0
+462228,IONNA Kutztown Rechargery @ Sheetz,Kutztown,PA,17,2,Tuesday,1,124.55,180.0
+461553,Ventura County Credit Union,Ventura,CA,19,6,Saturday,1,44.94,90.0
+470652,"Starbucks - Phoenix, OR",Phoenix,OR,10,5,Friday,1,90.21,120.0
+460953,"Flying J Travel Center #690 Lordsburg, NM",Lordsburg,NM,18,1,Monday,1,41.32,90.0
+461050,Mitra EV DCFC - Sierra Pacific,Rancho Cordova,CA,9,2,Tuesday,1,16.73,120.0
+469748,Ionna Largo Rechargery @ Wawa,Largo,FL,12,6,Saturday,1,45.19,60.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,18,3,Wednesday,1,57.23,90.0
+469612,"Dennys - Auburn, WA",Auburn,WA,0,1,Monday,2,124.97,150.0
+470357,FastTrack Market Marathon,Taylor,MI,12,2,Tuesday,1,39.45,60.0
+460321,IONNA - Gilman Rechargery Relay,Gilman,IL,15,5,Friday,1,57.45,120.0
+461167,Pats Food Freeland,Freeland,MI,22,5,Friday,1,11.49,30.0
+460504,Marketplace Foods,Minot,ND,13,6,Saturday,1,13.99,60.0
+460956,"Pilot Travel Center #368 Decatur, IL",Decatur,IL,14,0,Sunday,1,39.15,90.0
+461048,Mitra EV DCFC - Ford Commercial,Sacramento,CA,2,0,Sunday,1,25.31,120.0
+461171,Hamilton CNG Filling Station,Hamilton,OH,10,3,Wednesday,1,48.54,90.0
+461627,"T/A Travel Center #0057 - Redding, CA",Redding,CA,18,0,Sunday,1,5.42,45.0
+460957,"Flying J Travel Center #489 Grand Forks, ND",Grand Forks,ND,18,4,Thursday,1,12.14,90.0
+470498,US Highway 57,Eagle Pass,Texas,20,4,Thursday,1,23.92,60.0
+460322,Ionna Daytona Beach Rechargery Relay @Wawa,Daytona Beach,FL,7,3,Wednesday,2,89.99,90.0
+461157,University Place Library,University Place,Washington,17,1,Monday,1,45.22,90.0
+460505,Mass General Brigham Healthcare Center,Dover,NH,16,5,Friday,1,35.76,120.0
+461758,Bradville Square Shopping Center,Sacramento,CA,7,2,Tuesday,1,12.71,30.0
+462127,Kimco-charlotte,Charlotte,NC,6,1,Monday,2,90.35,90.0
+469403,1122 Frankford grand,fishtown,PA,18,6,Saturday,1,56.89,120.0
+460384,Mendocino Marketplace,Santa Rosa,CA,18,6,Saturday,1,28.9,120.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,19,0,Sunday,1,29.2,60.0
+460345,Central Co-op,Tacoma,WA,4,6,Saturday,1,60.74,120.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,9,0,Sunday,1,51.8,120.0
+462225,IONNA Beaver Rechargery Relay,Beaver,UT,19,3,Wednesday,1,45.74,90.0
+461167,Pats Food Freeland,Freeland,MI,18,3,Wednesday,1,78.26,120.0
+461156,Key GMC of Rochester,Rochester,New Hampshire,19,5,Friday,1,12.87,45.0
+460632,Parsons Chevy - Eagle River,Eagle River,WI,15,2,Tuesday,1,67.53,90.0
+460632,Parsons Chevy - Eagle River,Eagle River,WI,16,1,Monday,1,7.22,45.0
+470498,US Highway 57,Eagle Pass,Texas,18,1,Monday,2,62.48,90.0
+469611,Dennys,Seatac,WA,8,6,Saturday,1,47.37,60.0
+461744,Sunset Pointe,Rocklin,CA,14,0,Sunday,2,53.31,90.0
+460321,IONNA - Gilman Rechargery Relay,Gilman,IL,19,6,Saturday,1,64.39,90.0
+461546,"Pilot Travel Center #1051 Iowa, LA",Iowa,LA,19,6,Saturday,1,95.41,120.0
+469749,"Ionna Reading, MA Rechargery Relay",Reading,MA,12,3,Wednesday,1,51.33,90.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,16,6,Saturday,2,112.29,120.0
+461750,Speedy Q,New Baltimore,MI,13,5,Friday,1,29.41,60.0
+461813,Culver's,Rhinelander,WI,8,4,Thursday,1,60.29,90.0
+461251,Sunshine Gardens,South San Francisco,CA,2,1,Monday,1,47.55,90.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,18,1,Monday,1,10.19,60.0
+460372,"Pilot Travel Center #1208 Yuma, AZ",Yuma,AZ,7,1,Monday,1,13.48,60.0
+460430,Revel - South San Francisco,South San Francisco,CA,17,5,Friday,1,55.55,90.0
+461554,The Bite Tumalo,Tumalo,OR,12,3,Wednesday,1,11.68,60.0
+460484,L2 near Ball&Chain,Miami,Florida,12,5,Friday,1,23.1,60.0
+460708,Chargepoint,Scottsville,Kentucky,17,5,Friday,1,16.48,120.0
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,17,1,Monday,1,49.06,60.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,11,2,Tuesday,1,58.82,90.0
+460505,Mass General Brigham Healthcare Center,Dover,NH,18,5,Friday,1,56.36,180.0
+461130,TownePlace Suites by Marriott Houston Northwest/Beltway 8,Houston,TX,22,5,Friday,1,34.35,45.0
+461251,Sunshine Gardens,South San Francisco,CA,7,6,Saturday,1,143.14,180.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,10,6,Saturday,1,64.57,90.0
+460371,"Circle K - Yuma, AZ",Yuma,AZ,18,2,Tuesday,1,43.39,120.0
+461252,D & 3rd Street Curbside,West Sacramento,CA,9,1,Monday,1,44.15,90.0
+461543,Garcia Bend Park,Sacramento,CA,7,2,Tuesday,1,47.43,60.0
+460673,Telsa Supercharger,Rogue River,Oregon,19,0,Sunday,1,81.36,120.0
+469399,Elkhorn Shopping Center,Sacramento,CA,18,2,Tuesday,1,50.72,90.0
+460263,Rivian Adventure Network,St. Regis,Montana,22,4,Thursday,1,13.02,30.0
+461048,Mitra EV DCFC - Ford Commercial,Sacramento,CA,4,6,Saturday,1,22.57,90.0
+461548,"Pilot Travel Center #374 Marianna, FL",Marianna,FL,17,3,Wednesday,1,22.8,60.0
+469745,"Flying J Travel Center #875 Elkton, MD",Elkton,MD,9,2,Tuesday,1,27.8,90.0
+460320,"Ionna - Daly City, CA",Daly City,CA,22,1,Monday,1,17.52,90.0
+460504,Marketplace Foods,Minot,ND,9,1,Monday,1,75.93,120.0
+469399,Elkhorn Shopping Center,Sacramento,CA,19,0,Sunday,2,165.11,135.0
+460957,"Flying J Travel Center #489 Grand Forks, ND",Grand Forks,ND,16,3,Wednesday,1,47.08,60.0
+460322,Ionna Daytona Beach Rechargery Relay @Wawa,Daytona Beach,FL,13,1,Monday,1,84.7,120.0
+460322,Ionna Daytona Beach Rechargery Relay @Wawa,Daytona Beach,FL,12,4,Thursday,1,28.52,120.0
+469499,Renewable Grid - Glen Cove Fast Charging,Glen Cove,NY,23,5,Friday,2,63.18,75.0
+460958,"Pilot Travel Center #1225 Mascoutah, IL",Mascoutah,IL,16,6,Saturday,1,14.29,60.0
+461631,"Pilot Travel Center #1019 - Orland, CA",Orland,CA,10,3,Wednesday,1,7.64,45.0
+461758,Bradville Square Shopping Center,Sacramento,CA,8,4,Thursday,1,28.51,90.0
+470113,Kwik-Charge #1205,Lake Delton,WI,12,6,Saturday,1,43.47,60.0
+461307,Fas Mart,Grand Haven,MI,13,4,Thursday,1,23.33,45.0
+461629,In-N-Out Burger - Redding,Redding,CA,9,5,Friday,2,47.79,90.0
+469741,"Pilot Travel Center #63 Piedmont, SC",Piedmont,SC,18,3,Wednesday,1,32.04,60.0
+470498,US Highway 57,Eagle Pass,Texas,1,5,Friday,1,30.58,45.0
+460957,"Flying J Travel Center #489 Grand Forks, ND",Grand Forks,ND,7,6,Saturday,1,82.3,180.0
+460430,Revel - South San Francisco,South San Francisco,CA,11,3,Wednesday,1,45.0,60.0
+461549,"ONE9 Travel Center #7937 Mcleansville, NC",Mcleansville,NC,13,0,Sunday,1,48.15,60.0
+460372,"Pilot Travel Center #1208 Yuma, AZ",Yuma,AZ,18,4,Thursday,2,93.35,135.0
+469747,"Flying J Travel Center #692 Wells, NV",Wells,NV,1,0,Sunday,1,48.04,60.0
+460955,"Flying J Travel Center #572 Williams, IA",Williams,IA,22,3,Wednesday,1,71.27,120.0
+469401,Dutch Bros,Sacramento,CA,12,5,Friday,1,5.26,45.0
+461546,"Pilot Travel Center #1051 Iowa, LA",Iowa,LA,14,5,Friday,1,19.59,90.0
+469499,Renewable Grid - Glen Cove Fast Charging,Glen Cove,NY,1,1,Monday,1,86.21,120.0
+470357,FastTrack Market Marathon,Taylor,MI,10,0,Sunday,1,41.69,60.0
+469401,Dutch Bros,Sacramento,CA,18,6,Saturday,1,31.58,60.0
+461171,Hamilton CNG Filling Station,Hamilton,OH,19,1,Monday,1,15.51,60.0
+462127,Kimco-charlotte,Charlotte,NC,21,6,Saturday,1,9.23,45.0
+461547,"Pilot Travel Center #1047 Jacksonville, FL",Jacksonville,FL,17,5,Friday,1,58.93,180.0
+461251,Sunshine Gardens,South San Francisco,CA,12,5,Friday,1,28.89,60.0
+461156,Key GMC of Rochester,Rochester,New Hampshire,7,6,Saturday,1,15.29,45.0
+460485,Safeway,Martinez,CA,4,3,Wednesday,1,27.39,45.0
+461171,Hamilton CNG Filling Station,Hamilton,OH,9,4,Thursday,1,59.93,120.0
+460367,Santa Monica Station,Santa Monica,CA,18,5,Friday,1,30.14,120.0
+460318,EVgo,North Bend,Washington,18,4,Thursday,1,75.65,120.0
+460506,Wentworth-Douglass Hospital,Dover,NH,15,4,Thursday,1,29.42,90.0
+460671,FPL,Pensacola,Florida,16,5,Friday,1,29.16,45.0
+462269,Ionna Rechargery,Roseville,CA,13,5,Friday,1,33.78,45.0
+462269,Ionna Rechargery,Roseville,CA,19,0,Sunday,1,22.27,120.0
+460957,"Flying J Travel Center #489 Grand Forks, ND",Grand Forks,ND,15,0,Sunday,1,47.12,180.0
+461631,"Pilot Travel Center #1019 - Orland, CA",Orland,CA,3,2,Tuesday,1,5.73,45.0
+460331,"Pilot Travel Center #474 Sutton, WV",Sutton,WV,11,2,Tuesday,1,20.35,60.0
+461744,Sunset Pointe,Rocklin,CA,9,4,Thursday,1,34.23,45.0
+460321,IONNA - Gilman Rechargery Relay,Gilman,IL,19,5,Friday,1,17.86,60.0
+469741,"Pilot Travel Center #63 Piedmont, SC",Piedmont,SC,13,2,Tuesday,1,87.26,180.0
+460484,L2 near Ball&Chain,Miami,Florida,12,2,Tuesday,1,47.8,60.0
+461744,Sunset Pointe,Rocklin,CA,2,3,Wednesday,1,53.25,120.0
+461758,Bradville Square Shopping Center,Sacramento,CA,20,1,Monday,1,67.81,180.0
+470696,Trailborn Grand Canyon,Williams,AZ,18,3,Wednesday,1,23.04,120.0
+461628,Petro Corning #309,Corning,CA,11,1,Monday,1,26.93,45.0
+461546,"Pilot Travel Center #1051 Iowa, LA",Iowa,LA,2,3,Wednesday,1,24.76,60.0
+470113,Kwik-Charge #1205,Lake Delton,WI,18,2,Tuesday,1,54.55,120.0
+460959,"Thorntons #327 - Bellwood, IL",Bellwood,IL,0,3,Wednesday,1,68.17,120.0
+461554,The Bite Tumalo,Tumalo,OR,8,6,Saturday,1,66.45,90.0
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,18,2,Tuesday,1,38.1,60.0
+460503,Futurama near Ball & Chain,Miami,Florida,11,3,Wednesday,1,38.49,60.0
+461551,Berkeley Bowl (West),Berkeley,CA,14,5,Friday,1,98.84,120.0
+461130,TownePlace Suites by Marriott Houston Northwest/Beltway 8,Houston,TX,11,3,Wednesday,1,10.99,30.0
+461156,Key GMC of Rochester,Rochester,New Hampshire,15,4,Thursday,1,59.54,120.0
+461629,In-N-Out Burger - Redding,Redding,CA,20,4,Thursday,1,26.84,120.0
+461744,Sunset Pointe,Rocklin,CA,18,2,Tuesday,1,22.37,90.0
+461171,Hamilton CNG Filling Station,Hamilton,OH,15,2,Tuesday,1,7.37,30.0
+460372,"Pilot Travel Center #1208 Yuma, AZ",Yuma,AZ,19,2,Tuesday,1,53.82,90.0
+460956,"Pilot Travel Center #368 Decatur, IL",Decatur,IL,16,6,Saturday,1,51.34,90.0
+461511,Sleep Inn & Suites Monroe - Woodbury,Monroe,NY,8,6,Saturday,1,88.42,180.0

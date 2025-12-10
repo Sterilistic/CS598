@@ -218,27 +218,33 @@ class DatabaseManager:
     def insert_usage_data(self, usage_data: List[Dict]) -> bool:
         """Insert usage data into database"""
         try:
-            session = self.db.get_session()
+            supabase = self.db.get_supabase()
             
+            # Prepare all data for Supabase
+            usage_records = []
             for usage in usage_data:
-                query = text("""
-                    INSERT INTO usage_data 
-                    (station_id, session_start, session_end, energy_consumed_kwh, 
-                     duration_minutes, cost, user_type, created_at)
-                    VALUES 
-                    (:station_id, :session_start, :session_end, :energy_consumed_kwh,
-                     :duration_minutes, :cost, :user_type, :created_at)
-                """)
-                
-                session.execute(query, usage)
+                usage_record = {
+                    'station_id': usage.get('station_id'),
+                    'point_id': usage.get('point_id'),
+                    'session_start': usage.get('session_start'),
+                    'session_end': usage.get('session_end'),
+                    'energy_consumed_kwh': float(usage.get('energy_consumed_kwh', 0)) if usage.get('energy_consumed_kwh') is not None else None,
+                    'duration_minutes': int(usage.get('duration_minutes', 0)) if usage.get('duration_minutes') is not None else None,
+                    'cost': float(usage.get('cost', 0)) if usage.get('cost') is not None else None,
+                    'user_type': usage.get('user_type'),
+                    'created_at': usage.get('created_at', datetime.now()).isoformat() if usage.get('created_at') else datetime.now().isoformat()
+                }
+                usage_records.append(usage_record)
             
-            session.commit()
+            # Batch insert using upsert to prevent duplicates
+            if usage_records:
+                supabase.table('usage_data').upsert(usage_records).execute()
+            
             logger.info(f"Successfully inserted {len(usage_data)} usage records")
             return True
             
         except Exception as e:
             logger.error(f"Error inserting usage data: {str(e)}")
-            session.rollback()
             return False
     
     def insert_energy_consumption(self, energy_data: List[Dict]) -> bool:

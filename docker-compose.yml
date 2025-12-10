@@ -12,6 +12,7 @@ services:
     volumes:
       - ./data:/app/data
       - ./logs:/app/logs
+      - ./tableau_exports:/app/tableau_exports
     env_file:
       - .env
     restart: unless-stopped

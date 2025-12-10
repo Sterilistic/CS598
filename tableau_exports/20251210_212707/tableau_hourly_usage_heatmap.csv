@@ -1,0 +1,1001 @@
+station_id,station_name,city,state,hour_of_day,day_of_week,day_name,session_count,total_energy_kwh,avg_duration_minutes
+460201,Krazyfish Grille,Port St Joe,Florida,0,1,Monday,1,26.9,180.0
+460201,Krazyfish Grille,Port St Joe,Florida,0,6,Saturday,1,37.36,60.0
+460201,Krazyfish Grille,Port St Joe,Florida,1,1,Monday,1,121.74,180.0
+460201,Krazyfish Grille,Port St Joe,Florida,1,3,Wednesday,1,46.22,60.0
+460201,Krazyfish Grille,Port St Joe,Florida,2,1,Monday,2,52.52,75.0
+460201,Krazyfish Grille,Port St Joe,Florida,2,2,Tuesday,1,40.9,120.0
+460201,Krazyfish Grille,Port St Joe,Florida,2,6,Saturday,1,14.78,60.0
+460201,Krazyfish Grille,Port St Joe,Florida,3,1,Monday,1,73.09,90.0
+460201,Krazyfish Grille,Port St Joe,Florida,4,1,Monday,1,17.48,60.0
+460201,Krazyfish Grille,Port St Joe,Florida,4,2,Tuesday,1,23.72,60.0
+460201,Krazyfish Grille,Port St Joe,Florida,4,3,Wednesday,1,48.39,60.0
+460201,Krazyfish Grille,Port St Joe,Florida,4,4,Thursday,1,8.64,45.0
+460201,Krazyfish Grille,Port St Joe,Florida,4,6,Saturday,3,160.1,180.0
+460201,Krazyfish Grille,Port St Joe,Florida,5,0,Sunday,2,99.27,150.0
+460201,Krazyfish Grille,Port St Joe,Florida,5,4,Thursday,1,34.46,60.0
+460201,Krazyfish Grille,Port St Joe,Florida,5,5,Friday,1,25.67,45.0
+460201,Krazyfish Grille,Port St Joe,Florida,6,1,Monday,1,17.62,90.0
+460201,Krazyfish Grille,Port St Joe,Florida,6,4,Thursday,1,60.74,90.0
+460201,Krazyfish Grille,Port St Joe,Florida,6,5,Friday,2,30.09,45.0
+460201,Krazyfish Grille,Port St Joe,Florida,6,6,Saturday,1,19.49,60.0
+460201,Krazyfish Grille,Port St Joe,Florida,7,0,Sunday,2,72.73,90.0
+460201,Krazyfish Grille,Port St Joe,Florida,7,1,Monday,1,27.05,45.0
+460201,Krazyfish Grille,Port St Joe,Florida,7,2,Tuesday,2,146.34,105.0
+460201,Krazyfish Grille,Port St Joe,Florida,7,3,Wednesday,2,71.73,75.0
+460201,Krazyfish Grille,Port St Joe,Florida,7,4,Thursday,1,45.68,60.0
+460201,Krazyfish Grille,Port St Joe,Florida,7,6,Saturday,4,133.26,78.75
+460201,Krazyfish Grille,Port St Joe,Florida,8,0,Sunday,2,59.65,75.0
+460201,Krazyfish Grille,Port St Joe,Florida,8,1,Monday,1,31.62,45.0
+460201,Krazyfish Grille,Port St Joe,Florida,8,2,Tuesday,2,118.4,105.0
+460201,Krazyfish Grille,Port St Joe,Florida,8,3,Wednesday,4,190.6,90.0
+460201,Krazyfish Grille,Port St Joe,Florida,8,5,Friday,1,28.09,120.0
+460201,Krazyfish Grille,Port St Joe,Florida,9,0,Sunday,2,99.07,90.0
+460201,Krazyfish Grille,Port St Joe,Florida,9,1,Monday,2,118.57,90.0
+460201,Krazyfish Grille,Port St Joe,Florida,9,4,Thursday,2,98.63,82.5
+460201,Krazyfish Grille,Port St Joe,Florida,9,5,Friday,5,205.06,84.0
+460201,Krazyfish Grille,Port St Joe,Florida,9,6,Saturday,2,29.62,30.0
+460201,Krazyfish Grille,Port St Joe,Florida,11,0,Sunday,1,19.45,60.0
+460201,Krazyfish Grille,Port St Joe,Florida,11,4,Thursday,1,9.19,60.0
+460201,Krazyfish Grille,Port St Joe,Florida,11,6,Saturday,2,97.23,135.0
+460201,Krazyfish Grille,Port St Joe,Florida,12,0,Sunday,1,55.29,90.0
+460201,Krazyfish Grille,Port St Joe,Florida,12,1,Monday,1,38.15,90.0
+460201,Krazyfish Grille,Port St Joe,Florida,12,3,Wednesday,1,28.56,90.0
+460201,Krazyfish Grille,Port St Joe,Florida,12,4,Thursday,1,17.02,60.0
+460201,Krazyfish Grille,Port St Joe,Florida,12,5,Friday,1,48.75,60.0
+460201,Krazyfish Grille,Port St Joe,Florida,13,0,Sunday,1,53.81,90.0
+460201,Krazyfish Grille,Port St Joe,Florida,13,2,Tuesday,2,105.76,75.0
+460201,Krazyfish Grille,Port St Joe,Florida,13,4,Thursday,2,74.79,67.5
+460201,Krazyfish Grille,Port St Joe,Florida,13,5,Friday,1,39.34,120.0
+460201,Krazyfish Grille,Port St Joe,Florida,13,6,Saturday,2,73.01,105.0
+460201,Krazyfish Grille,Port St Joe,Florida,14,0,Sunday,2,120.79,75.0
+460201,Krazyfish Grille,Port St Joe,Florida,14,1,Monday,2,30.33,37.5
+460201,Krazyfish Grille,Port St Joe,Florida,14,2,Tuesday,1,14.88,60.0
+460201,Krazyfish Grille,Port St Joe,Florida,14,3,Wednesday,1,43.65,60.0
+460201,Krazyfish Grille,Port St Joe,Florida,14,4,Thursday,1,8.35,60.0
+460201,Krazyfish Grille,Port St Joe,Florida,14,5,Friday,1,82.95,120.0
+460201,Krazyfish Grille,Port St Joe,Florida,15,1,Monday,1,13.08,90.0
+460201,Krazyfish Grille,Port St Joe,Florida,15,2,Tuesday,4,226.27,112.5
+460201,Krazyfish Grille,Port St Joe,Florida,15,3,Wednesday,3,110.34,120.0
+460201,Krazyfish Grille,Port St Joe,Florida,15,4,Thursday,1,98.39,180.0
+460201,Krazyfish Grille,Port St Joe,Florida,15,6,Saturday,1,43.55,60.0
+460201,Krazyfish Grille,Port St Joe,Florida,16,3,Wednesday,1,17.18,60.0
+460201,Krazyfish Grille,Port St Joe,Florida,16,6,Saturday,1,39.56,60.0
+460201,Krazyfish Grille,Port St Joe,Florida,17,0,Sunday,1,39.36,60.0
+460201,Krazyfish Grille,Port St Joe,Florida,17,1,Monday,2,63.51,90.0
+460201,Krazyfish Grille,Port St Joe,Florida,17,2,Tuesday,1,34.68,45.0
+460201,Krazyfish Grille,Port St Joe,Florida,17,3,Wednesday,4,225.23,93.75
+460201,Krazyfish Grille,Port St Joe,Florida,18,1,Monday,2,46.61,60.0
+460201,Krazyfish Grille,Port St Joe,Florida,18,3,Wednesday,2,126.97,150.0
+460201,Krazyfish Grille,Port St Joe,Florida,18,5,Friday,2,138.05,90.0
+460201,Krazyfish Grille,Port St Joe,Florida,18,6,Saturday,2,155.43,120.0
+460201,Krazyfish Grille,Port St Joe,Florida,19,0,Sunday,1,143.47,180.0
+460201,Krazyfish Grille,Port St Joe,Florida,19,2,Tuesday,4,107.3,82.5
+460201,Krazyfish Grille,Port St Joe,Florida,19,4,Thursday,2,66.18,75.0
+460201,Krazyfish Grille,Port St Joe,Florida,19,5,Friday,1,31.74,60.0
+460201,Krazyfish Grille,Port St Joe,Florida,20,1,Monday,1,18.21,45.0
+460201,Krazyfish Grille,Port St Joe,Florida,20,2,Tuesday,1,27.55,60.0
+460201,Krazyfish Grille,Port St Joe,Florida,21,1,Monday,1,23.33,90.0
+460201,Krazyfish Grille,Port St Joe,Florida,21,2,Tuesday,1,60.19,90.0
+460201,Krazyfish Grille,Port St Joe,Florida,21,3,Wednesday,1,40.51,60.0
+460201,Krazyfish Grille,Port St Joe,Florida,21,6,Saturday,1,44.71,90.0
+460201,Krazyfish Grille,Port St Joe,Florida,22,0,Sunday,1,8.88,60.0
+460201,Krazyfish Grille,Port St Joe,Florida,22,3,Wednesday,1,7.47,30.0
+460201,Krazyfish Grille,Port St Joe,Florida,22,6,Saturday,1,11.27,60.0
+460201,Krazyfish Grille,Port St Joe,Florida,23,2,Tuesday,1,36.62,60.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,0,0,Sunday,1,28.67,60.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,0,4,Thursday,1,42.4,240.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,0,5,Friday,1,72.13,90.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,0,6,Saturday,1,32.06,45.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2,2,Tuesday,1,46.67,60.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2,3,Wednesday,2,120.72,120.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2,6,Saturday,1,49.59,60.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,3,0,Sunday,1,48.08,90.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,3,1,Monday,1,112.61,240.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,3,3,Wednesday,1,7.23,45.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,4,0,Sunday,3,107.14,60.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,5,0,Sunday,1,33.73,90.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,5,5,Friday,1,38.34,90.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,6,2,Tuesday,1,18.94,45.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,7,2,Tuesday,2,48.39,165.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,7,3,Wednesday,1,35.69,45.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,7,6,Saturday,3,152.11,80.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,8,0,Sunday,2,53.73,52.5
+460207,"Thorntons #701 - Largo, FL",Largo,FL,8,2,Tuesday,2,38.99,90.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,8,3,Wednesday,3,92.22,70.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,8,4,Thursday,1,28.47,120.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,8,5,Friday,1,18.88,60.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,8,6,Saturday,1,95.16,180.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,9,2,Tuesday,1,33.14,90.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,9,3,Wednesday,2,40.79,52.5
+460207,"Thorntons #701 - Largo, FL",Largo,FL,9,4,Thursday,1,7.69,60.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,9,5,Friday,4,316.62,157.5
+460207,"Thorntons #701 - Largo, FL",Largo,FL,9,6,Saturday,2,59.15,60.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,10,0,Sunday,2,93.37,67.5
+460207,"Thorntons #701 - Largo, FL",Largo,FL,10,1,Monday,1,59.17,90.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,10,3,Wednesday,3,132.72,130.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,10,4,Thursday,2,109.06,120.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,10,5,Friday,2,68.56,112.5
+460207,"Thorntons #701 - Largo, FL",Largo,FL,10,6,Saturday,1,22.27,180.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,11,0,Sunday,1,8.57,60.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,11,1,Monday,2,28.51,75.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,11,3,Wednesday,2,112.22,75.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,11,4,Thursday,2,57.15,90.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,11,5,Friday,3,98.95,75.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,11,6,Saturday,1,29.36,60.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,12,1,Monday,2,58.39,75.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,12,2,Tuesday,1,20.82,45.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,12,4,Thursday,1,36.77,90.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,12,5,Friday,1,81.87,120.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,13,0,Sunday,1,95.94,120.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,13,1,Monday,1,66.38,120.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,13,4,Thursday,1,53.0,90.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,13,5,Friday,1,31.68,90.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,14,0,Sunday,2,42.85,90.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,14,1,Monday,2,123.79,90.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,14,2,Tuesday,1,73.22,120.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,14,6,Saturday,1,20.59,60.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,15,0,Sunday,2,146.61,120.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,15,1,Monday,1,8.73,45.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,15,2,Tuesday,1,84.44,120.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,15,4,Thursday,2,72.45,52.5
+460207,"Thorntons #701 - Largo, FL",Largo,FL,16,0,Sunday,1,33.61,90.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,16,2,Tuesday,1,25.55,90.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,16,3,Wednesday,1,83.0,180.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,16,4,Thursday,2,92.94,90.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,17,3,Wednesday,1,28.97,60.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,17,4,Thursday,2,67.56,52.5
+460207,"Thorntons #701 - Largo, FL",Largo,FL,18,4,Thursday,1,113.11,180.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,18,5,Friday,1,29.88,90.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,19,0,Sunday,2,62.03,120.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,19,2,Tuesday,2,142.67,105.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,19,3,Wednesday,3,72.18,75.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,19,5,Friday,1,84.8,120.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,19,6,Saturday,1,61.9,120.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,20,6,Saturday,1,19.43,60.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,21,0,Sunday,1,51.63,90.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,21,1,Monday,1,18.85,60.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,21,4,Thursday,2,97.43,75.0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,21,6,Saturday,1,55.12,120.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,0,3,Wednesday,1,65.83,90.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,0,4,Thursday,1,42.02,120.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,0,5,Friday,1,21.35,45.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,1,4,Thursday,1,24.86,60.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,1,5,Friday,2,119.12,120.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2,0,Sunday,1,94.89,180.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2,4,Thursday,1,66.36,90.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2,6,Saturday,1,25.2,120.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,3,5,Friday,1,70.58,180.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,3,6,Saturday,1,38.88,120.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,4,0,Sunday,1,29.4,180.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,4,2,Tuesday,2,141.49,135.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,4,3,Wednesday,1,65.21,90.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,4,6,Saturday,1,50.53,90.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,5,1,Monday,1,46.33,90.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,5,2,Tuesday,1,12.12,45.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,6,1,Monday,1,55.24,120.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,7,0,Sunday,1,67.73,120.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,7,1,Monday,1,51.32,90.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,7,2,Tuesday,1,49.35,60.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,7,3,Wednesday,1,20.69,60.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,7,4,Thursday,1,17.65,120.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,7,5,Friday,1,141.11,180.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,7,6,Saturday,2,175.21,150.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,8,1,Monday,2,70.14,112.5
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,8,2,Tuesday,1,31.21,45.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,8,3,Wednesday,1,21.31,180.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,8,4,Thursday,1,59.94,120.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,8,5,Friday,3,131.34,90.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,8,6,Saturday,1,32.99,90.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,9,1,Monday,1,14.94,60.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,9,2,Tuesday,3,65.06,65.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,9,3,Wednesday,3,96.81,100.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,9,5,Friday,2,59.59,75.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,9,6,Saturday,2,162.07,120.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,10,4,Thursday,1,31.27,60.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,10,5,Friday,1,65.34,90.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,11,0,Sunday,2,121.09,105.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,11,1,Monday,1,22.42,45.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,11,2,Tuesday,1,80.83,120.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,11,3,Wednesday,2,91.81,90.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,11,4,Thursday,1,23.79,120.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,11,5,Friday,1,19.82,60.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,12,0,Sunday,1,25.84,60.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,12,1,Monday,1,60.17,120.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,12,3,Wednesday,1,14.85,120.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,12,4,Thursday,2,106.37,75.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,12,5,Friday,1,23.32,60.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,12,6,Saturday,1,54.54,90.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,13,0,Sunday,1,8.12,60.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,13,1,Monday,2,58.42,67.5
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,13,2,Tuesday,3,162.14,120.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,13,3,Wednesday,4,141.44,78.75
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,13,5,Friday,1,107.43,180.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,14,1,Monday,3,98.13,65.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,14,2,Tuesday,1,6.71,45.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,14,3,Wednesday,1,34.18,45.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,14,6,Saturday,2,30.5,60.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,15,6,Saturday,1,25.04,120.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,16,2,Tuesday,2,75.02,60.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,16,3,Wednesday,1,35.38,45.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,16,4,Thursday,3,99.35,70.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,16,5,Friday,1,31.69,45.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,16,6,Saturday,2,132.63,90.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,17,0,Sunday,1,8.28,60.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,17,1,Monday,1,62.63,90.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,17,2,Tuesday,1,48.2,60.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,17,5,Friday,1,66.22,120.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,17,6,Saturday,1,30.04,60.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,18,2,Tuesday,2,151.76,120.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,18,3,Wednesday,3,44.76,60.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,18,4,Thursday,1,17.7,120.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,18,5,Friday,1,56.3,90.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,18,6,Saturday,1,45.42,180.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,19,0,Sunday,1,29.2,60.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,19,2,Tuesday,4,136.77,60.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,19,4,Thursday,1,12.59,90.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,19,6,Saturday,1,46.93,60.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,20,0,Sunday,2,108.67,75.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,21,5,Friday,1,9.61,30.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,22,1,Monday,1,28.36,120.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,22,3,Wednesday,1,8.16,60.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,22,5,Friday,1,29.63,60.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,22,6,Saturday,1,40.21,60.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,23,0,Sunday,1,28.7,60.0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,23,1,Monday,1,36.34,45.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,1,0,Sunday,1,70.47,120.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,1,1,Monday,1,40.32,120.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,1,2,Tuesday,1,55.52,90.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,1,3,Wednesday,2,39.73,75.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,1,5,Friday,1,12.44,45.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,3,3,Wednesday,2,119.5,75.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,4,3,Wednesday,1,19.39,30.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,4,5,Friday,1,40.48,90.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,5,2,Tuesday,1,10.93,90.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,5,4,Thursday,1,6.78,45.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,5,5,Friday,1,6.72,45.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,5,6,Saturday,1,103.63,180.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,6,2,Tuesday,1,21.56,30.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,6,4,Thursday,1,90.81,120.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,7,2,Tuesday,1,54.22,120.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,7,4,Thursday,1,41.48,60.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,7,5,Friday,1,49.32,180.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,7,6,Saturday,1,16.21,90.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,8,0,Sunday,2,32.91,52.5
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,8,2,Tuesday,3,108.78,110.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,8,3,Wednesday,1,37.29,45.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,8,4,Thursday,1,24.39,120.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,8,5,Friday,2,168.59,135.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,8,6,Saturday,1,24.66,45.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,9,0,Sunday,2,53.78,75.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,9,1,Monday,1,11.17,30.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,9,3,Wednesday,4,177.28,123.75
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,9,5,Friday,3,97.35,110.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,10,0,Sunday,1,62.96,120.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,10,1,Monday,1,55.96,120.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,10,3,Wednesday,1,84.96,120.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,10,6,Saturday,2,144.51,120.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,11,2,Tuesday,1,22.44,60.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,12,0,Sunday,1,15.78,60.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,12,2,Tuesday,1,15.45,60.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,12,4,Thursday,2,67.65,82.5
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,12,5,Friday,1,35.44,240.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,13,0,Sunday,1,49.85,120.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,13,2,Tuesday,2,88.29,90.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,13,3,Wednesday,1,8.7,60.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,13,5,Friday,1,119.97,180.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,14,0,Sunday,1,14.58,60.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,14,1,Monday,2,69.94,82.5
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,14,3,Wednesday,2,58.43,82.5
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,14,4,Thursday,2,166.16,150.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,14,5,Friday,1,80.75,120.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,15,0,Sunday,1,103.16,180.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,15,1,Monday,3,168.71,80.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,15,2,Tuesday,3,105.87,70.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,15,4,Thursday,1,80.51,180.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,15,5,Friday,1,25.58,180.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,15,6,Saturday,1,32.41,45.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,16,0,Sunday,2,28.22,30.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,16,1,Monday,1,20.27,120.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,16,3,Wednesday,1,31.57,45.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,16,6,Saturday,1,14.78,120.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,17,0,Sunday,3,105.86,90.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,17,1,Monday,1,65.79,120.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,17,3,Wednesday,1,44.16,60.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,17,4,Thursday,3,103.73,70.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,17,5,Friday,3,74.19,80.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,17,6,Saturday,1,32.49,60.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,18,0,Sunday,1,14.24,90.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,18,1,Monday,2,62.71,75.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,18,2,Tuesday,1,150.17,240.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,18,3,Wednesday,4,122.39,90.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,18,4,Thursday,3,109.06,85.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,18,5,Friday,2,121.3,105.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,19,1,Monday,2,65.38,60.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,19,2,Tuesday,2,138.81,120.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,19,3,Wednesday,1,29.47,60.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,19,4,Thursday,1,125.16,180.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,19,6,Saturday,2,64.12,75.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,20,1,Monday,3,118.88,70.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,20,4,Thursday,1,41.72,120.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,20,5,Friday,3,65.73,60.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,21,1,Monday,1,41.85,60.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,21,3,Wednesday,1,9.73,60.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,21,6,Saturday,1,41.13,120.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,22,1,Monday,1,27.51,90.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,22,6,Saturday,1,20.74,60.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,23,1,Monday,1,44.66,90.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,23,3,Wednesday,1,37.35,60.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,0,4,Thursday,1,72.46,90.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,1,6,Saturday,1,18.74,45.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,3,0,Sunday,1,51.86,120.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,3,2,Tuesday,2,68.97,120.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,3,5,Friday,1,31.85,60.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,5,3,Wednesday,1,10.45,60.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,6,6,Saturday,1,13.3,45.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,7,0,Sunday,2,72.27,90.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,7,1,Monday,2,71.77,105.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,7,2,Tuesday,4,119.03,56.25
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,7,3,Wednesday,1,41.1,60.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,7,4,Thursday,2,103.27,90.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,7,5,Friday,2,66.1,90.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,7,6,Saturday,1,12.32,60.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,8,0,Sunday,2,87.52,105.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,8,1,Monday,3,88.89,70.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,8,3,Wednesday,2,69.16,82.5
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,8,5,Friday,1,16.61,60.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,8,6,Saturday,1,79.39,120.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,9,0,Sunday,2,65.64,60.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,9,1,Monday,2,50.95,75.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,9,2,Tuesday,1,44.79,90.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,9,3,Wednesday,3,159.59,120.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,9,4,Thursday,1,28.56,60.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,9,5,Friday,2,56.8,60.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,10,4,Thursday,1,56.25,90.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,10,5,Friday,1,8.75,30.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,10,6,Saturday,1,64.57,90.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,11,1,Monday,1,23.88,60.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,11,2,Tuesday,4,122.84,82.5
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,11,3,Wednesday,1,78.91,120.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,11,4,Thursday,1,50.98,90.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,11,5,Friday,3,50.41,40.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,12,1,Monday,1,37.27,60.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,12,3,Wednesday,2,84.48,60.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,12,6,Saturday,2,45.37,37.5
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,13,5,Friday,1,92.41,120.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,13,6,Saturday,1,35.47,120.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,14,0,Sunday,1,46.79,60.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,14,1,Monday,1,18.45,90.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,14,2,Tuesday,3,194.34,120.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,14,3,Wednesday,1,36.23,45.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,14,4,Thursday,2,67.51,67.5
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,15,0,Sunday,2,76.06,150.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,15,1,Monday,2,136.91,210.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,15,3,Wednesday,2,75.95,75.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,15,5,Friday,1,49.92,120.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,15,6,Saturday,1,11.65,60.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,16,0,Sunday,1,35.54,60.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,16,1,Monday,1,91.3,180.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,16,2,Tuesday,2,45.8,75.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,16,3,Wednesday,2,69.59,90.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,16,4,Thursday,1,23.1,45.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,16,5,Friday,1,37.6,60.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,16,6,Saturday,2,112.29,120.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,17,1,Monday,2,113.23,105.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,17,2,Tuesday,1,41.27,90.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,17,3,Wednesday,1,21.41,90.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,17,4,Thursday,1,19.49,60.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,17,6,Saturday,2,78.58,142.5
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,18,1,Monday,1,124.84,240.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,18,3,Wednesday,2,180.39,135.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,19,0,Sunday,2,63.37,75.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,19,1,Monday,3,94.75,80.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,19,2,Tuesday,5,460.9,144.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,19,4,Thursday,1,15.08,60.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,19,5,Friday,4,123.13,93.75
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,19,6,Saturday,2,62.58,75.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,21,0,Sunday,1,15.34,60.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,21,3,Wednesday,1,70.27,120.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,22,4,Thursday,1,33.68,60.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,22,5,Friday,1,26.89,90.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,23,0,Sunday,1,49.66,90.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,23,2,Tuesday,1,47.77,90.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,23,5,Friday,1,87.45,120.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,0,0,Sunday,1,31.68,120.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,0,1,Monday,1,37.29,90.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,0,5,Friday,1,47.39,90.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,1,2,Tuesday,1,31.75,60.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,1,4,Thursday,2,37.78,75.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2,2,Tuesday,2,40.68,90.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2,3,Wednesday,1,54.74,120.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2,4,Thursday,1,33.74,60.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,3,0,Sunday,1,59.49,90.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,3,5,Friday,1,13.69,90.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,3,6,Saturday,1,68.47,180.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,4,3,Wednesday,1,37.4,45.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,4,4,Thursday,2,118.98,90.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,4,5,Friday,1,49.59,90.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,5,4,Thursday,2,115.5,90.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,6,5,Friday,2,76.93,67.5
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,6,6,Saturday,1,65.45,90.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,7,0,Sunday,3,79.08,100.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,7,2,Tuesday,2,130.98,105.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,7,3,Wednesday,1,9.7,45.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,7,4,Thursday,1,67.28,120.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,7,5,Friday,1,98.2,120.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,8,0,Sunday,1,71.51,90.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,8,1,Monday,2,82.48,75.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,8,3,Wednesday,1,17.07,90.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,8,4,Thursday,1,148.19,180.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,8,5,Friday,1,50.66,90.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,8,6,Saturday,1,8.4,60.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,9,0,Sunday,4,189.3,86.25
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,9,1,Monday,1,34.41,180.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,9,2,Tuesday,2,59.18,75.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,9,4,Thursday,1,85.25,120.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,9,6,Saturday,1,21.75,45.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,10,1,Monday,1,19.97,60.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,10,4,Thursday,1,163.27,240.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,11,0,Sunday,2,63.38,45.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,11,1,Monday,3,142.36,80.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,11,2,Tuesday,1,71.19,90.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,11,4,Thursday,1,62.74,90.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,11,6,Saturday,1,147.25,180.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,12,1,Monday,1,57.9,90.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,12,3,Wednesday,1,26.04,45.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,12,4,Thursday,1,86.83,120.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,12,5,Friday,3,82.14,110.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,13,2,Tuesday,4,342.56,127.5
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,13,5,Friday,1,14.28,60.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,14,0,Sunday,1,30.1,60.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,14,3,Wednesday,2,52.66,37.5
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,14,4,Thursday,1,37.49,90.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,14,5,Friday,2,70.52,75.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,14,6,Saturday,1,30.96,60.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,15,2,Tuesday,3,311.21,150.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,15,3,Wednesday,2,78.23,82.5
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,15,5,Friday,1,47.38,60.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,16,0,Sunday,1,45.72,60.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,16,2,Tuesday,1,36.98,45.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,16,3,Wednesday,3,117.06,75.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,16,4,Thursday,1,25.48,60.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,16,6,Saturday,1,48.99,120.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,17,0,Sunday,1,22.2,60.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,17,1,Monday,1,48.05,90.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,17,3,Wednesday,2,110.76,90.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,17,5,Friday,1,19.15,60.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,17,6,Saturday,1,38.76,60.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,18,0,Sunday,2,49.42,52.5
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,18,1,Monday,3,95.19,70.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,18,3,Wednesday,2,178.1,150.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,18,4,Thursday,1,50.32,90.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,18,6,Saturday,1,98.89,120.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,19,3,Wednesday,2,70.68,82.5
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,19,6,Saturday,2,73.84,82.5
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,20,1,Monday,1,9.39,60.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,20,4,Thursday,2,58.32,60.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,20,6,Saturday,1,28.78,60.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,21,1,Monday,1,29.8,90.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,21,5,Friday,2,57.46,60.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,21,6,Saturday,1,44.47,60.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,22,2,Tuesday,1,52.14,90.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,22,5,Friday,1,89.93,120.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,23,2,Tuesday,1,24.38,60.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,23,4,Thursday,1,99.05,180.0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,23,6,Saturday,1,38.65,180.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,0,2,Tuesday,1,57.29,120.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,1,3,Wednesday,1,9.09,45.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,3,3,Wednesday,1,41.58,60.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,4,0,Sunday,1,43.76,60.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,4,1,Monday,1,29.31,90.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,4,6,Saturday,1,14.63,30.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,5,0,Sunday,1,22.0,90.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,5,1,Monday,1,26.09,120.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,5,5,Friday,1,70.13,120.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,5,6,Saturday,1,37.84,180.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,6,3,Wednesday,1,15.64,30.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,6,6,Saturday,1,45.15,90.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,7,0,Sunday,2,52.91,105.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,7,1,Monday,3,101.62,85.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,7,2,Tuesday,3,56.33,50.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,7,3,Wednesday,2,71.59,60.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,7,4,Thursday,2,67.81,52.5
+460212,"Ikea - Emeryville, CA",Emeryville,CA,7,5,Friday,2,82.34,75.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,7,6,Saturday,2,45.39,67.5
+460212,"Ikea - Emeryville, CA",Emeryville,CA,8,0,Sunday,2,142.01,150.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,8,1,Monday,1,37.04,120.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,8,3,Wednesday,1,43.07,60.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,8,5,Friday,1,64.45,120.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,8,6,Saturday,3,191.36,100.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,9,0,Sunday,2,82.2,67.5
+460212,"Ikea - Emeryville, CA",Emeryville,CA,9,1,Monday,1,16.2,30.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,9,2,Tuesday,2,129.21,120.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,9,3,Wednesday,2,82.41,75.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,9,6,Saturday,1,23.05,30.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,10,0,Sunday,2,91.87,75.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,10,2,Tuesday,1,14.86,45.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,10,4,Thursday,2,65.34,60.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,11,0,Sunday,1,62.17,90.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,11,1,Monday,2,73.77,90.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,11,4,Thursday,1,40.2,90.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,11,5,Friday,2,77.91,75.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,12,2,Tuesday,1,7.81,60.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,12,3,Wednesday,1,39.71,60.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,12,4,Thursday,1,21.57,45.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,12,5,Friday,1,48.85,60.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,13,0,Sunday,2,119.37,90.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,13,2,Tuesday,1,23.39,60.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,13,5,Friday,2,84.87,90.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,14,0,Sunday,1,21.5,90.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,14,1,Monday,2,75.58,75.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,14,2,Tuesday,2,135.33,105.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,14,5,Friday,1,68.63,90.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,15,1,Monday,1,42.35,90.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,15,2,Tuesday,1,42.71,60.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,15,4,Thursday,1,55.15,90.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,15,5,Friday,1,30.24,120.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,15,6,Saturday,1,36.11,60.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,16,0,Sunday,1,41.7,60.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,16,1,Monday,2,31.62,90.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,16,2,Tuesday,1,20.3,45.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,17,0,Sunday,1,58.43,180.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,17,3,Wednesday,4,252.93,127.5
+460212,"Ikea - Emeryville, CA",Emeryville,CA,17,4,Thursday,2,162.25,135.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,17,5,Friday,2,120.14,120.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,17,6,Saturday,1,44.87,90.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,18,0,Sunday,1,12.66,60.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,18,1,Monday,1,7.33,60.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,18,2,Tuesday,2,103.0,75.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,18,3,Wednesday,1,98.51,120.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,18,4,Thursday,1,27.65,45.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,19,0,Sunday,1,45.07,90.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,19,1,Monday,1,11.42,45.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,19,2,Tuesday,1,49.62,90.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,19,3,Wednesday,3,115.98,65.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,19,4,Thursday,1,74.67,90.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,19,5,Friday,1,25.94,120.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,20,0,Sunday,1,43.85,90.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,20,6,Saturday,2,104.36,112.5
+460212,"Ikea - Emeryville, CA",Emeryville,CA,21,1,Monday,1,34.8,60.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,21,4,Thursday,1,65.91,90.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,21,5,Friday,2,41.61,45.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,22,0,Sunday,2,69.71,105.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,22,2,Tuesday,2,56.92,52.5
+460212,"Ikea - Emeryville, CA",Emeryville,CA,22,3,Wednesday,1,11.25,60.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,22,5,Friday,1,34.01,60.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,23,1,Monday,1,50.68,180.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,23,2,Tuesday,1,28.27,90.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,23,3,Wednesday,1,25.32,60.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,1,2,Tuesday,1,73.37,90.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,1,5,Friday,1,65.26,120.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,1,6,Saturday,1,96.49,180.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2,0,Sunday,2,70.03,90.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2,6,Saturday,1,30.79,90.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,3,2,Tuesday,1,98.89,120.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,3,3,Wednesday,2,77.0,90.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,5,1,Monday,1,11.27,60.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,5,4,Thursday,1,15.9,45.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,6,5,Friday,1,13.48,45.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,6,6,Saturday,1,45.03,120.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,7,0,Sunday,3,199.69,170.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,7,1,Monday,1,6.41,30.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,7,2,Tuesday,2,101.79,90.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,7,5,Friday,1,64.33,90.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,7,6,Saturday,2,63.24,90.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,8,0,Sunday,3,144.02,95.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,8,1,Monday,1,43.93,60.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,8,2,Tuesday,1,55.67,90.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,8,3,Wednesday,2,90.02,90.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,8,5,Friday,1,23.23,90.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,9,0,Sunday,1,33.03,90.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,9,1,Monday,1,16.62,120.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,9,2,Tuesday,3,106.47,90.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,9,3,Wednesday,2,60.09,90.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,9,5,Friday,2,87.23,75.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,9,6,Saturday,1,36.04,90.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,10,3,Wednesday,1,54.1,120.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,11,0,Sunday,4,155.61,86.25
+460213,"IKEA - Norfolk, VA",Norfolk,VA,11,2,Tuesday,1,49.69,90.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,11,3,Wednesday,1,82.23,120.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,11,4,Thursday,1,73.31,120.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,11,6,Saturday,1,97.6,120.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,12,1,Monday,3,167.17,90.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,12,4,Thursday,1,43.61,90.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,12,5,Friday,1,94.4,120.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,13,0,Sunday,1,54.97,90.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,13,2,Tuesday,2,165.62,120.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,13,4,Thursday,1,34.3,60.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,13,6,Saturday,2,94.04,75.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,14,2,Tuesday,1,42.63,60.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,14,3,Wednesday,1,43.94,90.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,14,4,Thursday,2,84.37,75.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,14,6,Saturday,3,198.06,180.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,15,1,Monday,1,69.76,120.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,15,4,Thursday,1,88.2,120.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,16,0,Sunday,1,23.04,45.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,16,1,Monday,2,141.21,105.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,16,2,Tuesday,1,33.47,60.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,16,4,Thursday,1,90.21,120.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,16,6,Saturday,3,247.47,115.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,17,0,Sunday,3,214.43,140.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,17,1,Monday,1,37.43,60.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,17,2,Tuesday,1,41.71,60.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,17,3,Wednesday,1,11.31,60.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,17,4,Thursday,5,207.63,96.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,17,6,Saturday,1,32.49,90.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,18,1,Monday,1,48.07,120.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,18,3,Wednesday,1,29.09,45.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,18,4,Thursday,1,40.16,90.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,18,5,Friday,1,33.48,120.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,18,6,Saturday,1,43.68,60.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,19,0,Sunday,1,83.68,120.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,19,1,Monday,2,147.64,90.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,19,2,Tuesday,2,170.93,150.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,19,3,Wednesday,2,65.15,75.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,19,5,Friday,1,119.04,180.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,20,3,Wednesday,1,26.36,60.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,21,0,Sunday,1,9.65,60.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,21,4,Thursday,1,40.72,60.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,22,0,Sunday,1,41.24,60.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,22,2,Tuesday,1,20.05,60.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,22,6,Saturday,1,59.85,180.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,23,1,Monday,1,18.2,60.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,23,4,Thursday,1,21.83,180.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,23,6,Saturday,1,19.58,120.0
+460215,Tri-City Shopping Center,Redlands,CA,0,2,Tuesday,2,48.55,75.0
+460215,Tri-City Shopping Center,Redlands,CA,0,3,Wednesday,2,45.82,82.5
+460215,Tri-City Shopping Center,Redlands,CA,0,4,Thursday,1,27.66,90.0
+460215,Tri-City Shopping Center,Redlands,CA,0,5,Friday,1,38.47,60.0
+460215,Tri-City Shopping Center,Redlands,CA,1,3,Wednesday,1,45.02,90.0
+460215,Tri-City Shopping Center,Redlands,CA,1,4,Thursday,1,137.65,180.0
+460215,Tri-City Shopping Center,Redlands,CA,1,5,Friday,1,105.2,180.0
+460215,Tri-City Shopping Center,Redlands,CA,1,6,Saturday,1,14.08,60.0
+460215,Tri-City Shopping Center,Redlands,CA,2,4,Thursday,1,68.53,120.0
+460215,Tri-City Shopping Center,Redlands,CA,3,1,Monday,1,21.1,60.0
+460215,Tri-City Shopping Center,Redlands,CA,3,3,Wednesday,1,82.88,240.0
+460215,Tri-City Shopping Center,Redlands,CA,3,5,Friday,1,103.78,240.0
+460215,Tri-City Shopping Center,Redlands,CA,4,1,Monday,3,92.64,65.0
+460215,Tri-City Shopping Center,Redlands,CA,4,2,Tuesday,1,30.21,60.0
+460215,Tri-City Shopping Center,Redlands,CA,4,3,Wednesday,1,39.02,60.0
+460215,Tri-City Shopping Center,Redlands,CA,4,5,Friday,1,81.62,120.0
+460215,Tri-City Shopping Center,Redlands,CA,5,1,Monday,1,45.43,90.0
+460215,Tri-City Shopping Center,Redlands,CA,5,3,Wednesday,2,59.03,67.5
+460215,Tri-City Shopping Center,Redlands,CA,5,4,Thursday,1,19.95,30.0
+460215,Tri-City Shopping Center,Redlands,CA,5,6,Saturday,1,55.17,90.0
+460215,Tri-City Shopping Center,Redlands,CA,6,1,Monday,1,60.78,90.0
+460215,Tri-City Shopping Center,Redlands,CA,6,5,Friday,1,87.13,120.0
+460215,Tri-City Shopping Center,Redlands,CA,6,6,Saturday,1,51.24,120.0
+460215,Tri-City Shopping Center,Redlands,CA,7,1,Monday,4,80.1,97.5
+460215,Tri-City Shopping Center,Redlands,CA,7,3,Wednesday,1,19.84,90.0
+460215,Tri-City Shopping Center,Redlands,CA,7,4,Thursday,3,258.58,130.0
+460215,Tri-City Shopping Center,Redlands,CA,7,5,Friday,1,107.82,180.0
+460215,Tri-City Shopping Center,Redlands,CA,7,6,Saturday,2,146.61,120.0
+460215,Tri-City Shopping Center,Redlands,CA,8,0,Sunday,1,66.51,90.0
+460215,Tri-City Shopping Center,Redlands,CA,8,3,Wednesday,4,119.81,86.25
+460215,Tri-City Shopping Center,Redlands,CA,8,4,Thursday,3,76.48,55.0
+460215,Tri-City Shopping Center,Redlands,CA,8,6,Saturday,1,97.05,180.0
+460215,Tri-City Shopping Center,Redlands,CA,9,0,Sunday,2,130.57,150.0
+460215,Tri-City Shopping Center,Redlands,CA,9,1,Monday,4,210.12,97.5
+460215,Tri-City Shopping Center,Redlands,CA,9,2,Tuesday,2,68.95,90.0
+460215,Tri-City Shopping Center,Redlands,CA,9,3,Wednesday,2,124.29,120.0
+460215,Tri-City Shopping Center,Redlands,CA,9,4,Thursday,1,70.21,90.0
+460215,Tri-City Shopping Center,Redlands,CA,10,1,Monday,3,175.71,110.0
+460215,Tri-City Shopping Center,Redlands,CA,10,3,Wednesday,2,141.52,135.0
+460215,Tri-City Shopping Center,Redlands,CA,11,0,Sunday,2,123.3,120.0
+460215,Tri-City Shopping Center,Redlands,CA,11,1,Monday,2,53.1,75.0
+460215,Tri-City Shopping Center,Redlands,CA,11,2,Tuesday,1,133.41,180.0
+460215,Tri-City Shopping Center,Redlands,CA,11,4,Thursday,1,28.4,45.0
+460215,Tri-City Shopping Center,Redlands,CA,11,5,Friday,2,52.86,75.0
+460215,Tri-City Shopping Center,Redlands,CA,12,2,Tuesday,2,44.72,75.0
+460215,Tri-City Shopping Center,Redlands,CA,12,3,Wednesday,2,92.64,135.0
+460215,Tri-City Shopping Center,Redlands,CA,12,6,Saturday,2,84.6,75.0
+460215,Tri-City Shopping Center,Redlands,CA,13,0,Sunday,1,10.73,60.0
+460215,Tri-City Shopping Center,Redlands,CA,13,1,Monday,1,10.74,30.0
+460215,Tri-City Shopping Center,Redlands,CA,13,2,Tuesday,1,43.35,60.0
+460215,Tri-City Shopping Center,Redlands,CA,13,3,Wednesday,2,83.27,75.0
+460215,Tri-City Shopping Center,Redlands,CA,14,2,Tuesday,1,90.27,120.0
+460215,Tri-City Shopping Center,Redlands,CA,14,3,Wednesday,3,151.16,140.0
+460215,Tri-City Shopping Center,Redlands,CA,14,5,Friday,2,132.98,120.0
+460215,Tri-City Shopping Center,Redlands,CA,14,6,Saturday,2,82.92,90.0
+460215,Tri-City Shopping Center,Redlands,CA,15,1,Monday,1,98.5,120.0
+460215,Tri-City Shopping Center,Redlands,CA,15,2,Tuesday,2,155.25,135.0
+460215,Tri-City Shopping Center,Redlands,CA,15,4,Thursday,3,118.02,85.0
+460215,Tri-City Shopping Center,Redlands,CA,16,0,Sunday,2,49.72,105.0
+460215,Tri-City Shopping Center,Redlands,CA,16,2,Tuesday,2,37.15,45.0
+460215,Tri-City Shopping Center,Redlands,CA,16,3,Wednesday,2,63.75,90.0
+460215,Tri-City Shopping Center,Redlands,CA,17,0,Sunday,1,16.13,60.0
+460215,Tri-City Shopping Center,Redlands,CA,17,2,Tuesday,2,75.47,75.0
+460215,Tri-City Shopping Center,Redlands,CA,17,3,Wednesday,2,62.11,52.5
+460215,Tri-City Shopping Center,Redlands,CA,17,4,Thursday,3,78.21,70.0
+460215,Tri-City Shopping Center,Redlands,CA,17,5,Friday,1,23.5,90.0
+460215,Tri-City Shopping Center,Redlands,CA,17,6,Saturday,2,49.55,60.0
+460215,Tri-City Shopping Center,Redlands,CA,18,0,Sunday,2,44.64,90.0
+460215,Tri-City Shopping Center,Redlands,CA,18,1,Monday,1,35.77,60.0
+460215,Tri-City Shopping Center,Redlands,CA,18,2,Tuesday,1,41.64,60.0
+460215,Tri-City Shopping Center,Redlands,CA,18,3,Wednesday,2,47.83,75.0
+460215,Tri-City Shopping Center,Redlands,CA,18,4,Thursday,1,41.19,90.0
+460215,Tri-City Shopping Center,Redlands,CA,18,5,Friday,1,74.33,120.0
+460215,Tri-City Shopping Center,Redlands,CA,18,6,Saturday,1,49.92,120.0
+460215,Tri-City Shopping Center,Redlands,CA,19,0,Sunday,3,34.89,60.0
+460215,Tri-City Shopping Center,Redlands,CA,19,2,Tuesday,3,130.36,100.0
+460215,Tri-City Shopping Center,Redlands,CA,19,3,Wednesday,2,15.16,60.0
+460215,Tri-City Shopping Center,Redlands,CA,19,4,Thursday,1,44.85,120.0
+460215,Tri-City Shopping Center,Redlands,CA,20,0,Sunday,1,32.09,45.0
+460215,Tri-City Shopping Center,Redlands,CA,20,3,Wednesday,1,16.01,90.0
+460215,Tri-City Shopping Center,Redlands,CA,21,0,Sunday,2,79.46,75.0
+460215,Tri-City Shopping Center,Redlands,CA,21,1,Monday,1,74.78,90.0
+460215,Tri-City Shopping Center,Redlands,CA,22,1,Monday,1,26.07,90.0
+460215,Tri-City Shopping Center,Redlands,CA,22,2,Tuesday,1,95.86,120.0
+460215,Tri-City Shopping Center,Redlands,CA,23,2,Tuesday,1,33.86,45.0
+460215,Tri-City Shopping Center,Redlands,CA,23,5,Friday,1,58.31,90.0
+460263,Rivian Adventure Network,St. Regis,Montana,0,2,Tuesday,1,33.22,60.0
+460263,Rivian Adventure Network,St. Regis,Montana,0,3,Wednesday,1,62.87,120.0
+460263,Rivian Adventure Network,St. Regis,Montana,1,5,Friday,1,18.98,45.0
+460263,Rivian Adventure Network,St. Regis,Montana,1,6,Saturday,1,70.62,90.0
+460263,Rivian Adventure Network,St. Regis,Montana,2,4,Thursday,1,27.48,120.0
+460263,Rivian Adventure Network,St. Regis,Montana,2,5,Friday,1,35.87,45.0
+460263,Rivian Adventure Network,St. Regis,Montana,3,0,Sunday,1,41.81,60.0
+460263,Rivian Adventure Network,St. Regis,Montana,3,4,Thursday,1,11.18,30.0
+460263,Rivian Adventure Network,St. Regis,Montana,4,0,Sunday,1,64.73,90.0
+460263,Rivian Adventure Network,St. Regis,Montana,4,4,Thursday,2,46.0,45.0
+460263,Rivian Adventure Network,St. Regis,Montana,5,0,Sunday,1,59.43,120.0
+460263,Rivian Adventure Network,St. Regis,Montana,5,2,Tuesday,2,78.32,75.0
+460263,Rivian Adventure Network,St. Regis,Montana,5,3,Wednesday,1,124.72,180.0
+460263,Rivian Adventure Network,St. Regis,Montana,5,4,Thursday,1,74.25,180.0
+460263,Rivian Adventure Network,St. Regis,Montana,5,6,Saturday,1,94.04,240.0
+460263,Rivian Adventure Network,St. Regis,Montana,6,4,Thursday,1,38.53,120.0
+460263,Rivian Adventure Network,St. Regis,Montana,7,1,Monday,2,149.72,135.0
+460263,Rivian Adventure Network,St. Regis,Montana,7,2,Tuesday,1,66.32,120.0
+460263,Rivian Adventure Network,St. Regis,Montana,7,3,Wednesday,2,50.08,90.0
+460263,Rivian Adventure Network,St. Regis,Montana,7,4,Thursday,3,152.18,120.0
+460263,Rivian Adventure Network,St. Regis,Montana,7,6,Saturday,2,90.71,82.5
+460263,Rivian Adventure Network,St. Regis,Montana,8,1,Monday,3,64.53,90.0
+460263,Rivian Adventure Network,St. Regis,Montana,8,2,Tuesday,1,70.66,90.0
+460263,Rivian Adventure Network,St. Regis,Montana,8,3,Wednesday,5,155.5,72.0
+460263,Rivian Adventure Network,St. Regis,Montana,8,5,Friday,1,28.45,120.0
+460263,Rivian Adventure Network,St. Regis,Montana,8,6,Saturday,1,40.12,120.0
+460263,Rivian Adventure Network,St. Regis,Montana,9,0,Sunday,1,42.45,120.0
+460263,Rivian Adventure Network,St. Regis,Montana,9,1,Monday,1,29.27,60.0
+460263,Rivian Adventure Network,St. Regis,Montana,9,2,Tuesday,3,110.53,80.0
+460263,Rivian Adventure Network,St. Regis,Montana,9,5,Friday,2,134.03,105.0
+460263,Rivian Adventure Network,St. Regis,Montana,10,1,Monday,1,18.35,90.0
+460263,Rivian Adventure Network,St. Regis,Montana,10,2,Tuesday,1,47.34,60.0
+460263,Rivian Adventure Network,St. Regis,Montana,10,3,Wednesday,1,57.24,120.0
+460263,Rivian Adventure Network,St. Regis,Montana,11,0,Sunday,1,8.1,45.0
+460263,Rivian Adventure Network,St. Regis,Montana,11,1,Monday,1,64.41,180.0
+460263,Rivian Adventure Network,St. Regis,Montana,11,2,Tuesday,1,27.35,90.0
+460263,Rivian Adventure Network,St. Regis,Montana,11,3,Wednesday,1,63.86,90.0
+460263,Rivian Adventure Network,St. Regis,Montana,11,6,Saturday,1,72.59,90.0
+460263,Rivian Adventure Network,St. Regis,Montana,12,0,Sunday,1,11.65,60.0
+460263,Rivian Adventure Network,St. Regis,Montana,12,1,Monday,1,10.94,90.0
+460263,Rivian Adventure Network,St. Regis,Montana,12,2,Tuesday,2,23.69,45.0
+460263,Rivian Adventure Network,St. Regis,Montana,12,6,Saturday,1,16.61,45.0
+460263,Rivian Adventure Network,St. Regis,Montana,13,1,Monday,2,110.55,90.0
+460263,Rivian Adventure Network,St. Regis,Montana,13,2,Tuesday,2,95.56,75.0
+460263,Rivian Adventure Network,St. Regis,Montana,13,3,Wednesday,1,38.92,240.0
+460263,Rivian Adventure Network,St. Regis,Montana,13,5,Friday,2,63.85,75.0
+460263,Rivian Adventure Network,St. Regis,Montana,13,6,Saturday,1,59.66,90.0
+460263,Rivian Adventure Network,St. Regis,Montana,14,3,Wednesday,2,100.28,90.0
+460263,Rivian Adventure Network,St. Regis,Montana,14,5,Friday,1,35.07,60.0
+460263,Rivian Adventure Network,St. Regis,Montana,14,6,Saturday,3,163.41,100.0
+460263,Rivian Adventure Network,St. Regis,Montana,15,0,Sunday,1,23.58,60.0
+460263,Rivian Adventure Network,St. Regis,Montana,15,2,Tuesday,1,21.74,90.0
+460263,Rivian Adventure Network,St. Regis,Montana,15,3,Wednesday,1,21.36,45.0
+460263,Rivian Adventure Network,St. Regis,Montana,15,4,Thursday,2,115.76,105.0
+460263,Rivian Adventure Network,St. Regis,Montana,15,5,Friday,2,173.21,105.0
+460263,Rivian Adventure Network,St. Regis,Montana,16,0,Sunday,2,35.88,45.0
+460263,Rivian Adventure Network,St. Regis,Montana,16,2,Tuesday,2,53.88,75.0
+460263,Rivian Adventure Network,St. Regis,Montana,16,3,Wednesday,3,114.49,100.0
+460263,Rivian Adventure Network,St. Regis,Montana,16,4,Thursday,1,45.36,90.0
+460263,Rivian Adventure Network,St. Regis,Montana,16,6,Saturday,2,34.48,90.0
+460263,Rivian Adventure Network,St. Regis,Montana,17,1,Monday,2,73.35,75.0
+460263,Rivian Adventure Network,St. Regis,Montana,17,2,Tuesday,4,209.65,97.5
+460263,Rivian Adventure Network,St. Regis,Montana,17,3,Wednesday,2,31.55,75.0
+460263,Rivian Adventure Network,St. Regis,Montana,17,4,Thursday,1,7.5,60.0
+460263,Rivian Adventure Network,St. Regis,Montana,17,5,Friday,2,47.65,60.0
+460263,Rivian Adventure Network,St. Regis,Montana,17,6,Saturday,2,99.26,75.0
+460263,Rivian Adventure Network,St. Regis,Montana,18,0,Sunday,2,101.67,105.0
+460263,Rivian Adventure Network,St. Regis,Montana,18,1,Monday,1,48.87,60.0
+460263,Rivian Adventure Network,St. Regis,Montana,18,2,Tuesday,1,47.71,90.0
+460263,Rivian Adventure Network,St. Regis,Montana,18,3,Wednesday,1,18.72,90.0
+460263,Rivian Adventure Network,St. Regis,Montana,18,4,Thursday,1,32.62,60.0
+460263,Rivian Adventure Network,St. Regis,Montana,18,5,Friday,1,28.58,45.0
+460263,Rivian Adventure Network,St. Regis,Montana,19,0,Sunday,1,49.48,60.0
+460263,Rivian Adventure Network,St. Regis,Montana,19,2,Tuesday,3,171.37,110.0
+460263,Rivian Adventure Network,St. Regis,Montana,19,3,Wednesday,2,50.71,60.0
+460263,Rivian Adventure Network,St. Regis,Montana,19,4,Thursday,4,225.96,105.0
+460263,Rivian Adventure Network,St. Regis,Montana,19,5,Friday,2,47.68,90.0
+460263,Rivian Adventure Network,St. Regis,Montana,19,6,Saturday,2,91.56,135.0
+460263,Rivian Adventure Network,St. Regis,Montana,20,0,Sunday,2,20.82,60.0
+460263,Rivian Adventure Network,St. Regis,Montana,20,3,Wednesday,1,28.75,45.0
+460263,Rivian Adventure Network,St. Regis,Montana,21,3,Wednesday,1,29.36,90.0
+460263,Rivian Adventure Network,St. Regis,Montana,21,6,Saturday,2,152.91,120.0
+460263,Rivian Adventure Network,St. Regis,Montana,22,4,Thursday,1,13.02,30.0
+460263,Rivian Adventure Network,St. Regis,Montana,22,5,Friday,1,35.55,120.0
+460263,Rivian Adventure Network,St. Regis,Montana,23,5,Friday,1,14.24,90.0
+460318,EVgo,North Bend,Washington,0,4,Thursday,2,33.7,67.5
+460318,EVgo,North Bend,Washington,1,1,Monday,1,19.96,120.0
+460318,EVgo,North Bend,Washington,1,2,Tuesday,1,17.52,45.0
+460318,EVgo,North Bend,Washington,1,6,Saturday,1,41.57,120.0
+460318,EVgo,North Bend,Washington,2,1,Monday,2,108.27,120.0
+460318,EVgo,North Bend,Washington,2,2,Tuesday,3,137.36,100.0
+460318,EVgo,North Bend,Washington,2,3,Wednesday,1,55.5,90.0
+460318,EVgo,North Bend,Washington,2,5,Friday,1,98.41,120.0
+460318,EVgo,North Bend,Washington,3,0,Sunday,1,5.85,30.0
+460318,EVgo,North Bend,Washington,3,3,Wednesday,1,24.87,90.0
+460318,EVgo,North Bend,Washington,3,4,Thursday,1,25.88,60.0
+460318,EVgo,North Bend,Washington,4,2,Tuesday,1,18.59,30.0
+460318,EVgo,North Bend,Washington,4,3,Wednesday,2,47.08,90.0
+460318,EVgo,North Bend,Washington,5,0,Sunday,2,24.5,37.5
+460318,EVgo,North Bend,Washington,5,3,Wednesday,1,40.19,90.0
+460318,EVgo,North Bend,Washington,5,4,Thursday,1,7.75,60.0
+460318,EVgo,North Bend,Washington,6,0,Sunday,1,7.92,45.0
+460318,EVgo,North Bend,Washington,6,1,Monday,3,142.95,65.0
+460318,EVgo,North Bend,Washington,6,2,Tuesday,1,96.94,120.0
+460318,EVgo,North Bend,Washington,6,3,Wednesday,2,99.74,75.0
+460318,EVgo,North Bend,Washington,6,4,Thursday,1,16.59,45.0
+460318,EVgo,North Bend,Washington,6,6,Saturday,1,25.54,90.0
+460318,EVgo,North Bend,Washington,7,0,Sunday,1,53.65,120.0
+460318,EVgo,North Bend,Washington,7,1,Monday,2,112.49,120.0
+460318,EVgo,North Bend,Washington,7,2,Tuesday,1,28.42,60.0
+460318,EVgo,North Bend,Washington,7,3,Wednesday,2,48.24,52.5
+460318,EVgo,North Bend,Washington,7,4,Thursday,2,56.55,90.0
+460318,EVgo,North Bend,Washington,7,5,Friday,2,71.47,75.0
+460318,EVgo,North Bend,Washington,7,6,Saturday,1,16.51,90.0
+460318,EVgo,North Bend,Washington,8,1,Monday,1,17.98,60.0
+460318,EVgo,North Bend,Washington,8,2,Tuesday,2,80.59,60.0
+460318,EVgo,North Bend,Washington,8,3,Wednesday,2,58.62,52.5
+460318,EVgo,North Bend,Washington,8,4,Thursday,2,117.95,120.0
+460318,EVgo,North Bend,Washington,8,6,Saturday,2,87.34,105.0
+460318,EVgo,North Bend,Washington,9,2,Tuesday,1,16.12,120.0
+460318,EVgo,North Bend,Washington,9,3,Wednesday,1,44.18,120.0
+460318,EVgo,North Bend,Washington,9,5,Friday,1,33.0,90.0
+460318,EVgo,North Bend,Washington,9,6,Saturday,2,147.41,165.0
+460318,EVgo,North Bend,Washington,10,0,Sunday,1,37.71,60.0
+460318,EVgo,North Bend,Washington,10,1,Monday,1,11.68,30.0
+460318,EVgo,North Bend,Washington,10,2,Tuesday,2,105.76,82.5
+460318,EVgo,North Bend,Washington,10,4,Thursday,3,69.85,100.0
+460318,EVgo,North Bend,Washington,10,5,Friday,1,29.96,60.0
+460318,EVgo,North Bend,Washington,10,6,Saturday,1,19.69,90.0
+460318,EVgo,North Bend,Washington,11,2,Tuesday,1,63.5,90.0
+460318,EVgo,North Bend,Washington,11,3,Wednesday,2,142.99,135.0
+460318,EVgo,North Bend,Washington,11,6,Saturday,4,244.18,112.5
+460318,EVgo,North Bend,Washington,12,2,Tuesday,4,133.08,90.0
+460318,EVgo,North Bend,Washington,12,3,Wednesday,1,20.27,60.0
+460318,EVgo,North Bend,Washington,12,5,Friday,1,12.36,90.0
+460318,EVgo,North Bend,Washington,13,1,Monday,1,10.21,45.0
+460318,EVgo,North Bend,Washington,13,3,Wednesday,2,69.09,105.0
+460318,EVgo,North Bend,Washington,13,4,Thursday,1,26.75,45.0
+460318,EVgo,North Bend,Washington,14,0,Sunday,1,43.04,60.0
+460318,EVgo,North Bend,Washington,14,2,Tuesday,1,65.19,120.0
+460318,EVgo,North Bend,Washington,14,6,Saturday,2,145.43,120.0
+460318,EVgo,North Bend,Washington,15,0,Sunday,1,10.02,45.0
+460318,EVgo,North Bend,Washington,15,2,Tuesday,1,25.43,90.0
+460318,EVgo,North Bend,Washington,15,3,Wednesday,1,16.31,120.0
+460318,EVgo,North Bend,Washington,15,4,Thursday,1,41.69,90.0
+460318,EVgo,North Bend,Washington,15,6,Saturday,1,84.61,180.0
+460318,EVgo,North Bend,Washington,16,0,Sunday,3,87.53,100.0
+460318,EVgo,North Bend,Washington,16,3,Wednesday,1,24.28,90.0
+460318,EVgo,North Bend,Washington,16,5,Friday,1,37.23,90.0
+460318,EVgo,North Bend,Washington,16,6,Saturday,1,36.3,60.0
+460318,EVgo,North Bend,Washington,17,1,Monday,1,30.75,60.0
+460318,EVgo,North Bend,Washington,17,2,Tuesday,3,62.97,80.0
+460318,EVgo,North Bend,Washington,17,3,Wednesday,2,93.17,150.0
+460318,EVgo,North Bend,Washington,17,4,Thursday,2,115.63,90.0
+460318,EVgo,North Bend,Washington,17,5,Friday,1,12.53,60.0
+460318,EVgo,North Bend,Washington,17,6,Saturday,1,96.78,120.0
+460318,EVgo,North Bend,Washington,18,0,Sunday,3,153.0,110.0
+460318,EVgo,North Bend,Washington,18,1,Monday,1,49.7,60.0
+460318,EVgo,North Bend,Washington,18,2,Tuesday,1,49.93,60.0
+460318,EVgo,North Bend,Washington,18,3,Wednesday,1,41.47,90.0
+460318,EVgo,North Bend,Washington,18,4,Thursday,1,75.65,120.0
+460318,EVgo,North Bend,Washington,18,5,Friday,1,11.23,60.0
+460318,EVgo,North Bend,Washington,18,6,Saturday,1,65.3,90.0
+460318,EVgo,North Bend,Washington,19,2,Tuesday,2,64.57,90.0
+460318,EVgo,North Bend,Washington,19,3,Wednesday,2,79.7,75.0
+460318,EVgo,North Bend,Washington,19,4,Thursday,4,157.96,97.5
+460318,EVgo,North Bend,Washington,19,5,Friday,3,115.71,65.0
+460318,EVgo,North Bend,Washington,19,6,Saturday,2,102.0,90.0
+460318,EVgo,North Bend,Washington,20,2,Tuesday,1,21.6,45.0
+460318,EVgo,North Bend,Washington,20,5,Friday,1,56.34,180.0
+460318,EVgo,North Bend,Washington,21,3,Wednesday,1,21.9,30.0
+460318,EVgo,North Bend,Washington,21,4,Thursday,1,149.7,180.0
+460318,EVgo,North Bend,Washington,21,5,Friday,1,18.81,60.0
+460318,EVgo,North Bend,Washington,21,6,Saturday,1,71.86,90.0
+460318,EVgo,North Bend,Washington,22,1,Monday,1,29.97,60.0
+460318,EVgo,North Bend,Washington,22,3,Wednesday,1,72.07,120.0
+460318,EVgo,North Bend,Washington,23,0,Sunday,1,50.72,120.0
+460318,EVgo,North Bend,Washington,23,5,Friday,1,38.02,120.0
+460318,EVgo,North Bend,Washington,23,6,Saturday,1,18.14,45.0
+460320,"Ionna - Daly City, CA",Daly City,CA,0,0,Sunday,1,46.19,90.0
+460320,"Ionna - Daly City, CA",Daly City,CA,0,3,Wednesday,1,12.76,60.0
+460320,"Ionna - Daly City, CA",Daly City,CA,1,0,Sunday,1,78.77,180.0
+460320,"Ionna - Daly City, CA",Daly City,CA,1,1,Monday,1,28.83,60.0
+460320,"Ionna - Daly City, CA",Daly City,CA,1,4,Thursday,1,70.53,90.0
+460320,"Ionna - Daly City, CA",Daly City,CA,1,6,Saturday,1,49.99,60.0
+460320,"Ionna - Daly City, CA",Daly City,CA,2,3,Wednesday,1,6.71,45.0
+460320,"Ionna - Daly City, CA",Daly City,CA,2,5,Friday,1,21.83,60.0
+460320,"Ionna - Daly City, CA",Daly City,CA,3,1,Monday,2,136.0,105.0
+460320,"Ionna - Daly City, CA",Daly City,CA,5,3,Wednesday,1,26.83,60.0
+460320,"Ionna - Daly City, CA",Daly City,CA,5,6,Saturday,1,49.49,90.0
+460320,"Ionna - Daly City, CA",Daly City,CA,6,1,Monday,1,27.32,45.0
+460320,"Ionna - Daly City, CA",Daly City,CA,6,2,Tuesday,2,129.86,105.0
+460320,"Ionna - Daly City, CA",Daly City,CA,6,6,Saturday,1,46.53,60.0
+460320,"Ionna - Daly City, CA",Daly City,CA,7,0,Sunday,1,42.27,60.0
+460320,"Ionna - Daly City, CA",Daly City,CA,7,1,Monday,1,51.81,90.0
+460320,"Ionna - Daly City, CA",Daly City,CA,7,2,Tuesday,1,24.84,180.0
+460320,"Ionna - Daly City, CA",Daly City,CA,7,3,Wednesday,1,39.7,60.0
+460320,"Ionna - Daly City, CA",Daly City,CA,7,4,Thursday,2,118.24,120.0
+460320,"Ionna - Daly City, CA",Daly City,CA,7,5,Friday,1,70.95,90.0
+460320,"Ionna - Daly City, CA",Daly City,CA,8,1,Monday,1,8.49,45.0
+460320,"Ionna - Daly City, CA",Daly City,CA,8,2,Tuesday,2,56.16,82.5
+460320,"Ionna - Daly City, CA",Daly City,CA,8,3,Wednesday,4,79.07,82.5
+460320,"Ionna - Daly City, CA",Daly City,CA,8,4,Thursday,2,131.08,120.0
+460320,"Ionna - Daly City, CA",Daly City,CA,8,5,Friday,2,63.62,75.0
+460320,"Ionna - Daly City, CA",Daly City,CA,9,0,Sunday,3,85.28,85.0
+460320,"Ionna - Daly City, CA",Daly City,CA,9,3,Wednesday,3,99.86,95.0
+460320,"Ionna - Daly City, CA",Daly City,CA,9,4,Thursday,3,129.98,70.0
+460320,"Ionna - Daly City, CA",Daly City,CA,9,6,Saturday,1,187.83,240.0
+460320,"Ionna - Daly City, CA",Daly City,CA,10,1,Monday,1,40.56,60.0
+460320,"Ionna - Daly City, CA",Daly City,CA,10,2,Tuesday,1,49.24,120.0
+460320,"Ionna - Daly City, CA",Daly City,CA,10,4,Thursday,1,70.82,90.0
+460320,"Ionna - Daly City, CA",Daly City,CA,10,5,Friday,1,35.9,90.0
+460320,"Ionna - Daly City, CA",Daly City,CA,10,6,Saturday,1,26.33,60.0
+460320,"Ionna - Daly City, CA",Daly City,CA,11,0,Sunday,1,51.23,90.0
+460320,"Ionna - Daly City, CA",Daly City,CA,11,2,Tuesday,3,86.66,90.0
+460320,"Ionna - Daly City, CA",Daly City,CA,11,3,Wednesday,1,11.38,90.0
+460320,"Ionna - Daly City, CA",Daly City,CA,11,4,Thursday,1,12.73,60.0
+460320,"Ionna - Daly City, CA",Daly City,CA,12,3,Wednesday,1,20.06,120.0
+460320,"Ionna - Daly City, CA",Daly City,CA,12,4,Thursday,2,72.75,105.0
+460320,"Ionna - Daly City, CA",Daly City,CA,12,5,Friday,2,31.76,75.0
+460320,"Ionna - Daly City, CA",Daly City,CA,12,6,Saturday,2,87.7,90.0
+460320,"Ionna - Daly City, CA",Daly City,CA,13,0,Sunday,1,15.16,45.0
+460320,"Ionna - Daly City, CA",Daly City,CA,13,5,Friday,1,20.93,60.0
+460320,"Ionna - Daly City, CA",Daly City,CA,13,6,Saturday,3,277.16,160.0
+460320,"Ionna - Daly City, CA",Daly City,CA,14,0,Sunday,4,207.15,86.25
+460320,"Ionna - Daly City, CA",Daly City,CA,14,1,Monday,1,37.97,90.0
+460320,"Ionna - Daly City, CA",Daly City,CA,14,5,Friday,1,15.78,60.0
+460320,"Ionna - Daly City, CA",Daly City,CA,15,1,Monday,1,22.46,60.0
+460320,"Ionna - Daly City, CA",Daly City,CA,15,2,Tuesday,1,53.22,120.0
+460320,"Ionna - Daly City, CA",Daly City,CA,15,4,Thursday,1,134.69,180.0
+460320,"Ionna - Daly City, CA",Daly City,CA,15,5,Friday,1,51.94,120.0
+460320,"Ionna - Daly City, CA",Daly City,CA,16,1,Monday,1,78.57,120.0
+460320,"Ionna - Daly City, CA",Daly City,CA,16,2,Tuesday,3,132.19,90.0
+460320,"Ionna - Daly City, CA",Daly City,CA,16,4,Thursday,1,65.41,90.0
+460320,"Ionna - Daly City, CA",Daly City,CA,16,5,Friday,2,54.19,105.0
+460320,"Ionna - Daly City, CA",Daly City,CA,17,0,Sunday,1,60.02,90.0
+460320,"Ionna - Daly City, CA",Daly City,CA,17,1,Monday,2,213.34,150.0
+460320,"Ionna - Daly City, CA",Daly City,CA,17,2,Tuesday,1,15.03,90.0
+460320,"Ionna - Daly City, CA",Daly City,CA,17,4,Thursday,2,64.99,90.0
+460320,"Ionna - Daly City, CA",Daly City,CA,17,5,Friday,2,41.07,75.0
+460320,"Ionna - Daly City, CA",Daly City,CA,17,6,Saturday,1,14.48,90.0
+460320,"Ionna - Daly City, CA",Daly City,CA,18,0,Sunday,3,239.65,140.0
+460320,"Ionna - Daly City, CA",Daly City,CA,18,1,Monday,1,135.72,180.0
+460320,"Ionna - Daly City, CA",Daly City,CA,18,2,Tuesday,1,21.34,45.0
+460320,"Ionna - Daly City, CA",Daly City,CA,18,5,Friday,2,55.96,105.0
+460320,"Ionna - Daly City, CA",Daly City,CA,18,6,Saturday,2,41.33,52.5
+460320,"Ionna - Daly City, CA",Daly City,CA,19,0,Sunday,3,159.82,130.0
+460320,"Ionna - Daly City, CA",Daly City,CA,19,2,Tuesday,3,147.94,120.0
+460320,"Ionna - Daly City, CA",Daly City,CA,19,3,Wednesday,3,170.11,90.0
+460320,"Ionna - Daly City, CA",Daly City,CA,19,5,Friday,2,21.12,52.5
+460320,"Ionna - Daly City, CA",Daly City,CA,19,6,Saturday,4,123.49,82.5
+460320,"Ionna - Daly City, CA",Daly City,CA,20,5,Friday,1,14.89,90.0
+460320,"Ionna - Daly City, CA",Daly City,CA,21,2,Tuesday,1,20.31,120.0
+460320,"Ionna - Daly City, CA",Daly City,CA,21,3,Wednesday,1,49.08,60.0
+460320,"Ionna - Daly City, CA",Daly City,CA,22,1,Monday,1,17.52,90.0
+460320,"Ionna - Daly City, CA",Daly City,CA,22,4,Thursday,1,33.69,90.0
+460320,"Ionna - Daly City, CA",Daly City,CA,22,6,Saturday,1,55.63,90.0
+460320,"Ionna - Daly City, CA",Daly City,CA,23,0,Sunday,2,142.25,120.0
+460320,"Ionna - Daly City, CA",Daly City,CA,23,3,Wednesday,1,18.95,90.0
+460321,IONNA - Gilman Rechargery Relay,Gilman,IL,0,1,Monday,1,28.18,60.0
+460321,IONNA - Gilman Rechargery Relay,Gilman,IL,0,2,Tuesday,1,14.26,45.0
+460321,IONNA - Gilman Rechargery Relay,Gilman,IL,1,1,Monday,1,13.39,90.0
+460321,IONNA - Gilman Rechargery Relay,Gilman,IL,1,2,Tuesday,1,91.12,180.0
+460321,IONNA - Gilman Rechargery Relay,Gilman,IL,1,4,Thursday,1,54.7,180.0
+460321,IONNA - Gilman Rechargery Relay,Gilman,IL,1,5,Friday,1,115.27,180.0
+460321,IONNA - Gilman Rechargery Relay,Gilman,IL,1,6,Saturday,2,145.52,105.0
+460321,IONNA - Gilman Rechargery Relay,Gilman,IL,3,1,Monday,2,61.05,75.0
+460321,IONNA - Gilman Rechargery Relay,Gilman,IL,3,3,Wednesday,1,76.13,120.0
+460321,IONNA - Gilman Rechargery Relay,Gilman,IL,3,6,Saturday,2,130.02,135.0
+460321,IONNA - Gilman Rechargery Relay,Gilman,IL,4,2,Tuesday,1,11.95,60.0
+460321,IONNA - Gilman Rechargery Relay,Gilman,IL,4,4,Thursday,1,63.47,90.0

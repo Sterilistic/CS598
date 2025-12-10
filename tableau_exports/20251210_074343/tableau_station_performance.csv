@@ -1,0 +1,132 @@
+station_id,station_name,city,state,operator,total_sessions,total_energy_kwh,avg_duration_minutes,avg_cost,total_revenue,active_days,last_session,first_session,charging_points_count,avg_power_kw,open_anomalies
+460201,Krazyfish Grille,Port St Joe,Florida,(Business Owner at Location),0,,,,,0,,,0,,0
+460207,"Thorntons #701 - Largo, FL",Largo,FL,BP Pulse (US),0,,,,,0,,,0,,0
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,BP Pulse (US),0,,,,,0,,,0,,0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,eVgo Network,0,,,,,0,,,0,,0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,eVgo Network,0,,,,,0,,,0,,0
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,eVgo Network,0,,,,,0,,,0,,0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,Electrify America,0,,,,,0,,,0,,0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,Electrify America,0,,,,,0,,,0,,0
+460215,Tri-City Shopping Center,Redlands,CA,eVgo Network,0,,,,,0,,,0,,0
+460263,Rivian Adventure Network,St. Regis,Montana,Rivian Adventure Network,0,,,,,0,,,0,,0
+460318,EVgo,North Bend,Washington,eVgo Network,0,,,,,0,,,0,,0
+460320,"Ionna - Daly City, CA",Daly City,CA,IONNA,0,,,,,0,,,0,,0
+460321,IONNA - Gilman Rechargery Relay,Gilman,IL,IONNA,0,,,,,0,,,0,,0
+460322,Ionna Daytona Beach Rechargery Relay @Wawa,Daytona Beach,FL,IONNA,0,,,,,0,,,0,,0
+460323,Ionna - OKC,Oklahoma City,OK,IONNA,0,,,,,0,,,0,,0
+460328,Ionna Concord Rechargery,Concord,NC,IONNA,0,,,,,0,,,0,,0
+460329,IONNA Seffner Rechargery,Seffner,FL,IONNA,0,,,,,0,,,0,,0
+460331,"Pilot Travel Center #474 Sutton, WV",Sutton,WV,eVgo Network,0,,,,,0,,,0,,0
+460345,Central Co-op,Tacoma,WA,(Unknown Operator),0,,,,,0,,,0,,0
+460367,Santa Monica Station,Santa Monica,CA,Electrify America,0,,,,,0,,,0,,0
+460368,"bp pulse - Duarte, CA",Duarte,CA,BP Pulse (US),0,,,,,0,,,0,,0
+460371,"Circle K - Yuma, AZ",Yuma,AZ,Circle K,0,,,,,0,,,0,,0
+460372,"Pilot Travel Center #1208 Yuma, AZ",Yuma,AZ,eVgo Network,0,,,,,0,,,0,,0
+460384,Mendocino Marketplace,Santa Rosa,CA,eVgo Network,0,,,,,0,,,0,,0
+460429,Ruby's Inn General Store - Tesla Supercharger,Bryce Canyon City,Utah,Tesla (including non-tesla),0,,,,,0,,,0,,0
+460430,Revel - South San Francisco,South San Francisco,CA,(Unknown Operator),0,,,,,0,,,0,,0
+460484,L2 near Ball&Chain,Miami,Florida,(Unknown Operator),0,,,,,0,,,0,,0
+460485,Safeway,Martinez,CA,Electrify America,0,,,,,0,,,0,,0
+460503,Futurama near Ball & Chain,Miami,Florida,ChargeBay (US),0,,,,,0,,,0,,0
+460504,Marketplace Foods,Minot,ND,Tesla (including non-tesla),0,,,,,0,,,0,,0
+460505,Mass General Brigham Healthcare Center,Dover,NH,(Unknown Operator),0,,,,,0,,,0,,0
+460506,Wentworth-Douglass Hospital,Dover,NH,(Unknown Operator),0,,,,,0,,,0,,0
+460570,Eastern Market Public Lot,Detroit,MI,Red E Charge,0,,,,,0,,,0,,0
+460571,Exxon Utica,Utica,MI,Red E Charge,0,,,,,0,,,0,,0
+460606,Destination Charger,Columbia Falls,Montana,EDP,0,,,,,0,,,0,,0
+460632,Parsons Chevy - Eagle River,Eagle River,WI,InCharge (US),0,,,,,0,,,0,,0
+460671,FPL,Pensacola,Florida,(Unknown Operator),0,,,,,0,,,0,,0
+460673,Telsa Supercharger,Rogue River,Oregon,Tesla (including non-tesla),0,,,,,0,,,0,,0
+460708,Chargepoint,Scottsville,Kentucky,(Unknown Operator),0,,,,,0,,,0,,0
+460949,"Flying J Travel Center #737 San Antonio, TX",San Antonio,TX,eVgo Network,0,,,,,0,,,0,,0
+460953,"Flying J Travel Center #690 Lordsburg, NM",Lordsburg,NM,eVgo Network,0,,,,,0,,,0,,0
+460954,"Flying J Travel Center #671 Matthews, MO",Matthews,MO,eVgo Network,0,,,,,0,,,0,,0
+460955,"Flying J Travel Center #572 Williams, IA",Williams,IA,eVgo Network,0,,,,,0,,,0,,0
+460956,"Pilot Travel Center #368 Decatur, IL",Decatur,IL,eVgo Network,0,,,,,0,,,0,,0
+460957,"Flying J Travel Center #489 Grand Forks, ND",Grand Forks,ND,eVgo Network,0,,,,,0,,,0,,0
+460958,"Pilot Travel Center #1225 Mascoutah, IL",Mascoutah,IL,eVgo Network,0,,,,,0,,,0,,0
+460959,"Thorntons #327 - Bellwood, IL",Bellwood,IL,BP Pulse (US),0,,,,,0,,,0,,0
+460969,EVgo - SF SOMA,San Francisco,CA,eVgo Network,0,,,,,0,,,0,,0
+461048,Mitra EV DCFC - Ford Commercial,Sacramento,CA,(Unknown Operator),0,,,,,0,,,0,,0
+461049,Mitra EV DCFC - Aztec Solar,Rancho Cordova,CA,(Unknown Operator),0,,,,,0,,,0,,0
+461050,Mitra EV DCFC - Sierra Pacific,Rancho Cordova,CA,(Unknown Operator),0,,,,,0,,,0,,0
+461073,Fairfield by Marriott Inn & Suites Houston Brookhollow,Houston,TX,Tesla (including non-tesla),0,,,,,0,,,0,,1
+461130,TownePlace Suites by Marriott Houston Northwest/Beltway 8,Houston,TX,Tesla (including non-tesla),0,,,,,0,,,0,,1
+461135,Marathon,Grand Rapids,MI,Red E Charge,0,,,,,0,,,0,,0
+461155,Key Chrysler Dodge Jeep Ram,Rochester,New Hampshire,(Unknown Operator),0,,,,,0,,,0,,0
+461156,Key GMC of Rochester,Rochester,New Hampshire,InCharge (US),0,,,,,0,,,0,,0
+461157,University Place Library,University Place,Washington,(Unknown Operator),0,,,,,0,,,0,,0
+461164,Clawson Shopping Center,Clawson,MI,EVGateway,0,,,,,0,,,0,,0
+461165,Heilmann Community Center,Detroit,MI,EV Connect,0,,,,,0,,,0,,0
+461166,Gladwin City Hall,Gladwin,MI,Red E Charge,0,,,,,0,,,0,,0
+461167,Pats Food Freeland,Freeland,MI,Red E Charge,0,,,,,0,,,0,,0
+461170,Hamilton Market St,Hamilton,OH,ChargePoint,0,,,,,0,,,0,,0
+461171,Hamilton CNG Filling Station,Hamilton,OH,ChargePoint,0,,,,,0,,,0,,0
+461251,Sunshine Gardens,South San Francisco,CA,(Unknown Operator),0,,,,,0,,,0,,0
+461252,D & 3rd Street Curbside,West Sacramento,CA,ChargePoint,0,,,,,0,,,0,,0
+461275,Goodwill,St. Louis Park,MN,(Unknown Operator),0,,,,,0,,,0,,0
+461307,Fas Mart,Grand Haven,MI,Red E Charge,0,,,,,0,,,0,,0
+461370,Miller Hill Super One,Duluth,MN,ZEF Energy,0,,,,,0,,,0,,1
+461511,Sleep Inn & Suites Monroe - Woodbury,Monroe,NY,Tesla (including non-tesla),0,,,,,0,,,0,,0
+461541,Fox Kia South,Grand Rapids,michigan,ChargePoint,0,,,,,0,,,0,,0
+461543,Garcia Bend Park,Sacramento,CA,ChargePoint,0,,,,,0,,,0,,0
+461546,"Pilot Travel Center #1051 Iowa, LA",Iowa,LA,eVgo Network,0,,,,,0,,,0,,1
+461547,"Pilot Travel Center #1047 Jacksonville, FL",Jacksonville,FL,eVgo Network,0,,,,,0,,,0,,1
+461548,"Pilot Travel Center #374 Marianna, FL",Marianna,FL,eVgo Network,0,,,,,0,,,0,,1
+461549,"ONE9 Travel Center #7937 Mcleansville, NC",Mcleansville,NC,eVgo Network,0,,,,,0,,,0,,0
+461550,"Flying J Travel Center #706 Tulsa, OK",Tulsa,OK,eVgo Network,0,,,,,0,,,0,,0
+461551,Berkeley Bowl (West),Berkeley,CA,Electrify America,0,,,,,0,,,0,,0
+461553,Ventura County Credit Union,Ventura,CA,Electrify America,0,,,,,0,,,0,,1
+461554,The Bite Tumalo,Tumalo,OR,Rivian Adventure Network,0,,,,,0,,,0,,0
+461627,"T/A Travel Center #0057 - Redding, CA",Redding,CA,BP Pulse (US),0,,,,,0,,,0,,0
+461628,Petro Corning #309,Corning,CA,BP Pulse (US),0,,,,,0,,,0,,1
+461629,In-N-Out Burger - Redding,Redding,CA,Mercedes-Benz High-Power Charging (US),0,,,,,0,,,0,,0
+461631,"Pilot Travel Center #1019 - Orland, CA",Orland,CA,eVgo Network,0,,,,,0,,,0,,0
+461632,"Ionna - Willows, CA",Williows,CA,IONNA,0,,,,,0,,,0,,0
+461715,BP Express Stop,Jackson,MI,Red E Charge,0,,,,,0,,,0,,0
+461733,Walmart,Checotah,OK,(Unknown Operator),0,,,,,0,,,0,,1
+461744,Sunset Pointe,Rocklin,CA,eVgo Network,0,,,,,0,,,0,,0
+461750,Speedy Q,New Baltimore,MI,Red E Charge,0,,,,,0,,,0,,0
+461756,"Laguna Blvd, Elk Grove, CA",Elk Grove,CA,eVgo Network,0,,,,,0,,,0,,0
+461757,Dutch Bros Coffee,Sacramento,CA,eVgo Network,0,,,,,0,,,0,,0
+461758,Bradville Square Shopping Center,Sacramento,CA,eVgo Network,0,,,,,0,,,0,,0
+461813,Culver's,Rhinelander,WI,ChargePoint,0,,,,,0,,,0,,0
+462098,Wawa Supercharger,Staunton,VA,Tesla (including non-tesla),0,,,,,0,,,0,,1
+462111,Shell - Novi,Novi,MI,Red E Charge,0,,,,,0,,,0,,0
+462127,Kimco-charlotte,Charlotte,NC,(Unknown Operator),0,,,,,0,,,0,,0
+462225,IONNA Beaver Rechargery Relay,Beaver,UT,IONNA,0,,,,,0,,,0,,0
+462226,IONNA Raleigh Rechargery Relay,Raleigh,NC,IONNA,0,,,,,0,,,0,,0
+462227,IONNA Middletown Rechargery Relay,Middletown,MD,IONNA,0,,,,,0,,,0,,0
+462228,IONNA Kutztown Rechargery @ Sheetz,Kutztown,PA,IONNA,0,,,,,0,,,0,,0
+462269,Ionna Rechargery,Roseville,CA,IONNA,0,,,,,0,,,0,,0
+469252,Lenexa Old Town Activity Center,Lenexa,KS,Tesla (including non-tesla),0,,,,,0,,,0,,0
+469253,Lenexa Justice Center,Lenexa,KS,Tesla (including non-tesla),0,,,,,0,,,0,,0
+469374,Freewire Charging Station,Columbus,OH,(Unknown Operator),0,,,,,0,,,0,,0
+469399,Elkhorn Shopping Center,Sacramento,CA,eVgo Network,0,,,,,0,,,0,,0
+469401,Dutch Bros,Sacramento,CA,IONNA,0,,,,,0,,,0,,0
+469403,1122 Frankford grand,fishtown,PA,(Unknown Operator),0,,,,,0,,,0,,0
+469430,Bernal Plaza,San Jose,CA,eVgo Network,0,,,,,0,,,0,,0
+469455,Polaris Bergland Township,Bergland,MI,(Unknown Operator),0,,,,,0,,,0,,18
+469499,Renewable Grid - Glen Cove Fast Charging,Glen Cove,NY,(Unknown Operator),0,,,,,0,,,0,,0
+469611,Dennys,Seatac,WA,Electric Era (US),0,,,,,0,,,0,,14
+469612,"Dennys - Auburn, WA",Auburn,WA,Electric Era (US),0,,,,,0,,,0,,14
+469741,"Pilot Travel Center #63 Piedmont, SC",Piedmont,SC,eVgo Network,0,,,,,0,,,0,,0
+469743,"Pilot Travel Center #4642 Toms Brook, VA",Toms Brook,VA,eVgo Network,0,,,,,0,,,0,,0
+469745,"Flying J Travel Center #875 Elkton, MD",Elkton,MD,eVgo Network,0,,,,,0,,,0,,0
+469746,"Pilot Travel Center #281 Girard, OH",Girard,OH,eVgo Network,0,,,,,0,,,0,,0
+469747,"Flying J Travel Center #692 Wells, NV",Wells,NV,eVgo Network,0,,,,,0,,,0,,0
+469748,Ionna Largo Rechargery @ Wawa,Largo,FL,IONNA,0,,,,,0,,,0,,4
+469749,"Ionna Reading, MA Rechargery Relay",Reading,MA,IONNA,0,,,,,0,,,0,,0
+469752,"Ionna Carlin, NV Rechargery Relay @ Ridley’s Market",Carlin,NV,IONNA,0,,,,,0,,,0,,0
+469807,OUC ReCharge EV Hub at OCCC,Orlando,FL,ChargeUp (NovaCharge),0,,,,,0,,,0,,0
+470113,Kwik-Charge #1205,Lake Delton,WI,Kwik Charge (Kwik Trip),0,,,,,0,,,0,,0
+470276,"New Albany Light, Gas, and Water",New Albany,MS,Electric Era (US),0,,,,,0,,,0,,0
+470312,Safeway,Hercules,CA,Electrify America,0,,,,,0,,,0,,0
+470314,EVolve NY Afton,Afton,NY,Electrify America,0,,,,,0,,,0,,4
+470357,FastTrack Market Marathon,Taylor,MI,Red E Charge,0,,,,,0,,,0,,0
+470498,US Highway 57,Eagle Pass,Texas,InCharge (US),0,,,,,0,,,0,,0
+470651,"Starbucks - Ridgefield, WA",Ridgefield,WA,Mercedes-Benz High-Power Charging (US),0,,,,,0,,,0,,0
+470652,"Starbucks - Phoenix, OR",Phoenix,OR,Mercedes-Benz High-Power Charging (US),0,,,,,0,,,0,,0
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,Mercedes-Benz High-Power Charging (US),0,,,,,0,,,0,,0
+470696,Trailborn Grand Canyon,Williams,AZ,(Unknown Operator),0,,,,,0,,,0,,0
+470792,Fellows Creek Golf Club,Canton,MI,Volta Charging,0,,,,,0,,,0,,0

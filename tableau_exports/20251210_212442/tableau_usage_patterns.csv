@@ -1,0 +1,1001 @@
+station_id,station_name,city,state,session_date,hour_of_day,day_of_week,is_weekend,session_count,total_energy_kwh,avg_energy_kwh,avg_duration_minutes,total_cost,avg_cost
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-11,13,2,False,1,35.88,35.88,60.0,10.29,10.29
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-11,15,2,False,1,33.37,33.37,90.0,3.38,3.38
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-11,19,2,False,3,75.06,25.02,80.0,17.5,5.833333333333333
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-12,12,3,False,1,28.56,28.56,90.0,4.74,4.74
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-12,15,3,False,1,47.89,47.89,180.0,16.6,16.6
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-12,21,3,False,1,40.51,40.51,60.0,6.14,6.14
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-13,13,4,False,1,26.99,26.99,45.0,9.75,9.75
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-13,19,4,False,2,66.18,33.09,75.0,18.71,9.355
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-14,5,5,False,1,25.67,25.67,45.0,8.72,8.72
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-14,9,5,False,2,63.54,31.77,82.5,17.22,8.61
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-14,12,5,False,1,48.75,48.75,60.0,15.77,15.77
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-14,18,5,False,1,63.83,63.83,90.0,19.74,19.74
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-15,6,6,True,1,19.49,19.49,60.0,7.27,7.27
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-15,7,6,True,1,14.28,14.28,60.0,5.46,5.46
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-15,9,6,True,1,15.95,15.95,30.0,7.52,7.52
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-15,15,6,True,1,43.55,43.55,60.0,8.9,8.9
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-15,18,6,True,1,120.76,120.76,180.0,12.24,12.24
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-16,9,0,True,1,77.18,77.18,120.0,33.32,33.32
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-16,11,0,True,1,19.45,19.45,60.0,7.71,7.71
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-16,14,0,True,1,72.11,72.11,90.0,30.98,30.98
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-16,22,0,True,1,8.88,8.88,60.0,2.64,2.64
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-17,4,1,False,1,17.48,17.48,60.0,3.01,3.01
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-17,6,1,False,1,17.62,17.62,90.0,7.6,7.6
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-17,8,1,False,1,31.62,31.62,45.0,5.95,5.95
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-18,4,2,False,1,23.72,23.72,60.0,4.86,4.86
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-18,15,2,False,1,61.66,61.66,90.0,17.66,17.66
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-19,4,3,False,1,48.39,48.39,60.0,16.51,16.51
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-19,8,3,False,1,52.86,52.86,90.0,12.07,12.07
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-19,17,3,False,1,137.1,137.1,180.0,44.91,44.91
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-19,22,3,False,1,7.47,7.47,30.0,1.81,1.81
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-20,4,4,False,1,8.64,8.64,45.0,2.27,2.27
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-20,5,4,False,1,34.46,34.46,60.0,9.94,9.94
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-20,7,4,False,1,45.68,45.68,60.0,8.14,8.14
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-20,9,4,False,2,98.63,49.315,82.5,25.21,12.605
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-20,13,4,False,1,47.8,47.8,90.0,18.59,18.59
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-21,6,5,False,1,7.45,7.45,60.0,3.3,3.3
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-21,9,5,False,1,27.86,27.86,45.0,10.89,10.89
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-21,13,5,False,1,39.34,39.34,120.0,14.76,14.76
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-22,0,6,True,1,37.36,37.36,60.0,8.32,8.32
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-22,2,6,True,1,14.78,14.78,60.0,4.49,4.49
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-22,4,6,True,1,43.73,43.73,180.0,21.38,21.38
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-22,11,6,True,1,60.11,60.11,180.0,15.47,15.47
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-22,13,6,True,1,31.58,31.58,120.0,5.75,5.75
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-23,5,0,True,1,39.94,39.94,60.0,11.04,11.04
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-23,7,0,True,1,17.09,17.09,60.0,7.79,7.79
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-23,9,0,True,1,21.89,21.89,60.0,2.53,2.53
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-23,13,0,True,1,53.81,53.81,90.0,25.92,25.92
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-23,19,0,True,1,143.47,143.47,180.0,67.55,67.55
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-24,0,1,False,1,26.9,26.9,180.0,5.45,5.45
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-24,9,1,False,1,70.64,70.64,120.0,17.25,17.25
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-24,17,1,False,1,33.75,33.75,90.0,5.14,5.14
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-24,18,1,False,1,17.87,17.87,60.0,4.22,4.22
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-24,21,1,False,1,23.33,23.33,90.0,10.64,10.64
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-25,8,2,False,1,19.32,19.32,90.0,8.97,8.97
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-25,13,2,False,1,69.88,69.88,90.0,21.14,21.14
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-25,15,2,False,2,131.24,65.62,135.0,45.69,22.845
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-25,17,2,False,1,34.68,34.68,45.0,15.49,15.49
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-26,7,3,False,1,49.8,49.8,90.0,18.05,18.05
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-26,8,3,False,2,37.11,18.555,45.0,14.9,7.45
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-26,14,3,False,1,43.65,43.65,60.0,15.87,15.87
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-27,12,4,False,1,17.02,17.02,60.0,9.91,9.91
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-27,14,4,False,1,8.35,8.35,60.0,2.42,2.42
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-28,19,5,False,1,31.74,31.74,60.0,5.33,5.33
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-29,4,6,True,1,35.07,35.07,180.0,10.45,10.45
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-29,7,6,True,1,30.75,30.75,45.0,8.76,8.76
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-29,13,6,True,1,41.43,41.43,90.0,22.94,22.94
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-29,16,6,True,1,39.56,39.56,60.0,14.35,14.35
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-29,22,6,True,1,11.27,11.27,60.0,6.01,6.01
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-30,8,0,True,2,59.65,29.825,75.0,27.08,13.54
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-30,12,0,True,1,55.29,55.29,90.0,11.49,11.49
+460201,Krazyfish Grille,Port St Joe,Florida,2025-11-30,17,0,True,1,39.36,39.36,60.0,5.64,5.64
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-01,2,1,False,1,34.94,34.94,60.0,14.38,14.38
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-01,20,1,False,1,18.21,18.21,45.0,4.5,4.5
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-02,2,2,False,1,40.9,40.9,120.0,19.15,19.15
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-02,7,2,False,1,79.21,79.21,120.0,24.52,24.52
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-02,8,2,False,1,99.08,99.08,120.0,27.92,27.92
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-02,14,2,False,1,14.88,14.88,60.0,5.28,5.28
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-02,19,2,False,1,32.24,32.24,90.0,13.26,13.26
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-02,20,2,False,1,27.55,27.55,60.0,7.44,7.44
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-03,1,3,False,1,46.22,46.22,60.0,13.63,13.63
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-03,15,3,False,1,34.5,34.5,120.0,15.34,15.34
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-03,18,3,False,1,35.57,35.57,120.0,15.86,15.86
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-04,6,4,False,1,60.74,60.74,90.0,24.56,24.56
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-04,11,4,False,1,9.19,9.19,60.0,4.46,4.46
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-04,15,4,False,1,98.39,98.39,180.0,22.29,22.29
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-05,6,5,False,1,22.64,22.64,30.0,5.03,5.03
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-05,8,5,False,1,28.09,28.09,120.0,6.53,6.53
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-05,9,5,False,2,113.66,56.83,105.0,21.63,10.815
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-05,14,5,False,1,82.95,82.95,120.0,31.59,31.59
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-05,18,5,False,1,74.22,74.22,90.0,26.19,26.19
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-06,4,6,True,1,81.3,81.3,180.0,11.19,11.19
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-06,7,6,True,2,88.23,44.115,105.0,42.47,21.235
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-06,9,6,True,1,13.67,13.67,30.0,6.46,6.46
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-06,11,6,True,1,37.12,37.12,90.0,14.39,14.39
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-06,18,6,True,1,34.67,34.67,60.0,3.97,3.97
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-06,21,6,True,1,44.71,44.71,90.0,14.21,14.21
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-07,5,0,True,1,59.33,59.33,240.0,29.65,29.65
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-07,7,0,True,1,55.64,55.64,120.0,14.83,14.83
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-07,14,0,True,1,48.68,48.68,60.0,13.43,13.43
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-08,1,1,False,1,121.74,121.74,180.0,23.56,23.56
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-08,2,1,False,1,17.58,17.58,90.0,4.83,4.83
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-08,3,1,False,1,73.09,73.09,90.0,26.57,26.57
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-08,7,1,False,1,27.05,27.05,45.0,7.71,7.71
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-08,9,1,False,1,47.93,47.93,60.0,23.56,23.56
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-08,12,1,False,1,38.15,38.15,90.0,8.01,8.01
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-08,14,1,False,2,30.33,15.165,37.5,13.81,6.905
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-08,15,1,False,1,13.08,13.08,90.0,1.6,1.6
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-08,17,1,False,1,29.76,29.76,90.0,4.6,4.6
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-08,18,1,False,1,28.74,28.74,60.0,4.14,4.14
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-09,7,2,False,1,67.13,67.13,90.0,34.9,34.9
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-09,21,2,False,1,60.19,60.19,90.0,8.41,8.41
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-09,23,2,False,1,36.62,36.62,60.0,8.47,8.47
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-10,7,3,False,1,21.93,21.93,60.0,7.13,7.13
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-10,8,3,False,1,100.63,100.63,180.0,27.26,27.26
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-10,15,3,False,1,27.95,27.95,60.0,10.21,10.21
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-10,16,3,False,1,17.18,17.18,60.0,5.31,5.31
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-10,17,3,False,3,88.13,29.376666666666665,65.0,33.31,11.103333333333333
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-10,18,3,False,1,91.4,91.4,180.0,38.69,38.69
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-11,9,2,False,1,33.14,33.14,90.0,4.87,4.87
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-11,12,2,False,1,20.82,20.82,45.0,9.7,9.7
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-12,2,3,False,1,95.22,95.22,120.0,43.27,43.27
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-12,10,3,False,1,42.37,42.37,90.0,8.6,8.6
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-13,9,4,False,1,7.69,7.69,60.0,1.74,1.74
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-13,10,4,False,1,69.1,69.1,180.0,25.68,25.68
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-13,11,4,False,1,40.04,40.04,120.0,16.55,16.55
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-13,13,4,False,1,53.0,53.0,90.0,13.07,13.07
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-13,18,4,False,1,113.11,113.11,180.0,25.66,25.66
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-13,21,4,False,1,62.37,62.37,90.0,30.02,30.02
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-14,10,5,False,2,68.56,34.28,112.5,15.56,7.78
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-14,18,5,False,1,29.88,29.88,90.0,13.57,13.57
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-15,0,6,True,1,32.06,32.06,45.0,15.48,15.48
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-15,7,6,True,2,106.06,53.03,75.0,40.53,20.265
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-16,3,0,True,1,48.08,48.08,90.0,16.73,16.73
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-16,8,0,True,1,20.85,20.85,60.0,9.96,9.96
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-16,10,0,True,1,20.96,20.96,45.0,7.56,7.56
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-16,14,0,True,1,23.94,23.94,90.0,5.28,5.28
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-17,11,1,False,1,16.73,16.73,90.0,11.12,11.12
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-18,7,2,False,1,28.27,28.27,240.0,13.22,13.22
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-18,19,2,False,1,81.82,81.82,120.0,12.56,12.56
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-19,2,3,False,1,25.5,25.5,120.0,3.32,3.32
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-19,3,3,False,1,7.23,7.23,45.0,1.09,1.09
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-19,7,3,False,1,35.69,35.69,45.0,11.13,11.13
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-19,19,3,False,1,16.79,16.79,60.0,5.93,5.93
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-20,8,4,False,1,28.47,28.47,120.0,4.88,4.88
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-20,10,4,False,1,39.96,39.96,60.0,13.92,13.92
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-20,16,4,False,1,52.89,52.89,120.0,26.31,26.31
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-20,17,4,False,1,37.44,37.44,45.0,13.18,13.18
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-20,21,4,False,1,35.06,35.06,60.0,13.15,13.15
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-21,9,5,False,2,117.25,58.625,105.0,20.08,10.04
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-21,11,5,False,2,83.18,41.59,67.5,21.05,10.525
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-22,9,6,True,1,47.37,47.37,60.0,15.15,15.15
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-23,4,0,True,1,40.04,40.04,90.0,17.19,17.19
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-23,5,0,True,1,33.73,33.73,90.0,11.04,11.04
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-23,11,0,True,1,8.57,8.57,60.0,3.54,3.54
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-23,15,0,True,1,124.84,124.84,180.0,27.3,27.3
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-23,16,0,True,1,33.61,33.61,90.0,9.44,9.44
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-24,10,1,False,1,59.17,59.17,90.0,24.33,24.33
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-24,21,1,False,1,18.85,18.85,60.0,7.24,7.24
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-25,8,2,False,1,18.59,18.59,60.0,7.81,7.81
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-25,19,2,False,1,60.85,60.85,90.0,15.36,15.36
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-26,8,3,False,1,22.34,22.34,60.0,3.92,3.92
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-26,9,3,False,1,14.46,14.46,60.0,6.15,6.15
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-27,12,4,False,1,36.77,36.77,90.0,11.21,11.21
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-27,15,4,False,1,40.77,40.77,60.0,13.02,13.02
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-27,16,4,False,1,40.05,40.05,60.0,9.24,9.24
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-27,17,4,False,1,30.12,30.12,60.0,15.75,15.75
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-28,9,5,False,1,99.47,99.47,180.0,39.67,39.67
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-29,7,6,True,1,46.05,46.05,90.0,14.34,14.34
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-29,20,6,True,1,19.43,19.43,60.0,3.57,3.57
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-30,0,0,True,1,28.67,28.67,60.0,13.23,13.23
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-30,4,0,True,1,43.9,43.9,60.0,19.03,19.03
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-30,13,0,True,1,95.94,95.94,120.0,23.5,23.5
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-11-30,19,0,True,1,38.86,38.86,120.0,15.67,15.67
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-01,12,1,False,1,42.69,42.69,60.0,10.75,10.75
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-01,14,1,False,1,83.24,83.24,120.0,31.43,31.43
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-02,6,2,False,1,18.94,18.94,45.0,6.57,6.57
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-02,8,2,False,1,20.4,20.4,120.0,6.13,6.13
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-02,14,2,False,1,73.22,73.22,120.0,31.53,31.53
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-02,15,2,False,1,84.44,84.44,120.0,15.92,15.92
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-02,16,2,False,1,25.55,25.55,90.0,12.47,12.47
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-03,10,3,False,1,35.7,35.7,180.0,16.74,16.74
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-03,16,3,False,1,83.0,83.0,180.0,15.99,15.99
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-04,0,4,False,1,42.4,42.4,240.0,15.27,15.27
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-04,11,4,False,1,17.11,17.11,60.0,7.29,7.29
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-04,15,4,False,1,31.68,31.68,45.0,15.86,15.86
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-05,0,5,False,1,72.13,72.13,90.0,20.65,20.65
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-05,5,5,False,1,38.34,38.34,90.0,6.24,6.24
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-05,8,5,False,1,18.88,18.88,60.0,3.07,3.07
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-05,9,5,False,1,99.9,99.9,240.0,28.97,28.97
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-05,11,5,False,1,15.77,15.77,90.0,7.05,7.05
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-05,12,5,False,1,81.87,81.87,120.0,37.88,37.88
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-05,13,5,False,1,31.68,31.68,90.0,15.76,15.76
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-05,19,5,False,1,84.8,84.8,120.0,14.94,14.94
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-06,2,6,True,1,49.59,49.59,60.0,20.71,20.71
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-06,8,6,True,1,95.16,95.16,180.0,15.84,15.84
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-06,9,6,True,1,11.78,11.78,60.0,4.31,4.31
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-06,10,6,True,1,22.27,22.27,180.0,5.45,5.45
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-06,11,6,True,1,29.36,29.36,60.0,8.73,8.73
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-06,14,6,True,1,20.59,20.59,60.0,7.96,7.96
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-06,19,6,True,1,61.9,61.9,120.0,17.5,17.5
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-06,21,6,True,1,55.12,55.12,120.0,25.68,25.68
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-07,4,0,True,1,23.2,23.2,30.0,7.93,7.93
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-07,8,0,True,1,32.88,32.88,45.0,14.3,14.3
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-07,10,0,True,1,72.41,72.41,90.0,21.72,21.72
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-07,14,0,True,1,18.91,18.91,90.0,3.25,3.25
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-07,15,0,True,1,21.77,21.77,60.0,4.02,4.02
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-07,19,0,True,1,23.17,23.17,120.0,8.85,8.85
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-07,21,0,True,1,51.63,51.63,90.0,25.53,25.53
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-08,3,1,False,1,112.61,112.61,240.0,50.81,50.81
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-08,11,1,False,1,11.78,11.78,60.0,3.37,3.37
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-08,12,1,False,1,15.7,15.7,90.0,1.93,1.93
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-08,13,1,False,1,66.38,66.38,120.0,24.77,24.77
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-08,14,1,False,1,40.55,40.55,60.0,19.53,19.53
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-08,15,1,False,1,8.73,8.73,45.0,7.16,7.16
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-09,2,2,False,1,46.67,46.67,60.0,23.6,23.6
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-09,7,2,False,1,20.12,20.12,90.0,11.07,11.07
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-10,8,3,False,2,69.88,34.94,75.0,22.35,11.175
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-10,9,3,False,1,26.33,26.33,45.0,9.74,9.74
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-10,10,3,False,1,54.65,54.65,120.0,8.23,8.23
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-10,11,3,False,2,112.22,56.11,75.0,40.25,20.125
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-10,17,3,False,1,28.97,28.97,60.0,3.86,3.86
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-10,19,3,False,2,55.39,27.695,82.5,21.51,10.755
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-11,5,2,False,1,12.12,12.12,45.0,5.54,5.54
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-11,7,2,False,1,49.35,49.35,60.0,13.28,13.28
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-11,13,2,False,1,139.51,139.51,180.0,24.28,24.28
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-11,16,2,False,1,48.48,48.48,60.0,6.07,6.07
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-11,18,2,False,1,38.93,38.93,60.0,17.95,17.95
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-12,9,3,False,1,19.5,19.5,60.0,6.42,6.42
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-12,12,3,False,1,14.85,14.85,120.0,2.66,2.66
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-12,13,3,False,1,69.68,69.68,120.0,12.43,12.43
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-13,1,4,False,1,24.86,24.86,60.0,10.13,10.13
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-13,12,4,False,1,41.1,41.1,60.0,18.21,18.21
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-13,16,4,False,1,34.52,34.52,60.0,15.41,15.41
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-13,18,4,False,1,17.7,17.7,120.0,6.26,6.26
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-14,1,5,False,1,69.79,69.79,180.0,9.44,9.44
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-14,9,5,False,2,59.59,29.795,75.0,21.52,10.76
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-14,10,5,False,1,65.34,65.34,90.0,10.79,10.79
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-14,18,5,False,1,56.3,56.3,90.0,17.99,17.99
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-15,3,6,True,1,38.88,38.88,120.0,17.37,17.37
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-15,7,6,True,1,89.62,89.62,180.0,39.17,39.17
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-15,14,6,True,1,10.48,10.48,60.0,6.05,6.05
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-15,22,6,True,1,40.21,40.21,60.0,8.07,8.07
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-16,7,0,True,1,67.73,67.73,120.0,15.13,15.13
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-16,20,0,True,1,66.65,66.65,90.0,24.75,24.75
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-16,23,0,True,1,28.7,28.7,60.0,5.67,5.67
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-17,17,1,False,1,62.63,62.63,90.0,15.76,15.76
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-18,4,2,False,1,33.37,33.37,90.0,14.26,14.26
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-18,9,2,False,1,21.6,21.6,90.0,7.38,7.38
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-18,16,2,False,1,26.54,26.54,60.0,14.76,14.76
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-18,17,2,False,1,48.2,48.2,60.0,15.69,15.69
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-19,13,3,False,1,29.24,29.24,90.0,12.48,12.48
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-20,0,4,False,1,42.02,42.02,120.0,17.12,17.12
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-20,2,4,False,1,66.36,66.36,90.0,12.98,12.98
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-20,10,4,False,1,31.27,31.27,60.0,10.76,10.76
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-20,11,4,False,1,23.79,23.79,120.0,2.47,2.47
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-20,12,4,False,1,65.27,65.27,90.0,9.22,9.22
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-20,19,4,False,1,12.59,12.59,90.0,2.74,2.74
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-21,1,5,False,1,49.33,49.33,60.0,13.77,13.77
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-21,7,5,False,1,141.11,141.11,180.0,20.58,20.58
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-21,8,5,False,2,35.75,17.875,75.0,9.75,4.875
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-21,11,5,False,1,19.82,19.82,60.0,7.28,7.28
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-21,21,5,False,1,9.61,9.61,30.0,3.21,3.21
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-22,9,6,True,1,15.14,15.14,60.0,1.86,1.86
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-22,14,6,True,1,20.02,20.02,60.0,4.94,4.94
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-22,16,6,True,1,36.72,36.72,60.0,5.94,5.94
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-22,17,6,True,1,30.04,30.04,60.0,7.63,7.63
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-22,18,6,True,1,45.42,45.42,180.0,22.03,22.03
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-23,12,0,True,1,25.84,25.84,60.0,9.32,9.32
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-23,20,0,True,1,42.02,42.02,60.0,8.71,8.71
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-24,8,1,False,1,30.02,30.02,45.0,9.72,9.72
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-24,14,1,False,2,63.96,31.98,75.0,25.52,12.76
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-24,22,1,False,1,28.36,28.36,120.0,7.42,7.42
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-25,11,2,False,1,80.83,80.83,120.0,33.5,33.5
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-25,13,2,False,2,22.63,11.315,90.0,4.39,2.195
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-25,19,2,False,1,32.81,32.81,45.0,6.21,6.21
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-26,0,3,False,1,65.83,65.83,90.0,11.92,11.92
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-26,9,3,False,1,45.98,45.98,60.0,10.07,10.07
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-26,14,3,False,1,34.18,34.18,45.0,5.83,5.83
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-26,16,3,False,1,35.38,35.38,45.0,6.08,6.08
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-26,18,3,False,2,29.6,14.8,60.0,5.58,2.79
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-27,8,4,False,1,59.94,59.94,120.0,21.71,21.71
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-27,16,4,False,1,46.05,46.05,60.0,19.02,19.02
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-28,16,5,False,1,31.69,31.69,45.0,16.56,16.56
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-28,22,5,False,1,29.63,29.63,60.0,10.17,10.17
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-29,2,6,True,1,25.2,25.2,120.0,12.77,12.77
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-29,4,6,True,1,50.53,50.53,90.0,25.05,25.05
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-29,9,6,True,1,146.93,146.93,180.0,36.65,36.65
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-29,16,6,True,1,95.91,95.91,120.0,11.53,11.53
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-11-30,11,0,True,1,59.61,59.61,90.0,16.45,16.45
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-01,5,1,False,1,46.33,46.33,90.0,20.58,20.58
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-01,13,1,False,1,45.64,45.64,90.0,11.5,11.5
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-01,23,1,False,1,36.34,36.34,45.0,7.77,7.77
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-02,9,2,False,1,27.02,27.02,45.0,9.24,9.24
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-02,14,2,False,1,6.71,6.71,45.0,1.4,1.4
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-02,18,2,False,1,112.83,112.83,180.0,50.74,50.74
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-02,19,2,False,2,97.43,48.715,75.0,50.16,25.08
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-03,9,3,False,1,31.33,31.33,180.0,10.5,10.5
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-03,13,3,False,1,14.07,14.07,60.0,4.9,4.9
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-03,18,3,False,1,15.16,15.16,60.0,6.79,6.79
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-04,7,4,False,1,17.65,17.65,120.0,5.42,5.42
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-04,16,4,False,1,18.78,18.78,90.0,3.84,3.84
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-05,0,5,False,1,21.35,21.35,45.0,2.43,2.43
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-05,3,5,False,1,70.58,70.58,180.0,21.5,21.5
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-05,8,5,False,1,95.59,95.59,120.0,22.35,22.35
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-05,12,5,False,1,23.32,23.32,60.0,8.18,8.18
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-05,13,5,False,1,107.43,107.43,180.0,44.46,44.46
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-05,17,5,False,1,66.22,66.22,120.0,7.35,7.35
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-06,7,6,True,1,85.59,85.59,120.0,15.94,15.94
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-06,8,6,True,1,32.99,32.99,90.0,19.71,19.71
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-06,12,6,True,1,54.54,54.54,90.0,13.97,13.97
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-06,15,6,True,1,25.04,25.04,120.0,11.27,11.27
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-06,19,6,True,1,46.93,46.93,60.0,8.84,8.84
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-07,2,0,True,1,94.89,94.89,180.0,39.06,39.06
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-07,4,0,True,1,29.4,29.4,180.0,10.57,10.57
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-07,11,0,True,1,61.48,61.48,120.0,27.45,27.45
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-07,13,0,True,1,8.12,8.12,60.0,1.87,1.87
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-07,17,0,True,1,8.28,8.28,60.0,6.51,6.51
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-07,19,0,True,1,29.2,29.2,60.0,6.89,6.89
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-08,6,1,False,1,55.24,55.24,120.0,22.3,22.3
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-08,7,1,False,1,51.32,51.32,90.0,11.93,11.93
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-08,8,1,False,1,40.12,40.12,180.0,12.27,12.27
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-08,9,1,False,1,14.94,14.94,60.0,7.37,7.37
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-08,11,1,False,1,22.42,22.42,45.0,11.3,11.3
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-08,12,1,False,1,60.17,60.17,120.0,17.59,17.59
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-08,13,1,False,1,12.78,12.78,45.0,5.32,5.32
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-08,14,1,False,1,34.17,34.17,45.0,9.71,9.71
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-09,4,2,False,1,108.12,108.12,180.0,53.72,53.72
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-09,8,2,False,1,31.21,31.21,45.0,11.9,11.9
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-09,9,2,False,1,16.44,16.44,60.0,2.72,2.72
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-09,19,2,False,1,6.53,6.53,45.0,6.26,6.26
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-10,4,3,False,1,65.21,65.21,90.0,27.36,27.36
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-10,7,3,False,1,20.69,20.69,60.0,5.41,5.41
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-10,8,3,False,1,21.31,21.31,180.0,11.21,11.21
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-10,11,3,False,2,91.81,45.905,90.0,23.43,11.715
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-10,13,3,False,1,28.45,28.45,45.0,11.24,11.24
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-10,22,3,False,1,8.16,8.16,60.0,7.35,7.35
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-11,8,2,False,2,66.29,33.145,120.0,14.51,7.255
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-11,19,2,False,1,48.43,48.43,120.0,19.63,19.63
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-12,8,3,False,1,37.29,37.29,45.0,3.8,3.8
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-13,14,4,False,1,80.8,80.8,120.0,40.07,40.07
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-14,1,5,False,1,12.44,12.44,45.0,9.5,9.5
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-14,12,5,False,1,35.44,35.44,240.0,13.03,13.03
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-15,7,6,True,1,16.21,16.21,90.0,5.14,5.14
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-15,10,6,True,1,57.52,57.52,120.0,14.08,14.08
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-16,8,0,True,1,26.23,26.23,60.0,10.36,10.36
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-16,9,0,True,1,22.53,22.53,60.0,5.11,5.11
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-17,18,1,False,1,14.47,14.47,60.0,7.34,7.34
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-18,6,2,False,1,21.56,21.56,30.0,9.7,9.7
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-18,11,2,False,1,22.44,22.44,60.0,5.94,5.94
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-18,15,2,False,3,105.87,35.29,70.0,35.28,11.76
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-18,18,2,False,1,150.17,150.17,240.0,37.27,37.27
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-19,1,3,False,2,39.73,19.865,75.0,19.45,9.725
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-19,3,3,False,1,74.41,74.41,90.0,18.74,18.74
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-19,9,3,False,1,24.79,24.79,90.0,3.23,3.23
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-19,18,3,False,2,47.71,23.855,90.0,16.17,8.085
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-20,6,4,False,1,90.81,90.81,120.0,49.64,49.64
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-20,7,4,False,1,41.48,41.48,60.0,5.59,5.59
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-20,18,4,False,2,71.88,35.94,105.0,23.3,11.65
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-20,19,4,False,1,125.16,125.16,180.0,60.98,60.98
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-21,4,5,False,1,40.48,40.48,90.0,10.29,10.29
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-21,9,5,False,1,22.64,22.64,90.0,2.27,2.27
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-21,15,5,False,1,25.58,25.58,180.0,9.0,9.0
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-21,18,5,False,1,58.79,58.79,120.0,19.52,19.52
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-21,20,5,False,2,46.87,23.435,75.0,15.64,7.82
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-22,8,6,True,1,24.66,24.66,45.0,3.3,3.3
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-23,18,0,True,1,14.24,14.24,90.0,7.32,7.32
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-24,10,1,False,1,55.96,55.96,120.0,18.79,18.79
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-24,14,1,False,1,59.08,59.08,120.0,22.12,22.12
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-24,15,1,False,1,86.79,86.79,120.0,44.69,44.69
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-24,23,1,False,1,44.66,44.66,90.0,16.14,16.14
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-25,5,2,False,1,10.93,10.93,90.0,4.08,4.08
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-25,8,2,False,1,42.49,42.49,90.0,11.29,11.29
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-25,12,2,False,1,15.45,15.45,60.0,2.63,2.63
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-25,19,2,False,1,90.38,90.38,120.0,32.47,32.47
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-26,3,3,False,1,45.09,45.09,60.0,7.27,7.27
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-26,9,3,False,2,87.46,43.73,112.5,28.3,14.15
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-26,13,3,False,1,8.7,8.7,60.0,3.99,3.99
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-26,18,3,False,1,17.45,17.45,90.0,3.41,3.41
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-27,5,4,False,1,6.78,6.78,45.0,5.38,5.38
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-27,20,4,False,1,41.72,41.72,120.0,10.01,10.01
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-28,13,5,False,1,119.97,119.97,180.0,61.56,61.56
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-28,14,5,False,1,80.75,80.75,120.0,24.02,24.02
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-28,17,5,False,3,74.19,24.73,80.0,22.39,7.463333333333333
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-28,20,5,False,1,18.86,18.86,30.0,7.34,7.34
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-29,10,6,True,1,86.99,86.99,120.0,15.96,15.96
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-29,17,6,True,1,32.49,32.49,60.0,14.19,14.19
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-29,19,6,True,1,47.2,47.2,90.0,20.23,20.23
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-29,22,6,True,1,20.74,20.74,60.0,6.42,6.42
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-30,1,0,True,1,70.47,70.47,120.0,9.32,9.32
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-30,8,0,True,1,6.68,6.68,45.0,6.6,6.6
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-30,10,0,True,1,62.96,62.96,120.0,10.77,10.77
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-30,13,0,True,1,49.85,49.85,120.0,21.49,21.49
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-30,16,0,True,1,13.47,13.47,30.0,5.26,5.26
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-11-30,17,0,True,1,33.58,33.58,90.0,14.54,14.54
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-01,9,1,False,1,11.17,11.17,30.0,7.57,7.57
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-01,14,1,False,1,10.86,10.86,45.0,6.22,6.22
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-01,15,1,False,1,33.29,33.29,60.0,15.93,15.93
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-01,17,1,False,1,65.79,65.79,120.0,23.03,23.03
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-01,18,1,False,1,48.24,48.24,90.0,23.72,23.72
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-01,19,1,False,1,32.07,32.07,60.0,15.29,15.29
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-02,1,2,False,1,55.52,55.52,90.0,13.03,13.03
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-03,9,3,False,1,65.03,65.03,180.0,30.98,30.98
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-03,16,3,False,1,31.57,31.57,45.0,3.72,3.72
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-03,23,3,False,1,37.35,37.35,60.0,16.55,16.55
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-04,8,4,False,1,24.39,24.39,120.0,16.73,16.73
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-04,12,4,False,2,67.65,33.825,82.5,18.58,9.29
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-04,14,4,False,1,85.36,85.36,180.0,37.73,37.73
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-04,15,4,False,1,80.51,80.51,180.0,19.93,19.93
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-04,17,4,False,3,103.73,34.57666666666667,70.0,44.85,14.95
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-04,18,4,False,1,37.18,37.18,45.0,7.24,7.24
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-05,5,5,False,1,6.72,6.72,45.0,1.82,1.82
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-05,7,5,False,1,49.32,49.32,180.0,14.63,14.63
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-05,8,5,False,2,168.59,84.295,135.0,36.74,18.37
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-05,9,5,False,2,74.71,37.355,120.0,33.28,16.64
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-05,18,5,False,1,62.51,62.51,90.0,32.44,32.44
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-06,5,6,True,1,103.63,103.63,180.0,49.26,49.26
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-06,15,6,True,1,32.41,32.41,45.0,8.51,8.51
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-06,16,6,True,1,14.78,14.78,120.0,2.02,2.02
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-06,19,6,True,1,16.92,16.92,60.0,5.29,5.29
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-06,21,6,True,1,41.13,41.13,120.0,17.01,17.01
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-07,9,0,True,1,31.25,31.25,90.0,9.78,9.78
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-07,12,0,True,1,15.78,15.78,60.0,3.72,3.72
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-07,14,0,True,1,14.58,14.58,60.0,2.22,2.22
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-07,15,0,True,1,103.16,103.16,180.0,43.43,43.43
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-07,16,0,True,1,14.75,14.75,30.0,4.72,4.72
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-07,17,0,True,2,72.28,36.14,90.0,30.77,15.385
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-08,1,1,False,1,40.32,40.32,120.0,13.69,13.69
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-08,15,1,False,1,48.63,48.63,60.0,25.85,25.85
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-08,16,1,False,1,20.27,20.27,120.0,12.52,12.52
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-08,19,1,False,1,33.31,33.31,60.0,17.34,17.34
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-08,20,1,False,3,118.88,39.626666666666665,70.0,33.41,11.136666666666667
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-08,21,1,False,1,41.85,41.85,60.0,7.19,7.19
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-08,22,1,False,1,27.51,27.51,90.0,8.89,8.89
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-09,7,2,False,1,54.22,54.22,120.0,8.06,8.06
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-09,13,2,False,2,88.29,44.145,90.0,27.11,13.555
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-10,4,3,False,1,19.39,19.39,30.0,7.93,7.93
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-10,10,3,False,1,84.96,84.96,120.0,22.84,22.84
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-10,14,3,False,2,58.43,29.215,82.5,24.15,12.075
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-10,17,3,False,1,44.16,44.16,60.0,18.13,18.13
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-10,18,3,False,1,57.23,57.23,90.0,21.61,21.61
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-10,19,3,False,1,29.47,29.47,60.0,11.51,11.51
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-10,21,3,False,1,9.73,9.73,60.0,3.5,3.5
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-11,14,2,False,2,170.54,85.27,150.0,62.7,31.35
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-12,12,3,False,1,36.86,36.86,60.0,11.84,11.84
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-12,21,3,False,1,70.27,70.27,120.0,12.64,12.64
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-13,14,4,False,1,14.75,14.75,45.0,6.21,6.21
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-13,17,4,False,1,19.49,19.49,60.0,10.98,10.98
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-14,3,5,False,1,31.85,31.85,60.0,10.27,10.27
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-14,11,5,False,1,20.53,20.53,30.0,5.83,5.83
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-15,6,6,True,1,13.3,13.3,45.0,9.98,9.98
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-15,7,6,True,1,12.32,12.32,60.0,2.21,2.21
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-15,12,6,True,1,32.74,32.74,45.0,8.79,8.79
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-15,15,6,True,1,11.65,11.65,60.0,6.24,6.24
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-16,7,0,True,1,20.68,20.68,60.0,3.08,3.08
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-16,8,0,True,1,47.61,47.61,90.0,7.56,7.56
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-16,15,0,True,1,48.0,48.0,240.0,13.89,13.89
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-16,19,0,True,2,63.37,31.685,75.0,11.81,5.905
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-17,17,1,False,1,71.06,71.06,90.0,10.96,10.96
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-17,19,1,False,1,24.81,24.81,90.0,10.91,10.91
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-18,16,2,False,1,18.09,18.09,90.0,11.23,11.23
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-18,19,2,False,1,101.25,101.25,240.0,43.44,43.44
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-18,23,2,False,1,47.77,47.77,90.0,23.37,23.37
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-19,5,3,False,1,10.45,10.45,60.0,1.94,1.94
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-19,7,3,False,1,41.1,41.1,60.0,18.35,18.35
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-19,11,3,False,1,78.91,78.91,120.0,23.17,23.17
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-19,15,3,False,1,48.96,48.96,60.0,19.77,19.77
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-19,18,3,False,1,68.81,68.81,90.0,22.1,22.1
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-20,7,4,False,1,65.25,65.25,120.0,22.06,22.06
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-20,14,4,False,1,52.76,52.76,90.0,22.95,22.95
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-21,9,5,False,1,43.63,43.63,60.0,8.6,8.6
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-21,11,5,False,1,9.28,9.28,60.0,3.82,3.82
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-21,19,5,False,2,49.39,24.695,105.0,9.92,4.96
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-22,17,6,True,1,48.98,48.98,240.0,11.87,11.87
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-23,8,0,True,1,39.91,39.91,120.0,5.97,5.97
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-24,7,1,False,1,22.79,22.79,120.0,7.93,7.93
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-24,9,1,False,1,31.68,31.68,90.0,6.56,6.56
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-24,11,1,False,1,23.88,23.88,60.0,7.88,7.88
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-24,12,1,False,1,37.27,37.27,60.0,15.89,15.89
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-24,15,1,False,1,49.29,49.29,180.0,20.94,20.94
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-25,3,2,False,2,68.97,34.485,120.0,20.52,10.26
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-25,7,2,False,2,82.34,41.17,75.0,34.46,17.23
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-25,14,2,False,1,23.8,23.8,60.0,10.59,10.59
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-25,16,2,False,1,27.71,27.71,60.0,18.07,18.07
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-26,8,3,False,1,47.45,47.45,120.0,8.37,8.37
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-26,16,3,False,1,22.12,22.12,90.0,8.78,8.78
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-27,0,4,False,1,72.46,72.46,90.0,13.15,13.15
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-27,7,4,False,1,38.02,38.02,60.0,4.64,4.64
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-27,9,4,False,1,28.56,28.56,60.0,12.64,12.64
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-27,10,4,False,1,56.25,56.25,90.0,11.07,11.07
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-27,11,4,False,1,50.98,50.98,90.0,19.47,19.47
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-27,22,4,False,1,33.68,33.68,60.0,7.0,7.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-28,7,5,False,1,20.19,20.19,120.0,5.11,5.11
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-28,9,5,False,1,13.17,13.17,60.0,3.45,3.45
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-28,11,5,False,1,20.6,20.6,30.0,9.88,9.88
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-28,13,5,False,1,92.41,92.41,120.0,42.69,42.69
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-28,22,5,False,1,26.89,26.89,90.0,6.85,6.85
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-29,8,6,True,1,79.39,79.39,120.0,14.11,14.11
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-29,17,6,True,1,29.6,29.6,45.0,14.32,14.32
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-29,19,6,True,1,47.07,47.07,120.0,17.81,17.81
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-30,3,0,True,1,51.86,51.86,120.0,15.71,15.71
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-11-30,9,0,True,1,43.0,43.0,60.0,21.35,21.35
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-01,8,1,False,1,59.5,59.5,90.0,15.71,15.71
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-01,15,1,False,1,87.62,87.62,240.0,40.35,40.35
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-01,16,1,False,1,91.3,91.3,180.0,39.52,39.52
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-01,19,1,False,2,69.94,34.97,75.0,26.23,13.115
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-02,7,2,False,2,36.69,18.345,37.5,7.5,3.75
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-02,9,2,False,1,44.79,44.79,90.0,18.25,18.25
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-02,11,2,False,2,38.01,19.005,75.0,13.93,6.965
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-02,19,2,False,1,89.76,89.76,120.0,30.0,30.0
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-03,9,3,False,1,41.95,41.95,180.0,17.69,17.69
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-03,15,3,False,1,26.99,26.99,90.0,11.03,11.03
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-03,17,3,False,1,21.41,21.41,90.0,5.27,5.27
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-04,16,4,False,1,23.1,23.1,45.0,2.69,2.69
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-04,19,4,False,1,15.08,15.08,60.0,9.45,9.45
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-05,7,5,False,1,45.91,45.91,60.0,12.38,12.38
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-05,8,5,False,1,16.61,16.61,60.0,5.46,5.46
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-05,10,5,False,1,8.75,8.75,30.0,0.92,0.92
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-05,15,5,False,1,49.92,49.92,120.0,24.02,24.02
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-05,16,5,False,1,37.6,37.6,60.0,13.62,13.62
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-05,19,5,False,2,73.74,36.87,82.5,25.41,12.705
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-05,23,5,False,1,87.45,87.45,120.0,24.16,24.16
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-06,1,6,True,1,18.74,18.74,45.0,5.43,5.43
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-06,10,6,True,1,64.57,64.57,90.0,16.27,16.27
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-06,12,6,True,1,12.63,12.63,30.0,5.97,5.97
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-06,13,6,True,1,35.47,35.47,120.0,16.47,16.47
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-06,16,6,True,2,112.29,56.145,120.0,42.5,21.25
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-06,19,6,True,1,15.51,15.51,30.0,9.49,9.49
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-07,7,0,True,1,51.59,51.59,120.0,10.39,10.39
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-07,9,0,True,1,22.64,22.64,60.0,10.57,10.57
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-07,14,0,True,1,46.79,46.79,60.0,10.99,10.99
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-07,15,0,True,1,28.06,28.06,60.0,16.42,16.42
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-07,16,0,True,1,35.54,35.54,60.0,9.85,9.85
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-07,21,0,True,1,15.34,15.34,60.0,2.78,2.78
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-07,23,0,True,1,49.66,49.66,90.0,23.89,23.89
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-08,7,1,False,1,48.98,48.98,90.0,6.17,6.17
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-08,8,1,False,2,29.39,14.695,60.0,9.84,4.92
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-08,9,1,False,1,19.27,19.27,60.0,6.81,6.81
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-08,14,1,False,1,18.45,18.45,90.0,8.21,8.21
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-08,17,1,False,1,42.17,42.17,120.0,13.92,13.92
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-08,18,1,False,1,124.84,124.84,240.0,43.44,43.44
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-09,11,2,False,2,84.83,42.415,90.0,29.25,14.625
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-09,17,2,False,1,41.27,41.27,90.0,6.58,6.58
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-09,19,2,False,3,269.89,89.96333333333334,120.0,95.28,31.76
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-10,8,3,False,1,21.71,21.71,45.0,6.14,6.14
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-10,9,3,False,2,117.64,58.82,90.0,38.84,19.42
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-10,12,3,False,1,47.62,47.62,60.0,21.42,21.42
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-10,14,3,False,1,36.23,36.23,45.0,5.27,5.27
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-10,16,3,False,1,47.47,47.47,90.0,12.39,12.39
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-10,18,3,False,1,111.58,111.58,180.0,51.19,51.19
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-11,2,2,False,1,20.8,20.8,60.0,8.26,8.26
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-11,13,2,False,1,73.87,73.87,90.0,15.95,15.95
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-11,15,2,False,1,72.69,72.69,90.0,12.7,12.7
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-11,22,2,False,1,52.14,52.14,90.0,8.59,8.59
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-12,14,3,False,1,35.08,35.08,45.0,15.99,15.99
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-12,17,3,False,1,87.36,87.36,120.0,43.67,43.67
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-13,4,4,False,1,87.38,87.38,120.0,31.66,31.66
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-13,5,4,False,1,74.39,74.39,90.0,20.35,20.35
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-13,7,4,False,1,67.28,67.28,120.0,23.8,23.8
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-13,14,4,False,1,37.49,37.49,90.0,13.36,13.36
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-13,16,4,False,1,25.48,25.48,60.0,13.95,13.95
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-13,20,4,False,1,11.94,11.94,60.0,5.72,5.72
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-14,0,5,False,1,47.39,47.39,90.0,9.66,9.66
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-14,3,5,False,1,13.69,13.69,90.0,4.5,4.5
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-14,6,5,False,2,76.93,38.465,67.5,28.66,14.33
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-14,12,5,False,1,43.28,43.28,90.0,16.65,16.65
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-14,17,5,False,1,19.15,19.15,60.0,2.78,2.78
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-15,3,6,True,1,68.47,68.47,180.0,26.03,26.03
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-15,6,6,True,1,65.45,65.45,90.0,23.9,23.9
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-15,9,6,True,1,21.75,21.75,45.0,2.52,2.52
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-15,14,6,True,1,30.96,30.96,60.0,7.46,7.46
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-15,17,6,True,1,38.76,38.76,60.0,13.26,13.26
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-16,3,0,True,1,59.49,59.49,90.0,10.34,10.34
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-16,7,0,True,2,33.36,16.68,120.0,18.22,9.11
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-16,9,0,True,2,39.63,19.815,52.5,12.63,6.315
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-16,17,0,True,1,22.2,22.2,60.0,9.02,9.02
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-17,20,1,False,1,9.39,9.39,60.0,2.31,2.31
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-17,21,1,False,1,29.8,29.8,90.0,10.87,10.87
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-18,7,2,False,1,67.23,67.23,90.0,7.35,7.35
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-18,13,2,False,2,122.73,61.365,120.0,32.29,16.145
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-19,14,3,False,1,17.58,17.58,30.0,6.6,6.6
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-19,15,3,False,1,70.43,70.43,120.0,27.52,27.52
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-19,16,3,False,1,24.49,24.49,60.0,8.11,8.11
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-20,1,4,False,1,30.27,30.27,90.0,9.19,9.19
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-20,2,4,False,1,33.74,33.74,60.0,8.33,8.33
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-20,9,4,False,1,85.25,85.25,120.0,34.86,34.86
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-20,11,4,False,1,62.74,62.74,90.0,11.29,11.29
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-20,12,4,False,1,86.83,86.83,120.0,28.99,28.99
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-21,14,5,False,1,23.75,23.75,60.0,3.22,3.22
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-22,8,6,True,1,8.4,8.4,60.0,3.49,3.49
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-22,11,6,True,1,147.25,147.25,180.0,42.83,42.83
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-22,19,6,True,1,12.75,12.75,45.0,1.88,1.88
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-22,23,6,True,1,38.65,38.65,180.0,18.68,18.68
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-23,8,0,True,1,71.51,71.51,90.0,14.34,14.34
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-23,18,0,True,1,28.67,28.67,60.0,14.84,14.84
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-24,9,1,False,1,34.41,34.41,180.0,7.33,7.33
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-24,17,1,False,1,48.05,48.05,90.0,15.37,15.37
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-24,18,1,False,1,19.52,19.52,60.0,9.61,9.61
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-25,7,2,False,1,63.75,63.75,120.0,30.3,30.3
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-25,9,2,False,1,38.0,38.0,60.0,10.73,10.73
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-25,11,2,False,1,71.19,71.19,90.0,10.32,10.32
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-25,16,2,False,1,36.98,36.98,45.0,7.97,7.97
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-26,2,3,False,1,54.74,54.74,120.0,25.62,25.62
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-26,8,3,False,1,17.07,17.07,90.0,11.72,11.72
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-26,16,3,False,1,70.35,70.35,120.0,18.17,18.17
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-26,18,3,False,1,52.61,52.61,120.0,24.87,24.87
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-26,19,3,False,1,19.49,19.49,45.0,7.52,7.52
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-27,5,4,False,1,41.11,41.11,90.0,13.99,13.99
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-27,8,4,False,1,148.19,148.19,180.0,28.17,28.17
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-28,12,5,False,1,7.5,7.5,60.0,1.51,1.51
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-28,13,5,False,1,14.28,14.28,60.0,5.04,5.04
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-28,21,5,False,1,22.16,22.16,60.0,5.06,5.06
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-29,16,6,True,1,48.99,48.99,120.0,13.61,13.61
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-29,19,6,True,1,61.09,61.09,120.0,30.8,30.8
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-29,21,6,True,1,44.47,44.47,60.0,5.57,5.57
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-30,7,0,True,1,45.72,45.72,60.0,10.74,10.74
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-30,9,0,True,1,97.87,97.87,120.0,34.35,34.35
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-30,14,0,True,1,30.1,30.1,60.0,8.35,8.35
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-30,16,0,True,1,45.72,45.72,60.0,18.49,18.49
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-11-30,18,0,True,1,20.75,20.75,45.0,5.82,5.82
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-01,8,1,False,2,82.48,41.24,75.0,24.29,12.145
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-01,11,1,False,2,83.99,41.995,60.0,33.87,16.935
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-01,18,1,False,1,65.48,65.48,90.0,17.75,17.75
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-02,9,2,False,1,21.18,21.18,90.0,9.72,9.72
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-02,13,2,False,1,145.96,145.96,180.0,39.71,39.71
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-02,15,2,False,1,148.91,148.91,180.0,46.41,46.41
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-02,23,2,False,1,24.38,24.38,60.0,2.8,2.8
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-03,7,3,False,1,9.7,9.7,45.0,5.71,5.71
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-04,1,4,False,1,7.51,7.51,60.0,2.48,2.48
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-04,4,4,False,1,31.6,31.6,60.0,11.92,11.92
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-04,10,4,False,1,163.27,163.27,240.0,55.77,55.77
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-04,18,4,False,1,50.32,50.32,90.0,5.68,5.68
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-04,20,4,False,1,46.38,46.38,60.0,9.54,9.54
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-04,23,4,False,1,99.05,99.05,180.0,35.41,35.41
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-05,4,5,False,1,49.59,49.59,90.0,11.45,11.45
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-05,7,5,False,1,98.2,98.2,120.0,47.25,47.25
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-05,8,5,False,1,50.66,50.66,90.0,13.47,13.47
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-05,12,5,False,1,31.36,31.36,180.0,11.46,11.46
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-05,14,5,False,1,46.77,46.77,90.0,15.86,15.86
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-05,15,5,False,1,47.38,47.38,60.0,22.41,22.41
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-05,21,5,False,1,35.3,35.3,60.0,4.52,4.52
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-05,22,5,False,1,89.93,89.93,120.0,35.3,35.3
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-06,18,6,True,1,98.89,98.89,120.0,47.56,47.56
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-06,20,6,True,1,28.78,28.78,60.0,11.89,11.89
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-07,0,0,True,1,31.68,31.68,120.0,7.4,7.4
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-07,9,0,True,1,51.8,51.8,120.0,18.87,18.87
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-07,11,0,True,2,63.38,31.69,45.0,19.4,9.7
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-08,0,1,False,1,37.29,37.29,90.0,13.12,13.12
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-08,10,1,False,1,19.97,19.97,60.0,2.87,2.87
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-08,11,1,False,1,58.37,58.37,120.0,18.92,18.92
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-08,12,1,False,1,57.9,57.9,90.0,10.63,10.63
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-08,18,1,False,1,10.19,10.19,60.0,7.27,7.27
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-09,1,2,False,1,31.75,31.75,60.0,7.36,7.36
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-09,2,2,False,1,19.88,19.88,120.0,2.23,2.23
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-09,15,2,False,1,89.61,89.61,180.0,42.88,42.88
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-10,4,3,False,1,37.4,37.4,45.0,12.81,12.81
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-10,12,3,False,1,26.04,26.04,45.0,11.28,11.28
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-10,15,3,False,1,7.8,7.8,45.0,2.81,2.81
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-10,16,3,False,1,22.22,22.22,45.0,6.24,6.24
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-10,17,3,False,1,23.4,23.4,60.0,4.11,4.11
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-10,18,3,False,1,125.49,125.49,180.0,60.33,60.33
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-10,19,3,False,1,51.19,51.19,120.0,20.29,20.29
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-11,0,2,False,1,57.29,57.29,120.0,23.01,23.01
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-11,9,2,False,1,102.99,102.99,180.0,16.29,16.29
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-11,12,2,False,1,7.81,7.81,60.0,3.66,3.66
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-11,22,2,False,1,30.79,30.79,45.0,8.98,8.98
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-12,6,3,False,1,15.64,15.64,30.0,7.0,7.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-12,19,3,False,1,28.75,28.75,60.0,10.48,10.48
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-13,17,4,False,1,136.12,136.12,180.0,53.04,53.04
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-14,17,5,False,1,94.95,94.95,180.0,19.17,19.17
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-15,17,6,True,1,44.87,44.87,90.0,10.87,10.87
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-15,20,6,True,1,87.18,87.18,180.0,11.9,11.9
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-16,5,0,True,1,22.0,22.0,90.0,10.82,10.82
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-16,10,0,True,1,52.09,52.09,90.0,11.94,11.94
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-16,11,0,True,1,62.17,62.17,90.0,26.62,26.62
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-16,16,0,True,1,41.7,41.7,60.0,8.89,8.89
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-16,17,0,True,1,58.43,58.43,180.0,10.57,10.57
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-16,22,0,True,1,56.28,56.28,180.0,28.26,28.26
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-17,4,1,False,1,29.31,29.31,90.0,12.79,12.79
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-17,7,1,False,1,52.52,52.52,120.0,11.12,11.12
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-17,8,1,False,1,37.04,37.04,120.0,9.79,9.79
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-17,15,1,False,1,42.35,42.35,90.0,10.69,10.69
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-18,14,2,False,1,54.4,54.4,90.0,7.36,7.36
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-18,15,2,False,1,42.71,42.71,60.0,9.69,9.69
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-18,23,2,False,1,28.27,28.27,90.0,12.97,12.97
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-19,3,3,False,1,41.58,41.58,60.0,17.7,17.7
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-19,9,3,False,1,42.72,42.72,60.0,17.86,17.86
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-20,10,4,False,1,31.65,31.65,60.0,13.08,13.08
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-20,18,4,False,1,27.65,27.65,45.0,4.26,4.26
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-21,8,5,False,1,64.45,64.45,120.0,7.57,7.57
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-22,5,6,True,1,37.84,37.84,180.0,8.6,8.6
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-22,7,6,True,2,45.39,22.695,67.5,11.6,5.8
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-22,9,6,True,1,23.05,23.05,30.0,9.07,9.07
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-22,20,6,True,1,17.18,17.18,45.0,7.23,7.23
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-23,9,0,True,1,48.47,48.47,90.0,20.16,20.16
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-23,10,0,True,1,39.78,39.78,60.0,18.9,18.9
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-23,13,0,True,1,68.42,68.42,90.0,13.62,13.62
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-23,14,0,True,1,21.5,21.5,90.0,9.97,9.97
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-23,19,0,True,1,45.07,45.07,90.0,20.55,20.55
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-23,20,0,True,1,43.85,43.85,90.0,16.5,16.5
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-24,7,1,False,1,29.13,29.13,90.0,7.65,7.65
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-24,9,1,False,1,16.2,16.2,30.0,4.01,4.01
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-24,16,1,False,1,15.74,15.74,60.0,5.76,5.76
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-24,18,1,False,1,7.33,7.33,60.0,4.41,4.41
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-24,21,1,False,1,34.8,34.8,60.0,16.75,16.75
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-25,22,2,False,1,26.13,26.13,60.0,9.08,9.08
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-26,7,3,False,1,42.21,42.21,60.0,16.56,16.56
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-26,12,3,False,1,39.71,39.71,60.0,20.46,20.46
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-26,17,3,False,2,168.02,84.01,180.0,45.95,22.975
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-26,18,3,False,1,98.51,98.51,120.0,28.33,28.33
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-26,22,3,False,1,11.25,11.25,60.0,1.22,1.22
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-27,7,4,False,1,30.07,30.07,45.0,18.12,18.12
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-27,11,4,False,1,40.2,40.2,90.0,11.28,11.28
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-27,15,4,False,1,55.15,55.15,90.0,14.56,14.56
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-28,11,5,False,1,9.61,9.61,60.0,8.48,8.48
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-28,12,5,False,1,48.85,48.85,60.0,15.18,15.18
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-28,17,5,False,1,25.19,25.19,60.0,7.6,7.6
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-28,19,5,False,1,25.94,25.94,120.0,8.67,8.67
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-28,21,5,False,1,25.85,25.85,60.0,8.53,8.53
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-28,22,5,False,1,34.01,34.01,60.0,6.28,6.28
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-29,4,6,True,1,14.63,14.63,30.0,3.91,3.91
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-29,8,6,True,2,145.37,72.685,120.0,27.41,13.705
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-30,4,0,True,1,43.76,43.76,60.0,10.16,10.16
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-30,7,0,True,1,21.62,21.62,90.0,5.12,5.12
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-30,8,0,True,1,120.72,120.72,180.0,44.54,44.54
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-30,13,0,True,1,50.95,50.95,90.0,11.16,11.16
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-30,18,0,True,1,12.66,12.66,60.0,6.0,6.0
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-11-30,22,0,True,1,13.43,13.43,30.0,4.82,4.82
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-01,23,1,False,1,50.68,50.68,180.0,19.42,19.42
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-02,7,2,False,1,47.58,47.58,90.0,12.52,12.52
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-02,13,2,False,1,23.39,23.39,60.0,4.27,4.27
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-02,18,2,False,1,70.42,70.42,90.0,9.93,9.93
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-02,19,2,False,1,49.62,49.62,90.0,14.5,14.5
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-03,8,3,False,1,43.07,43.07,60.0,16.87,16.87
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-03,17,3,False,2,84.91,42.455,75.0,12.93,6.465
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-03,19,3,False,1,24.31,24.31,45.0,8.96,8.96
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-03,23,3,False,1,25.32,25.32,60.0,9.15,9.15
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-04,7,4,False,1,37.74,37.74,60.0,15.97,15.97
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-04,10,4,False,1,33.69,33.69,60.0,9.14,9.14
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-04,12,4,False,1,21.57,21.57,45.0,3.91,3.91
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-04,17,4,False,1,26.13,26.13,90.0,9.7,9.7
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-04,19,4,False,1,74.67,74.67,90.0,30.12,30.12
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-04,21,4,False,1,65.91,65.91,90.0,30.29,30.29
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-05,5,5,False,1,70.13,70.13,120.0,31.61,31.61
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-05,7,5,False,2,82.34,41.17,75.0,13.78,6.89
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-05,11,5,False,1,68.3,68.3,90.0,13.76,13.76
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-05,13,5,False,2,84.87,42.435,90.0,26.43,13.215
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-05,14,5,False,1,68.63,68.63,90.0,30.12,30.12
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-05,15,5,False,1,30.24,30.24,120.0,8.01,8.01
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-05,21,5,False,1,15.76,15.76,30.0,2.78,2.78
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-06,6,6,True,1,45.15,45.15,90.0,19.6,19.6
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-06,8,6,True,1,45.99,45.99,60.0,16.22,16.22
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-06,15,6,True,1,36.11,36.11,60.0,17.61,17.61
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-07,7,0,True,1,31.29,31.29,120.0,14.92,14.92
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-07,8,0,True,1,21.29,21.29,120.0,12.81,12.81
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-07,9,0,True,1,33.73,33.73,45.0,14.78,14.78
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-08,5,1,False,1,26.09,26.09,120.0,14.41,14.41
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-08,7,1,False,1,19.97,19.97,45.0,9.98,9.98
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-08,11,1,False,2,73.77,36.885,90.0,22.67,11.335
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-08,14,1,False,2,75.58,37.79,75.0,35.54,17.77
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-08,16,1,False,1,15.88,15.88,120.0,7.14,7.14
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-08,19,1,False,1,11.42,11.42,45.0,6.57,6.57
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-09,7,2,False,2,8.75,4.375,30.0,4.2,2.1
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-09,9,2,False,1,26.22,26.22,60.0,5.73,5.73
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-09,10,2,False,1,14.86,14.86,45.0,6.62,6.62
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-09,14,2,False,1,80.93,80.93,120.0,13.92,13.92
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-09,16,2,False,1,20.3,20.3,45.0,4.01,4.01
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-09,18,2,False,1,32.58,32.58,60.0,18.82,18.82
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-10,1,3,False,1,9.09,9.09,45.0,5.39,5.39
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-10,7,3,False,1,29.38,29.38,60.0,10.95,10.95
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-10,9,3,False,1,39.69,39.69,90.0,10.67,10.67
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-10,19,3,False,1,62.92,62.92,90.0,13.14,13.14
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-11,7,2,False,1,32.56,32.56,90.0,5.88,5.88
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-12,17,3,False,1,11.31,11.31,60.0,6.71,6.71
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-13,17,4,False,1,13.39,13.39,60.0,2.54,2.54
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-14,1,5,False,1,65.26,65.26,120.0,23.63,23.63
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-14,9,5,False,1,44.44,44.44,60.0,9.51,9.51
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-14,12,5,False,1,94.4,94.4,120.0,36.5,36.5
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-15,9,6,True,1,36.04,36.04,90.0,8.28,8.28
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-15,11,6,True,1,97.6,97.6,120.0,24.53,24.53
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-15,14,6,True,1,29.08,29.08,180.0,7.5,7.5
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-15,16,6,True,2,58.54,29.27,52.5,16.61,8.305
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-16,11,0,True,4,155.61,38.9025,86.25,71.45,17.8625
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-16,16,0,True,1,23.04,23.04,45.0,9.98,9.98
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-16,22,0,True,1,41.24,41.24,60.0,6.91,6.91
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-17,12,1,False,1,56.45,56.45,120.0,15.29,15.29
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-18,9,2,False,1,25.82,25.82,60.0,7.52,7.52
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-18,19,2,False,1,43.83,43.83,60.0,22.54,22.54
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-18,22,2,False,1,20.05,20.05,60.0,9.05,9.05
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-19,8,3,False,1,16.46,16.46,90.0,9.16,9.16
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-19,10,3,False,1,54.1,54.1,120.0,26.79,26.79
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-19,11,3,False,1,82.23,82.23,120.0,17.67,17.67
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-19,18,3,False,1,29.09,29.09,45.0,14.46,14.46
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-19,19,3,False,1,17.04,17.04,60.0,3.67,3.67
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-20,13,4,False,1,34.3,34.3,60.0,7.08,7.08
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-20,17,4,False,1,42.5,42.5,120.0,9.34,9.34
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-21,6,5,False,1,13.48,13.48,45.0,6.51,6.51
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-22,2,6,True,1,30.79,30.79,90.0,16.85,16.85
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-22,7,6,True,1,16.72,16.72,120.0,3.24,3.24
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-23,7,0,True,1,54.95,54.95,180.0,16.19,16.19
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-23,8,0,True,1,72.44,72.44,120.0,10.16,10.16
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-24,5,1,False,1,11.27,11.27,60.0,5.4,5.4
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-24,23,1,False,1,18.2,18.2,60.0,3.25,3.25
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-25,7,2,False,1,69.23,69.23,90.0,19.27,19.27
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-25,17,2,False,1,41.71,41.71,60.0,17.04,17.04
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-26,14,3,False,1,43.94,43.94,90.0,15.11,15.11
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-26,20,3,False,1,26.36,26.36,60.0,6.43,6.43
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-27,5,4,False,1,15.9,15.9,45.0,5.88,5.88
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-27,14,4,False,2,84.37,42.185,75.0,23.15,11.575
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-27,15,4,False,1,88.2,88.2,120.0,25.15,25.15
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-27,17,4,False,1,35.93,35.93,60.0,7.9,7.9
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-28,7,5,False,1,64.33,64.33,90.0,29.12,29.12
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-29,6,6,True,1,45.03,45.03,120.0,14.53,14.53
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-29,13,6,True,1,53.32,53.32,90.0,10.14,10.14
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-29,14,6,True,1,82.47,82.47,180.0,21.85,21.85
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-29,16,6,True,1,188.93,188.93,240.0,78.54,78.54
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-29,18,6,True,1,43.68,43.68,60.0,7.54,7.54
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-30,7,0,True,1,118.41,118.41,240.0,44.74,44.74
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-30,8,0,True,1,24.99,24.99,45.0,10.91,10.91
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-30,17,0,True,1,106.1,106.1,180.0,19.43,19.43
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-30,19,0,True,1,83.68,83.68,120.0,30.55,30.55
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-11-30,21,0,True,1,9.65,9.65,60.0,1.0,1.0
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-01,9,1,False,1,16.62,16.62,120.0,8.62,8.62
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-01,12,1,False,2,110.72,55.36,75.0,33.05,16.525
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-01,16,1,False,1,51.47,51.47,90.0,9.39,9.39
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-01,19,1,False,1,74.56,74.56,90.0,30.79,30.79
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-02,9,2,False,2,80.65,40.325,105.0,21.12,10.56
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-02,11,2,False,1,49.69,49.69,90.0,22.18,22.18
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-02,16,2,False,1,33.47,33.47,60.0,10.23,10.23
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-03,3,3,False,2,77.0,38.5,90.0,23.74,11.87
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-04,11,4,False,1,73.31,73.31,120.0,19.75,19.75
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-04,12,4,False,1,43.61,43.61,90.0,18.01,18.01
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-04,16,4,False,1,90.21,90.21,120.0,46.17,46.17
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-04,17,4,False,2,115.81,57.905,120.0,29.06,14.53
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-04,18,4,False,1,40.16,40.16,90.0,16.02,16.02
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-04,21,4,False,1,40.72,40.72,60.0,17.31,17.31
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-04,23,4,False,1,21.83,21.83,180.0,10.27,10.27
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-05,8,5,False,1,23.23,23.23,90.0,7.5,7.5
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-05,9,5,False,1,42.79,42.79,90.0,6.06,6.06
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-05,18,5,False,1,33.48,33.48,120.0,6.75,6.75
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-05,19,5,False,1,119.04,119.04,180.0,44.57,44.57
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-06,1,6,True,1,96.49,96.49,180.0,36.71,36.71
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-06,7,6,True,1,46.52,46.52,60.0,23.06,23.06
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-06,13,6,True,1,40.72,40.72,60.0,6.45,6.45
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-06,14,6,True,1,86.51,86.51,180.0,30.38,30.38
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-06,17,6,True,1,32.49,32.49,90.0,8.94,8.94
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-06,22,6,True,1,59.85,59.85,180.0,23.64,23.64
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-06,23,6,True,1,19.58,19.58,120.0,5.9,5.9
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-07,2,0,True,2,70.03,35.015,90.0,18.33,9.165
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-07,7,0,True,1,26.33,26.33,90.0,7.21,7.21
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-07,8,0,True,1,46.59,46.59,120.0,14.77,14.77
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-07,9,0,True,1,33.03,33.03,90.0,8.37,8.37
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-07,13,0,True,1,54.97,54.97,90.0,23.8,23.8
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-07,17,0,True,2,108.33,54.165,120.0,35.51,17.755
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-08,7,1,False,1,6.41,6.41,30.0,2.56,2.56
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-08,8,1,False,1,43.93,43.93,60.0,14.82,14.82
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-08,15,1,False,1,69.76,69.76,120.0,21.03,21.03
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-08,16,1,False,1,89.74,89.74,120.0,9.43,9.43
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-08,17,1,False,1,37.43,37.43,60.0,16.36,16.36
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-08,18,1,False,1,48.07,48.07,120.0,17.11,17.11
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-08,19,1,False,1,73.08,73.08,90.0,33.99,33.99
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-09,1,2,False,1,73.37,73.37,90.0,21.02,21.02
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-09,3,2,False,1,98.89,98.89,120.0,35.55,35.55
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-09,8,2,False,1,55.67,55.67,90.0,18.67,18.67
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-09,13,2,False,2,165.62,82.81,120.0,53.91,26.955
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-09,14,2,False,1,42.63,42.63,60.0,6.4,6.4
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-09,19,2,False,1,127.1,127.1,240.0,15.03,15.03
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-10,8,3,False,1,73.56,73.56,90.0,15.13,15.13
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-10,9,3,False,2,60.09,30.045,90.0,18.72,9.36
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-10,19,3,False,1,48.11,48.11,90.0,16.33,16.33
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-11,4,2,False,1,30.21,30.21,60.0,6.14,6.14
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-11,12,2,False,1,25.53,25.53,60.0,6.83,6.83
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-11,15,2,False,1,36.99,36.99,90.0,17.65,17.65
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-11,19,2,False,1,58.35,58.35,90.0,24.83,24.83
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-12,5,3,False,1,16.09,16.09,45.0,2.68,2.68
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-12,7,3,False,1,19.84,19.84,90.0,9.12,9.12
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-12,8,3,False,3,101.36,33.78666666666667,100.0,46.65,15.55
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-12,10,3,False,1,75.54,75.54,180.0,27.84,27.84
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-13,1,4,False,1,137.65,137.65,180.0,63.59,63.59
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-13,7,4,False,1,159.35,159.35,240.0,48.98,48.98
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-14,11,5,False,1,21.85,21.85,30.0,6.9,6.9
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-15,5,6,True,1,55.17,55.17,90.0,6.41,6.41
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-15,6,6,True,1,51.24,51.24,120.0,18.91,18.91
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-15,12,6,True,1,25.73,25.73,60.0,5.09,5.09
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-15,17,6,True,1,27.64,27.64,60.0,13.06,13.06
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-16,9,0,True,1,15.49,15.49,60.0,3.12,3.12
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-16,11,0,True,1,34.31,34.31,120.0,9.78,9.78
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-16,16,0,True,1,24.95,24.95,90.0,5.6,5.6
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-16,18,0,True,1,25.17,25.17,120.0,10.25,10.25
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-17,3,1,False,1,21.1,21.1,60.0,8.16,8.16
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-17,4,1,False,1,50.37,50.37,90.0,21.02,21.02
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-17,6,1,False,1,60.78,60.78,90.0,9.86,9.86
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-17,7,1,False,2,38.56,19.28,150.0,10.62,5.31
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-17,10,1,False,1,105.72,105.72,180.0,44.75,44.75
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-18,0,2,False,1,8.74,8.74,60.0,4.11,4.11
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-18,9,2,False,2,68.95,34.475,90.0,18.33,9.165
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-18,17,2,False,1,40.3,40.3,60.0,12.97,12.97
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-18,19,2,False,1,33.05,33.05,120.0,14.17,14.17
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-19,4,3,False,1,39.02,39.02,60.0,17.6,17.6
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-19,13,3,False,1,74.34,74.34,90.0,19.49,19.49
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-19,16,3,False,2,63.75,31.875,90.0,25.32,12.66
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-19,19,3,False,2,15.16,7.58,60.0,8.79,4.395
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-20,2,4,False,1,68.53,68.53,120.0,14.4,14.4
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-20,7,4,False,1,69.69,69.69,90.0,29.3,29.3
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-20,8,4,False,1,25.7,25.7,45.0,6.63,6.63
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-20,15,4,False,2,82.92,41.46,105.0,39.65,19.825
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-20,17,4,False,1,13.49,13.49,90.0,6.55,6.55
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-21,0,5,False,1,38.47,38.47,60.0,19.59,19.59
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-21,14,5,False,1,61.47,61.47,120.0,25.49,25.49
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-22,14,6,True,1,12.91,12.91,90.0,8.07,8.07
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-23,8,0,True,1,66.51,66.51,90.0,11.41,11.41
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-23,13,0,True,1,10.73,10.73,60.0,4.54,4.54
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-23,18,0,True,1,19.47,19.47,60.0,2.39,2.39
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-23,20,0,True,1,32.09,32.09,45.0,18.91,18.91
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-24,4,1,False,1,14.25,14.25,60.0,5.42,5.42
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-24,9,1,False,1,19.05,19.05,60.0,6.51,6.51
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-25,16,2,False,1,29.49,29.49,45.0,12.47,12.47
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-25,22,2,False,1,95.86,95.86,120.0,33.6,33.6
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-25,23,2,False,1,33.86,33.86,45.0,14.12,14.12
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-26,3,3,False,1,82.88,82.88,240.0,30.4,30.4
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-26,9,3,False,1,75.33,75.33,180.0,10.17,10.17
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-26,13,3,False,1,8.93,8.93,60.0,1.63,1.63
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-26,14,3,False,2,126.66,63.33,150.0,38.1,19.05
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-26,20,3,False,1,16.01,16.01,90.0,3.75,3.75
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-27,0,4,False,1,27.66,27.66,90.0,8.78,8.78
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-27,8,4,False,1,34.82,34.82,60.0,11.57,11.57
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-27,9,4,False,1,70.21,70.21,90.0,32.67,32.67
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-27,15,4,False,1,35.1,35.1,45.0,13.85,13.85
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-28,4,5,False,1,81.62,81.62,120.0,17.67,17.67
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-28,11,5,False,1,31.01,31.01,120.0,17.6,17.6
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-28,17,5,False,1,23.5,23.5,90.0,3.76,3.76
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-28,23,5,False,1,58.31,58.31,90.0,12.75,12.75
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-29,14,6,True,1,70.01,70.01,90.0,22.17,22.17
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-30,16,0,True,1,24.77,24.77,120.0,9.65,9.65
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-30,19,0,True,1,3.67,3.67,30.0,3.21,3.21
+460215,Tri-City Shopping Center,Redlands,CA,2025-11-30,21,0,True,1,7.36,7.36,30.0,3.39,3.39
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-01,4,1,False,1,28.02,28.02,45.0,7.32,7.32
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-01,7,1,False,1,15.59,15.59,30.0,9.81,9.81
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-01,9,1,False,2,154.18,77.09,120.0,62.94,31.47
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-01,10,1,False,1,47.74,47.74,120.0,16.6,16.6
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-01,18,1,False,1,35.77,35.77,60.0,3.93,3.93
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-02,12,2,False,1,19.19,19.19,90.0,7.81,7.81
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-02,13,2,False,1,43.35,43.35,60.0,11.38,11.38
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-02,14,2,False,1,90.27,90.27,120.0,41.34,41.34
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-02,16,2,False,1,7.66,7.66,45.0,1.67,1.67
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-03,0,3,False,1,23.87,23.87,120.0,10.65,10.65
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-03,8,3,False,1,18.45,18.45,45.0,7.64,7.64
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-03,14,3,False,1,24.5,24.5,120.0,11.63,11.63
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-03,17,3,False,1,38.49,38.49,60.0,10.81,10.81
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-03,18,3,False,1,18.7,18.7,60.0,10.8,10.8
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-04,5,4,False,1,19.95,19.95,30.0,9.46,9.46
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-04,7,4,False,1,29.54,29.54,60.0,3.71,3.71
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-04,8,4,False,1,15.96,15.96,60.0,4.19,4.19
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-04,11,4,False,1,28.4,28.4,45.0,7.24,7.24
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-04,17,4,False,2,64.72,32.36,60.0,14.74,7.37
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-04,18,4,False,1,41.19,41.19,90.0,13.26,13.26
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-04,19,4,False,1,44.85,44.85,120.0,12.36,12.36
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-05,1,5,False,1,105.2,105.2,180.0,18.69,18.69
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-05,3,5,False,1,103.78,103.78,240.0,20.52,20.52
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-05,6,5,False,1,87.13,87.13,120.0,16.64,16.64
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-05,7,5,False,1,107.82,107.82,180.0,39.03,39.03
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-05,14,5,False,1,71.51,71.51,120.0,37.08,37.08
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-05,18,5,False,1,74.33,74.33,120.0,17.43,17.43
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-06,1,6,True,1,14.08,14.08,60.0,2.08,2.08
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-06,7,6,True,2,146.61,73.305,120.0,51.03,25.515
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-06,8,6,True,1,97.05,97.05,180.0,42.37,42.37
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-06,12,6,True,1,58.87,58.87,90.0,14.63,14.63
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-06,17,6,True,1,21.91,21.91,60.0,10.37,10.37
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-06,18,6,True,1,49.92,49.92,120.0,14.25,14.25
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-07,9,0,True,1,115.08,115.08,240.0,32.54,32.54
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-07,11,0,True,1,88.99,88.99,120.0,25.11,25.11
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-07,17,0,True,1,16.13,16.13,60.0,4.42,4.42
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-07,19,0,True,2,31.22,15.61,75.0,18.44,9.22
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-07,21,0,True,1,72.1,72.1,120.0,26.79,26.79
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-08,5,1,False,1,45.43,45.43,90.0,25.63,25.63
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-08,7,1,False,1,25.95,25.95,60.0,3.85,3.85
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-08,9,1,False,1,36.89,36.89,90.0,4.57,4.57
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-08,10,1,False,1,22.25,22.25,30.0,9.35,9.35
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-08,11,1,False,2,53.1,26.55,75.0,16.24,8.12
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-08,13,1,False,1,10.74,10.74,30.0,3.11,3.11
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-08,15,1,False,1,98.5,98.5,120.0,46.51,46.51
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-08,21,1,False,1,74.78,74.78,90.0,30.06,30.06
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-08,22,1,False,1,26.07,26.07,90.0,9.82,9.82
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-09,0,2,False,1,39.81,39.81,90.0,16.69,16.69
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-09,11,2,False,1,133.41,133.41,180.0,42.32,42.32
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-09,15,2,False,1,118.26,118.26,180.0,21.16,21.16
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-09,17,2,False,1,35.17,35.17,90.0,11.6,11.6
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-09,18,2,False,1,41.64,41.64,60.0,10.31,10.31
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-09,19,2,False,1,38.96,38.96,90.0,9.46,9.46
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-10,0,3,False,1,21.95,21.95,45.0,8.11,8.11
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-10,1,3,False,1,45.02,45.02,90.0,8.13,8.13
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-10,5,3,False,1,42.94,42.94,90.0,8.53,8.53
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-10,9,3,False,1,48.96,48.96,60.0,8.84,8.84
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-10,10,3,False,1,65.98,65.98,90.0,32.7,32.7
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-10,12,3,False,2,92.64,46.32,135.0,17.93,8.965
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-10,17,3,False,1,23.62,23.62,45.0,11.59,11.59
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-10,18,3,False,1,29.13,29.13,90.0,9.49,9.49
+460263,Rivian Adventure Network,St. Regis,Montana,2025-11-11,19,2,False,1,16.17,16.17,120.0,2.77,2.77
+460263,Rivian Adventure Network,St. Regis,Montana,2025-11-12,8,3,False,3,89.31,29.77,90.0,40.84,13.613333333333333
+460263,Rivian Adventure Network,St. Regis,Montana,2025-11-12,16,3,False,1,49.9,49.9,180.0,24.97,24.97
+460263,Rivian Adventure Network,St. Regis,Montana,2025-11-12,17,3,False,1,18.01,18.01,120.0,8.64,8.64

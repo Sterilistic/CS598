@@ -1,0 +1,1001 @@
+station_id,station_name,city,state,session_date,hour_of_day,day_of_week,is_weekend,session_count,total_energy_kwh,avg_energy_kwh,avg_duration_minutes,total_cost,avg_cost
+469374,Freewire Charging Station,Columbus,OH,2025-12-04,18,4,False,1,22.06,22.06,120.0,9.54,9.54
+462127,Kimco-charlotte,Charlotte,NC,2025-12-07,17,0,True,1,14.6,14.6,120.0,2.39,2.39
+460323,Ionna - OKC,Oklahoma City,OK,2025-12-04,9,4,False,1,16.81,16.81,45.0,7.59,7.59
+462111,Shell - Novi,Novi,MI,2025-12-05,7,5,False,1,40.59,40.59,120.0,15.15,15.15
+460949,"Flying J Travel Center #737 San Antonio, TX",San Antonio,TX,2025-12-08,22,1,False,1,15.65,15.65,90.0,5.58,5.58
+461631,"Pilot Travel Center #1019 - Orland, CA",Orland,CA,2025-12-07,13,0,True,1,49.99,49.99,120.0,7.43,7.43
+461548,"Pilot Travel Center #374 Marianna, FL",Marianna,FL,2025-12-10,2,3,False,1,36.46,36.46,90.0,7.6,7.6
+469401,Dutch Bros,Sacramento,CA,2025-12-07,2,0,True,1,38.9,38.9,60.0,12.33,12.33
+460570,Eastern Market Public Lot,Detroit,MI,2025-12-05,7,5,False,1,25.57,25.57,120.0,14.21,14.21
+460384,Mendocino Marketplace,Santa Rosa,CA,2025-12-06,2,6,True,1,10.71,10.71,60.0,4.92,4.92
+461715,BP Express Stop,Jackson,MI,2025-12-06,14,6,True,1,23.32,23.32,60.0,3.24,3.24
+460345,Central Co-op,Tacoma,WA,2025-12-08,12,1,False,1,17.89,17.89,60.0,6.92,6.92
+461550,"Flying J Travel Center #706 Tulsa, OK",Tulsa,OK,2025-12-06,7,6,True,2,90.08,45.04,75.0,24.84,12.42
+461155,Key Chrysler Dodge Jeep Ram,Rochester,New Hampshire,2025-12-05,10,5,False,1,89.03,89.03,120.0,35.24,35.24
+461135,Marathon,Grand Rapids,MI,2025-12-05,3,5,False,1,98.01,98.01,120.0,41.36,41.36
+461813,Culver's,Rhinelander,WI,2025-12-08,14,1,False,1,67.01,67.01,90.0,33.39,33.39
+469252,Lenexa Old Town Activity Center,Lenexa,KS,2025-12-10,4,3,False,1,18.57,18.57,90.0,2.53,2.53
+460484,L2 near Ball&Chain,Miami,Florida,2025-12-04,9,4,False,1,81.5,81.5,120.0,35.52,35.52
+460570,Eastern Market Public Lot,Detroit,MI,2025-12-04,2,4,False,1,30.34,30.34,60.0,13.07,13.07
+460570,Eastern Market Public Lot,Detroit,MI,2025-12-10,23,3,False,1,10.27,10.27,60.0,6.09,6.09
+460570,Eastern Market Public Lot,Detroit,MI,2025-12-09,19,2,False,3,130.21,43.403333333333336,70.0,47.66,15.886666666666667
+460969,EVgo - SF SOMA,San Francisco,CA,2025-12-04,21,4,False,1,41.03,41.03,240.0,13.91,13.91
+469745,"Flying J Travel Center #875 Elkton, MD",Elkton,MD,2025-12-07,7,0,True,1,21.56,21.56,60.0,7.2,7.2
+461756,"Laguna Blvd, Elk Grove, CA",Elk Grove,CA,2025-12-09,7,2,False,1,53.66,53.66,120.0,14.01,14.01
+460329,IONNA Seffner Rechargery,Seffner,FL,2025-12-07,14,0,True,1,15.66,15.66,60.0,7.28,7.28
+470113,Kwik-Charge #1205,Lake Delton,WI,2025-12-05,22,5,False,1,47.04,47.04,60.0,8.61,8.61
+460953,"Flying J Travel Center #690 Lordsburg, NM",Lordsburg,NM,2025-12-10,0,3,False,1,31.72,31.72,90.0,3.25,3.25
+469741,"Pilot Travel Center #63 Piedmont, SC",Piedmont,SC,2025-12-09,5,2,False,1,10.33,10.33,60.0,1.1,1.1
+460384,Mendocino Marketplace,Santa Rosa,CA,2025-12-05,20,5,False,1,16.32,16.32,60.0,6.16,6.16
+461551,Berkeley Bowl (West),Berkeley,CA,2025-12-07,7,0,True,1,25.57,25.57,60.0,11.65,11.65
+469807,OUC ReCharge EV Hub at OCCC,Orlando,FL,2025-12-09,19,2,False,2,89.12,44.56,75.0,30.98,15.49
+461551,Berkeley Bowl (West),Berkeley,CA,2025-12-10,23,3,False,1,9.84,9.84,60.0,6.52,6.52
+461252,D & 3rd Street Curbside,West Sacramento,CA,2025-12-06,8,6,True,1,10.31,10.31,45.0,3.11,3.11
+460956,"Pilot Travel Center #368 Decatur, IL",Decatur,IL,2025-12-05,0,5,False,1,36.15,36.15,60.0,18.67,18.67
+462225,IONNA Beaver Rechargery Relay,Beaver,UT,2025-12-09,9,2,False,2,166.64,83.32,120.0,46.81,23.405
+461048,Mitra EV DCFC - Ford Commercial,Sacramento,CA,2025-12-09,9,2,False,2,41.14,20.57,60.0,17.53,8.765
+470652,"Starbucks - Phoenix, OR",Phoenix,OR,2025-12-05,10,5,False,1,90.21,90.21,120.0,33.98,33.98
+461628,Petro Corning #309,Corning,CA,2025-12-10,14,3,False,1,15.78,15.78,90.0,6.67,6.67
+460372,"Pilot Travel Center #1208 Yuma, AZ",Yuma,AZ,2025-12-09,19,2,False,1,53.82,53.82,90.0,20.63,20.63
+460571,Exxon Utica,Utica,MI,2025-12-10,19,3,False,1,33.17,33.17,45.0,5.91,5.91
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-08,14,1,False,1,40.55,40.55,60.0,19.53,19.53
+469746,"Pilot Travel Center #281 Girard, OH",Girard,OH,2025-12-08,9,1,False,1,46.52,46.52,120.0,4.96,4.96
+461049,Mitra EV DCFC - Aztec Solar,Rancho Cordova,CA,2025-12-07,6,0,True,1,55.86,55.86,90.0,10.16,10.16
+461551,Berkeley Bowl (West),Berkeley,CA,2025-12-04,18,4,False,1,58.31,58.31,90.0,11.01,11.01
+460371,"Circle K - Yuma, AZ",Yuma,AZ,2025-12-07,14,0,True,1,40.58,40.58,240.0,11.21,11.21
+469743,"Pilot Travel Center #4642 Toms Brook, VA",Toms Brook,VA,2025-12-05,11,5,False,1,7.23,7.23,60.0,5.2,5.2
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-04,17,4,False,1,27.9,27.9,60.0,3.38,3.38
+461370,Miller Hill Super One,Duluth,MN,2025-12-10,9,3,False,1,34.83,34.83,120.0,13.1,13.1
+461543,Garcia Bend Park,Sacramento,CA,2025-12-08,13,1,False,1,26.01,26.01,60.0,5.52,5.52
+460958,"Pilot Travel Center #1225 Mascoutah, IL",Mascoutah,IL,2025-12-06,20,6,True,1,77.94,77.94,120.0,14.64,14.64
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-08,16,1,False,1,89.74,89.74,120.0,9.43,9.43
+469749,"Ionna Reading, MA Rechargery Relay",Reading,MA,2025-12-06,5,6,True,1,22.01,22.01,90.0,5.65,5.65
+469455,Polaris Bergland Township,Bergland,MI,2025-12-07,15,0,True,1,21.21,21.21,120.0,3.55,3.55
+469253,Lenexa Justice Center,Lenexa,KS,2025-12-10,23,3,False,1,74.56,74.56,90.0,17.31,17.31
+470357,FastTrack Market Marathon,Taylor,MI,2025-12-06,19,6,True,2,122.57,61.285,120.0,46.71,23.355
+460485,Safeway,Martinez,CA,2025-12-08,21,1,False,1,55.75,55.75,90.0,22.21,22.21
+460372,"Pilot Travel Center #1208 Yuma, AZ",Yuma,AZ,2025-12-08,7,1,False,1,13.48,13.48,60.0,7.5,7.5
+461758,Bradville Square Shopping Center,Sacramento,CA,2025-12-09,17,2,False,1,24.45,24.45,60.0,8.65,8.65
+460263,Rivian Adventure Network,St. Regis,Montana,2025-12-07,19,0,True,1,49.48,49.48,60.0,17.81,17.81
+461758,Bradville Square Shopping Center,Sacramento,CA,2025-12-10,10,3,False,1,93.51,93.51,120.0,31.55,31.55
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-05,3,5,False,1,70.58,70.58,180.0,21.5,21.5
+461370,Miller Hill Super One,Duluth,MN,2025-12-05,15,5,False,1,98.69,98.69,120.0,26.91,26.91
+461170,Hamilton Market St,Hamilton,OH,2025-12-07,2,0,True,1,18.0,18.0,60.0,1.84,1.84
+461048,Mitra EV DCFC - Ford Commercial,Sacramento,CA,2025-12-08,19,1,False,1,63.89,63.89,120.0,25.43,25.43
+460429,Ruby's Inn General Store - Tesla Supercharger,Bryce Canyon City,Utah,2025-12-05,3,5,False,1,22.73,22.73,60.0,10.65,10.65
+461631,"Pilot Travel Center #1019 - Orland, CA",Orland,CA,2025-12-09,3,2,False,1,5.73,5.73,45.0,2.46,2.46
+460632,Parsons Chevy - Eagle River,Eagle River,WI,2025-12-10,7,3,False,1,39.95,39.95,60.0,12.7,12.7
+460429,Ruby's Inn General Store - Tesla Supercharger,Bryce Canyon City,Utah,2025-12-06,9,6,True,1,10.14,10.14,60.0,4.32,4.32
+461511,Sleep Inn & Suites Monroe - Woodbury,Monroe,NY,2025-12-04,13,4,False,1,17.94,17.94,90.0,10.74,10.74
+460504,Marketplace Foods,Minot,ND,2025-12-09,7,2,False,1,52.42,52.42,120.0,17.26,17.26
+461165,Heilmann Community Center,Detroit,MI,2025-12-06,9,6,True,1,35.61,35.61,60.0,6.43,6.43
+461550,"Flying J Travel Center #706 Tulsa, OK",Tulsa,OK,2025-12-05,14,5,False,1,15.97,15.97,60.0,8.45,8.45
+460571,Exxon Utica,Utica,MI,2025-12-09,9,2,False,1,18.66,18.66,45.0,7.65,7.65
+461756,"Laguna Blvd, Elk Grove, CA",Elk Grove,CA,2025-12-06,10,6,True,1,44.74,44.74,90.0,21.82,21.82
+460384,Mendocino Marketplace,Santa Rosa,CA,2025-12-06,18,6,True,1,28.9,28.9,120.0,5.8,5.8
+461307,Fas Mart,Grand Haven,MI,2025-12-09,9,2,False,1,14.72,14.72,120.0,3.6,3.6
+461548,"Pilot Travel Center #374 Marianna, FL",Marianna,FL,2025-12-07,19,0,True,1,40.46,40.46,90.0,19.21,19.21
+461715,BP Express Stop,Jackson,MI,2025-12-05,11,5,False,1,37.36,37.36,60.0,14.2,14.2
+460318,EVgo,North Bend,Washington,2025-12-10,21,3,False,1,21.9,21.9,30.0,3.95,3.95
+461307,Fas Mart,Grand Haven,MI,2025-12-05,7,5,False,1,80.55,80.55,120.0,23.47,23.47
+462226,IONNA Raleigh Rechargery Relay,Raleigh,NC,2025-12-06,5,6,True,1,24.5,24.5,90.0,10.77,10.77
+461156,Key GMC of Rochester,Rochester,New Hampshire,2025-12-07,12,0,True,2,46.15,23.075,75.0,17.91,8.955
+461541,Fox Kia South,Grand Rapids,michigan,2025-12-10,14,3,False,1,37.25,37.25,60.0,8.86,8.86
+469430,Bernal Plaza,San Jose,CA,2025-12-10,23,3,False,1,48.6,48.6,90.0,23.31,23.31
+460955,"Flying J Travel Center #572 Williams, IA",Williams,IA,2025-12-04,8,4,False,2,46.91,23.455,135.0,26.51,13.255
+470498,US Highway 57,Eagle Pass,Texas,2025-12-05,19,5,False,1,69.04,69.04,120.0,36.5,36.5
+460571,Exxon Utica,Utica,MI,2025-12-06,21,6,True,1,20.55,20.55,60.0,3.87,3.87
+469403,1122 Frankford grand,fishtown,PA,2025-12-08,15,1,False,1,27.52,27.52,45.0,6.8,6.8
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-08,9,1,False,1,14.94,14.94,60.0,7.37,7.37
+460263,Rivian Adventure Network,St. Regis,Montana,2025-12-06,11,6,True,1,72.59,72.59,90.0,19.93,19.93
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-05,19,5,False,1,119.04,119.04,180.0,44.57,44.57
+469746,"Pilot Travel Center #281 Girard, OH",Girard,OH,2025-12-07,14,0,True,1,57.68,57.68,90.0,26.29,26.29
+461543,Garcia Bend Park,Sacramento,CA,2025-12-10,20,3,False,1,92.2,92.2,120.0,44.76,44.76
+461275,Goodwill,St. Louis Park,MN,2025-12-06,5,6,True,1,31.11,31.11,60.0,4.93,4.93
+460367,Santa Monica Station,Santa Monica,CA,2025-12-10,18,3,False,1,55.98,55.98,120.0,16.03,16.03
+460953,"Flying J Travel Center #690 Lordsburg, NM",Lordsburg,NM,2025-12-07,9,0,True,1,22.74,22.74,30.0,9.62,9.62
+461632,"Ionna - Willows, CA",Williows,CA,2025-12-06,7,6,True,1,11.86,11.86,90.0,1.3,1.3
+460320,"Ionna - Daly City, CA",Daly City,CA,2025-12-10,8,3,False,2,54.29,27.145,75.0,17.15,8.575
+460969,EVgo - SF SOMA,San Francisco,CA,2025-12-10,15,3,False,1,42.93,42.93,90.0,20.64,20.64
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-04,15,4,False,1,31.68,31.68,45.0,15.86,15.86
+460506,Wentworth-Douglass Hospital,Dover,NH,2025-12-10,9,3,False,1,31.71,31.71,120.0,10.7,10.7
+469807,OUC ReCharge EV Hub at OCCC,Orlando,FL,2025-12-07,14,0,True,1,26.17,26.17,90.0,7.74,7.74
+460503,Futurama near Ball & Chain,Miami,Florida,2025-12-04,9,4,False,1,31.42,31.42,60.0,11.12,11.12
+460969,EVgo - SF SOMA,San Francisco,CA,2025-12-07,17,0,True,1,70.76,70.76,120.0,13.04,13.04
+460484,L2 near Ball&Chain,Miami,Florida,2025-12-08,16,1,False,1,9.02,9.02,60.0,1.59,1.59
+461251,Sunshine Gardens,South San Francisco,CA,2025-12-10,17,3,False,1,37.92,37.92,60.0,15.44,15.44
+461627,"T/A Travel Center #0057 - Redding, CA",Redding,CA,2025-12-08,9,1,False,1,19.21,19.21,60.0,3.5,3.5
+461165,Heilmann Community Center,Detroit,MI,2025-12-05,8,5,False,1,48.17,48.17,90.0,19.84,19.84
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-04,21,4,False,1,40.72,40.72,60.0,17.31,17.31
+460571,Exxon Utica,Utica,MI,2025-12-08,13,1,False,1,38.79,38.79,90.0,4.72,4.72
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-06,10,6,True,1,64.57,64.57,90.0,16.27,16.27
+461554,The Bite Tumalo,Tumalo,OR,2025-12-10,20,3,False,1,20.66,20.66,30.0,3.93,3.93
+470357,FastTrack Market Marathon,Taylor,MI,2025-12-08,14,1,False,1,23.4,23.4,120.0,4.09,4.09
+460956,"Pilot Travel Center #368 Decatur, IL",Decatur,IL,2025-12-09,13,2,False,1,49.72,49.72,60.0,7.24,7.24
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,2025-12-10,7,3,False,1,149.54,149.54,180.0,69.46,69.46
+460957,"Flying J Travel Center #489 Grand Forks, ND",Grand Forks,ND,2025-12-06,5,6,True,1,20.52,20.52,90.0,2.59,2.59
+469399,Elkhorn Shopping Center,Sacramento,CA,2025-12-10,15,3,False,1,142.45,142.45,180.0,35.79,35.79
+461155,Key Chrysler Dodge Jeep Ram,Rochester,New Hampshire,2025-12-07,12,0,True,1,87.76,87.76,120.0,33.65,33.65
+461744,Sunset Pointe,Rocklin,CA,2025-12-10,2,3,False,1,53.25,53.25,120.0,21.63,21.63
+470276,"New Albany Light, Gas, and Water",New Albany,MS,2025-12-08,21,1,False,1,24.11,24.11,45.0,12.28,12.28
+461627,"T/A Travel Center #0057 - Redding, CA",Redding,CA,2025-12-09,11,2,False,2,61.68,30.84,75.0,14.93,7.465
+461733,Walmart,Checotah,OK,2025-12-08,0,1,False,1,31.37,31.37,60.0,7.98,7.98
+460323,Ionna - OKC,Oklahoma City,OK,2025-12-05,21,5,False,1,49.85,49.85,90.0,7.68,7.68
+460954,"Flying J Travel Center #671 Matthews, MO",Matthews,MO,2025-12-09,2,2,False,1,12.12,12.12,45.0,9.24,9.24
+469611,Dennys,Seatac,WA,2025-12-10,8,3,False,1,50.85,50.85,120.0,7.6,7.6
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-07,19,0,True,1,23.17,23.17,120.0,8.85,8.85
+461733,Walmart,Checotah,OK,2025-12-06,9,6,True,1,70.21,70.21,120.0,24.45,24.45
+462127,Kimco-charlotte,Charlotte,NC,2025-12-05,11,5,False,1,14.29,14.29,45.0,2.14,2.14
+469749,"Ionna Reading, MA Rechargery Relay",Reading,MA,2025-12-06,11,6,True,1,41.34,41.34,60.0,7.42,7.42
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-10,18,3,False,1,91.4,91.4,180.0,38.69,38.69
+460969,EVgo - SF SOMA,San Francisco,CA,2025-12-05,16,5,False,1,15.02,15.02,60.0,4.83,4.83
+461757,Dutch Bros Coffee,Sacramento,CA,2025-12-10,16,3,False,2,39.06,19.53,75.0,17.53,8.765
+460504,Marketplace Foods,Minot,ND,2025-12-04,18,4,False,1,49.17,49.17,120.0,18.26,18.26
+460371,"Circle K - Yuma, AZ",Yuma,AZ,2025-12-09,11,2,False,1,55.42,55.42,90.0,27.56,27.56
+460673,Telsa Supercharger,Rogue River,Oregon,2025-12-07,19,0,True,1,81.36,81.36,120.0,11.17,11.17
+460957,"Flying J Travel Center #489 Grand Forks, ND",Grand Forks,ND,2025-12-06,19,6,True,1,19.76,19.76,45.0,4.29,4.29
+461307,Fas Mart,Grand Haven,MI,2025-12-04,13,4,False,1,23.33,23.33,45.0,7.6,7.6
+469741,"Pilot Travel Center #63 Piedmont, SC",Piedmont,SC,2025-12-09,8,2,False,1,13.46,13.46,60.0,1.47,1.47
+460322,Ionna Daytona Beach Rechargery Relay @Wawa,Daytona Beach,FL,2025-12-04,5,4,False,1,39.27,39.27,90.0,7.35,7.35
+460368,"bp pulse - Duarte, CA",Duarte,CA,2025-12-08,0,1,False,1,9.28,9.28,60.0,2.54,2.54
+462226,IONNA Raleigh Rechargery Relay,Raleigh,NC,2025-12-10,1,3,False,1,66.85,66.85,120.0,27.11,27.11
+469745,"Flying J Travel Center #875 Elkton, MD",Elkton,MD,2025-12-10,20,3,False,1,32.86,32.86,60.0,14.1,14.1
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-07,16,0,True,1,35.54,35.54,60.0,9.85,9.85
+460632,Parsons Chevy - Eagle River,Eagle River,WI,2025-12-04,13,4,False,1,116.67,116.67,240.0,51.39,51.39
+460368,"bp pulse - Duarte, CA",Duarte,CA,2025-12-10,18,3,False,1,22.21,22.21,60.0,4.46,4.46
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-06,13,6,True,1,35.47,35.47,120.0,16.47,16.47
+469374,Freewire Charging Station,Columbus,OH,2025-12-04,15,4,False,1,42.49,42.49,60.0,4.89,4.89
+469807,OUC ReCharge EV Hub at OCCC,Orlando,FL,2025-12-04,21,4,False,1,30.1,30.1,90.0,12.01,12.01
+461553,Ventura County Credit Union,Ventura,CA,2025-12-07,3,0,True,1,21.32,21.32,60.0,5.34,5.34
+460958,"Pilot Travel Center #1225 Mascoutah, IL",Mascoutah,IL,2025-12-08,6,1,False,1,54.16,54.16,90.0,13.22,13.22
+461170,Hamilton Market St,Hamilton,OH,2025-12-07,8,0,True,2,163.37,81.685,150.0,55.89,27.945
+461049,Mitra EV DCFC - Aztec Solar,Rancho Cordova,CA,2025-12-04,13,4,False,1,33.61,33.61,90.0,4.4,4.4
+460430,Revel - South San Francisco,South San Francisco,CA,2025-12-06,6,6,True,1,79.96,79.96,120.0,24.33,24.33
+461165,Heilmann Community Center,Detroit,MI,2025-12-09,8,2,False,1,21.32,21.32,30.0,5.5,5.5
+461307,Fas Mart,Grand Haven,MI,2025-12-05,3,5,False,1,24.82,24.82,60.0,3.35,3.35
+469253,Lenexa Justice Center,Lenexa,KS,2025-12-07,15,0,True,1,81.4,81.4,120.0,9.64,9.64
+461370,Miller Hill Super One,Duluth,MN,2025-12-06,12,6,True,1,25.32,25.32,60.0,10.84,10.84
+461543,Garcia Bend Park,Sacramento,CA,2025-12-05,10,5,False,1,44.4,44.4,120.0,9.58,9.58
+461632,"Ionna - Willows, CA",Williows,CA,2025-12-08,13,1,False,1,71.97,71.97,90.0,12.7,12.7
+461744,Sunset Pointe,Rocklin,CA,2025-12-09,8,2,False,1,31.15,31.15,120.0,14.91,14.91
+462227,IONNA Middletown Rechargery Relay,Middletown,MD,2025-12-08,7,1,False,2,36.6,18.3,60.0,14.93,7.465
+460956,"Pilot Travel Center #368 Decatur, IL",Decatur,IL,2025-12-05,9,5,False,1,34.22,34.22,45.0,5.09,5.09
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-08,13,1,False,1,66.38,66.38,120.0,24.77,24.77
+460263,Rivian Adventure Network,St. Regis,Montana,2025-12-06,13,6,True,1,59.66,59.66,90.0,7.4,7.4
+461550,"Flying J Travel Center #706 Tulsa, OK",Tulsa,OK,2025-12-09,4,2,False,1,87.86,87.86,120.0,30.03,30.03
+469747,"Flying J Travel Center #692 Wells, NV",Wells,NV,2025-12-04,17,4,False,1,31.65,31.65,90.0,4.4,4.4
+461541,Fox Kia South,Grand Rapids,michigan,2025-12-06,12,6,True,1,37.07,37.07,60.0,10.38,10.38
+469252,Lenexa Old Town Activity Center,Lenexa,KS,2025-12-05,9,5,False,1,45.68,45.68,120.0,8.66,8.66
+460331,"Pilot Travel Center #474 Sutton, WV",Sutton,WV,2025-12-07,22,0,True,2,61.35,30.675,45.0,20.49,10.245
+461546,"Pilot Travel Center #1051 Iowa, LA",Iowa,LA,2025-12-06,8,6,True,1,9.52,9.52,60.0,4.16,4.16
+460570,Eastern Market Public Lot,Detroit,MI,2025-12-09,5,2,False,1,47.23,47.23,90.0,19.89,19.89
+461170,Hamilton Market St,Hamilton,OH,2025-12-05,7,5,False,1,20.36,20.36,120.0,8.88,8.88
+460673,Telsa Supercharger,Rogue River,Oregon,2025-12-08,17,1,False,1,4.81,4.81,30.0,0.62,0.62
+460430,Revel - South San Francisco,South San Francisco,CA,2025-12-05,17,5,False,1,55.55,55.55,90.0,28.57,28.57
+469611,Dennys,Seatac,WA,2025-12-08,21,1,False,1,45.63,45.63,60.0,13.76,13.76
+469747,"Flying J Travel Center #692 Wells, NV",Wells,NV,2025-12-08,7,1,False,2,57.69,28.845,75.0,9.78,4.89
+462127,Kimco-charlotte,Charlotte,NC,2025-12-10,22,3,False,1,24.72,24.72,60.0,8.52,8.52
+460506,Wentworth-Douglass Hospital,Dover,NH,2025-12-10,22,3,False,2,48.82,24.41,45.0,12.92,6.46
+460957,"Flying J Travel Center #489 Grand Forks, ND",Grand Forks,ND,2025-12-07,12,0,True,1,9.59,9.59,30.0,4.4,4.4
+461629,In-N-Out Burger - Redding,Redding,CA,2025-12-07,8,0,True,1,62.12,62.12,120.0,22.88,22.88
+460318,EVgo,North Bend,Washington,2025-12-04,19,4,False,1,46.22,46.22,120.0,10.35,10.35
+460322,Ionna Daytona Beach Rechargery Relay @Wawa,Daytona Beach,FL,2025-12-06,18,6,True,1,23.2,23.2,180.0,6.92,6.92
+460263,Rivian Adventure Network,St. Regis,Montana,2025-12-04,22,4,False,1,13.02,13.02,30.0,4.01,4.01
+460570,Eastern Market Public Lot,Detroit,MI,2025-12-09,10,2,False,1,126.66,126.66,180.0,46.41,46.41
+460957,"Flying J Travel Center #489 Grand Forks, ND",Grand Forks,ND,2025-12-07,8,0,True,2,86.47,43.235,90.0,23.8,11.9
+469752,"Ionna Carlin, NV Rechargery Relay @ Ridley’s Market",Carlin,NV,2025-12-06,13,6,True,1,8.48,8.48,30.0,5.4,5.4
+470276,"New Albany Light, Gas, and Water",New Albany,MS,2025-12-09,12,2,False,1,37.36,37.36,60.0,12.53,12.53
+470498,US Highway 57,Eagle Pass,Texas,2025-12-09,2,2,False,1,18.5,18.5,60.0,9.82,9.82
+460321,IONNA - Gilman Rechargery Relay,Gilman,IL,2025-12-04,8,4,False,1,32.29,32.29,60.0,7.79,7.79
+460954,"Flying J Travel Center #671 Matthews, MO",Matthews,MO,2025-12-10,9,3,False,2,35.68,17.84,52.5,6.39,3.195
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-10,4,3,False,1,19.39,19.39,30.0,7.93,7.93
+469401,Dutch Bros,Sacramento,CA,2025-12-05,12,5,False,1,5.26,5.26,45.0,1.59,1.59
+460485,Safeway,Martinez,CA,2025-12-10,4,3,False,1,27.39,27.39,45.0,6.49,6.49
+461629,In-N-Out Burger - Redding,Redding,CA,2025-12-09,20,2,False,1,46.7,46.7,90.0,7.86,7.86
+461553,Ventura County Credit Union,Ventura,CA,2025-12-07,14,0,True,1,36.61,36.61,90.0,4.68,4.68
+461756,"Laguna Blvd, Elk Grove, CA",Elk Grove,CA,2025-12-06,21,6,True,1,35.06,35.06,60.0,17.6,17.6
+470651,"Starbucks - Ridgefield, WA",Ridgefield,WA,2025-12-08,15,1,False,2,114.22,57.11,105.0,24.22,12.11
+470276,"New Albany Light, Gas, and Water",New Albany,MS,2025-12-07,17,0,True,1,22.85,22.85,45.0,7.71,7.71
+461049,Mitra EV DCFC - Aztec Solar,Rancho Cordova,CA,2025-12-06,19,6,True,2,101.94,50.97,105.0,26.11,13.055
+461171,Hamilton CNG Filling Station,Hamilton,OH,2025-12-08,19,1,False,1,15.51,15.51,60.0,1.55,1.55
+461165,Heilmann Community Center,Detroit,MI,2025-12-04,10,4,False,1,12.37,12.37,60.0,4.13,4.13
+462111,Shell - Novi,Novi,MI,2025-12-10,22,3,False,1,72.01,72.01,90.0,7.49,7.49
+461049,Mitra EV DCFC - Aztec Solar,Rancho Cordova,CA,2025-12-05,1,5,False,1,35.31,35.31,45.0,7.6,7.6
+460503,Futurama near Ball & Chain,Miami,Florida,2025-12-06,11,6,True,1,18.5,18.5,60.0,3.2,3.2
+462226,IONNA Raleigh Rechargery Relay,Raleigh,NC,2025-12-06,10,6,True,1,45.54,45.54,60.0,14.91,14.91
+461813,Culver's,Rhinelander,WI,2025-12-04,9,4,False,1,20.09,20.09,120.0,10.0,10.0
+469741,"Pilot Travel Center #63 Piedmont, SC",Piedmont,SC,2025-12-06,2,6,True,1,19.53,19.53,60.0,3.89,3.89
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-04,17,4,False,1,69.54,69.54,90.0,29.9,29.9
+461165,Heilmann Community Center,Detroit,MI,2025-12-10,19,3,False,1,28.96,28.96,60.0,7.96,7.96
+469747,"Flying J Travel Center #692 Wells, NV",Wells,NV,2025-12-05,9,5,False,1,177.91,177.91,240.0,51.0,51.0
+470651,"Starbucks - Ridgefield, WA",Ridgefield,WA,2025-12-04,14,4,False,1,55.49,55.49,120.0,10.9,10.9
+460957,"Flying J Travel Center #489 Grand Forks, ND",Grand Forks,ND,2025-12-04,18,4,False,1,12.14,12.14,90.0,4.19,4.19
+470276,"New Albany Light, Gas, and Water",New Albany,MS,2025-12-06,21,6,True,1,23.39,23.39,120.0,8.25,8.25
+462127,Kimco-charlotte,Charlotte,NC,2025-12-05,12,5,False,1,73.14,73.14,120.0,36.41,36.41
+460671,FPL,Pensacola,Florida,2025-12-10,12,3,False,1,48.71,48.71,90.0,18.96,18.96
+469747,"Flying J Travel Center #692 Wells, NV",Wells,NV,2025-12-09,2,2,False,1,20.97,20.97,45.0,7.6,7.6
+460673,Telsa Supercharger,Rogue River,Oregon,2025-12-07,15,0,True,2,55.47,27.735,90.0,15.08,7.54
+469430,Bernal Plaza,San Jose,CA,2025-12-07,7,0,True,1,19.6,19.6,30.0,9.55,9.55
+461167,Pats Food Freeland,Freeland,MI,2025-12-04,23,4,False,1,40.76,40.76,90.0,5.66,5.66
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-05,17,5,False,1,66.22,66.22,120.0,7.35,7.35
+460345,Central Co-op,Tacoma,WA,2025-12-09,17,2,False,1,42.78,42.78,180.0,22.49,22.49
+461049,Mitra EV DCFC - Aztec Solar,Rancho Cordova,CA,2025-12-10,19,3,False,1,46.1,46.1,60.0,20.96,20.96
+461166,Gladwin City Hall,Gladwin,MI,2025-12-07,22,0,True,1,12.96,12.96,45.0,5.57,5.57
+461628,Petro Corning #309,Corning,CA,2025-12-08,11,1,False,1,26.93,26.93,45.0,4.08,4.08
+460954,"Flying J Travel Center #671 Matthews, MO",Matthews,MO,2025-12-05,19,5,False,1,7.37,7.37,60.0,1.89,1.89
+461548,"Pilot Travel Center #374 Marianna, FL",Marianna,FL,2025-12-08,4,1,False,1,16.42,16.42,60.0,2.33,2.33
+461757,Dutch Bros Coffee,Sacramento,CA,2025-12-05,11,5,False,1,41.38,41.38,60.0,19.55,19.55
+461073,Fairfield by Marriott Inn & Suites Houston Brookhollow,Houston,TX,2025-12-09,7,2,False,1,103.8,103.8,180.0,16.95,16.95
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-06,12,6,True,1,54.54,54.54,90.0,13.97,13.97
+461073,Fairfield by Marriott Inn & Suites Houston Brookhollow,Houston,TX,2025-12-05,7,5,False,2,90.0,45.0,105.0,37.53,18.765
+461757,Dutch Bros Coffee,Sacramento,CA,2025-12-10,13,3,False,1,27.78,27.78,120.0,14.95,14.95
+460368,"bp pulse - Duarte, CA",Duarte,CA,2025-12-10,21,3,False,1,95.66,95.66,120.0,44.35,44.35
+461170,Hamilton Market St,Hamilton,OH,2025-12-09,14,2,False,1,21.87,21.87,60.0,5.51,5.51
+460953,"Flying J Travel Center #690 Lordsburg, NM",Lordsburg,NM,2025-12-05,13,5,False,1,25.22,25.22,60.0,9.49,9.49
+461628,Petro Corning #309,Corning,CA,2025-12-06,11,6,True,1,66.13,66.13,90.0,32.64,32.64
+460367,Santa Monica Station,Santa Monica,CA,2025-12-05,14,5,False,1,48.59,48.59,60.0,19.29,19.29
+460506,Wentworth-Douglass Hospital,Dover,NH,2025-12-05,9,5,False,1,39.51,39.51,60.0,11.48,11.48
+461715,BP Express Stop,Jackson,MI,2025-12-06,12,6,True,1,27.13,27.13,60.0,15.86,15.86
+460708,Chargepoint,Scottsville,Kentucky,2025-12-10,21,3,False,1,27.44,27.44,45.0,5.63,5.63
+460322,Ionna Daytona Beach Rechargery Relay @Wawa,Daytona Beach,FL,2025-12-05,15,5,False,1,90.41,90.41,120.0,25.03,25.03
+469252,Lenexa Old Town Activity Center,Lenexa,KS,2025-12-07,21,0,True,1,22.2,22.2,60.0,8.82,8.82
+461553,Ventura County Credit Union,Ventura,CA,2025-12-07,13,0,True,1,13.23,13.23,45.0,2.11,2.11
+469374,Freewire Charging Station,Columbus,OH,2025-12-04,13,4,False,1,42.46,42.46,60.0,9.53,9.53
+460955,"Flying J Travel Center #572 Williams, IA",Williams,IA,2025-12-06,17,6,True,1,62.14,62.14,90.0,23.82,23.82
+470651,"Starbucks - Ridgefield, WA",Ridgefield,WA,2025-12-10,2,3,False,1,75.3,75.3,120.0,12.41,12.41
+470312,Safeway,Hercules,CA,2025-12-07,8,0,True,1,75.28,75.28,120.0,36.5,36.5
+462225,IONNA Beaver Rechargery Relay,Beaver,UT,2025-12-04,9,4,False,1,22.11,22.11,90.0,3.72,3.72
+461541,Fox Kia South,Grand Rapids,michigan,2025-12-06,13,6,True,1,68.34,68.34,120.0,18.2,18.2
+469612,"Dennys - Auburn, WA",Auburn,WA,2025-12-08,11,1,False,1,8.91,8.91,60.0,1.96,1.96
+470651,"Starbucks - Ridgefield, WA",Ridgefield,WA,2025-12-07,18,0,True,1,45.32,45.32,90.0,15.86,15.86
+469752,"Ionna Carlin, NV Rechargery Relay @ Ridley’s Market",Carlin,NV,2025-12-10,7,3,False,1,48.26,48.26,60.0,25.58,25.58
+469253,Lenexa Justice Center,Lenexa,KS,2025-12-06,17,6,True,2,50.61,25.305,75.0,18.87,9.435
+469612,"Dennys - Auburn, WA",Auburn,WA,2025-12-10,9,3,False,1,37.89,37.89,120.0,12.51,12.51
+461252,D & 3rd Street Curbside,West Sacramento,CA,2025-12-08,23,1,False,1,71.6,71.6,90.0,8.59,8.59
+460632,Parsons Chevy - Eagle River,Eagle River,WI,2025-12-05,22,5,False,1,12.94,12.94,30.0,1.98,1.98
+461165,Heilmann Community Center,Detroit,MI,2025-12-08,10,1,False,2,247.09,123.545,180.0,45.45,22.725
+469747,"Flying J Travel Center #692 Wells, NV",Wells,NV,2025-12-10,1,3,False,1,40.26,40.26,60.0,19.83,19.83
+460959,"Thorntons #327 - Bellwood, IL",Bellwood,IL,2025-12-10,0,3,False,1,68.17,68.17,120.0,12.69,12.69
+461252,D & 3rd Street Curbside,West Sacramento,CA,2025-12-10,15,3,False,1,28.77,28.77,60.0,6.74,6.74
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-07,15,0,True,1,103.16,103.16,180.0,43.43,43.43
+461549,"ONE9 Travel Center #7937 Mcleansville, NC",Mcleansville,NC,2025-12-06,2,6,True,1,54.86,54.86,90.0,6.72,6.72
+460956,"Pilot Travel Center #368 Decatur, IL",Decatur,IL,2025-12-04,17,4,False,2,25.19,12.595,75.0,5.94,2.97
+470357,FastTrack Market Marathon,Taylor,MI,2025-12-08,17,1,False,1,27.05,27.05,60.0,11.21,11.21
+461171,Hamilton CNG Filling Station,Hamilton,OH,2025-12-06,23,6,True,1,42.48,42.48,60.0,19.91,19.91
+462227,IONNA Middletown Rechargery Relay,Middletown,MD,2025-12-09,20,2,False,1,58.35,58.35,90.0,12.16,12.16
+462225,IONNA Beaver Rechargery Relay,Beaver,UT,2025-12-05,5,5,False,1,49.47,49.47,60.0,20.44,20.44
+469253,Lenexa Justice Center,Lenexa,KS,2025-12-05,4,5,False,1,72.98,72.98,90.0,28.91,28.91
+462098,Wawa Supercharger,Staunton,VA,2025-12-10,13,3,False,2,213.3,106.65,180.0,86.3,43.15
+460708,Chargepoint,Scottsville,Kentucky,2025-12-06,0,6,True,1,90.41,90.41,120.0,17.05,17.05
+470696,Trailborn Grand Canyon,Williams,AZ,2025-12-10,18,3,False,1,23.04,23.04,120.0,5.41,5.41
+460955,"Flying J Travel Center #572 Williams, IA",Williams,IA,2025-12-07,14,0,True,1,12.03,12.03,90.0,2.48,2.48
+460263,Rivian Adventure Network,St. Regis,Montana,2025-12-05,9,5,False,1,77.71,77.71,120.0,36.36,36.36
+461167,Pats Food Freeland,Freeland,MI,2025-12-08,9,1,False,2,107.79,53.895,150.0,47.65,23.825
+461629,In-N-Out Burger - Redding,Redding,CA,2025-12-10,0,3,False,1,79.86,79.86,180.0,34.33,34.33
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-09,7,2,False,1,54.22,54.22,120.0,8.06,8.06
+461164,Clawson Shopping Center,Clawson,MI,2025-12-09,9,2,False,1,9.17,9.17,45.0,4.58,4.58
+461073,Fairfield by Marriott Inn & Suites Houston Brookhollow,Houston,TX,2025-12-09,10,2,False,1,44.46,44.46,60.0,22.05,22.05
+461167,Pats Food Freeland,Freeland,MI,2025-12-06,11,6,True,1,53.5,53.5,180.0,14.61,14.61
+460708,Chargepoint,Scottsville,Kentucky,2025-12-04,13,4,False,1,45.76,45.76,90.0,16.97,16.97
+461370,Miller Hill Super One,Duluth,MN,2025-12-08,13,1,False,1,78.21,78.21,120.0,37.36,37.36
+469743,"Pilot Travel Center #4642 Toms Brook, VA",Toms Brook,VA,2025-12-06,9,6,True,1,3.91,3.91,30.0,1.36,1.36
+461275,Goodwill,St. Louis Park,MN,2025-12-04,17,4,False,1,51.74,51.74,90.0,13.22,13.22
+460345,Central Co-op,Tacoma,WA,2025-12-09,9,2,False,1,106.05,106.05,180.0,28.5,28.5
+461251,Sunshine Gardens,South San Francisco,CA,2025-12-05,12,5,False,1,28.89,28.89,60.0,7.45,7.45
+460372,"Pilot Travel Center #1208 Yuma, AZ",Yuma,AZ,2025-12-07,4,0,True,1,11.21,11.21,90.0,2.66,2.66
+462127,Kimco-charlotte,Charlotte,NC,2025-12-10,1,3,False,1,52.06,52.06,120.0,20.63,20.63
+461155,Key Chrysler Dodge Jeep Ram,Rochester,New Hampshire,2025-12-06,11,6,True,1,32.85,32.85,60.0,15.58,15.58
+469253,Lenexa Justice Center,Lenexa,KS,2025-12-04,13,4,False,2,29.9,14.95,30.0,7.14,3.57
+460321,IONNA - Gilman Rechargery Relay,Gilman,IL,2025-12-06,7,6,True,1,29.88,29.88,60.0,9.89,9.89
+460953,"Flying J Travel Center #690 Lordsburg, NM",Lordsburg,NM,2025-12-05,1,5,False,1,33.7,33.7,60.0,3.53,3.53
+460320,"Ionna - Daly City, CA",Daly City,CA,2025-12-08,16,1,False,1,78.57,78.57,120.0,33.86,33.86
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-07,15,0,True,1,21.77,21.77,60.0,4.02,4.02
+460673,Telsa Supercharger,Rogue River,Oregon,2025-12-05,13,5,False,2,82.94,41.47,120.0,31.2,15.6
+460954,"Flying J Travel Center #671 Matthews, MO",Matthews,MO,2025-12-05,1,5,False,1,38.69,38.69,60.0,13.96,13.96
+460328,Ionna Concord Rechargery,Concord,NC,2025-12-10,13,3,False,1,33.31,33.31,45.0,12.46,12.46
+461157,University Place Library,University Place,Washington,2025-12-10,8,3,False,1,46.41,46.41,120.0,20.23,20.23
+460371,"Circle K - Yuma, AZ",Yuma,AZ,2025-12-10,17,3,False,1,97.39,97.39,180.0,45.38,45.38
+461733,Walmart,Checotah,OK,2025-12-09,20,2,False,1,33.62,33.62,90.0,18.03,18.03
+460263,Rivian Adventure Network,St. Regis,Montana,2025-12-05,2,5,False,1,35.87,35.87,45.0,12.59,12.59
+460949,"Flying J Travel Center #737 San Antonio, TX",San Antonio,TX,2025-12-07,12,0,True,1,9.31,9.31,45.0,2.98,2.98
+461547,"Pilot Travel Center #1047 Jacksonville, FL",Jacksonville,FL,2025-12-05,17,5,False,1,58.93,58.93,180.0,8.23,8.23
+461632,"Ionna - Willows, CA",Williows,CA,2025-12-09,18,2,False,1,52.97,52.97,90.0,26.11,26.11
+469499,Renewable Grid - Glen Cove Fast Charging,Glen Cove,NY,2025-12-09,1,2,False,1,31.19,31.19,60.0,7.63,7.63
+470498,US Highway 57,Eagle Pass,Texas,2025-12-08,16,1,False,1,74.55,74.55,90.0,15.58,15.58
+462269,Ionna Rechargery,Roseville,CA,2025-12-10,6,3,False,1,19.97,19.97,30.0,4.01,4.01
+461307,Fas Mart,Grand Haven,MI,2025-12-07,0,0,True,1,34.61,34.61,60.0,10.05,10.05
+461750,Speedy Q,New Baltimore,MI,2025-12-10,0,3,False,1,121.21,121.21,180.0,55.29,55.29
+460503,Futurama near Ball & Chain,Miami,Florida,2025-12-09,7,2,False,2,174.02,87.01,120.0,62.3,31.15
+460263,Rivian Adventure Network,St. Regis,Montana,2025-12-07,15,0,True,1,23.58,23.58,60.0,5.27,5.27
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-07,16,0,True,1,14.75,14.75,30.0,4.72,4.72
+461627,"T/A Travel Center #0057 - Redding, CA",Redding,CA,2025-12-10,22,3,False,1,40.72,40.72,60.0,11.68,11.68
+462227,IONNA Middletown Rechargery Relay,Middletown,MD,2025-12-08,2,1,False,1,139.83,139.83,180.0,33.46,33.46
+460959,"Thorntons #327 - Bellwood, IL",Bellwood,IL,2025-12-07,22,0,True,1,19.34,19.34,30.0,3.06,3.06
+460331,"Pilot Travel Center #474 Sutton, WV",Sutton,WV,2025-12-07,11,0,True,1,97.78,97.78,120.0,51.05,51.05
+469374,Freewire Charging Station,Columbus,OH,2025-12-05,1,5,False,1,45.72,45.72,90.0,19.79,19.79
+469401,Dutch Bros,Sacramento,CA,2025-12-06,7,6,True,1,30.98,30.98,90.0,8.39,8.39
+470312,Safeway,Hercules,CA,2025-12-09,17,2,False,1,20.44,20.44,60.0,7.31,7.31
+461049,Mitra EV DCFC - Aztec Solar,Rancho Cordova,CA,2025-12-09,19,2,False,1,47.26,47.26,120.0,13.71,13.71
+461170,Hamilton Market St,Hamilton,OH,2025-12-04,14,4,False,1,24.39,24.39,60.0,4.09,4.09
+469401,Dutch Bros,Sacramento,CA,2025-12-09,12,2,False,1,24.97,24.97,60.0,14.51,14.51
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-04,17,4,False,1,18.52,18.52,60.0,3.09,3.09
+460484,L2 near Ball&Chain,Miami,Florida,2025-12-08,15,1,False,1,8.41,8.41,60.0,1.9,1.9
+460503,Futurama near Ball & Chain,Miami,Florida,2025-12-10,11,3,False,1,38.49,38.49,60.0,7.96,7.96
+460958,"Pilot Travel Center #1225 Mascoutah, IL",Mascoutah,IL,2025-12-08,17,1,False,1,22.04,22.04,90.0,11.0,11.0
+462227,IONNA Middletown Rechargery Relay,Middletown,MD,2025-12-10,14,3,False,1,23.33,23.33,30.0,6.04,6.04
+461049,Mitra EV DCFC - Aztec Solar,Rancho Cordova,CA,2025-12-06,4,6,True,1,43.92,43.92,60.0,8.24,8.24
+461546,"Pilot Travel Center #1051 Iowa, LA",Iowa,LA,2025-12-07,20,0,True,1,36.11,36.11,60.0,11.73,11.73
+469253,Lenexa Justice Center,Lenexa,KS,2025-12-08,17,1,False,1,35.72,35.72,45.0,9.01,9.01
+470792,Fellows Creek Golf Club,Canton,MI,2025-12-04,15,4,False,1,82.78,82.78,180.0,8.67,8.67
+461135,Marathon,Grand Rapids,MI,2025-12-06,10,6,True,1,22.9,22.9,90.0,6.94,6.94
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,2025-12-04,16,4,False,1,44.04,44.04,120.0,9.62,9.62
+461813,Culver's,Rhinelander,WI,2025-12-06,19,6,True,1,20.7,20.7,120.0,12.02,12.02
+460504,Marketplace Foods,Minot,ND,2025-12-05,23,5,False,1,88.32,88.32,120.0,42.67,42.67
+469401,Dutch Bros,Sacramento,CA,2025-12-06,4,6,True,1,42.12,42.12,60.0,15.98,15.98
+469752,"Ionna Carlin, NV Rechargery Relay @ Ridley’s Market",Carlin,NV,2025-12-08,21,1,False,1,19.67,19.67,45.0,13.73,13.73
+460673,Telsa Supercharger,Rogue River,Oregon,2025-12-09,8,2,False,1,44.03,44.03,60.0,12.07,12.07
+460318,EVgo,North Bend,Washington,2025-12-05,18,5,False,1,11.23,11.23,60.0,1.9,1.9
+461049,Mitra EV DCFC - Aztec Solar,Rancho Cordova,CA,2025-12-05,19,5,False,1,11.11,11.11,60.0,1.63,1.63
+461627,"T/A Travel Center #0057 - Redding, CA",Redding,CA,2025-12-10,9,3,False,1,10.94,10.94,60.0,3.49,3.49
+461049,Mitra EV DCFC - Aztec Solar,Rancho Cordova,CA,2025-12-04,7,4,False,1,9.02,9.02,60.0,2.63,2.63
+460429,Ruby's Inn General Store - Tesla Supercharger,Bryce Canyon City,Utah,2025-12-05,17,5,False,2,39.04,19.52,90.0,14.91,7.455
+461547,"Pilot Travel Center #1047 Jacksonville, FL",Jacksonville,FL,2025-12-04,19,4,False,1,10.36,10.36,60.0,4.1,4.1
+460323,Ionna - OKC,Oklahoma City,OK,2025-12-05,18,5,False,1,64.77,64.77,90.0,6.8,6.8
+460571,Exxon Utica,Utica,MI,2025-12-04,16,4,False,1,16.45,16.45,60.0,6.89,6.89
+460632,Parsons Chevy - Eagle River,Eagle River,WI,2025-12-06,8,6,True,2,67.06,33.53,60.0,29.62,14.81
+469807,OUC ReCharge EV Hub at OCCC,Orlando,FL,2025-12-06,6,6,True,1,90.91,90.91,120.0,46.06,46.06
+469499,Renewable Grid - Glen Cove Fast Charging,Glen Cove,NY,2025-12-05,9,5,False,2,82.24,41.12,90.0,19.7,9.85
+461554,The Bite Tumalo,Tumalo,OR,2025-12-08,12,1,False,1,54.67,54.67,90.0,20.92,20.92
+469401,Dutch Bros,Sacramento,CA,2025-12-04,12,4,False,2,44.28,22.14,60.0,12.22,6.11
+460430,Revel - South San Francisco,South San Francisco,CA,2025-12-05,21,5,False,1,61.49,61.49,120.0,19.55,19.55
+461251,Sunshine Gardens,South San Francisco,CA,2025-12-04,23,4,False,1,20.61,20.61,60.0,4.88,4.88
+460957,"Flying J Travel Center #489 Grand Forks, ND",Grand Forks,ND,2025-12-09,19,2,False,1,19.87,19.87,30.0,4.42,4.42
+460371,"Circle K - Yuma, AZ",Yuma,AZ,2025-12-04,2,4,False,1,85.3,85.3,120.0,31.5,31.5
+469748,Ionna Largo Rechargery @ Wawa,Largo,FL,2025-12-04,8,4,False,1,19.47,19.47,90.0,8.53,8.53
+461171,Hamilton CNG Filling Station,Hamilton,OH,2025-12-08,18,1,False,1,25.01,25.01,90.0,11.1,11.1
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-08,18,1,False,1,28.74,28.74,60.0,4.14,4.14
+460949,"Flying J Travel Center #737 San Antonio, TX",San Antonio,TX,2025-12-04,7,4,False,1,69.81,69.81,90.0,31.4,31.4
+461251,Sunshine Gardens,South San Francisco,CA,2025-12-09,18,2,False,1,15.63,15.63,60.0,8.04,8.04
+461511,Sleep Inn & Suites Monroe - Woodbury,Monroe,NY,2025-12-09,23,2,False,1,138.47,138.47,240.0,65.76,65.76
+461629,In-N-Out Burger - Redding,Redding,CA,2025-12-07,9,0,True,1,72.53,72.53,240.0,18.2,18.2
+469612,"Dennys - Auburn, WA",Auburn,WA,2025-12-10,7,3,False,2,69.23,34.615,60.0,14.46,7.23
+461050,Mitra EV DCFC - Sierra Pacific,Rancho Cordova,CA,2025-12-09,9,2,False,1,16.73,16.73,120.0,2.72,2.72
+469403,1122 Frankford grand,fishtown,PA,2025-12-09,14,2,False,1,25.01,25.01,60.0,10.26,10.26
+460606,Destination Charger,Columbia Falls,Montana,2025-12-10,20,3,False,1,98.69,98.69,120.0,38.93,38.93
+461629,In-N-Out Burger - Redding,Redding,CA,2025-12-04,9,4,False,1,74.37,74.37,90.0,12.59,12.59
+461048,Mitra EV DCFC - Ford Commercial,Sacramento,CA,2025-12-08,23,1,False,1,32.94,32.94,60.0,5.21,5.21
+462269,Ionna Rechargery,Roseville,CA,2025-12-06,19,6,True,1,75.47,75.47,120.0,10.5,10.5
+460429,Ruby's Inn General Store - Tesla Supercharger,Bryce Canyon City,Utah,2025-12-09,3,2,False,1,50.81,50.81,90.0,21.46,21.46
+469399,Elkhorn Shopping Center,Sacramento,CA,2025-12-09,5,2,False,1,10.97,10.97,90.0,4.72,4.72
+461049,Mitra EV DCFC - Aztec Solar,Rancho Cordova,CA,2025-12-10,9,3,False,1,14.4,14.4,30.0,2.29,2.29
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-10,18,3,False,1,125.49,125.49,180.0,60.33,60.33
+461171,Hamilton CNG Filling Station,Hamilton,OH,2025-12-05,16,5,False,1,8.35,8.35,60.0,1.56,1.56
+469374,Freewire Charging Station,Columbus,OH,2025-12-06,10,6,True,1,74.86,74.86,90.0,25.83,25.83
+469403,1122 Frankford grand,fishtown,PA,2025-12-06,13,6,True,1,13.11,13.11,60.0,2.15,2.15
+469748,Ionna Largo Rechargery @ Wawa,Largo,FL,2025-12-07,8,0,True,1,15.94,15.94,45.0,10.82,10.82
+461813,Culver's,Rhinelander,WI,2025-12-09,14,2,False,2,55.67,27.835,67.5,15.08,7.54
+461252,D & 3rd Street Curbside,West Sacramento,CA,2025-12-09,16,2,False,1,12.61,12.61,60.0,5.31,5.31
+462225,IONNA Beaver Rechargery Relay,Beaver,UT,2025-12-07,3,0,True,1,26.12,26.12,90.0,7.6,7.6
+460671,FPL,Pensacola,Florida,2025-12-09,18,2,False,1,16.09,16.09,45.0,1.79,1.79
+461511,Sleep Inn & Suites Monroe - Woodbury,Monroe,NY,2025-12-09,6,2,False,1,30.27,30.27,60.0,14.56,14.56
+460956,"Pilot Travel Center #368 Decatur, IL",Decatur,IL,2025-12-08,3,1,False,1,33.95,33.95,60.0,4.17,4.17
+461758,Bradville Square Shopping Center,Sacramento,CA,2025-12-06,12,6,True,1,54.74,54.74,90.0,19.15,19.15
+469252,Lenexa Old Town Activity Center,Lenexa,KS,2025-12-10,13,3,False,1,124.3,124.3,180.0,13.34,13.34
+460367,Santa Monica Station,Santa Monica,CA,2025-12-05,20,5,False,1,74.69,74.69,180.0,9.36,9.36
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,2025-12-05,13,5,False,1,11.71,11.71,90.0,7.99,7.99
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-05,18,5,False,1,62.51,62.51,90.0,32.44,32.44
+460263,Rivian Adventure Network,St. Regis,Montana,2025-12-06,14,6,True,2,77.81,38.905,90.0,13.61,6.805
+460958,"Pilot Travel Center #1225 Mascoutah, IL",Mascoutah,IL,2025-12-08,19,1,False,2,51.42,25.71,75.0,20.06,10.03
+469253,Lenexa Justice Center,Lenexa,KS,2025-12-09,21,2,False,1,57.26,57.26,90.0,23.51,23.51
+461050,Mitra EV DCFC - Sierra Pacific,Rancho Cordova,CA,2025-12-05,18,5,False,1,27.78,27.78,45.0,8.78,8.78
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-08,11,1,False,2,73.77,36.885,90.0,22.67,11.335
+461628,Petro Corning #309,Corning,CA,2025-12-10,13,3,False,1,75.84,75.84,120.0,30.9,30.9
+460328,Ionna Concord Rechargery,Concord,NC,2025-12-07,19,0,True,2,115.36,57.68,75.0,37.05,18.525
+462111,Shell - Novi,Novi,MI,2025-12-08,17,1,False,1,27.68,27.68,45.0,11.37,11.37
+469745,"Flying J Travel Center #875 Elkton, MD",Elkton,MD,2025-12-08,13,1,False,1,74.41,74.41,90.0,33.7,33.7
+460570,Eastern Market Public Lot,Detroit,MI,2025-12-06,13,6,True,1,34.02,34.02,90.0,9.17,9.17
+460505,Mass General Brigham Healthcare Center,Dover,NH,2025-12-08,18,1,False,1,30.07,30.07,60.0,10.23,10.23
+460371,"Circle K - Yuma, AZ",Yuma,AZ,2025-12-05,3,5,False,1,36.23,36.23,120.0,9.43,9.43
+460484,L2 near Ball&Chain,Miami,Florida,2025-12-04,20,4,False,1,59.24,59.24,90.0,24.99,24.99
+470498,US Highway 57,Eagle Pass,Texas,2025-12-10,7,3,False,1,21.15,21.15,45.0,4.59,4.59
+460506,Wentworth-Douglass Hospital,Dover,NH,2025-12-08,11,1,False,1,47.3,47.3,60.0,26.05,26.05
+462227,IONNA Middletown Rechargery Relay,Middletown,MD,2025-12-06,18,6,True,1,67.29,67.29,120.0,11.55,11.55
+470652,"Starbucks - Phoenix, OR",Phoenix,OR,2025-12-08,20,1,False,1,67.19,67.19,90.0,33.78,33.78
+470652,"Starbucks - Phoenix, OR",Phoenix,OR,2025-12-10,12,3,False,1,19.67,19.67,90.0,6.1,6.1
+462227,IONNA Middletown Rechargery Relay,Middletown,MD,2025-12-10,13,3,False,1,63.75,63.75,120.0,20.49,20.49
+469253,Lenexa Justice Center,Lenexa,KS,2025-12-08,7,1,False,1,26.14,26.14,90.0,12.01,12.01
+461553,Ventura County Credit Union,Ventura,CA,2025-12-10,1,3,False,1,28.34,28.34,90.0,4.16,4.16
+460345,Central Co-op,Tacoma,WA,2025-12-06,20,6,True,1,89.08,89.08,120.0,37.5,37.5
+461156,Key GMC of Rochester,Rochester,New Hampshire,2025-12-06,14,6,True,1,33.93,33.93,45.0,17.4,17.4
+461750,Speedy Q,New Baltimore,MI,2025-12-09,7,2,False,1,11.87,11.87,60.0,3.75,3.75
+460372,"Pilot Travel Center #1208 Yuma, AZ",Yuma,AZ,2025-12-09,13,2,False,1,17.21,17.21,90.0,1.84,1.84
+462225,IONNA Beaver Rechargery Relay,Beaver,UT,2025-12-04,3,4,False,1,90.63,90.63,120.0,14.0,14.0
+460367,Santa Monica Station,Santa Monica,CA,2025-12-09,16,2,False,1,45.51,45.51,60.0,9.9,9.9
+460372,"Pilot Travel Center #1208 Yuma, AZ",Yuma,AZ,2025-12-05,11,5,False,1,14.31,14.31,60.0,1.55,1.55
+460957,"Flying J Travel Center #489 Grand Forks, ND",Grand Forks,ND,2025-12-08,0,1,False,1,71.26,71.26,90.0,14.11,14.11
+460367,Santa Monica Station,Santa Monica,CA,2025-12-09,4,2,False,1,11.39,11.39,45.0,1.56,1.56
+470652,"Starbucks - Phoenix, OR",Phoenix,OR,2025-12-05,18,5,False,1,11.61,11.61,60.0,5.75,5.75
+460429,Ruby's Inn General Store - Tesla Supercharger,Bryce Canyon City,Utah,2025-12-07,16,0,True,1,8.42,8.42,60.0,6.65,6.65
+461756,"Laguna Blvd, Elk Grove, CA",Elk Grove,CA,2025-12-10,9,3,False,1,8.21,8.21,60.0,6.56,6.56
+460345,Central Co-op,Tacoma,WA,2025-12-09,0,2,False,1,41.37,41.37,60.0,11.08,11.08
+462227,IONNA Middletown Rechargery Relay,Middletown,MD,2025-12-05,14,5,False,1,9.59,9.59,60.0,6.72,6.72
+469745,"Flying J Travel Center #875 Elkton, MD",Elkton,MD,2025-12-10,4,3,False,1,63.51,63.51,90.0,10.44,10.44
+461758,Bradville Square Shopping Center,Sacramento,CA,2025-12-08,1,1,False,1,13.68,13.68,30.0,9.32,9.32
+460318,EVgo,North Bend,Washington,2025-12-09,9,2,False,1,16.12,16.12,120.0,3.53,3.53
+469752,"Ionna Carlin, NV Rechargery Relay @ Ridley’s Market",Carlin,NV,2025-12-05,8,5,False,1,11.86,11.86,30.0,5.54,5.54
+469745,"Flying J Travel Center #875 Elkton, MD",Elkton,MD,2025-12-06,14,6,True,1,14.89,14.89,120.0,2.67,2.67
+469748,Ionna Largo Rechargery @ Wawa,Largo,FL,2025-12-10,23,3,False,1,76.7,76.7,180.0,10.24,10.24
+460958,"Pilot Travel Center #1225 Mascoutah, IL",Mascoutah,IL,2025-12-05,12,5,False,1,21.3,21.3,180.0,7.78,7.78
+469612,"Dennys - Auburn, WA",Auburn,WA,2025-12-10,12,3,False,1,96.77,96.77,120.0,49.43,49.43
+461164,Clawson Shopping Center,Clawson,MI,2025-12-08,12,1,False,1,39.71,39.71,120.0,7.7,7.7
+469747,"Flying J Travel Center #692 Wells, NV",Wells,NV,2025-12-05,4,5,False,1,61.1,61.1,120.0,25.7,25.7
+470652,"Starbucks - Phoenix, OR",Phoenix,OR,2025-12-04,5,4,False,1,7.06,7.06,45.0,6.73,6.73
+460606,Destination Charger,Columbia Falls,Montana,2025-12-05,6,5,False,1,70.19,70.19,90.0,10.96,10.96
+460956,"Pilot Travel Center #368 Decatur, IL",Decatur,IL,2025-12-09,14,2,False,1,11.12,11.12,90.0,2.9,2.9
+470652,"Starbucks - Phoenix, OR",Phoenix,OR,2025-12-07,8,0,True,1,96.01,96.01,120.0,39.63,39.63
+461553,Ventura County Credit Union,Ventura,CA,2025-12-04,11,4,False,1,157.93,157.93,240.0,42.78,42.78
+470113,Kwik-Charge #1205,Lake Delton,WI,2025-12-09,19,2,False,1,8.18,8.18,60.0,2.25,2.25
+460430,Revel - South San Francisco,South San Francisco,CA,2025-12-09,12,2,False,1,40.46,40.46,60.0,4.48,4.48
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-09,2,2,False,1,46.67,46.67,60.0,23.6,23.6
+460708,Chargepoint,Scottsville,Kentucky,2025-12-06,23,6,True,1,79.83,79.83,180.0,18.32,18.32
+470113,Kwik-Charge #1205,Lake Delton,WI,2025-12-05,9,5,False,1,91.95,91.95,120.0,37.96,37.96
+469752,"Ionna Carlin, NV Rechargery Relay @ Ridley’s Market",Carlin,NV,2025-12-07,10,0,True,1,43.53,43.53,120.0,13.38,13.38
+469455,Polaris Bergland Township,Bergland,MI,2025-12-09,21,2,False,1,15.21,15.21,45.0,6.66,6.66
+460959,"Thorntons #327 - Bellwood, IL",Bellwood,IL,2025-12-04,11,4,False,2,106.9,53.45,120.0,47.21,23.605
+461307,Fas Mart,Grand Haven,MI,2025-12-05,15,5,False,1,18.48,18.48,90.0,2.77,2.77
+470792,Fellows Creek Golf Club,Canton,MI,2025-12-09,5,2,False,1,16.7,16.7,45.0,10.62,10.62
+461547,"Pilot Travel Center #1047 Jacksonville, FL",Jacksonville,FL,2025-12-07,18,0,True,1,74.28,74.28,120.0,34.67,34.67
+470276,"New Albany Light, Gas, and Water",New Albany,MS,2025-12-10,22,3,False,1,31.64,31.64,90.0,4.51,4.51
+460320,"Ionna - Daly City, CA",Daly City,CA,2025-12-07,14,0,True,1,73.31,73.31,120.0,31.39,31.39
+461631,"Pilot Travel Center #1019 - Orland, CA",Orland,CA,2025-12-04,18,4,False,1,96.06,96.06,120.0,49.38,49.38
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-07,17,0,True,1,50.26,50.26,120.0,13.87,13.87
+469612,"Dennys - Auburn, WA",Auburn,WA,2025-12-04,5,4,False,1,55.73,55.73,90.0,21.56,21.56
+469749,"Ionna Reading, MA Rechargery Relay",Reading,MA,2025-12-04,11,4,False,1,24.01,24.01,60.0,3.26,3.26
+461543,Garcia Bend Park,Sacramento,CA,2025-12-06,12,6,True,1,43.19,43.19,90.0,10.29,10.29
+461156,Key GMC of Rochester,Rochester,New Hampshire,2025-12-10,14,3,False,1,25.95,25.95,45.0,5.42,5.42
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-08,9,1,False,1,36.89,36.89,90.0,4.57,4.57
+460328,Ionna Concord Rechargery,Concord,NC,2025-12-06,0,6,True,1,46.15,46.15,60.0,11.02,11.02
+461756,"Laguna Blvd, Elk Grove, CA",Elk Grove,CA,2025-12-05,8,5,False,1,23.48,23.48,90.0,5.96,5.96
+461252,D & 3rd Street Curbside,West Sacramento,CA,2025-12-09,11,2,False,1,42.75,42.75,90.0,4.93,4.93
+469499,Renewable Grid - Glen Cove Fast Charging,Glen Cove,NY,2025-12-04,14,4,False,1,25.72,25.72,45.0,14.33,14.33
+462269,Ionna Rechargery,Roseville,CA,2025-12-08,7,1,False,1,42.36,42.36,60.0,8.98,8.98
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-04,15,4,False,1,80.51,80.51,180.0,19.93,19.93
+460505,Mass General Brigham Healthcare Center,Dover,NH,2025-12-05,16,5,False,1,35.76,35.76,120.0,8.15,8.15
+461166,Gladwin City Hall,Gladwin,MI,2025-12-10,5,3,False,1,22.53,22.53,30.0,2.96,2.96
+461546,"Pilot Travel Center #1051 Iowa, LA",Iowa,LA,2025-12-10,2,3,False,1,24.76,24.76,60.0,11.77,11.77
+469611,Dennys,Seatac,WA,2025-12-08,23,1,False,1,35.37,35.37,60.0,17.04,17.04
+461744,Sunset Pointe,Rocklin,CA,2025-12-04,7,4,False,1,12.37,12.37,30.0,4.87,4.87
+469399,Elkhorn Shopping Center,Sacramento,CA,2025-12-09,15,2,False,1,30.39,30.39,60.0,11.93,11.93
+461170,Hamilton Market St,Hamilton,OH,2025-12-09,0,2,False,1,62.96,62.96,90.0,17.86,17.86
+460570,Eastern Market Public Lot,Detroit,MI,2025-12-10,16,3,False,1,29.77,29.77,90.0,10.84,10.84
+460708,Chargepoint,Scottsville,Kentucky,2025-12-09,18,2,False,1,14.39,14.39,120.0,2.45,2.45
+461546,"Pilot Travel Center #1051 Iowa, LA",Iowa,LA,2025-12-06,19,6,True,1,95.41,95.41,120.0,19.35,19.35
+461744,Sunset Pointe,Rocklin,CA,2025-12-09,15,2,False,1,11.78,11.78,90.0,6.47,6.47
+460954,"Flying J Travel Center #671 Matthews, MO",Matthews,MO,2025-12-10,17,3,False,1,32.3,32.3,60.0,11.3,11.3
+469374,Freewire Charging Station,Columbus,OH,2025-12-04,8,4,False,1,127.91,127.91,180.0,25.53,25.53
+460671,FPL,Pensacola,Florida,2025-12-04,0,4,False,1,35.49,35.49,45.0,3.78,3.78
+460953,"Flying J Travel Center #690 Lordsburg, NM",Lordsburg,NM,2025-12-07,7,0,True,2,43.36,21.68,90.0,14.57,7.285
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,2025-12-10,15,3,False,1,33.97,33.97,120.0,3.92,3.92
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-10,7,3,False,1,29.38,29.38,60.0,10.95,10.95
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-10,1,3,False,1,9.09,9.09,45.0,5.39,5.39
+461370,Miller Hill Super One,Duluth,MN,2025-12-07,7,0,True,1,19.84,19.84,30.0,4.74,4.74
+460954,"Flying J Travel Center #671 Matthews, MO",Matthews,MO,2025-12-09,0,2,False,1,11.1,11.1,60.0,2.17,2.17
+461171,Hamilton CNG Filling Station,Hamilton,OH,2025-12-10,18,3,False,2,93.09,46.545,75.0,33.99,16.995
+469252,Lenexa Old Town Activity Center,Lenexa,KS,2025-12-07,15,0,True,1,44.9,44.9,120.0,18.55,18.55
+461549,"ONE9 Travel Center #7937 Mcleansville, NC",Mcleansville,NC,2025-12-08,17,1,False,1,81.43,81.43,120.0,13.38,13.38
+469253,Lenexa Justice Center,Lenexa,KS,2025-12-04,2,4,False,1,45.76,45.76,60.0,13.47,13.47
+461164,Clawson Shopping Center,Clawson,MI,2025-12-07,2,0,True,1,19.7,19.7,60.0,6.91,6.91
+462225,IONNA Beaver Rechargery Relay,Beaver,UT,2025-12-09,18,2,False,2,115.3,57.65,120.0,30.07,15.035
+470276,"New Albany Light, Gas, and Water",New Albany,MS,2025-12-06,3,6,True,1,52.86,52.86,90.0,10.93,10.93
+461275,Goodwill,St. Louis Park,MN,2025-12-08,1,1,False,1,21.06,21.06,60.0,5.03,5.03
+469253,Lenexa Justice Center,Lenexa,KS,2025-12-05,13,5,False,1,28.07,28.07,60.0,4.29,4.29
+460957,"Flying J Travel Center #489 Grand Forks, ND",Grand Forks,ND,2025-12-09,17,2,False,1,66.74,66.74,90.0,21.4,21.4
+460429,Ruby's Inn General Store - Tesla Supercharger,Bryce Canyon City,Utah,2025-12-09,9,2,False,1,9.0,9.0,60.0,1.22,1.22
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-04,6,4,False,1,60.74,60.74,90.0,24.56,24.56
+461547,"Pilot Travel Center #1047 Jacksonville, FL",Jacksonville,FL,2025-12-09,8,2,False,1,32.44,32.44,60.0,13.56,13.56
+469743,"Pilot Travel Center #4642 Toms Brook, VA",Toms Brook,VA,2025-12-08,10,1,False,1,25.08,25.08,60.0,7.22,7.22
+462228,IONNA Kutztown Rechargery @ Sheetz,Kutztown,PA,2025-12-05,17,5,False,1,25.86,25.86,60.0,7.31,7.31
+469747,"Flying J Travel Center #692 Wells, NV",Wells,NV,2025-12-06,10,6,True,1,14.19,14.19,90.0,4.54,4.54
+462225,IONNA Beaver Rechargery Relay,Beaver,UT,2025-12-05,8,5,False,1,64.4,64.4,90.0,23.6,23.6
+462127,Kimco-charlotte,Charlotte,NC,2025-12-05,1,5,False,1,19.62,19.62,90.0,7.03,7.03
+470696,Trailborn Grand Canyon,Williams,AZ,2025-12-09,19,2,False,1,13.89,13.89,90.0,9.8,9.8
+470696,Trailborn Grand Canyon,Williams,AZ,2025-12-07,18,0,True,1,104.7,104.7,180.0,15.27,15.27
+460384,Mendocino Marketplace,Santa Rosa,CA,2025-12-08,4,1,False,1,96.23,96.23,240.0,26.16,26.16
+460570,Eastern Market Public Lot,Detroit,MI,2025-12-04,16,4,False,1,65.46,65.46,120.0,13.55,13.55
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,2025-12-10,8,3,False,1,26.83,26.83,45.0,3.93,3.93
+460504,Marketplace Foods,Minot,ND,2025-12-08,9,1,False,1,75.93,75.93,120.0,34.4,34.4
+461757,Dutch Bros Coffee,Sacramento,CA,2025-12-09,17,2,False,1,42.64,42.64,120.0,13.43,13.43
+470651,"Starbucks - Ridgefield, WA",Ridgefield,WA,2025-12-06,7,6,True,1,27.9,27.9,60.0,10.66,10.66
+461130,TownePlace Suites by Marriott Houston Northwest/Beltway 8,Houston,TX,2025-12-07,16,0,True,1,28.27,28.27,90.0,6.77,6.77
+470696,Trailborn Grand Canyon,Williams,AZ,2025-12-07,9,0,True,1,13.01,13.01,60.0,5.36,5.36
+461756,"Laguna Blvd, Elk Grove, CA",Elk Grove,CA,2025-12-05,5,5,False,1,95.69,95.69,120.0,27.48,27.48
+470357,FastTrack Market Marathon,Taylor,MI,2025-12-04,4,4,False,1,25.69,25.69,60.0,8.42,8.42
+469252,Lenexa Old Town Activity Center,Lenexa,KS,2025-12-09,0,2,False,1,13.04,13.04,45.0,6.12,6.12
+470312,Safeway,Hercules,CA,2025-12-04,9,4,False,1,54.39,54.39,90.0,26.3,26.3
+469741,"Pilot Travel Center #63 Piedmont, SC",Piedmont,SC,2025-12-10,18,3,False,1,32.04,32.04,60.0,13.94,13.94
+460323,Ionna - OKC,Oklahoma City,OK,2025-12-04,19,4,False,1,49.7,49.7,90.0,13.94,13.94
+460959,"Thorntons #327 - Bellwood, IL",Bellwood,IL,2025-12-08,12,1,False,1,84.61,84.61,120.0,10.32,10.32
+469745,"Flying J Travel Center #875 Elkton, MD",Elkton,MD,2025-12-04,19,4,False,1,72.59,72.59,90.0,39.32,39.32
+461251,Sunshine Gardens,South San Francisco,CA,2025-12-10,13,3,False,1,23.72,23.72,90.0,2.46,2.46
+461541,Fox Kia South,Grand Rapids,michigan,2025-12-04,22,4,False,1,70.38,70.38,90.0,18.19,18.19
+460321,IONNA - Gilman Rechargery Relay,Gilman,IL,2025-12-04,18,4,False,1,73.71,73.71,90.0,26.75,26.75
+470276,"New Albany Light, Gas, and Water",New Albany,MS,2025-12-06,17,6,True,1,28.46,28.46,120.0,10.79,10.79
+460430,Revel - South San Francisco,South San Francisco,CA,2025-12-09,19,2,False,1,22.45,22.45,60.0,6.92,6.92
+461744,Sunset Pointe,Rocklin,CA,2025-12-07,5,0,True,1,33.14,33.14,120.0,7.48,7.48
+460371,"Circle K - Yuma, AZ",Yuma,AZ,2025-12-04,9,4,False,2,72.88,36.44,75.0,16.2,8.1
+461750,Speedy Q,New Baltimore,MI,2025-12-04,5,4,False,1,71.05,71.05,90.0,7.46,7.46
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-06,21,6,True,1,44.71,44.71,90.0,14.21,14.21
+460957,"Flying J Travel Center #489 Grand Forks, ND",Grand Forks,ND,2025-12-09,13,2,False,1,17.98,17.98,60.0,10.01,10.01
+461050,Mitra EV DCFC - Sierra Pacific,Rancho Cordova,CA,2025-12-06,8,6,True,1,24.25,24.25,90.0,9.8,9.8
+461628,Petro Corning #309,Corning,CA,2025-12-06,12,6,True,1,9.29,9.29,30.0,5.33,5.33
+469741,"Pilot Travel Center #63 Piedmont, SC",Piedmont,SC,2025-12-10,9,3,False,1,86.51,86.51,120.0,43.85,43.85
+460429,Ruby's Inn General Store - Tesla Supercharger,Bryce Canyon City,Utah,2025-12-08,1,1,False,1,24.23,24.23,60.0,5.37,5.37
+461275,Goodwill,St. Louis Park,MN,2025-12-09,20,2,False,1,72.54,72.54,90.0,25.03,25.03
+461073,Fairfield by Marriott Inn & Suites Houston Brookhollow,Houston,TX,2025-12-04,14,4,False,1,81.44,81.44,120.0,36.98,36.98
+460320,"Ionna - Daly City, CA",Daly City,CA,2025-12-08,22,1,False,1,17.52,17.52,90.0,8.27,8.27
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-09,11,2,False,1,58.82,58.82,90.0,19.32,19.32
+461548,"Pilot Travel Center #374 Marianna, FL",Marianna,FL,2025-12-06,18,6,True,1,47.54,47.54,90.0,11.87,11.87
+460673,Telsa Supercharger,Rogue River,Oregon,2025-12-10,9,3,False,1,66.94,66.94,90.0,32.21,32.21
+460368,"bp pulse - Duarte, CA",Duarte,CA,2025-12-05,11,5,False,1,6.2,6.2,30.0,2.57,2.57
+461553,Ventura County Credit Union,Ventura,CA,2025-12-09,13,2,False,1,9.45,9.45,60.0,5.5,5.5
+460504,Marketplace Foods,Minot,ND,2025-12-09,9,2,False,1,80.66,80.66,240.0,35.19,35.19
+460959,"Thorntons #327 - Bellwood, IL",Bellwood,IL,2025-12-04,19,4,False,1,48.82,48.82,60.0,6.03,6.03
+469611,Dennys,Seatac,WA,2025-12-10,20,3,False,1,24.08,24.08,90.0,4.73,4.73
+461275,Goodwill,St. Louis Park,MN,2025-12-04,13,4,False,1,42.43,42.43,60.0,15.93,15.93
+460323,Ionna - OKC,Oklahoma City,OK,2025-12-06,11,6,True,1,30.56,30.56,45.0,5.69,5.69
+461165,Heilmann Community Center,Detroit,MI,2025-12-06,16,6,True,1,43.9,43.9,60.0,9.2,9.2
+470498,US Highway 57,Eagle Pass,Texas,2025-12-10,13,3,False,1,63.5,63.5,90.0,13.35,13.35
+460263,Rivian Adventure Network,St. Regis,Montana,2025-12-10,14,3,False,1,27.27,27.27,60.0,4.21,4.21
+470312,Safeway,Hercules,CA,2025-12-04,10,4,False,1,62.3,62.3,90.0,17.32,17.32
+462098,Wawa Supercharger,Staunton,VA,2025-12-06,19,6,True,1,44.45,44.45,120.0,14.39,14.39
+460606,Destination Charger,Columbia Falls,Montana,2025-12-06,8,6,True,1,58.93,58.93,90.0,15.44,15.44
+460329,IONNA Seffner Rechargery,Seffner,FL,2025-12-10,19,3,False,1,44.72,44.72,120.0,16.13,16.13
+460969,EVgo - SF SOMA,San Francisco,CA,2025-12-06,18,6,True,1,38.86,38.86,180.0,14.96,14.96
+461252,D & 3rd Street Curbside,West Sacramento,CA,2025-12-10,7,3,False,1,36.78,36.78,60.0,7.51,7.51
+461733,Walmart,Checotah,OK,2025-12-07,18,0,True,1,39.3,39.3,60.0,9.96,9.96
+469430,Bernal Plaza,San Jose,CA,2025-12-05,9,5,False,1,8.21,8.21,60.0,4.49,4.49
+469430,Bernal Plaza,San Jose,CA,2025-12-09,14,2,False,1,43.47,43.47,60.0,9.96,9.96
+469745,"Flying J Travel Center #875 Elkton, MD",Elkton,MD,2025-12-05,5,5,False,1,56.29,56.29,90.0,29.29,29.29
+461758,Bradville Square Shopping Center,Sacramento,CA,2025-12-10,8,3,False,1,55.84,55.84,90.0,23.19,23.19
+461130,TownePlace Suites by Marriott Houston Northwest/Beltway 8,Houston,TX,2025-12-10,2,3,False,1,23.14,23.14,60.0,4.03,4.03
+462111,Shell - Novi,Novi,MI,2025-12-07,3,0,True,1,97.89,97.89,180.0,29.13,29.13
+460318,EVgo,North Bend,Washington,2025-12-09,12,2,False,1,8.7,8.7,45.0,3.28,3.28
+461135,Marathon,Grand Rapids,MI,2025-12-08,14,1,False,1,26.53,26.53,45.0,11.5,11.5
+460506,Wentworth-Douglass Hospital,Dover,NH,2025-12-07,21,0,True,1,28.72,28.72,90.0,11.32,11.32
+469748,Ionna Largo Rechargery @ Wawa,Largo,FL,2025-12-10,16,3,False,1,50.94,50.94,180.0,8.13,8.13
+462269,Ionna Rechargery,Roseville,CA,2025-12-04,21,4,False,1,16.31,16.31,60.0,5.11,5.11
+460956,"Pilot Travel Center #368 Decatur, IL",Decatur,IL,2025-12-09,18,2,False,1,23.21,23.21,60.0,11.31,11.31
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-08,7,1,False,1,19.97,19.97,45.0,9.98,9.98
+461165,Heilmann Community Center,Detroit,MI,2025-12-08,13,1,False,1,38.33,38.33,60.0,8.21,8.21
+460949,"Flying J Travel Center #737 San Antonio, TX",San Antonio,TX,2025-12-10,23,3,False,1,33.52,33.52,45.0,14.29,14.29
+460955,"Flying J Travel Center #572 Williams, IA",Williams,IA,2025-12-09,23,2,False,2,93.13,46.565,105.0,15.92,7.96
+461750,Speedy Q,New Baltimore,MI,2025-12-07,4,0,True,1,11.42,11.42,60.0,4.75,4.75
+469399,Elkhorn Shopping Center,Sacramento,CA,2025-12-09,14,2,False,1,29.6,29.6,180.0,13.37,13.37
+460329,IONNA Seffner Rechargery,Seffner,FL,2025-12-08,12,1,False,1,30.95,30.95,90.0,13.36,13.36
+462226,IONNA Raleigh Rechargery Relay,Raleigh,NC,2025-12-05,21,5,False,1,47.12,47.12,120.0,11.05,11.05
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-09,3,2,False,1,98.89,98.89,120.0,35.55,35.55
+461157,University Place Library,University Place,Washington,2025-12-04,19,4,False,1,29.98,29.98,60.0,11.19,11.19
+461170,Hamilton Market St,Hamilton,OH,2025-12-09,11,2,False,1,66.0,66.0,90.0,17.17,17.17
+469749,"Ionna Reading, MA Rechargery Relay",Reading,MA,2025-12-09,11,2,False,1,40.98,40.98,60.0,13.34,13.34
+469612,"Dennys - Auburn, WA",Auburn,WA,2025-12-06,5,6,True,1,41.75,41.75,60.0,10.61,10.61
+460954,"Flying J Travel Center #671 Matthews, MO",Matthews,MO,2025-12-09,18,2,False,1,96.44,96.44,180.0,24.36,24.36
+470113,Kwik-Charge #1205,Lake Delton,WI,2025-12-08,10,1,False,2,95.55,47.775,75.0,43.78,21.89
+460372,"Pilot Travel Center #1208 Yuma, AZ",Yuma,AZ,2025-12-09,17,2,False,1,36.27,36.27,90.0,9.64,9.64
+460485,Safeway,Martinez,CA,2025-12-10,18,3,False,1,65.6,65.6,90.0,22.86,22.86
+461813,Culver's,Rhinelander,WI,2025-12-04,8,4,False,1,60.29,60.29,90.0,19.64,19.64
+469746,"Pilot Travel Center #281 Girard, OH",Girard,OH,2025-12-08,10,1,False,1,24.05,24.05,60.0,9.11,9.11
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-04,10,4,False,1,163.27,163.27,240.0,55.77,55.77
+460368,"bp pulse - Duarte, CA",Duarte,CA,2025-12-06,18,6,True,1,56.28,56.28,90.0,10.87,10.87
+461167,Pats Food Freeland,Freeland,MI,2025-12-10,9,3,False,1,68.24,68.24,90.0,32.42,32.42
+460263,Rivian Adventure Network,St. Regis,Montana,2025-12-10,18,3,False,1,18.72,18.72,90.0,4.16,4.16
+461156,Key GMC of Rochester,Rochester,New Hampshire,2025-12-09,12,2,False,1,16.92,16.92,90.0,4.94,4.94
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-07,23,0,True,1,49.66,49.66,90.0,23.89,23.89
+469374,Freewire Charging Station,Columbus,OH,2025-12-10,23,3,False,1,38.98,38.98,90.0,14.26,14.26
+461715,BP Express Stop,Jackson,MI,2025-12-10,18,3,False,1,42.48,42.48,60.0,6.42,6.42
+470498,US Highway 57,Eagle Pass,Texas,2025-12-08,18,1,False,2,62.48,31.24,90.0,9.18,4.59
+460429,Ruby's Inn General Store - Tesla Supercharger,Bryce Canyon City,Utah,2025-12-10,11,3,False,1,26.13,26.13,180.0,13.8,13.8
+461166,Gladwin City Hall,Gladwin,MI,2025-12-07,23,0,True,1,19.09,19.09,90.0,6.83,6.83
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-04,16,4,False,1,90.21,90.21,120.0,46.17,46.17
+461275,Goodwill,St. Louis Park,MN,2025-12-07,15,0,True,2,76.56,38.28,105.0,30.18,15.09
+461554,The Bite Tumalo,Tumalo,OR,2025-12-09,10,2,False,1,46.42,46.42,60.0,8.8,8.8
+460430,Revel - South San Francisco,South San Francisco,CA,2025-12-08,19,1,False,1,26.48,26.48,90.0,8.37,8.37
+460708,Chargepoint,Scottsville,Kentucky,2025-12-09,4,2,False,1,57.48,57.48,120.0,12.24,12.24
+461554,The Bite Tumalo,Tumalo,OR,2025-12-06,15,6,True,1,49.0,49.0,60.0,10.02,10.02
+461553,Ventura County Credit Union,Ventura,CA,2025-12-08,11,1,False,1,25.82,25.82,90.0,6.57,6.57
+462098,Wawa Supercharger,Staunton,VA,2025-12-06,17,6,True,1,51.38,51.38,120.0,12.6,12.6
+460430,Revel - South San Francisco,South San Francisco,CA,2025-12-07,10,0,True,1,27.45,27.45,45.0,11.83,11.83
+460368,"bp pulse - Duarte, CA",Duarte,CA,2025-12-10,14,3,False,1,23.1,23.1,90.0,11.15,11.15
+469401,Dutch Bros,Sacramento,CA,2025-12-05,9,5,False,1,12.17,12.17,45.0,2.0,2.0
+460708,Chargepoint,Scottsville,Kentucky,2025-12-09,17,2,False,1,87.91,87.91,120.0,19.59,19.59
+461550,"Flying J Travel Center #706 Tulsa, OK",Tulsa,OK,2025-12-10,12,3,False,1,60.93,60.93,90.0,17.61,17.61
+469252,Lenexa Old Town Activity Center,Lenexa,KS,2025-12-08,19,1,False,1,70.2,70.2,90.0,7.51,7.51
+461547,"Pilot Travel Center #1047 Jacksonville, FL",Jacksonville,FL,2025-12-06,9,6,True,1,17.29,17.29,45.0,7.85,7.85
+462111,Shell - Novi,Novi,MI,2025-12-10,17,3,False,1,54.89,54.89,90.0,8.79,8.79
+460371,"Circle K - Yuma, AZ",Yuma,AZ,2025-12-08,19,1,False,1,42.76,42.76,60.0,19.86,19.86
+460506,Wentworth-Douglass Hospital,Dover,NH,2025-12-08,5,1,False,1,59.06,59.06,120.0,31.5,31.5
+460957,"Flying J Travel Center #489 Grand Forks, ND",Grand Forks,ND,2025-12-10,4,3,False,1,21.95,21.95,90.0,8.72,8.72
+469455,Polaris Bergland Township,Bergland,MI,2025-12-07,9,0,True,1,47.7,47.7,60.0,20.76,20.76
+462127,Kimco-charlotte,Charlotte,NC,2025-12-04,17,4,False,1,8.84,8.84,60.0,2.49,2.49
+460263,Rivian Adventure Network,St. Regis,Montana,2025-12-09,0,2,False,1,33.22,33.22,60.0,15.49,15.49
+461627,"T/A Travel Center #0057 - Redding, CA",Redding,CA,2025-12-05,18,5,False,1,11.33,11.33,30.0,4.31,4.31
+470113,Kwik-Charge #1205,Lake Delton,WI,2025-12-09,18,2,False,1,54.55,54.55,120.0,24.91,24.91
+469747,"Flying J Travel Center #692 Wells, NV",Wells,NV,2025-12-06,5,6,True,1,41.61,41.61,90.0,17.04,17.04
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-05,0,5,False,1,21.35,21.35,45.0,2.43,2.43
+461252,D & 3rd Street Curbside,West Sacramento,CA,2025-12-09,12,2,False,1,39.17,39.17,60.0,14.6,14.6
+460484,L2 near Ball&Chain,Miami,Florida,2025-12-10,17,3,False,1,68.62,68.62,90.0,16.23,16.23
+469745,"Flying J Travel Center #875 Elkton, MD",Elkton,MD,2025-12-06,15,6,True,1,11.26,11.26,60.0,2.92,2.92
+461156,Key GMC of Rochester,Rochester,New Hampshire,2025-12-09,22,2,False,1,27.81,27.81,60.0,8.55,8.55
+469807,OUC ReCharge EV Hub at OCCC,Orlando,FL,2025-12-07,7,0,True,1,45.04,45.04,60.0,5.84,5.84
+460956,"Pilot Travel Center #368 Decatur, IL",Decatur,IL,2025-12-07,9,0,True,1,31.59,31.59,60.0,9.16,9.16
+469752,"Ionna Carlin, NV Rechargery Relay @ Ridley’s Market",Carlin,NV,2025-12-07,17,0,True,1,52.52,52.52,90.0,9.78,9.78
+462098,Wawa Supercharger,Staunton,VA,2025-12-06,20,6,True,1,81.42,81.42,120.0,19.03,19.03
+462227,IONNA Middletown Rechargery Relay,Middletown,MD,2025-12-07,8,0,True,1,26.43,26.43,90.0,13.18,13.18
+470651,"Starbucks - Ridgefield, WA",Ridgefield,WA,2025-12-05,13,5,False,1,144.52,144.52,180.0,46.92,46.92
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-08,7,1,False,1,48.98,48.98,90.0,6.17,6.17
+461049,Mitra EV DCFC - Aztec Solar,Rancho Cordova,CA,2025-12-04,18,4,False,1,83.41,83.41,120.0,21.1,21.1
+460322,Ionna Daytona Beach Rechargery Relay @Wawa,Daytona Beach,FL,2025-12-06,7,6,True,1,7.61,7.61,60.0,0.88,0.88
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-08,7,1,False,1,27.05,27.05,45.0,7.71,7.71
+460504,Marketplace Foods,Minot,ND,2025-12-07,15,0,True,1,34.25,34.25,90.0,13.36,13.36
+469455,Polaris Bergland Township,Bergland,MI,2025-12-07,14,0,True,2,112.31,56.155,90.0,19.81,9.905
+460506,Wentworth-Douglass Hospital,Dover,NH,2025-12-06,17,6,True,1,48.77,48.77,60.0,11.88,11.88
+461165,Heilmann Community Center,Detroit,MI,2025-12-07,7,0,True,1,25.61,25.61,45.0,7.31,7.31
+469401,Dutch Bros,Sacramento,CA,2025-12-04,17,4,False,1,57.2,57.2,90.0,8.87,8.87
+460606,Destination Charger,Columbia Falls,Montana,2025-12-06,16,6,True,1,21.94,21.94,120.0,2.8,2.8
+469401,Dutch Bros,Sacramento,CA,2025-12-08,17,1,False,1,12.84,12.84,90.0,4.2,4.2
+460318,EVgo,North Bend,Washington,2025-12-09,20,2,False,1,21.6,21.6,45.0,3.99,3.99
+462127,Kimco-charlotte,Charlotte,NC,2025-12-08,6,1,False,2,90.35,45.175,90.0,30.93,15.465
+469743,"Pilot Travel Center #4642 Toms Brook, VA",Toms Brook,VA,2025-12-10,19,3,False,1,70.65,70.65,90.0,18.82,18.82
+462127,Kimco-charlotte,Charlotte,NC,2025-12-09,6,2,False,1,5.81,5.81,30.0,2.14,2.14
+469741,"Pilot Travel Center #63 Piedmont, SC",Piedmont,SC,2025-12-10,17,3,False,1,92.8,92.8,120.0,39.0,39.0
+460263,Rivian Adventure Network,St. Regis,Montana,2025-12-06,16,6,True,1,10.63,10.63,90.0,5.73,5.73
+469747,"Flying J Travel Center #692 Wells, NV",Wells,NV,2025-12-04,5,4,False,1,89.57,89.57,120.0,12.13,12.13
+460949,"Flying J Travel Center #737 San Antonio, TX",San Antonio,TX,2025-12-06,18,6,True,1,18.03,18.03,60.0,3.05,3.05
+461627,"T/A Travel Center #0057 - Redding, CA",Redding,CA,2025-12-05,9,5,False,1,50.79,50.79,90.0,8.02,8.02
+460505,Mass General Brigham Healthcare Center,Dover,NH,2025-12-04,8,4,False,1,45.56,45.56,60.0,16.26,16.26
+460328,Ionna Concord Rechargery,Concord,NC,2025-12-05,8,5,False,2,89.0,44.5,75.0,19.99,9.995
+460331,"Pilot Travel Center #474 Sutton, WV",Sutton,WV,2025-12-07,17,0,True,1,47.3,47.3,90.0,8.13,8.13
+461307,Fas Mart,Grand Haven,MI,2025-12-07,18,0,True,1,7.76,7.76,60.0,1.6,1.6
+460318,EVgo,North Bend,Washington,2025-12-06,11,6,True,1,77.57,77.57,120.0,27.13,27.13
+470696,Trailborn Grand Canyon,Williams,AZ,2025-12-06,9,6,True,1,64.61,64.61,90.0,23.33,23.33
+461813,Culver's,Rhinelander,WI,2025-12-05,18,5,False,1,21.15,21.15,60.0,4.93,4.93
+469752,"Ionna Carlin, NV Rechargery Relay @ Ridley’s Market",Carlin,NV,2025-12-04,14,4,False,1,47.8,47.8,60.0,14.34,14.34
+470498,US Highway 57,Eagle Pass,Texas,2025-12-04,0,4,False,1,63.4,63.4,90.0,25.41,25.41
+462227,IONNA Middletown Rechargery Relay,Middletown,MD,2025-12-04,18,4,False,1,57.9,57.9,90.0,9.12,9.12
+461628,Petro Corning #309,Corning,CA,2025-12-09,11,2,False,1,96.18,96.18,120.0,10.6,10.6
+469752,"Ionna Carlin, NV Rechargery Relay @ Ridley’s Market",Carlin,NV,2025-12-10,18,3,False,1,14.33,14.33,60.0,1.87,1.87
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-05,4,5,False,1,49.59,49.59,90.0,11.45,11.45
+461048,Mitra EV DCFC - Ford Commercial,Sacramento,CA,2025-12-09,14,2,False,1,19.77,19.77,90.0,7.51,7.51
+461757,Dutch Bros Coffee,Sacramento,CA,2025-12-09,13,2,False,1,67.01,67.01,120.0,22.71,22.71
+461543,Garcia Bend Park,Sacramento,CA,2025-12-09,7,2,False,1,47.43,47.43,60.0,22.1,22.1
+461130,TownePlace Suites by Marriott Houston Northwest/Beltway 8,Houston,TX,2025-12-10,10,3,False,1,69.81,69.81,120.0,25.2,25.2
+470312,Safeway,Hercules,CA,2025-12-08,1,1,False,1,32.17,32.17,60.0,16.8,16.8
+461758,Bradville Square Shopping Center,Sacramento,CA,2025-12-09,13,2,False,1,60.96,60.96,120.0,28.93,28.93
+460209,"Flying J Travel Center #626 St. Augustine, FL",St. Augustine,FL,2025-12-04,18,4,False,1,37.18,37.18,45.0,7.24,7.24
+460429,Ruby's Inn General Store - Tesla Supercharger,Bryce Canyon City,Utah,2025-12-09,5,2,False,1,41.93,41.93,90.0,18.72,18.72
+460959,"Thorntons #327 - Bellwood, IL",Bellwood,IL,2025-12-09,23,2,False,1,54.47,54.47,180.0,13.54,13.54
+462098,Wawa Supercharger,Staunton,VA,2025-12-09,18,2,False,1,11.9,11.9,30.0,3.98,3.98
+461541,Fox Kia South,Grand Rapids,michigan,2025-12-04,16,4,False,1,19.32,19.32,60.0,4.58,4.58
+461157,University Place Library,University Place,Washington,2025-12-09,19,2,False,1,44.51,44.51,60.0,9.04,9.04
+470113,Kwik-Charge #1205,Lake Delton,WI,2025-12-08,11,1,False,1,11.2,11.2,45.0,4.83,4.83
+462269,Ionna Rechargery,Roseville,CA,2025-12-05,13,5,False,1,33.78,33.78,45.0,11.66,11.66
+460954,"Flying J Travel Center #671 Matthews, MO",Matthews,MO,2025-12-09,12,2,False,1,32.52,32.52,45.0,12.35,12.35
+461543,Garcia Bend Park,Sacramento,CA,2025-12-08,7,1,False,1,23.83,23.83,90.0,8.49,8.49
+469747,"Flying J Travel Center #692 Wells, NV",Wells,NV,2025-12-07,1,0,True,1,48.04,48.04,60.0,13.27,13.27
+460329,IONNA Seffner Rechargery,Seffner,FL,2025-12-10,8,3,False,1,41.13,41.13,60.0,16.26,16.26
+460708,Chargepoint,Scottsville,Kentucky,2025-12-08,11,1,False,1,34.53,34.53,45.0,7.6,7.6
+460503,Futurama near Ball & Chain,Miami,Florida,2025-12-05,9,5,False,1,10.21,10.21,60.0,2.69,2.69
+470357,FastTrack Market Marathon,Taylor,MI,2025-12-05,16,5,False,1,49.36,49.36,90.0,10.76,10.76
+460571,Exxon Utica,Utica,MI,2025-12-07,17,0,True,1,40.57,40.57,90.0,15.52,15.52
+461553,Ventura County Credit Union,Ventura,CA,2025-12-06,15,6,True,1,21.89,21.89,90.0,2.53,2.53
+460485,Safeway,Martinez,CA,2025-12-07,8,0,True,1,47.26,47.26,60.0,19.28,19.28
+460956,"Pilot Travel Center #368 Decatur, IL",Decatur,IL,2025-12-07,7,0,True,1,8.8,8.8,30.0,5.05,5.05
+461251,Sunshine Gardens,South San Francisco,CA,2025-12-07,8,0,True,1,98.07,98.07,120.0,24.16,24.16
+460430,Revel - South San Francisco,South San Francisco,CA,2025-12-06,17,6,True,1,68.13,68.13,90.0,26.88,26.88
+460503,Futurama near Ball & Chain,Miami,Florida,2025-12-08,16,1,False,2,84.73,42.365,105.0,38.12,19.06
+460708,Chargepoint,Scottsville,Kentucky,2025-12-10,16,3,False,2,73.68,36.84,120.0,26.6,13.3
+461049,Mitra EV DCFC - Aztec Solar,Rancho Cordova,CA,2025-12-08,4,1,False,1,20.4,20.4,30.0,9.63,9.63
+462228,IONNA Kutztown Rechargery @ Sheetz,Kutztown,PA,2025-12-05,20,5,False,2,46.65,23.325,105.0,13.82,6.91
+460956,"Pilot Travel Center #368 Decatur, IL",Decatur,IL,2025-12-09,12,2,False,1,31.46,31.46,90.0,6.54,6.54
+461135,Marathon,Grand Rapids,MI,2025-12-05,18,5,False,1,97.33,97.33,120.0,28.55,28.55
+462111,Shell - Novi,Novi,MI,2025-12-10,14,3,False,1,12.63,12.63,60.0,4.09,4.09
+462227,IONNA Middletown Rechargery Relay,Middletown,MD,2025-12-05,19,5,False,1,8.47,8.47,60.0,5.14,5.14
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-07,10,0,True,1,72.41,72.41,90.0,21.72,21.72
+461733,Walmart,Checotah,OK,2025-12-07,14,0,True,1,31.73,31.73,60.0,11.5,11.5
+460503,Futurama near Ball & Chain,Miami,Florida,2025-12-05,7,5,False,1,44.6,44.6,60.0,6.79,6.79
+469455,Polaris Bergland Township,Bergland,MI,2025-12-08,19,1,False,1,46.61,46.61,60.0,4.94,4.94
+461511,Sleep Inn & Suites Monroe - Woodbury,Monroe,NY,2025-12-06,8,6,True,1,88.42,88.42,180.0,40.75,40.75
+469612,"Dennys - Auburn, WA",Auburn,WA,2025-12-09,8,2,False,1,100.0,100.0,120.0,17.43,17.43
+460485,Safeway,Martinez,CA,2025-12-09,15,2,False,1,31.13,31.13,45.0,9.72,9.72
+469499,Renewable Grid - Glen Cove Fast Charging,Glen Cove,NY,2025-12-08,20,1,False,1,38.35,38.35,60.0,18.6,18.6
+460503,Futurama near Ball & Chain,Miami,Florida,2025-12-08,19,1,False,1,22.13,22.13,60.0,3.84,3.84
+470651,"Starbucks - Ridgefield, WA",Ridgefield,WA,2025-12-04,9,4,False,1,52.27,52.27,90.0,18.87,18.87
+460368,"bp pulse - Duarte, CA",Duarte,CA,2025-12-08,13,1,False,1,72.06,72.06,90.0,8.54,8.54
+461370,Miller Hill Super One,Duluth,MN,2025-12-10,21,3,False,1,24.1,24.1,120.0,3.79,3.79
+461554,The Bite Tumalo,Tumalo,OR,2025-12-07,11,0,True,1,91.14,91.14,120.0,31.41,31.41
+460367,Santa Monica Station,Santa Monica,CA,2025-12-10,23,3,False,1,7.75,7.75,45.0,3.57,3.57
+470314,EVolve NY Afton,Afton,NY,2025-12-06,16,6,True,1,50.71,50.71,90.0,9.3,9.3
+461307,Fas Mart,Grand Haven,MI,2025-12-05,19,5,False,1,42.23,42.23,60.0,20.36,20.36
+461549,"ONE9 Travel Center #7937 Mcleansville, NC",Mcleansville,NC,2025-12-10,11,3,False,1,49.65,49.65,60.0,15.48,15.48
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-08,8,1,False,1,40.12,40.12,180.0,12.27,12.27
+460571,Exxon Utica,Utica,MI,2025-12-05,17,5,False,1,42.72,42.72,60.0,17.66,17.66
+470696,Trailborn Grand Canyon,Williams,AZ,2025-12-09,13,2,False,1,84.3,84.3,120.0,32.16,32.16
+460384,Mendocino Marketplace,Santa Rosa,CA,2025-12-07,3,0,True,1,13.72,13.72,90.0,1.55,1.55
+461549,"ONE9 Travel Center #7937 Mcleansville, NC",Mcleansville,NC,2025-12-10,13,3,False,1,49.65,49.65,120.0,11.16,11.16
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,2025-12-04,12,4,False,1,46.81,46.81,90.0,9.44,9.44
+461757,Dutch Bros Coffee,Sacramento,CA,2025-12-06,5,6,True,1,57.41,57.41,120.0,15.23,15.23
+460207,"Thorntons #701 - Largo, FL",Largo,FL,2025-12-05,11,5,False,1,15.77,15.77,90.0,7.05,7.05
+460632,Parsons Chevy - Eagle River,Eagle River,WI,2025-12-09,19,2,False,1,16.53,16.53,90.0,6.5,6.5
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-04,20,4,False,1,46.38,46.38,60.0,9.54,9.54
+460505,Mass General Brigham Healthcare Center,Dover,NH,2025-12-07,11,0,True,1,13.31,13.31,60.0,5.5,5.5
+460331,"Pilot Travel Center #474 Sutton, WV",Sutton,WV,2025-12-08,17,1,False,1,45.19,45.19,60.0,20.48,20.48
+470357,FastTrack Market Marathon,Taylor,MI,2025-12-05,7,5,False,1,31.08,31.08,60.0,6.09,6.09
+460328,Ionna Concord Rechargery,Concord,NC,2025-12-05,14,5,False,1,39.05,39.05,120.0,4.6,4.6
+469746,"Pilot Travel Center #281 Girard, OH",Girard,OH,2025-12-04,9,4,False,1,21.95,21.95,60.0,3.25,3.25
+461166,Gladwin City Hall,Gladwin,MI,2025-12-04,11,4,False,1,69.15,69.15,120.0,28.29,28.29
+461156,Key GMC of Rochester,Rochester,New Hampshire,2025-12-08,5,1,False,1,17.42,17.42,90.0,8.21,8.21
+460208,"Thorntons #710 - Petersburg, FL",St. Petersburg,FL,2025-12-06,19,6,True,1,46.93,46.93,60.0,8.84,8.84
+460485,Safeway,Martinez,CA,2025-12-05,0,5,False,1,16.26,16.26,60.0,3.4,3.4
+462098,Wawa Supercharger,Staunton,VA,2025-12-09,7,2,False,2,225.68,112.84,165.0,82.39,41.195
+470113,Kwik-Charge #1205,Lake Delton,WI,2025-12-04,13,4,False,1,65.24,65.24,90.0,25.24,25.24
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,2025-12-10,16,3,False,1,56.07,56.07,90.0,13.3,13.3
+469253,Lenexa Justice Center,Lenexa,KS,2025-12-04,9,4,False,1,24.11,24.11,90.0,11.88,11.88
+460367,Santa Monica Station,Santa Monica,CA,2025-12-09,2,2,False,1,43.22,43.22,60.0,15.11,15.11
+460329,IONNA Seffner Rechargery,Seffner,FL,2025-12-07,15,0,True,1,18.44,18.44,45.0,9.27,9.27
+461541,Fox Kia South,Grand Rapids,michigan,2025-12-05,7,5,False,1,9.52,9.52,45.0,2.96,2.96
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-07,0,0,True,1,31.68,31.68,120.0,7.4,7.4
+462226,IONNA Raleigh Rechargery Relay,Raleigh,NC,2025-12-07,7,0,True,2,51.28,25.64,90.0,16.22,8.11
+461750,Speedy Q,New Baltimore,MI,2025-12-06,15,6,True,1,39.79,39.79,60.0,7.09,7.09
+460320,"Ionna - Daly City, CA",Daly City,CA,2025-12-07,23,0,True,1,93.13,93.13,120.0,16.02,16.02
+460504,Marketplace Foods,Minot,ND,2025-12-06,17,6,True,1,21.14,21.14,60.0,8.0,8.0
+470792,Fellows Creek Golf Club,Canton,MI,2025-12-06,2,6,True,1,14.33,14.33,120.0,4.79,4.79
+461275,Goodwill,St. Louis Park,MN,2025-12-09,9,2,False,1,44.98,44.98,60.0,21.87,21.87
+461554,The Bite Tumalo,Tumalo,OR,2025-12-05,16,5,False,1,15.44,15.44,90.0,3.11,3.11
+461548,"Pilot Travel Center #374 Marianna, FL",Marianna,FL,2025-12-05,19,5,False,1,46.11,46.11,60.0,22.66,22.66
+460322,Ionna Daytona Beach Rechargery Relay @Wawa,Daytona Beach,FL,2025-12-08,12,1,False,1,114.81,114.81,180.0,52.96,52.96
+470662,"Kittery Premium Outlets - Kittery, ME",Kittery,ME,2025-12-08,14,1,False,1,62.95,62.95,180.0,29.94,29.94
+460505,Mass General Brigham Healthcare Center,Dover,NH,2025-12-04,9,4,False,2,149.9,74.95,120.0,66.21,33.105
+460505,Mass General Brigham Healthcare Center,Dover,NH,2025-12-04,16,4,False,1,63.0,63.0,90.0,28.53,28.53
+462227,IONNA Middletown Rechargery Relay,Middletown,MD,2025-12-10,18,3,False,1,23.04,23.04,60.0,6.3,6.3
+460484,L2 near Ball&Chain,Miami,Florida,2025-12-07,10,0,True,1,190.86,190.86,240.0,87.08,87.08
+462269,Ionna Rechargery,Roseville,CA,2025-12-08,13,1,False,1,24.71,24.71,60.0,13.32,13.32
+469743,"Pilot Travel Center #4642 Toms Brook, VA",Toms Brook,VA,2025-12-09,18,2,False,1,33.64,33.64,45.0,6.26,6.26
+470792,Fellows Creek Golf Club,Canton,MI,2025-12-05,9,5,False,1,42.11,42.11,60.0,14.6,14.6
+461546,"Pilot Travel Center #1051 Iowa, LA",Iowa,LA,2025-12-04,12,4,False,1,7.84,7.84,45.0,1.17,1.17
+461155,Key Chrysler Dodge Jeep Ram,Rochester,New Hampshire,2025-12-09,13,2,False,1,7.46,7.46,45.0,5.39,5.39
+460329,IONNA Seffner Rechargery,Seffner,FL,2025-12-10,9,3,False,1,7.34,7.34,30.0,3.37,3.37
+469745,"Flying J Travel Center #875 Elkton, MD",Elkton,MD,2025-12-07,20,0,True,1,26.08,26.08,45.0,7.73,7.73
+461130,TownePlace Suites by Marriott Houston Northwest/Beltway 8,Houston,TX,2025-12-05,2,5,False,1,34.39,34.39,180.0,20.58,20.58
+461307,Fas Mart,Grand Haven,MI,2025-12-05,17,5,False,1,45.75,45.75,60.0,23.32,23.32
+462269,Ionna Rechargery,Roseville,CA,2025-12-04,14,4,False,1,34.44,34.44,60.0,13.12,13.12
+462227,IONNA Middletown Rechargery Relay,Middletown,MD,2025-12-07,20,0,True,1,26.22,26.22,180.0,9.43,9.43
+461733,Walmart,Checotah,OK,2025-12-06,18,6,True,1,86.32,86.32,120.0,33.07,33.07
+461511,Sleep Inn & Suites Monroe - Woodbury,Monroe,NY,2025-12-06,10,6,True,1,38.96,38.96,60.0,17.96,17.96
+460328,Ionna Concord Rechargery,Concord,NC,2025-12-09,21,2,False,1,21.78,21.78,120.0,7.01,7.01
+460430,Revel - South San Francisco,South San Francisco,CA,2025-12-08,21,1,False,1,41.4,41.4,90.0,19.32,19.32
+470652,"Starbucks - Phoenix, OR",Phoenix,OR,2025-12-09,17,2,False,1,35.65,35.65,90.0,14.1,14.1
+460949,"Flying J Travel Center #737 San Antonio, TX",San Antonio,TX,2025-12-05,4,5,False,1,11.47,11.47,60.0,2.07,2.07
+469752,"Ionna Carlin, NV Rechargery Relay @ Ridley’s Market",Carlin,NV,2025-12-05,20,5,False,1,23.43,23.43,120.0,4.65,4.65
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-08,10,1,False,1,19.97,19.97,60.0,2.87,2.87
+460331,"Pilot Travel Center #474 Sutton, WV",Sutton,WV,2025-12-04,8,4,False,1,37.65,37.65,90.0,10.88,10.88
+462228,IONNA Kutztown Rechargery @ Sheetz,Kutztown,PA,2025-12-06,11,6,True,1,43.36,43.36,60.0,24.15,24.15
+460368,"bp pulse - Duarte, CA",Duarte,CA,2025-12-07,8,0,True,1,19.6,19.6,120.0,3.1,3.1
+461547,"Pilot Travel Center #1047 Jacksonville, FL",Jacksonville,FL,2025-12-05,18,5,False,1,49.95,49.95,90.0,20.65,20.65
+461550,"Flying J Travel Center #706 Tulsa, OK",Tulsa,OK,2025-12-04,18,4,False,1,19.77,19.77,120.0,7.65,7.65
+469253,Lenexa Justice Center,Lenexa,KS,2025-12-05,17,5,False,2,164.25,82.125,105.0,56.93,28.465
+469807,OUC ReCharge EV Hub at OCCC,Orlando,FL,2025-12-04,2,4,False,1,107.28,107.28,180.0,26.68,26.68
+460606,Destination Charger,Columbia Falls,Montana,2025-12-04,14,4,False,2,156.08,78.04,112.5,24.77,12.385
+469374,Freewire Charging Station,Columbus,OH,2025-12-08,8,1,False,2,62.88,31.44,75.0,17.52,8.76
+460320,"Ionna - Daly City, CA",Daly City,CA,2025-12-09,6,2,False,1,122.99,122.99,180.0,33.49,33.49
+461553,Ventura County Credit Union,Ventura,CA,2025-12-06,17,6,True,1,31.98,31.98,90.0,7.73,7.73
+461156,Key GMC of Rochester,Rochester,New Hampshire,2025-12-04,15,4,False,1,59.54,59.54,120.0,27.99,27.99
+460673,Telsa Supercharger,Rogue River,Oregon,2025-12-10,8,3,False,1,55.22,55.22,120.0,12.07,12.07
+460969,EVgo - SF SOMA,San Francisco,CA,2025-12-05,10,5,False,1,12.86,12.86,90.0,4.9,4.9
+461511,Sleep Inn & Suites Monroe - Woodbury,Monroe,NY,2025-12-08,16,1,False,1,75.67,75.67,120.0,27.68,27.68
+469745,"Flying J Travel Center #875 Elkton, MD",Elkton,MD,2025-12-10,9,3,False,1,14.72,14.72,60.0,5.08,5.08
+461048,Mitra EV DCFC - Ford Commercial,Sacramento,CA,2025-12-09,18,2,False,1,26.62,26.62,45.0,13.05,13.05
+469253,Lenexa Justice Center,Lenexa,KS,2025-12-09,19,2,False,1,22.76,22.76,45.0,7.13,7.13
+461631,"Pilot Travel Center #1019 - Orland, CA",Orland,CA,2025-12-08,9,1,False,1,43.15,43.15,90.0,6.07,6.07
+460430,Revel - South San Francisco,South San Francisco,CA,2025-12-04,17,4,False,1,26.34,26.34,60.0,7.99,7.99
+461632,"Ionna - Willows, CA",Williows,CA,2025-12-04,11,4,False,1,55.8,55.8,180.0,19.3,19.3
+461166,Gladwin City Hall,Gladwin,MI,2025-12-05,19,5,False,1,28.18,28.18,90.0,13.26,13.26
+469743,"Pilot Travel Center #4642 Toms Brook, VA",Toms Brook,VA,2025-12-04,18,4,False,1,62.18,62.18,90.0,7.97,7.97
+460606,Destination Charger,Columbia Falls,Montana,2025-12-05,17,5,False,1,58.47,58.47,90.0,30.42,30.42
+460345,Central Co-op,Tacoma,WA,2025-12-05,4,5,False,1,29.06,29.06,120.0,12.9,12.9
+460969,EVgo - SF SOMA,San Francisco,CA,2025-12-10,17,3,False,1,25.34,25.34,60.0,9.9,9.9
+461631,"Pilot Travel Center #1019 - Orland, CA",Orland,CA,2025-12-04,1,4,False,1,31.44,31.44,60.0,3.97,3.97
+462269,Ionna Rechargery,Roseville,CA,2025-12-04,3,4,False,1,29.13,29.13,120.0,8.85,8.85
+461370,Miller Hill Super One,Duluth,MN,2025-12-06,9,6,True,1,82.3,82.3,180.0,16.11,16.11
+469399,Elkhorn Shopping Center,Sacramento,CA,2025-12-10,9,3,False,1,30.67,30.67,60.0,13.82,13.82
+462127,Kimco-charlotte,Charlotte,NC,2025-12-05,9,5,False,2,188.22,94.11,120.0,34.23,17.115
+460632,Parsons Chevy - Eagle River,Eagle River,WI,2025-12-04,8,4,False,1,41.01,41.01,60.0,20.1,20.1
+461756,"Laguna Blvd, Elk Grove, CA",Elk Grove,CA,2025-12-07,3,0,True,1,42.74,42.74,90.0,11.91,11.91
+460955,"Flying J Travel Center #572 Williams, IA",Williams,IA,2025-12-08,9,1,False,1,96.24,96.24,120.0,29.49,29.49
+461164,Clawson Shopping Center,Clawson,MI,2025-12-06,0,6,True,1,89.09,89.09,120.0,35.79,35.79
+461546,"Pilot Travel Center #1051 Iowa, LA",Iowa,LA,2025-12-08,18,1,False,1,38.48,38.48,60.0,9.3,9.3
+460708,Chargepoint,Scottsville,Kentucky,2025-12-07,11,0,True,1,123.67,123.67,180.0,16.57,16.57
+461628,Petro Corning #309,Corning,CA,2025-12-08,9,1,False,1,13.15,13.15,60.0,4.81,4.81
+461275,Goodwill,St. Louis Park,MN,2025-12-05,18,5,False,1,25.08,25.08,60.0,9.36,9.36
+460371,"Circle K - Yuma, AZ",Yuma,AZ,2025-12-10,4,3,False,1,37.29,37.29,60.0,5.98,5.98
+460318,EVgo,North Bend,Washington,2025-12-05,9,5,False,1,33.0,33.0,90.0,11.5,11.5
+460320,"Ionna - Daly City, CA",Daly City,CA,2025-12-10,0,3,False,1,12.76,12.76,60.0,3.2,3.2
+469252,Lenexa Old Town Activity Center,Lenexa,KS,2025-12-06,19,6,True,1,56.03,56.03,90.0,23.8,23.8
+460367,Santa Monica Station,Santa Monica,CA,2025-12-08,0,1,False,1,20.01,20.01,90.0,6.38,6.38
+461813,Culver's,Rhinelander,WI,2025-12-04,13,4,False,1,56.4,56.4,90.0,10.44,10.44
+470312,Safeway,Hercules,CA,2025-12-09,18,2,False,1,11.17,11.17,60.0,4.17,4.17
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-08,0,1,False,1,37.29,37.29,90.0,13.12,13.12
+460957,"Flying J Travel Center #489 Grand Forks, ND",Grand Forks,ND,2025-12-07,15,0,True,1,47.12,47.12,180.0,20.32,20.32
+460959,"Thorntons #327 - Bellwood, IL",Bellwood,IL,2025-12-10,2,3,False,1,38.85,38.85,90.0,7.7,7.7
+469499,Renewable Grid - Glen Cove Fast Charging,Glen Cove,NY,2025-12-06,9,6,True,1,86.47,86.47,120.0,14.83,14.83
+461155,Key Chrysler Dodge Jeep Ram,Rochester,New Hampshire,2025-12-06,23,6,True,1,18.3,18.3,120.0,3.42,3.42
+460953,"Flying J Travel Center #690 Lordsburg, NM",Lordsburg,NM,2025-12-04,20,4,False,1,7.27,7.27,30.0,3.33,3.33
+460570,Eastern Market Public Lot,Detroit,MI,2025-12-05,19,5,False,1,25.69,25.69,45.0,4.06,4.06
+461167,Pats Food Freeland,Freeland,MI,2025-12-04,11,4,False,1,34.44,34.44,90.0,12.62,12.62
+469611,Dennys,Seatac,WA,2025-12-06,8,6,True,1,47.37,47.37,60.0,20.87,20.87
+462225,IONNA Beaver Rechargery Relay,Beaver,UT,2025-12-07,5,0,True,1,82.43,82.43,120.0,24.84,24.84
+469253,Lenexa Justice Center,Lenexa,KS,2025-12-08,8,1,False,1,29.49,29.49,90.0,7.17,7.17
+461744,Sunset Pointe,Rocklin,CA,2025-12-05,13,5,False,1,47.86,47.86,60.0,21.85,21.85
+469611,Dennys,Seatac,WA,2025-12-06,19,6,True,1,27.32,27.32,120.0,5.76,5.76
+460323,Ionna - OKC,Oklahoma City,OK,2025-12-08,7,1,False,2,110.34,55.17,105.0,40.18,20.09
+461251,Sunshine Gardens,South San Francisco,CA,2025-12-08,12,1,False,1,13.57,13.57,90.0,4.77,4.77
+461048,Mitra EV DCFC - Ford Commercial,Sacramento,CA,2025-12-10,1,3,False,1,11.2,11.2,90.0,4.01,4.01
+470314,EVolve NY Afton,Afton,NY,2025-12-04,7,4,False,2,198.46,99.23,210.0,61.16,30.58
+460671,FPL,Pensacola,Florida,2025-12-07,7,0,True,1,30.15,30.15,90.0,5.28,5.28
+469401,Dutch Bros,Sacramento,CA,2025-12-08,9,1,False,1,22.15,22.15,60.0,9.53,9.53
+470312,Safeway,Hercules,CA,2025-12-06,17,6,True,1,40.82,40.82,60.0,9.87,9.87
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-09,17,2,False,1,41.27,41.27,90.0,6.58,6.58
+462226,IONNA Raleigh Rechargery Relay,Raleigh,NC,2025-12-06,17,6,True,1,66.24,66.24,90.0,13.46,13.46
+461171,Hamilton CNG Filling Station,Hamilton,OH,2025-12-08,7,1,False,1,82.5,82.5,120.0,22.14,22.14
+460331,"Pilot Travel Center #474 Sutton, WV",Sutton,WV,2025-12-07,9,0,True,1,146.5,146.5,180.0,35.28,35.28
+469743,"Pilot Travel Center #4642 Toms Brook, VA",Toms Brook,VA,2025-12-06,3,6,True,1,82.54,82.54,120.0,18.84,18.84
+460322,Ionna Daytona Beach Rechargery Relay @Wawa,Daytona Beach,FL,2025-12-04,12,4,False,1,28.52,28.52,120.0,3.98,3.98
+461307,Fas Mart,Grand Haven,MI,2025-12-08,18,1,False,1,32.03,32.03,90.0,4.53,4.53
+469455,Polaris Bergland Township,Bergland,MI,2025-12-05,8,5,False,1,50.45,50.45,90.0,15.93,15.93
+461733,Walmart,Checotah,OK,2025-12-09,11,2,False,1,9.23,9.23,60.0,5.01,5.01
+461166,Gladwin City Hall,Gladwin,MI,2025-12-04,15,4,False,1,8.11,8.11,45.0,1.99,1.99
+461554,The Bite Tumalo,Tumalo,OR,2025-12-04,6,4,False,1,33.72,33.72,60.0,13.44,13.44
+461511,Sleep Inn & Suites Monroe - Woodbury,Monroe,NY,2025-12-05,19,5,False,1,11.88,11.88,60.0,4.21,4.21
+461554,The Bite Tumalo,Tumalo,OR,2025-12-07,4,0,True,1,58.39,58.39,120.0,11.75,11.75
+469752,"Ionna Carlin, NV Rechargery Relay @ Ridley’s Market",Carlin,NV,2025-12-07,21,0,True,1,53.78,53.78,120.0,7.36,7.36
+470651,"Starbucks - Ridgefield, WA",Ridgefield,WA,2025-12-05,8,5,False,1,33.99,33.99,90.0,11.72,11.72
+460328,Ionna Concord Rechargery,Concord,NC,2025-12-04,8,4,False,1,14.26,14.26,60.0,5.85,5.85
+469748,Ionna Largo Rechargery @ Wawa,Largo,FL,2025-12-08,13,1,False,1,60.62,60.62,90.0,8.97,8.97
+470792,Fellows Creek Golf Club,Canton,MI,2025-12-08,16,1,False,1,12.47,12.47,45.0,6.19,6.19
+460955,"Flying J Travel Center #572 Williams, IA",Williams,IA,2025-12-08,17,1,False,2,93.17,46.585,75.0,36.67,18.335
+461370,Miller Hill Super One,Duluth,MN,2025-12-10,18,3,False,2,98.67,49.335,75.0,42.02,21.01
+460210,"Pilot Travel Center #222 Sturbridge, MA",Sturbridge,FL,2025-12-08,17,1,False,1,42.17,42.17,120.0,13.92,13.92
+460571,Exxon Utica,Utica,MI,2025-12-08,18,1,False,1,45.6,45.6,90.0,16.67,16.67
+470357,FastTrack Market Marathon,Taylor,MI,2025-12-08,9,1,False,1,21.99,21.99,60.0,3.34,3.34
+460959,"Thorntons #327 - Bellwood, IL",Bellwood,IL,2025-12-04,15,4,False,1,5.96,5.96,45.0,2.43,2.43
+461164,Clawson Shopping Center,Clawson,MI,2025-12-06,7,6,True,1,71.81,71.81,90.0,37.02,37.02
+460504,Marketplace Foods,Minot,ND,2025-12-06,13,6,True,1,13.99,13.99,60.0,9.5,9.5
+461048,Mitra EV DCFC - Ford Commercial,Sacramento,CA,2025-12-08,18,1,False,1,25.01,25.01,60.0,11.08,11.08
+469748,Ionna Largo Rechargery @ Wawa,Largo,FL,2025-12-06,12,6,True,1,45.19,45.19,60.0,16.24,16.24
+461541,Fox Kia South,Grand Rapids,michigan,2025-12-09,8,2,False,1,192.33,192.33,240.0,94.64,94.64
+460673,Telsa Supercharger,Rogue River,Oregon,2025-12-06,14,6,True,1,32.51,32.51,60.0,7.35,7.35
+460956,"Pilot Travel Center #368 Decatur, IL",Decatur,IL,2025-12-10,11,3,False,1,27.38,27.38,60.0,13.81,13.81
+460263,Rivian Adventure Network,St. Regis,Montana,2025-12-09,18,2,False,1,47.71,47.71,90.0,20.5,20.5
+469749,"Ionna Reading, MA Rechargery Relay",Reading,MA,2025-12-10,18,3,False,2,64.25,32.125,45.0,15.74,7.87
+460367,Santa Monica Station,Santa Monica,CA,2025-12-06,13,6,True,1,53.64,53.64,120.0,19.14,19.14
+461629,In-N-Out Burger - Redding,Redding,CA,2025-12-08,17,1,False,1,46.44,46.44,120.0,11.43,11.43
+460322,Ionna Daytona Beach Rechargery Relay @Wawa,Daytona Beach,FL,2025-12-06,19,6,True,2,214.84,107.42,150.0,30.45,15.225
+469743,"Pilot Travel Center #4642 Toms Brook, VA",Toms Brook,VA,2025-12-09,17,2,False,1,10.28,10.28,45.0,9.18,9.18
+461511,Sleep Inn & Suites Monroe - Woodbury,Monroe,NY,2025-12-04,19,4,False,2,155.61,77.805,120.0,27.32,13.66
+461547,"Pilot Travel Center #1047 Jacksonville, FL",Jacksonville,FL,2025-12-10,17,3,False,1,18.18,18.18,30.0,4.27,4.27
+460969,EVgo - SF SOMA,San Francisco,CA,2025-12-05,11,5,False,1,42.71,42.71,60.0,5.74,5.74
+469749,"Ionna Reading, MA Rechargery Relay",Reading,MA,2025-12-09,17,2,False,1,27.07,27.07,60.0,9.66,9.66
+461157,University Place Library,University Place,Washington,2025-12-07,9,0,True,1,81.6,81.6,180.0,33.4,33.4
+461628,Petro Corning #309,Corning,CA,2025-12-06,7,6,True,2,112.82,56.41,75.0,52.83,26.415
+461251,Sunshine Gardens,South San Francisco,CA,2025-12-06,2,6,True,1,10.46,10.46,60.0,5.05,5.05
+469807,OUC ReCharge EV Hub at OCCC,Orlando,FL,2025-12-05,18,5,False,1,18.67,18.67,90.0,5.0,5.0
+461050,Mitra EV DCFC - Sierra Pacific,Rancho Cordova,CA,2025-12-07,2,0,True,1,39.99,39.99,60.0,16.36,16.36
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-09,16,2,False,1,20.3,20.3,45.0,4.01,4.01
+460320,"Ionna - Daly City, CA",Daly City,CA,2025-12-09,11,2,False,1,47.37,47.37,120.0,22.63,22.63
+461627,"T/A Travel Center #0057 - Redding, CA",Redding,CA,2025-12-06,12,6,True,1,20.55,20.55,60.0,10.61,10.61
+460328,Ionna Concord Rechargery,Concord,NC,2025-12-10,12,3,False,1,44.53,44.53,60.0,24.49,24.49
+469807,OUC ReCharge EV Hub at OCCC,Orlando,FL,2025-12-08,11,1,False,1,44.22,44.22,60.0,4.98,4.98
+461171,Hamilton CNG Filling Station,Hamilton,OH,2025-12-07,21,0,True,1,39.06,39.06,60.0,12.88,12.88
+462226,IONNA Raleigh Rechargery Relay,Raleigh,NC,2025-12-09,17,2,False,1,5.78,5.78,45.0,1.6,1.6
+461541,Fox Kia South,Grand Rapids,michigan,2025-12-05,9,5,False,2,221.58,110.79,150.0,68.72,34.36
+462226,IONNA Raleigh Rechargery Relay,Raleigh,NC,2025-12-09,9,2,False,1,48.64,48.64,180.0,17.06,17.06
+461549,"ONE9 Travel Center #7937 Mcleansville, NC",Mcleansville,NC,2025-12-04,14,4,False,1,75.04,75.04,120.0,28.33,28.33
+470113,Kwik-Charge #1205,Lake Delton,WI,2025-12-07,19,0,True,1,30.47,30.47,120.0,12.4,12.4
+460322,Ionna Daytona Beach Rechargery Relay @Wawa,Daytona Beach,FL,2025-12-04,18,4,False,1,38.64,38.64,60.0,11.41,11.41
+461307,Fas Mart,Grand Haven,MI,2025-12-10,19,3,False,1,98.76,98.76,120.0,19.81,19.81
+470792,Fellows Creek Golf Club,Canton,MI,2025-12-10,18,3,False,1,17.99,17.99,60.0,3.76,3.76
+470792,Fellows Creek Golf Club,Canton,MI,2025-12-05,20,5,False,1,120.64,120.64,180.0,37.38,37.38
+461130,TownePlace Suites by Marriott Houston Northwest/Beltway 8,Houston,TX,2025-12-10,11,3,False,1,10.99,10.99,30.0,5.47,5.47
+461164,Clawson Shopping Center,Clawson,MI,2025-12-08,4,1,False,1,90.36,90.36,180.0,21.6,21.6
+461155,Key Chrysler Dodge Jeep Ram,Rochester,New Hampshire,2025-12-09,23,2,False,1,58.82,58.82,90.0,18.43,18.43
+461629,In-N-Out Burger - Redding,Redding,CA,2025-12-04,18,4,False,1,70.68,70.68,90.0,23.04,23.04
+460571,Exxon Utica,Utica,MI,2025-12-09,19,2,False,1,52.11,52.11,90.0,24.98,24.98
+460955,"Flying J Travel Center #572 Williams, IA",Williams,IA,2025-12-05,0,5,False,1,54.56,54.56,240.0,8.78,8.78
+461307,Fas Mart,Grand Haven,MI,2025-12-09,23,2,False,1,27.75,27.75,60.0,10.91,10.91
+469752,"Ionna Carlin, NV Rechargery Relay @ Ridley’s Market",Carlin,NV,2025-12-06,5,6,True,2,77.91,38.955,90.0,31.56,15.78
+460484,L2 near Ball&Chain,Miami,Florida,2025-12-08,12,1,False,1,16.9,16.9,60.0,3.56,3.56
+460213,"IKEA - Norfolk, VA",Norfolk,VA,2025-12-06,14,6,True,1,86.51,86.51,180.0,30.38,30.38
+461251,Sunshine Gardens,South San Francisco,CA,2025-12-08,2,1,False,1,47.55,47.55,90.0,6.9,6.9
+461631,"Pilot Travel Center #1019 - Orland, CA",Orland,CA,2025-12-09,2,2,False,1,38.54,38.54,90.0,9.16,9.16
+460953,"Flying J Travel Center #690 Lordsburg, NM",Lordsburg,NM,2025-12-04,7,4,False,1,15.1,15.1,30.0,6.18,6.18
+461547,"Pilot Travel Center #1047 Jacksonville, FL",Jacksonville,FL,2025-12-07,19,0,True,1,30.98,30.98,90.0,4.79,4.79
+461750,Speedy Q,New Baltimore,MI,2025-12-05,13,5,False,1,29.41,29.41,60.0,8.63,8.63
+460606,Destination Charger,Columbia Falls,Montana,2025-12-05,19,5,False,1,44.62,44.62,60.0,19.81,19.81
+469499,Renewable Grid - Glen Cove Fast Charging,Glen Cove,NY,2025-12-06,15,6,True,1,48.83,48.83,180.0,8.75,8.75
+470792,Fellows Creek Golf Club,Canton,MI,2025-12-09,1,2,False,1,46.6,46.6,60.0,9.31,9.31
+460384,Mendocino Marketplace,Santa Rosa,CA,2025-12-05,8,5,False,1,27.93,27.93,60.0,4.75,4.75
+460321,IONNA - Gilman Rechargery Relay,Gilman,IL,2025-12-05,19,5,False,1,17.86,17.86,60.0,8.86,8.86
+460367,Santa Monica Station,Santa Monica,CA,2025-12-07,18,0,True,1,33.88,33.88,45.0,10.62,10.62
+460384,Mendocino Marketplace,Santa Rosa,CA,2025-12-10,9,3,False,1,111.7,111.7,180.0,28.51,28.51
+469745,"Flying J Travel Center #875 Elkton, MD",Elkton,MD,2025-12-09,12,2,False,1,38.89,38.89,60.0,8.93,8.93
+460328,Ionna Concord Rechargery,Concord,NC,2025-12-09,16,2,False,1,38.57,38.57,120.0,18.62,18.62
+461756,"Laguna Blvd, Elk Grove, CA",Elk Grove,CA,2025-12-05,10,5,False,1,20.73,20.73,60.0,9.82,9.82
+462225,IONNA Beaver Rechargery Relay,Beaver,UT,2025-12-04,10,4,False,1,43.38,43.38,120.0,21.64,21.64
+461541,Fox Kia South,Grand Rapids,michigan,2025-12-09,7,2,False,1,73.93,73.93,120.0,16.9,16.9
+462228,IONNA Kutztown Rechargery @ Sheetz,Kutztown,PA,2025-12-04,19,4,False,1,17.89,17.89,60.0,2.11,2.11
+469403,1122 Frankford grand,fishtown,PA,2025-12-08,21,1,False,1,40.15,40.15,60.0,6.66,6.66
+461073,Fairfield by Marriott Inn & Suites Houston Brookhollow,Houston,TX,2025-12-09,17,2,False,1,69.76,69.76,90.0,37.7,37.7
+470357,FastTrack Market Marathon,Taylor,MI,2025-12-06,11,6,True,1,41.21,41.21,90.0,14.91,14.91
+460956,"Pilot Travel Center #368 Decatur, IL",Decatur,IL,2025-12-09,15,2,False,1,44.3,44.3,60.0,21.07,21.07
+461050,Mitra EV DCFC - Sierra Pacific,Rancho Cordova,CA,2025-12-08,0,1,False,1,14.85,14.85,60.0,5.1,5.1
+461252,D & 3rd Street Curbside,West Sacramento,CA,2025-12-08,9,1,False,1,44.15,44.15,90.0,12.81,12.81
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-07,21,0,True,1,72.1,72.1,120.0,26.79,26.79
+460506,Wentworth-Douglass Hospital,Dover,NH,2025-12-04,19,4,False,1,52.49,52.49,90.0,24.22,24.22
+469374,Freewire Charging Station,Columbus,OH,2025-12-08,19,1,False,1,65.87,65.87,120.0,9.95,9.95
+469455,Polaris Bergland Township,Bergland,MI,2025-12-04,13,4,False,1,50.68,50.68,120.0,18.24,18.24
+469499,Renewable Grid - Glen Cove Fast Charging,Glen Cove,NY,2025-12-07,8,0,True,2,34.35,17.175,75.0,11.15,5.575
+461048,Mitra EV DCFC - Ford Commercial,Sacramento,CA,2025-12-05,18,5,False,1,20.47,20.47,45.0,9.52,9.52
+460484,L2 near Ball&Chain,Miami,Florida,2025-12-08,3,1,False,1,62.94,62.94,240.0,22.9,22.9
+461130,TownePlace Suites by Marriott Houston Northwest/Beltway 8,Houston,TX,2025-12-07,5,0,True,1,72.39,72.39,90.0,28.82,28.82
+461547,"Pilot Travel Center #1047 Jacksonville, FL",Jacksonville,FL,2025-12-10,3,3,False,1,14.66,14.66,90.0,4.42,4.42
+461546,"Pilot Travel Center #1051 Iowa, LA",Iowa,LA,2025-12-09,7,2,False,1,89.89,89.89,180.0,27.31,27.31
+469611,Dennys,Seatac,WA,2025-12-07,8,0,True,1,71.21,71.21,120.0,19.99,19.99
+461130,TownePlace Suites by Marriott Houston Northwest/Beltway 8,Houston,TX,2025-12-09,14,2,False,1,47.69,47.69,60.0,17.52,17.52
+460345,Central Co-op,Tacoma,WA,2025-12-09,10,2,False,1,35.2,35.2,180.0,10.8,10.8
+460506,Wentworth-Douglass Hospital,Dover,NH,2025-12-07,17,0,True,2,51.57,25.785,105.0,9.74,4.87
+461758,Bradville Square Shopping Center,Sacramento,CA,2025-12-07,23,0,True,1,31.12,31.12,120.0,12.26,12.26
+462098,Wawa Supercharger,Staunton,VA,2025-12-08,8,1,False,1,64.18,64.18,90.0,33.92,33.92
+461758,Bradville Square Shopping Center,Sacramento,CA,2025-12-10,15,3,False,1,18.87,18.87,30.0,6.35,6.35
+461166,Gladwin City Hall,Gladwin,MI,2025-12-07,12,0,True,1,84.1,84.1,120.0,40.67,40.67
+461275,Goodwill,St. Louis Park,MN,2025-12-08,12,1,False,1,42.7,42.7,120.0,19.52,19.52
+470276,"New Albany Light, Gas, and Water",New Albany,MS,2025-12-08,4,1,False,1,13.79,13.79,90.0,10.35,10.35
+470357,FastTrack Market Marathon,Taylor,MI,2025-12-09,12,2,False,1,39.45,39.45,60.0,6.03,6.03
+461813,Culver's,Rhinelander,WI,2025-12-07,22,0,True,1,31.33,31.33,90.0,4.44,4.44
+460331,"Pilot Travel Center #474 Sutton, WV",Sutton,WV,2025-12-10,17,3,False,1,20.44,20.44,45.0,4.73,4.73
+461756,"Laguna Blvd, Elk Grove, CA",Elk Grove,CA,2025-12-04,10,4,False,1,40.33,40.33,60.0,13.8,13.8
+469253,Lenexa Justice Center,Lenexa,KS,2025-12-06,23,6,True,1,11.91,11.91,60.0,5.1,5.1
+461165,Heilmann Community Center,Detroit,MI,2025-12-07,22,0,True,1,23.43,23.43,120.0,3.48,3.48
+460959,"Thorntons #327 - Bellwood, IL",Bellwood,IL,2025-12-09,5,2,False,1,10.54,10.54,60.0,1.79,1.79
+461548,"Pilot Travel Center #374 Marianna, FL",Marianna,FL,2025-12-07,3,0,True,1,11.38,11.38,60.0,6.14,6.14
+470314,EVolve NY Afton,Afton,NY,2025-12-07,17,0,True,1,121.02,121.02,180.0,27.31,27.31
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-09,15,2,False,1,118.26,118.26,180.0,21.16,21.16
+461628,Petro Corning #309,Corning,CA,2025-12-04,14,4,False,1,31.67,31.67,60.0,11.96,11.96
+461629,In-N-Out Burger - Redding,Redding,CA,2025-12-05,9,5,False,2,47.79,23.895,90.0,17.62,8.81
+461549,"ONE9 Travel Center #7937 Mcleansville, NC",Mcleansville,NC,2025-12-10,21,3,False,1,89.19,89.19,180.0,37.87,37.87
+462111,Shell - Novi,Novi,MI,2025-12-07,15,0,True,1,30.78,30.78,60.0,10.21,10.21
+460504,Marketplace Foods,Minot,ND,2025-12-08,19,1,False,1,29.09,29.09,60.0,12.82,12.82
+460708,Chargepoint,Scottsville,Kentucky,2025-12-06,15,6,True,1,47.35,47.35,60.0,12.93,12.93
+460211,"Flying J Travel Center #716 Sioux Falls, SD",Sioux Falls,SD,2025-12-09,1,2,False,1,31.75,31.75,60.0,7.36,7.36
+461307,Fas Mart,Grand Haven,MI,2025-12-04,7,4,False,1,78.93,78.93,120.0,33.66,33.66
+461164,Clawson Shopping Center,Clawson,MI,2025-12-10,18,3,False,1,26.57,26.57,90.0,13.2,13.2
+469749,"Ionna Reading, MA Rechargery Relay",Reading,MA,2025-12-10,9,3,False,1,110.88,110.88,240.0,27.46,27.46
+469612,"Dennys - Auburn, WA",Auburn,WA,2025-12-04,14,4,False,1,29.74,29.74,90.0,4.63,4.63
+469399,Elkhorn Shopping Center,Sacramento,CA,2025-12-08,2,1,False,1,49.44,49.44,60.0,12.07,12.07
+460367,Santa Monica Station,Santa Monica,CA,2025-12-05,9,5,False,1,41.15,41.15,120.0,19.58,19.58
+460953,"Flying J Travel Center #690 Lordsburg, NM",Lordsburg,NM,2025-12-06,17,6,True,2,185.8,92.9,120.0,40.94,20.47
+460328,Ionna Concord Rechargery,Concord,NC,2025-12-08,10,1,False,1,73.09,73.09,90.0,35.21,35.21
+460201,Krazyfish Grille,Port St Joe,Florida,2025-12-10,7,3,False,1,21.93,21.93,60.0,7.13,7.13
+460345,Central Co-op,Tacoma,WA,2025-12-05,13,5,False,1,35.5,35.5,90.0,7.94,7.94
+461632,"Ionna - Willows, CA",Williows,CA,2025-12-07,12,0,True,1,56.97,56.97,90.0,12.35,12.35
+460368,"bp pulse - Duarte, CA",Duarte,CA,2025-12-09,16,2,False,1,16.52,16.52,45.0,6.76,6.76
+461553,Ventura County Credit Union,Ventura,CA,2025-12-05,18,5,False,1,38.19,38.19,60.0,12.4,12.4
+469253,Lenexa Justice Center,Lenexa,KS,2025-12-08,16,1,False,1,33.89,33.89,120.0,4.58,4.58
+461166,Gladwin City Hall,Gladwin,MI,2025-12-09,19,2,False,1,14.16,14.16,45.0,4.74,4.74
+460215,Tri-City Shopping Center,Redlands,CA,2025-12-07,17,0,True,1,16.13,16.13,60.0,4.42,4.42
+470113,Kwik-Charge #1205,Lake Delton,WI,2025-12-09,10,2,False,1,32.27,32.27,45.0,8.94,8.94
+461156,Key GMC of Rochester,Rochester,New Hampshire,2025-12-10,20,3,False,1,18.05,18.05,60.0,3.6,3.6
+460212,"Ikea - Emeryville, CA",Emeryville,CA,2025-12-09,10,2,False,1,14.86,14.86,45.0,6.62,6.62
+460959,"Thorntons #327 - Bellwood, IL",Bellwood,IL,2025-12-05,10,5,False,1,46.58,46.58,90.0,23.19,23.19
+460429,Ruby's Inn General Store - Tesla Supercharger,Bryce Canyon City,Utah,2025-12-10,16,3,False,1,21.88,21.88,120.0,6.9,6.9
+461170,Hamilton Market St,Hamilton,OH,2025-12-04,2,4,False,2,148.61,74.305,120.0,33.43,16.715
+470652,"Starbucks - Phoenix, OR",Phoenix,OR,2025-12-05,7,5,False,1,25.18,25.18,60.0,3.92,3.92
+462225,IONNA Beaver Rechargery Relay,Beaver,UT,2025-12-09,16,2,False,1,45.53,45.53,60.0,18.59,18.59
